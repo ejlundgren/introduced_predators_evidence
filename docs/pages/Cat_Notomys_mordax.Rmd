@@ -10,14 +10,7 @@ h1, h2, h3 {
 ## **Darling Downs hopping mouse**
 ### *Notomys mordax*
 
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
-
-::: {}
-
-IUCN Status: **Extinct**
-
-Last seen: *Notomys mordax were last seen in 1845 (+- 5 years) in Darling Downs, QLD*
-:::
+:::: {style="display: flex;"}
 
 ::: {}
   ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
@@ -25,7 +18,25 @@ Last seen: *Notomys mordax were last seen in 1845 (+- 5 years) in Darling Downs,
   ```
 :::
 
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Notomys mordax.png")
+  ```
+:::
+
 ::::
+
+<center>
+IUCN Status: **Extinct**
+
+Last Seen: *Notomys mordax were last seen in 1845 (+- 5 years) in Darling Downs, QLD*
+
+</center>
+
 
 ### Studies in support
 

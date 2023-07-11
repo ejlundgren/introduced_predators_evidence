@@ -10,14 +10,7 @@ h1, h2, h3 {
 ## **White-footed rabbit rat**
 ### *Conilurus albipes*
 
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
-
-::: {}
-
-IUCN Status: **Extinct**
-
-Last seen: *Conilurus albipes were last seen in 1862 in Victoria*
-:::
+:::: {style="display: flex;"}
 
 ::: {}
   ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
@@ -25,7 +18,25 @@ Last seen: *Conilurus albipes were last seen in 1862 in Victoria*
   ```
 :::
 
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Conilurus albipes.png")
+  ```
+:::
+
 ::::
+
+<center>
+IUCN Status: **Extinct**
+
+Last Seen: *Conilurus albipes were last seen in 1862 in Victoria*
+
+</center>
+
 
 ### Studies in support
 

@@ -10,14 +10,7 @@ h1, h2, h3 {
 ## **Long-eared mouse**
 ### *Pseudomys auritus*
 
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
-
-::: {}
-
-IUCN Status: **Extinct**
-
-Last seen: *Pseudomys auritus were last seen in 1850 (approximate) in Coorong through south-eastern SA to south-western Victoria*
-:::
+:::: {style="display: flex;"}
 
 ::: {}
   ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
@@ -25,7 +18,25 @@ Last seen: *Pseudomys auritus were last seen in 1850 (approximate) in Coorong th
   ```
 :::
 
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Pseudomys auritus.png")
+  ```
+:::
+
 ::::
+
+<center>
+IUCN Status: **Extinct**
+
+Last Seen: *Pseudomys auritus were last seen in 1850 (approximate) in Coorong through south-eastern SA to south-western Victoria*
+
+</center>
+
 
 ### Studies in support
 

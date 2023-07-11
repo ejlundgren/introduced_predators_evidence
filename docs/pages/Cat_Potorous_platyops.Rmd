@@ -10,14 +10,7 @@ h1, h2, h3 {
 ## **Broad-faced potoroo**
 ### *Potorous platyops*
 
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
-
-::: {}
-
-IUCN Status: **Extinct**
-
-Last seen: *Potorous platyops were last seen in 1875 in South Western Australia*
-:::
+:::: {style="display: flex;"}
 
 ::: {}
   ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
@@ -25,7 +18,25 @@ Last seen: *Potorous platyops were last seen in 1875 in South Western Australia*
   ```
 :::
 
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Potorous platyops.png")
+  ```
+:::
+
 ::::
+
+<center>
+IUCN Status: **Extinct**
+
+Last Seen: *Potorous platyops were last seen in 1875 in South Western Australia*
+
+</center>
+
 
 ### Studies in support
 

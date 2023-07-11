@@ -10,14 +10,7 @@ h1, h2, h3 {
 ## **Blue-gray mouse**
 ### *Pseudomys glaucus*
 
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
-
-::: {}
-
-IUCN Status: **Extinct**
-
-Last seen: *Pseudomys glaucus were last seen in 1956 in ‘between Burren and Walgett’ in northern New South Wales*
-:::
+:::: {style="display: flex;"}
 
 ::: {}
   ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
@@ -25,7 +18,25 @@ Last seen: *Pseudomys glaucus were last seen in 1956 in ‘between Burren and Wa
   ```
 :::
 
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Fox_Pseudomys glaucus.png")
+  ```
+:::
+
 ::::
+
+<center>
+IUCN Status: **Extinct**
+
+Last Seen: *Pseudomys glaucus were last seen in 1956 in ‘between Burren and Walgett’ in northern New South Wales*
+
+</center>
+
 
 ### Studies in support
 

@@ -10,14 +10,7 @@ h1, h2, h3 {
 ## **Desert rat kangaroo**
 ### *Caloprymnus campestris*
 
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
-
-::: {}
-
-IUCN Status: **Extinct**
-
-Last seen: *Caloprymnus campestris were last seen in 1935 in Ooroowilanie, east of Lake Eyre*
-:::
+:::: {style="display: flex;"}
 
 ::: {}
   ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
@@ -25,7 +18,25 @@ Last seen: *Caloprymnus campestris were last seen in 1935 in Ooroowilanie, east 
   ```
 :::
 
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Fox_Caloprymnus campestris.png")
+  ```
+:::
+
 ::::
+
+<center>
+IUCN Status: **Extinct**
+
+Last Seen: *Caloprymnus campestris were last seen in 1935 in Ooroowilanie, east of Lake Eyre*
+
+</center>
+
 
 ### Studies in support
 
