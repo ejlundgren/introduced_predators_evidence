@@ -1,0 +1,62 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Western ringtail possum**
+### *Pseudocheirus occidentalis*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Pseudocheirus occidentalis.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Critically Endangered**
+
+EPBC Threat Rating: **Very high/Extreme**
+
+IUCN Claim: *Translocation experiments in the past and other data demonstrate that Red Foxes and feral Cats are major threats'*
+
+</center>
+
+### Studies in support
+
+Cats hunted 6 of 68 reintroduced possums (Clarke 2011).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies linking cats to Western ringtail possum populations.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Pseudocheirus occidentalis.png)
+
+### References
+
+Clarke, J. R. (2011). Translocation outcomes for the western ringtail possum (Pseudocheirus occidentalis) in the presence of the common brushtail possum (Trichosurus vulpecula): health, survivorship and habitat use. (Doctoral dissertation) Murdoch University, Western Australia.
+
+Wallach et al. 2023 In Submission
+

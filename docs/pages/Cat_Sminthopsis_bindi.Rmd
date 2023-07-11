@@ -1,0 +1,62 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Kakadu dunnart**
+### *Sminthopsis bindi*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Sminthopsis bindi.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Near Threatened**
+
+EPBC Threat Rating: **High/Very High**
+
+IUCN Claim: *Predation by feral cats may also be a threat.'*
+
+</center>
+
+### Studies in support
+
+Cats hunt dunnarts (Stokeld et al. 2016).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies linking cats to Kakadu dunnarts.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Sminthopsis bindi.png)
+
+### References
+
+Stokeld, Danielle, et al. "Experimental evaluation of the role of feral cat predation in the decline of small mammals in Kakadu National Park." NT Department of Land Resource Management, Berrimah (2016).
+
+Wallach et al. 2023 In Submission
+

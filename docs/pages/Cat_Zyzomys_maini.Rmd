@@ -1,0 +1,62 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Arnhem Land rock rat**
+### *Zyzomys maini*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Zyzomys maini.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Vulnerable**
+
+EPBC Threat Rating: **High/Very High**
+
+IUCN Claim: *Predation by feral cats may also be a threat.'*
+
+</center>
+
+### Studies in support
+
+Rock rats among small mammals negatively correlated with cat occupancy (Stobo-Wilson et al. 2020a).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+Cats have been documented among a range of ecological variables negatively correlated with Arnhem Land rock rats. Causality cannot be inferred due to confounding variables.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Zyzomys maini.png)
+
+### References
+
+Stobo-Wilson, A. M., et al. "Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics." Biological Conservation 247 (2020): 108638.
+
+Wallach et al. 2023 In Submission
+

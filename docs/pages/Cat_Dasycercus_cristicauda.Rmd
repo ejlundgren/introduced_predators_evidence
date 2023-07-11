@@ -1,0 +1,66 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Crest-tailed mulgara**
+### *Dasycercus cristicauda*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Dasycercus cristicauda.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Vulnerable**
+
+EPBC Threat Rating: **High**
+
+IUCN Claim: *Threats are poorly understood but include predation by and competition with feral cats and Red Foxes,'*
+
+</center>
+
+### Studies in support
+
+Mulgara were found in cat’s diet (Mahon 1999; Paltridge 2002; Vernes et al. 2021b); and mulgara were last confirmed 24 and 43 years after cats arrived in NSW and the Nullarbor, respectively (Wallach et al. 202X).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies linking cats to mulgara populations.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Dasycercus cristicauda.png)
+
+### References
+
+Paltridge, Rachel. "The diets of cats, foxes and dingoes in relation to prey availability in the Tanami Desert, Northern Territory." Wildlife Research 29.4 (2002): 389-403
+
+Vernes, Karl, et al. "Diets of mammalian carnivores in the deserts of north-eastern South Australia." Journal of Arid Environments 188 (2021): 104377.
+
+Mahon, P.S. (1999). Predation by feral cats and red foxes and the dynamics of small mammal populations in arid Australia. (PhD thesis, University of Sydney, Sydney).
+
+Wallach et al. 2023 In Submission
+

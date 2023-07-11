@@ -1,0 +1,62 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Gould's mouse**
+### *Pseudomys fieldi*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Fox_Pseudomys fieldi.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Vulnerable**
+
+EPBC Threat Rating: **Moderate**
+
+IUCN Claim: *Predation by feral Domestic Cats (Felis catus), Red Foxes (Vulpes vulpes) and Black Rats (Rattus rattus) could have severe to catastrophic effects if they establish on island. Feral Cats and Red Foxes have caused the extinction of medium-sized mammals on arid Australian islands'*
+
+</center>
+
+### Studies in support
+
+No studies
+
+### Studies not in support
+
+Mouse was last confirmed in NSW, NT, and south-west WA 22-86 years before foxes arrived (Wallach et al. 202X).
+
+### Is the threat claim evidence-based?
+
+There are no studies linking foxes to Gould's mice. In contradiction with the claim, extirpation records pre-date fox arrival records.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Fox_Pseudomys fieldi.png)
+
+### References
+
+
+
+Wallach et al. 2023 In Submission
+

@@ -1,0 +1,49 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Desert bettong**
+### *Bettongia anhydra*
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+::: {}
+
+IUCN Status: **Extinct**
+
+Last seen: *Bettongia anhydra were last seen in 1933 in McEwin Hills, Lake Mackay, western Northern Territory*
+:::
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::::
+
+### Studies in support
+
+Desert bettongs were last confirmed 11 years after foxes arrived (Wallach et al. 202X).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are on studies evidencing a link between foxes and the extinction of desert bettongs.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Fox_Bettongia anhydra.png)
+
+### References
+
+Wallach et al. 2023 In Submission
+

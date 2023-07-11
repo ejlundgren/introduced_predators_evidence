@@ -1,0 +1,66 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Brush-tailed rock-wallaby**
+### *Petrogale penicillata*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Fox_Petrogale penicillata.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Vulnerable**
+
+EPBC Threat Rating: **Very high**
+
+IUCN Claim: * Predation by introduced foxes'*
+
+</center>
+
+### Studies in support
+
+Wallaby remains were found in 1% of fox scats (Pascoe et al. 2012)and were found in another study (Sinclair 2020).
+
+### Studies not in support
+
+Wallaby remains were not found in fox scats where wallabies were common (Lunney et al. 1996).
+
+### Is the threat claim evidence-based?
+
+There are no studies linking foxes to brush-tailed rock-wallaby populations.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Fox_Petrogale penicillata.png)
+
+### References
+
+Pascoe, Jack H., et al. "Diet analysis of mammals, raptors and reptiles in a complex predator assemblage in the Blue Mountains, eastern Australia." Australian Journal of Zoology 59.5 (2012): 295-301.
+
+Sinclair, Robin. The diet of foxes in the Grampians (Gariwerd) National Park. Diss. Deakin University, 2020.
+
+Lunney, Daniel, Bradley Law, and Catherine Rummery. "Contrast between the visible abundance of the brush-tailed rock-wallaby, Petrogale penicillata, and its rarity in fox and dog scats in the gorges east of Armidale, New South Wales." Wildlife Research 23.3 (1996): 373-379.
+
+Wallach et al. 2023 In Submission
+

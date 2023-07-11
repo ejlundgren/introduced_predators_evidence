@@ -1,0 +1,66 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Plains rat**
+### *Pseudomys australis*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Pseudomys australis.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Vulnerable**
+
+EPBC Threat Rating: **Very high**
+
+IUCN Claim: * Recent research has demonstrated marked detrimental impact of introduced predators: Red Fox (Vulpes vulpes) and feral Domestic Cats (Felis catus)'*
+
+</center>
+
+### Studies in support
+
+Cats hunt rats (Pavey et al. 2008; Pavey et al. 2014)./Read & Cunningham (2010) described an occasion where more plains rats were captured inside than outside a fenced reserve where carnivores were excluded. Rats were last confirmed at Koonchera Dune, SA, 56 years after cats arrived (Wallach et al. 202X).
+
+### Studies not in support
+
+Rats were last confirmed in NSW 35 years before cats arrived (Table S2).
+
+### Is the threat claim evidence-based?
+
+There are no studies evidencing a negative association between cats and plains rats which report data. In contradiction with the claim, NSW extirpation record pre-dates cat arrival record, and the two species co-ocurred at one locale for over half-a-century.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Pseudomys australis.png)
+
+### References
+
+Read, John L., and Ross Cunningham. "Relative impacts of cattle grazing and feral animals on an Australian arid zone reptile and small mammal assemblage." Austral Ecology 35.3 (2010): 314-324
+
+Pavey CR, Cole JR, McDonald PJ, Nano CEM (2014) Population dynamics and spatial ecology of a declining desert rodent Pseudomys australis: the importance of refuges for persistence. J Mammal 95: 615–625
+
+Chris R. Pavey, Stephen R. Eldridge, Mike Heywood, Population Dynamics and Prey Selection of Native and Introduced Predators During a Rodent Outbreak in Arid Australia, Journal of Mammalogy, Volume 89, Issue 3, 5 June 2008, Pages 674–683, https://doi.org/10.1644/07-MAMM-A-168R.1
+
+Wallach et al. 2023 In Submission
+

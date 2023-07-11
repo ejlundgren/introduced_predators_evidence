@@ -1,0 +1,72 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Western quoll**
+### *Dasyurus geoffroii*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Dasyurus geoffroii.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Near Threatened**
+
+EPBC Threat Rating: **Moderate**
+
+IUCN Claim: *Predation by introduced Red Fox and feral Cat are the major threats.'*
+
+</center>
+
+### Studies in support
+
+Cats hunted quolls translocated to the Flinders Ranges, SA (Moseby et al. 2015; Moseby et al. 2021a; Moseby et al. 2021b). Cats also hunt locally-born quolls (Glen et al. 2010). Detection rate of quolls was higher after poison-baiting targeting cats, in four monitoring periods, but measures of cat abundance differed by method and association between cat and quoll abundance was unclear (Comer et al. 2020). Quoll abundance increased while cat abundance declined, but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017). Quolls were last confirmed 53 and 65 years after cats arrived in the Nullarbor and Eyre Peninsula, respectively (Wallach et al. 202X).
+
+### Studies not in support
+
+Intensive poison-baiting was associated with reduced cat abundance and reduced quoll abundance over time (Moseby et al. 2021a).
+
+### Is the threat claim evidence-based?
+
+There are no studies evidencing a negative association between cats and western quoll populations that has been tested statistically. Poison-baiting is not a reliable proxy of cat abundance.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Dasyurus geoffroii.png)
+
+### References
+
+Moseby, K. E., et al. "Intensive monitoring, the key to identifying cat predation as a major threat to native carnivore (Dasyurus geoffroii) reintroduction." Biodiversity and Conservation 30.5 (2021): 1547-1571
+
+Moseby, Katherine, et al. "The ecological costs and benefits of a feral cat poison‐baiting programme for protection of reintroduced populations of the western quoll and brushtail possum." Austral Ecology 46.8 (2021): 1366-1382.
+
+Moseby, K. E., D. E. Peacock, and J. L. Read. "Catastrophic cat predation: a call for predator profiling in wildlife protection programs." Biological Conservation 191 (2015): 331-340.
+
+Glen, A.S., Berry, O., Sutherland, D.R. et al. Forensic DNA confirms intraguild killing of a chuditch (Dasyurus geoffroii) by a feral cat (Felis catus). Conserv Genet 11, 1099–1101 (2010). https://doi.org/10.1007/s10592-009-9888-y
+
+Comer, S., et al. "Integrating feral cat (Felis catus) control into landscape-scale introduced predator management to improve conservation prospects for threatened fauna: a case study from the south coast of Western Australia." Wildlife Research 47.8 (2020): 762-778.
+
+Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
+
+Wallach et al. 2023 In Submission
+

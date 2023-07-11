@@ -1,0 +1,74 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Northern quoll**
+### *Dasyurus hallucatus*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Dasyurus hallucatus.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Endangered**
+
+EPBC Threat Rating: **High**
+
+IUCN Claim: *Predation by feral cats may also be a threat.'*
+
+</center>
+
+### Studies in support
+
+Stobo-Wilson et al. (2020a) reported lower quoll occupancy correlated with higher cat occupancy across Melville Island and north of Northern Territory mainland (Stobo-Wilson et al. 2020a). Palmer et al. (2021) reported a positive association between poison baiting targeting cats and quoll abundance, but no effect of poison baiting on cats was found, nor direct association between cats and quolls tested. Cats hunt quolls (Pollock 1999; Oakwood 2000; Peacock & Abbott 2014; Stokeld et al. 2018; Cowan et al. 2020).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+Cats are among a range of ecological variables negatively correlated with quoll abundance, but causality cannot be inferred due to confounding variables..
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Dasyurus hallucatus.png)
+
+### References
+
+Stobo-Wilson, A. M., et al. "Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics." Biological Conservation 247 (2020): 108638.
+
+Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historical hyperabundance in the quoll (Marsupialia: Dasyuridae) and an assessment of the role of disease, cats and foxes in its curtailment. Australian Journal of Zoology 62:294-344.
+
+A. B. Pollock, Notes on status, distribution and diet of northern quoll Dasyurus hallucatus in the Mackay-Bowen area, mideastern Queensland. Australian Zoologist. 31, 388–395 (1999).
+
+Palmer, Russell, et al. "Does aerial baiting for controlling feral cats in a heterogeneous landscape confer benefits to a threatened native meso-predator?." PloS one 16.5 (2021): e0251304
+
+Oakwood, M., 2000. Reproduction and demography of the northern quoll, Dasyurus hallucatus, in the lowland savanna of northern Australia. Australian Journal of Zoology, 48(5), pp.519-539.
+
+Cowan, M., et al. "Aerial baiting for feral cats is unlikely to affect survivorship of northern quolls in the Pilbara region of Western Australia." Wildlife Research 47.8 (2020): 589-598
+
+Stokeld D, Fisher A, Gentles T, Hill B, Triggs B, Woinarski JCZ, Gillespie GR. 2018. What do predator diets tell us about mammal declines in Kakadu National Park? Wildlife Research 45:92-101.
+
+Wallach et al. 2023 In Submission
+

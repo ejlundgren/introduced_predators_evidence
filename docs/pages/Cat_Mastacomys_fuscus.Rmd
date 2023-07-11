@@ -1,0 +1,62 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Broad-toothed mouse**
+### *Mastacomys fuscus*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Mastacomys fuscus.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Near Threatened**
+
+EPBC Threat Rating: **High**
+
+IUCN Claim: *The species is threatened by predation from introduced foxes (Vulpes vulpes) (Bubela and Happold 1993, Green 2002) and Domestic Cats (Felis catus) (L. Broome pers. comm., Milner et al. 2015).'*
+
+</center>
+
+### Studies in support
+
+Cats hunt broad-toothed mice (Doherty et al. 2015).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies linking cats to broad-toothed mouse populations.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Mastacomys fuscus.png)
+
+### References
+
+Doherty, Tim S., et al. "A continental‐scale analysis of feral cat diet in Australia." Journal of Biogeography 42.5 (2015): 964-975.
+
+Wallach et al. 2023 In Submission
+

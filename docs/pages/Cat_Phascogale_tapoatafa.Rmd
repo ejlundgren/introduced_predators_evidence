@@ -1,0 +1,64 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Brush-tailed phascogale**
+### *Phascogale tapoatafa*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Phascogale tapoatafa.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Near Threatened**
+
+EPBC Threat Rating: **High**
+
+IUCN Claim: *The greatest current threat is predation by feral cats'*
+
+</center>
+
+### Studies in support
+
+Cats hunted captive-bred reintroduced phascogales (Soderquist & Serena 1994).
+
+### Studies not in support
+
+Phascogale remained at low abundance as cat abundance declined, but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017).
+
+### Is the threat claim evidence-based?
+
+There are no studies linking cats to brush-tailed phascogale populations.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Phascogale tapoatafa.png)
+
+### References
+
+Soderquist TR, Serena M. 1994. An experimental reintroduction programme for brush-tailed phascogales (Phascogale tapoatafa): the interface between captivity and the wild. In: Olney PJS, Mace GM, Feistner ATC (eds). Creative Conservation. Springer, Dordrecht.
+
+Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
+
+Wallach et al. 2023 In Submission
+

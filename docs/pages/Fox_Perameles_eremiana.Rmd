@@ -1,0 +1,49 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Desert bandicoot**
+### *Perameles eremiana*
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+::: {}
+
+IUCN Status: **Extinct**
+
+Last seen: *Perameles eremiana were last seen in 1943 in Well 33, Canning Stock Route*
+:::
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::::
+
+### Studies in support
+
+Crescent nail-tail wallabies were last confirmed 16 years after foxes arrived (Wallach et al. 202X).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies evidencing a link between foxes and the extinction of desert bandicoots.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Fox_Perameles eremiana.png)
+
+### References
+
+Wallach et al. 2023 In Submission
+

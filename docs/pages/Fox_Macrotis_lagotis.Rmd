@@ -1,0 +1,66 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Bilby**
+### *Macrotis lagotis*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Fox_Macrotis lagotis.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Vulnerable**
+
+EPBC Threat Rating: **Extreme**
+
+IUCN Claim: *The major threat to the Bilby is predation by introduced red foxes and feral cats'*
+
+</center>
+
+### Studies in support
+
+About 70% of bilby extirpation records (36 populations) occured 1-53 years after foxes arrived and the timing of fox establishment correlates with bilby extirpation across the country (Abbott 2001, Wallach et al 202X). Fox probability of occurrence was a negative predictor of bilby occurrence, but model uncertainty was high (Southgate et al. 2007). Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011).
+
+### Studies not in support
+
+Sixteen bilby populations (~30% of records) were last recorded 0-13 years before foxes arrived (Abbott 2001, Wallach et al 202X). Bilbies were last recorded in the Murray-Darling about 20 years before fox arrival (Copley 1999). In one study foxes were not among the predators of reintroduced bilbies (Lohr et al. 2021).
+
+### Is the threat claim evidence-based?
+
+The evidence for a negative association between foxes and bilby populations is inconclusive due to high model uncertainty. A temporal correlation between extirpation and arrival does not prove causation since nearly a third pre-date fox arrival and confounding variables were not tested for.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Fox_Macrotis lagotis.png)
+
+### References
+
+Abbott, Ian. "The bilby Macrotis lagotis (Marsupialia: Peramelidae) in south-western Australia: original range limits, subsequent decline, and presumed regional extinction." RECORDS-WESTERN AUSTRALIAN MUSEUM 20.3 (2001): 271-306.
+
+Southgate, Richard, et al. "Bilby distribution and fire: a test of alternative models of habitat suitability in the Tanami Desert, Australia." Ecography 30.6 (2007): 759-776
+
+Lohr, Cheryl A., et al. "Reintroduction of Bilbies (Macrotis lagotis) to Matuwa, an Indigenous Protected Area in Western Australia." Rangeland Ecology & Management 78 (2021): 67-78.
+
+Wallach et al. 2023 In Submission
+

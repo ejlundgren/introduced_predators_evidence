@@ -1,0 +1,64 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Quokka**
+### *Setonix brachyurus*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Setonix brachyurus.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Vulnerable**
+
+EPBC Threat Rating: **N/A**
+
+IUCN Claim: * Predation by red foxes and possibly feral cats has led to a past decline of mainland populations.'*
+
+</center>
+
+### Studies in support
+
+Cats hunt quokkas (Hayward et al. 2005; Bain 2015).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies linking cats to quokka populations.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Setonix brachyurus.png)
+
+### References
+
+Hayward, Matt W., et al. "Mortality and survivorship of the quokka (Setonix brachyurus)(Macropodidae: Marsupialia) in the northern jarrah forest of Western Australia." Wildlife Research 32.8 (2005): 715-722
+
+Bain, Karlene Tracy. "The ecology of the quokka (Setonix brachyurus) in the southern forests of Western Australia." (2015).
+
+Wallach et al. 2023 In Submission
+

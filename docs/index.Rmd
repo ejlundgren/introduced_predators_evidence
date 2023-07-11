@@ -1,0 +1,296 @@
+---
+title: 'Species Accounts'
+output: html_document
+---
+
+#### Supplementary data for Wallach et al. 2023 In Submission
+Download systematic review [here](assets/data/Table S1.xlsx) and extinction timing [here](assets/data/Table S2 years since arrival.csv)
+
+::::{style="display: flex;"}
+:::{}
+### Accused on Foxes
+[Desert bettong (_Bettongia anhydra_)](pages/Fox_Bettongia_anhydra.html)
+ 
+[Eastern bettong (_Bettongia gaimardi_)](pages/Fox_Bettongia_gaimardi.html)
+ 
+[Burrowing bettong (_Bettongia lesueur_)](pages/Fox_Bettongia_lesueur.html)
+ 
+[Woylie (_Bettongia penicillata_)](pages/Fox_Bettongia_penicillata.html)
+ 
+[Mountain pygmy possum (_Burramys parvus_)](pages/Fox_Burramys_parvus.html)
+ 
+[Desert rat kangaroo (_Caloprymnus campestris_)](pages/Fox_Caloprymnus_campestris.html)
+ 
+[Southern pig-footed bandicoot (_Chaeropus ecaudatus_)](pages/Fox_Chaeropus_ecaudatus.html)
+ 
+[Crest-tailed mulgara (_Dasycercus cristicauda_)](pages/Fox_Dasycercus_cristicauda.html)
+ 
+[Kowari (_Dasyuroides byrnei_)](pages/Fox_Dasyuroides_byrnei.html)
+ 
+[Western quoll (_Dasyurus geoffroii_)](pages/Fox_Dasyurus_geoffroii.html)
+ 
+[Northern quoll (_Dasyurus hallucatus_)](pages/Fox_Dasyurus_hallucatus.html)
+ 
+[Tiger quoll (_Dasyurus maculatus_)](pages/Fox_Dasyurus_maculatus.html)
+ 
+[Eastern quoll (_Dasyurus viverrinus_)](pages/Fox_Dasyurus_viverrinus.html)
+ 
+[Golden bandicoot (_Isoodon auratus_)](pages/Fox_Isoodon_auratus.html)
+ 
+[Lake Mackay hare-wallaby (_Lagorchestes asomatus_)](pages/Fox_Lagorchestes_asomatus.html)
+ 
+[Rufous hare-wallaby (_Lagorchestes hirsutus_)](pages/Fox_Lagorchestes_hirsutus.html)
+ 
+[Banded hare-wallaby (_Lagostrophus fasciatus_)](pages/Fox_Lagostrophus_fasciatus.html)
+ 
+[Lesser stick-nest rat (_Leporillus apicalis_)](pages/Fox_Leporillus_apicalis.html)
+ 
+[Greater stick-nest rat (_Leporillus conditor_)](pages/Fox_Leporillus_conditor.html)
+ 
+[Parma wallaby (_Macropus parma_)](pages/Fox_Macropus_parma.html)
+ 
+[Bilby (_Macrotis lagotis_)](pages/Fox_Macrotis_lagotis.html)
+ 
+[Lesser bilby (_Macrotis leucura_)](pages/Fox_Macrotis_leucura.html)
+ 
+[Broad-toothed mouse (_Mastacomys fuscus_)](pages/Fox_Mastacomys_fuscus.html)
+ 
+[Numbat (_Myrmecobius fasciatus_)](pages/Fox_Myrmecobius_fasciatus.html)
+ 
+[Toolache wallaby (_Notamacropus greyi_)](pages/Fox_Notamacropus_greyi.html)
+ 
+[Short-tailed hopping mouse (_Notomys amplus_)](pages/Fox_Notomys_amplus.html)
+ 
+[Fawn hopping mouse (_Notomys cervinus_)](pages/Fox_Notomys_cervinus.html)
+ 
+[Dusky hopping mouse (_Notomys fuscus_)](pages/Fox_Notomys_fuscus.html)
+ 
+[Bridled nail-tail wallaby (_Onychogalea fraenata_)](pages/Fox_Onychogalea_fraenata.html)
+ 
+[Crescent nail-tail wallaby (_Onychogalea lunata_)](pages/Fox_Onychogalea_lunata.html)
+ 
+[Platypus (_Ornithorhynchus anatinus_)](pages/Fox_Ornithorhynchus_anatinus.html)
+ 
+[Dibbler (_Parantechinus apicalis_)](pages/Fox_Parantechinus_apicalis.html)
+ 
+[Western barred bandicoot (_Perameles bougainville_)](pages/Fox_Perameles_bougainville.html)
+ 
+[Desert bandicoot (_Perameles eremiana_)](pages/Fox_Perameles_eremiana.html)
+ 
+[Eastern barred bandicoot (_Perameles gunnii_)](pages/Fox_Perameles_gunnii.html)
+ 
+[Black-footed rock-wallaby (_Petrogale lateralis_)](pages/Fox_Petrogale_lateralis.html)
+ 
+[Brush-tailed rock-wallaby (_Petrogale penicillata_)](pages/Fox_Petrogale_penicillata.html)
+ 
+[Yellow-footed rock-wallaby (_Petrogale xanthopus_)](pages/Fox_Petrogale_xanthopus.html)
+ 
+[Red-tailed phascogale (_Phascogale calura_)](pages/Fox_Phascogale_calura.html)
+ 
+[Brush-tailed phascogale (_Phascogale tapoatafa_)](pages/Fox_Phascogale_tapoatafa.html)
+ 
+[Gilbert's potoroo (_Potorous gilbertii_)](pages/Fox_Potorous_gilbertii.html)
+ 
+[Long-footed potoroo (_Potorous longipes_)](pages/Fox_Potorous_longipes.html)
+ 
+[Long-nosed potoroo (_Potorous tridactylus_)](pages/Fox_Potorous_tridactylus.html)
+ 
+[Western ringtail possum (_Pseudocheirus occidentalis_)](pages/Fox_Pseudocheirus_occidentalis.html)
+ 
+[Plains rat (_Pseudomys australis_)](pages/Fox_Pseudomys_australis.html)
+ 
+[Gould's mouse (_Pseudomys fieldi_)](pages/Fox_Pseudomys_fieldi.html)
+ 
+[Smoky mouse (_Pseudomys fumeus_)](pages/Fox_Pseudomys_fumeus.html)
+ 
+[Blue-gray mouse (_Pseudomys glaucus_)](pages/Fox_Pseudomys_glaucus.html)
+ 
+[New Holland mouse (_Pseudomys novaehollandiae_)](pages/Fox_Pseudomys_novaehollandiae.html)
+ 
+[Western mouse (_Pseudomys occidentalis_)](pages/Fox_Pseudomys_occidentalis.html)
+ 
+[Hastings River mouse (_Pseudomys oralis_)](pages/Fox_Pseudomys_oralis.html)
+ 
+[Heath mouse (_Pseudomys shortridgei_)](pages/Fox_Pseudomys_shortridgei.html)
+ 
+[Quokka (_Setonix brachyurus_)](pages/Fox_Setonix_brachyurus.html)
+ 
+[Julia Creek dunnart (_Sminthopsis douglasi_)](pages/Fox_Sminthopsis_douglasi.html)
+ 
+[Sandhill dunnart (_Sminthopsis psammophila_)](pages/Fox_Sminthopsis_psammophila.html)
+ 
+[Water mouse (_Xeromys myoides_)](pages/Fox_Xeromys_myoides.html)
+ 
+[Central rock rat (_Zyzomys pedunculatus_)](pages/Fox_Zyzomys_pedunculatus.html)
+ 
+:::
+:::{}
+        
+        
+:::
+:::{}
+### Accused on Cats
+[Fawn antechinus (_Antechinus bellus_)](pages/Cat_Antechinus_bellus.html)
+ 
+[Desert bettong (_Bettongia anhydra_)](pages/Cat_Bettongia_anhydra.html)
+ 
+[Eastern bettong (_Bettongia gaimardi_)](pages/Cat_Bettongia_gaimardi.html)
+ 
+[Burrowing bettong (_Bettongia lesueur_)](pages/Cat_Bettongia_lesueur.html)
+ 
+[Woylie (_Bettongia penicillata_)](pages/Cat_Bettongia_penicillata.html)
+ 
+[Northern bettong (_Bettongia tropica_)](pages/Cat_Bettongia_tropica.html)
+ 
+[Mountain pygmy possum (_Burramys parvus_)](pages/Cat_Burramys_parvus.html)
+ 
+[Desert rat kangaroo (_Caloprymnus campestris_)](pages/Cat_Caloprymnus_campestris.html)
+ 
+[Southern pig-footed bandicoot (_Chaeropus ecaudatus_)](pages/Cat_Chaeropus_ecaudatus.html)
+ 
+[White-footed rabbit rat (_Conilurus albipes_)](pages/Cat_Conilurus_albipes.html)
+ 
+[Capricorn rabbit rat (_Conilurus capricornensis_)](pages/Cat_Conilurus_capricornensis.html)
+ 
+[Brush-tailed rabbit rat (_Conilurus penicillatus_)](pages/Cat_Conilurus_penicillatus.html)
+ 
+[Crest-tailed mulgara (_Dasycercus cristicauda_)](pages/Cat_Dasycercus_cristicauda.html)
+ 
+[Western quoll (_Dasyurus geoffroii_)](pages/Cat_Dasyurus_geoffroii.html)
+ 
+[Northern quoll (_Dasyurus hallucatus_)](pages/Cat_Dasyurus_hallucatus.html)
+ 
+[Tiger quoll (_Dasyurus maculatus_)](pages/Cat_Dasyurus_maculatus.html)
+ 
+[Eastern quoll (_Dasyurus viverrinus_)](pages/Cat_Dasyurus_viverrinus.html)
+ 
+[Eastern false pipistrelle (_Falsistrellus tasmaniensis_)](pages/Cat_Falsistrellus_tasmaniensis.html)
+ 
+[Arnhem leaf-nosed bat (_Hipposideros inornatus_)](pages/Cat_Hipposideros_inornatus.html)
+ 
+[Golden bandicoot (_Isoodon auratus_)](pages/Cat_Isoodon_auratus.html)
+ 
+[Lake Mackay hare-wallaby (_Lagorchestes asomatus_)](pages/Cat_Lagorchestes_asomatus.html)
+ 
+[Rufous hare-wallaby (_Lagorchestes hirsutus_)](pages/Cat_Lagorchestes_hirsutus.html)
+ 
+[Banded hare-wallaby (_Lagostrophus fasciatus_)](pages/Cat_Lagostrophus_fasciatus.html)
+ 
+[Lesser stick-nest rat (_Leporillus apicalis_)](pages/Cat_Leporillus_apicalis.html)
+ 
+[Greater stick-nest rat (_Leporillus conditor_)](pages/Cat_Leporillus_conditor.html)
+ 
+[Parma wallaby (_Macropus parma_)](pages/Cat_Macropus_parma.html)
+ 
+[Bilby (_Macrotis lagotis_)](pages/Cat_Macrotis_lagotis.html)
+ 
+[Lesser bilby (_Macrotis leucura_)](pages/Cat_Macrotis_leucura.html)
+ 
+[Broad-toothed mouse (_Mastacomys fuscus_)](pages/Cat_Mastacomys_fuscus.html)
+ 
+[Black-footed tree-rat (_Mesembriomys gouldii_)](pages/Cat_Mesembriomys_gouldii.html)
+ 
+[Golden-backed tree-rat (_Mesembriomys macrurus_)](pages/Cat_Mesembriomys_macrurus.html)
+ 
+[Numbat (_Myrmecobius fasciatus_)](pages/Cat_Myrmecobius_fasciatus.html)
+ 
+[Short-tailed hopping mouse (_Notomys amplus_)](pages/Cat_Notomys_amplus.html)
+ 
+[Northern hopping mouse (_Notomys aquilo_)](pages/Cat_Notomys_aquilo.html)
+ 
+[Fawn hopping mouse (_Notomys cervinus_)](pages/Cat_Notomys_cervinus.html)
+ 
+[Dusky hopping mouse (_Notomys fuscus_)](pages/Cat_Notomys_fuscus.html)
+ 
+[Long-tailed hopping mouse (_Notomys longicaudatus_)](pages/Cat_Notomys_longicaudatus.html)
+ 
+[Big-eared hopping mouse (_Notomys macrotis_)](pages/Cat_Notomys_macrotis.html)
+ 
+[Darling Downs hopping mouse (_Notomys mordax_)](pages/Cat_Notomys_mordax.html)
+ 
+[Bridled nail-tail wallaby (_Onychogalea fraenata_)](pages/Cat_Onychogalea_fraenata.html)
+ 
+[Crescent nail-tail wallaby (_Onychogalea lunata_)](pages/Cat_Onychogalea_lunata.html)
+ 
+[Platypus (_Ornithorhynchus anatinus_)](pages/Cat_Ornithorhynchus_anatinus.html)
+ 
+[Dibbler (_Parantechinus apicalis_)](pages/Cat_Parantechinus_apicalis.html)
+ 
+[Western barred bandicoot (_Perameles bougainville_)](pages/Cat_Perameles_bougainville.html)
+ 
+[Desert bandicoot (_Perameles eremiana_)](pages/Cat_Perameles_eremiana.html)
+ 
+[Eastern barred bandicoot (_Perameles gunnii_)](pages/Cat_Perameles_gunnii.html)
+ 
+[Monjon (_Petrogale burbidgei_)](pages/Cat_Petrogale_burbidgei.html)
+ 
+[Nabarlek (_Petrogale concinna_)](pages/Cat_Petrogale_concinna.html)
+ 
+[Black-footed rock-wallaby (_Petrogale lateralis_)](pages/Cat_Petrogale_lateralis.html)
+ 
+[Brush-tailed rock-wallaby (_Petrogale penicillata_)](pages/Cat_Petrogale_penicillata.html)
+ 
+[Mount Claro rock-wallaby (_Petrogale sharmani_)](pages/Cat_Petrogale_sharmani.html)
+ 
+[Yellow-footed rock-wallaby (_Petrogale xanthopus_)](pages/Cat_Petrogale_xanthopus.html)
+ 
+[Red-tailed phascogale (_Phascogale calura_)](pages/Cat_Phascogale_calura.html)
+ 
+[Northern brush-tailed phascogale (_Phascogale pirata_)](pages/Cat_Phascogale_pirata.html)
+ 
+[Brush-tailed phascogale (_Phascogale tapoatafa_)](pages/Cat_Phascogale_tapoatafa.html)
+ 
+[Golden-tipped bat (_Phoniscus papuensis_)](pages/Cat_Phoniscus_papuensis.html)
+ 
+[Gilbert's potoroo (_Potorous gilbertii_)](pages/Cat_Potorous_gilbertii.html)
+ 
+[Long-footed potoroo (_Potorous longipes_)](pages/Cat_Potorous_longipes.html)
+ 
+[Broad-faced potoroo (_Potorous platyops_)](pages/Cat_Potorous_platyops.html)
+ 
+[Long-nosed potoroo (_Potorous tridactylus_)](pages/Cat_Potorous_tridactylus.html)
+ 
+[Alexandria false antechinus (_Pseudantechinus mimulus_)](pages/Cat_Pseudantechinus_mimulus.html)
+ 
+[Western ringtail possum (_Pseudocheirus occidentalis_)](pages/Cat_Pseudocheirus_occidentalis.html)
+ 
+[Long-eared mouse (_Pseudomys auritus_)](pages/Cat_Pseudomys_auritus.html)
+ 
+[Plains rat (_Pseudomys australis_)](pages/Cat_Pseudomys_australis.html)
+ 
+[Gould's mouse (_Pseudomys fieldi_)](pages/Cat_Pseudomys_fieldi.html)
+ 
+[Smoky mouse (_Pseudomys fumeus_)](pages/Cat_Pseudomys_fumeus.html)
+ 
+[Blue-gray mouse (_Pseudomys glaucus_)](pages/Cat_Pseudomys_glaucus.html)
+ 
+[New Holland mouse (_Pseudomys novaehollandiae_)](pages/Cat_Pseudomys_novaehollandiae.html)
+ 
+[Western mouse (_Pseudomys occidentalis_)](pages/Cat_Pseudomys_occidentalis.html)
+ 
+[Hastings River mouse (_Pseudomys oralis_)](pages/Cat_Pseudomys_oralis.html)
+ 
+[Heath mouse (_Pseudomys shortridgei_)](pages/Cat_Pseudomys_shortridgei.html)
+ 
+[Quokka (_Setonix brachyurus_)](pages/Cat_Setonix_brachyurus.html)
+ 
+[Kakadu dunnart (_Sminthopsis bindi_)](pages/Cat_Sminthopsis_bindi.html)
+ 
+[Carpentarian dunnart (_Sminthopsis butleri_)](pages/Cat_Sminthopsis_butleri.html)
+ 
+[Julia Creek dunnart (_Sminthopsis douglasi_)](pages/Cat_Sminthopsis_douglasi.html)
+ 
+[Sandhill dunnart (_Sminthopsis psammophila_)](pages/Cat_Sminthopsis_psammophila.html)
+ 
+[Scaly-tailed possum (_Wyulda squamicaudata_)](pages/Cat_Wyulda_squamicaudata.html)
+ 
+[Water mouse (_Xeromys myoides_)](pages/Cat_Xeromys_myoides.html)
+ 
+[Arnhem Land rock rat (_Zyzomys maini_)](pages/Cat_Zyzomys_maini.html)
+ 
+[Carpentarian rock rat (_Zyzomys palatalis_)](pages/Cat_Zyzomys_palatalis.html)
+ 
+[Central rock rat (_Zyzomys pedunculatus_)](pages/Cat_Zyzomys_pedunculatus.html)
+ 
+:::
+::::

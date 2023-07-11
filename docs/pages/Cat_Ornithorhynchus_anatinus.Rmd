@@ -1,0 +1,62 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Platypus**
+### *Ornithorhynchus anatinus*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Ornithorhynchus anatinus.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Near Threatened**
+
+EPBC Threat Rating: **N/A**
+
+IUCN Claim: *Across its range, the Platypus is also subject to predation by the introduced Red Fox, dogs and cats.'*
+
+</center>
+
+### Studies in support
+
+No studies
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies linking cats to platypus.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Ornithorhynchus anatinus.png)
+
+### References
+
+
+
+Wallach et al. 2023 In Submission
+

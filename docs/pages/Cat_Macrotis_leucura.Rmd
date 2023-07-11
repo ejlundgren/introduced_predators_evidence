@@ -1,0 +1,49 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Lesser bilby**
+### *Macrotis leucura*
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+::: {}
+
+IUCN Status: **Extinct**
+
+Last seen: *Macrotis leucura were last seen in 1967 in Alice Springs near the edge of the Simpson Desert*
+:::
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::::
+
+### Studies in support
+
+Lesser bilbies were last confirmed 56 and 92 years after cats arrived (Wallach et al. 202X).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies evidencing a link between cats and the extinction of lesser bilbies. The two species co-occurred for over half-a-century.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Macrotis leucura.png)
+
+### References
+
+Wallach et al. 2023 In Submission
+

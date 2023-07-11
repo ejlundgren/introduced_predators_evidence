@@ -1,0 +1,49 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Southern pig-footed bandicoot**
+### *Chaeropus ecaudatus*
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+::: {}
+
+IUCN Status: **Extinct**
+
+Last seen: *Chaeropus ecaudatus were last seen in 1901 in Alice Springs, NT*
+:::
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::::
+
+### Studies in support
+
+No studies
+
+### Studies not in support
+
+Southern pig-footed bandicoots were last confirmed in the NT, NSW and WA 17-86 years before foxes arrived (Wallach et al. 202X).
+
+### Is the threat claim evidence-based?
+
+There are no studies evidencing a link between foxes and the extinction of southern pig-footed bandicoots. In contradiction with the claim the extinction record pre-dates the fox arrival record.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Fox_Chaeropus ecaudatus.png)
+
+### References
+
+Wallach et al. 2023 In Submission
+

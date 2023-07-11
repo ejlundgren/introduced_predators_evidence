@@ -1,0 +1,62 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Gilbert's potoroo**
+### *Potorous gilbertii*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Fox_Potorous gilbertii.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Critically Endangered**
+
+EPBC Threat Rating: **High/Very High**
+
+IUCN Claim: *Predation by introduced red foxes and feral cats are the major threats'*
+
+</center>
+
+### Studies in support
+
+No studies
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies linking foxes to Gilbert's potoroo.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Fox_Potorous gilbertii.png)
+
+### References
+
+
+
+Wallach et al. 2023 In Submission
+

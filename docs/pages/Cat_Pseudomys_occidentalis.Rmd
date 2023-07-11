@@ -1,0 +1,62 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Western mouse**
+### *Pseudomys occidentalis*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Pseudomys occidentalis.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Near Threatened**
+
+EPBC Threat Rating: **High**
+
+IUCN Claim: *This species is threatened by predation by feral cats, which are known to be predators of mammals of this size'*
+
+</center>
+
+### Studies in support
+
+No studies
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies linking cats to western mice.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Pseudomys occidentalis.png)
+
+### References
+
+
+
+Wallach et al. 2023 In Submission
+

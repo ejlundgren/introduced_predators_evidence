@@ -1,0 +1,66 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Black-footed tree-rat**
+### *Mesembriomys gouldii*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Mesembriomys gouldii.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Vulnerable**
+
+EPBC Threat Rating: **High**
+
+IUCN Claim: *Predation by feral cats may also be a threat.'*
+
+</center>
+
+### Studies in support
+
+Cats hunt tree-rats (Stokeld et al. 2018). Lower tree-rat occupancy was correlated with higher cat occupancy across Melville Island and north of Northern Territory mainland (Stobo-Wilson et al. 2020a).
+
+### Studies not in support
+
+No relationship between cat detection and tree-rat detection on Melville Island (Davies et al. 2018).
+
+### Is the threat claim evidence-based?
+
+Cats have been documented among a range of ecological variables negatively correlated with black-footed tree rats in one study but not in the other. Causality cannot be inferred due to confounding variables.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Mesembriomys gouldii.png)
+
+### References
+
+Stobo-Wilson, A. M., et al. "Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics." Biological Conservation 247 (2020): 108638.
+
+Davies, H. F., McCarthy, M. A., Firth, R. S., Woinarski, J. C., Gillespie, G. R., Andersen, A. N., ... & Murphy, B. P. (2018). Declining populations in one of the last refuges for threatened mammal species in northern Australia. Austral Ecology, 43(5), 602-612.
+
+Stokeld, D., Fisher, A., Gentles, T., Hill, B., Triggs, B., Woinarski, J. C., & Gillespie, G. R. (2018). What do predator diets tell us about mammal declines in Kakadu National Park?. Wildlife Research, 45(1), 92-101.
+
+Wallach et al. 2023 In Submission
+

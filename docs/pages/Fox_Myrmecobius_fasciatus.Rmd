@@ -1,0 +1,66 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Numbat**
+### *Myrmecobius fasciatus*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Fox_Myrmecobius fasciatus.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Near Threatened**
+
+EPBC Threat Rating: **Very high/Extreme**
+
+IUCN Claim: *The introduction of the predatory Red Fox and feral cats has had a profound impact and continues to be a major threat today (Friend 2008).'*
+
+</center>
+
+### Studies in support
+
+A poison baiting campaign initiated in 1982 was followed by a population increase (Friend 1990) until 1992 (Friend & Thomas 1994), after which the population crashed (Friend & Page 2017).
+
+### Studies not in support
+
+Foxes were not the main cause of mortality nor the main predator of reintroduced numbats (Friend & Thomas 1994). Numbats were last confirmed in NSW 3 years before foxes arrived (Wallach et al. 202X).
+
+### Is the threat claim evidence-based?
+
+There are no studies evidencing a negative association between numbats and foxes. Poison baiting is not a reliable proxy for fox abundance. In contradiction with the claim, the extirpation record pre-dates the fox arrival record.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Fox_Myrmecobius fasciatus.png)
+
+### References
+
+Friend, J. A., and N. D. Thomas. "Reintroduction and the numbat recovery programme." Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp (1994): 189-198.
+
+Friend, J. A. "The numbat Myrmecobius fasciatus (Myrmecobiidae): history of decline and potential for recovery." Proceedings of the Ecological Society of Australia. Vol. 16. 1990.
+
+Friend JA, Page MJ. 2017. Numbat (Myrmecobius fasciatus) Recovery Plan. Wildlife Management Program No. 60 in Department of Parks and Wildlife P, WA., editor.
+
+Wallach et al. 2023 In Submission
+

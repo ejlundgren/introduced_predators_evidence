@@ -1,0 +1,49 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Desert rat kangaroo**
+### *Caloprymnus campestris*
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+::: {}
+
+IUCN Status: **Extinct**
+
+Last seen: *Caloprymnus campestris were last seen in 1935 in Ooroowilanie, east of Lake Eyre*
+:::
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::::
+
+### Studies in support
+
+Desert rat kangaroos were last confirmed 56-60 years after cats arrived (Wallach et al. 202X).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies evidencing a link between cats and the extinction of desert rat kangaroos.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Caloprymnus campestris.png)
+
+### References
+
+Wallach et al. 2023 In Submission
+

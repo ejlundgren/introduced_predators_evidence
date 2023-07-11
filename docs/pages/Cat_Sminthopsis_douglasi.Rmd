@@ -1,0 +1,68 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Julia Creek dunnart**
+### *Sminthopsis douglasi*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Sminthopsis douglasi.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Near Threatened**
+
+EPBC Threat Rating: **Very high**
+
+IUCN Claim: *Exotic predators (especially cats and foxes)'*
+
+</center>
+
+### Studies in support
+
+Cats hunt them (Kutt 2003; Kutt 2011; Kutt 2012; Mifsud & Woolley 2012).
+
+### Studies not in support
+
+Cats do not select for Smithopsis dunnarts (Kutt 2012).
+
+### Is the threat claim evidence-based?
+
+There are no studies linking cats to Julia Creek dunnart populations.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Sminthopsis douglasi.png)
+
+### References
+
+Mifsud, G., and P. A. Woolley. "Predation of the Julia Creek dunnart (Sminthopsis douglasi) and other native fauna by cats and foxes on Mitchell grass downs in Queensland." Australian Mammalogy 34.2 (2012): 188-195.
+
+Kutt, A. S. "Feral cat (F elis catus) prey size and selectivity in north‐eastern A ustralia: implications for mammal conservation." Journal of Zoology 287.4 (2012): 292-300.
+
+Kutt AS. 2011. The diet of the feral cat (Felis catus) in north-eastern Australia. Acta Theriologica 56:157-169.
+
+Kutt, A.S. (2003). New records of the Julia Creek dunnart Sminthopsis douglasi in central-north Queensland. Australian Zoologist 32, 257-260.
+
+Wallach et al. 2023 In Submission
+

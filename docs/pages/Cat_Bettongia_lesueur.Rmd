@@ -1,0 +1,74 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Burrowing bettong**
+### *Bettongia lesueur*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Cat_Bettongia lesueur.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Near Threatened**
+
+EPBC Threat Rating: **Moderate**
+
+IUCN Claim: *The current major threats to the natural populations of the species include: the accidental introduction of predators (introduced cats and foxes)'*
+
+</center>
+
+### Studies in support
+
+Cats were the main predator, or a predator, of predator-inexperienced (where known) reintroduced bettongs (Christensen & Burrows 1995; Short & Turner 2000; Moseby et al. 2011; Moseby et al. 2018; Moyses et al. 2020). Cats hunted bettongs in fenced reserve (Moseby et al. 2019). Bettongs were last confirmed in NSW, QLD and Victoria 17-40 years after cats arrived (Wallach et al. 202X).
+
+### Studies not in support
+
+A positive correlation was found between cat and bettong abundance within a fenced reserve, despite evidence of hunting, and bettong recruitment was confirmed (Moseby et al. 2019). A cat breached the fence of a semi-captive bettong enclosure, yet none were hunted in 1 month (from Moseby et al. 2015). Bettongs were last confirmed in Western Australia a century after cats arrived (Wallach et al. 202X).
+
+### Is the threat claim evidence-based?
+
+There are no studies evidencing a negative association between cats and burrowing bettong populations. The fate of reintroduced animals is not a proxy for the fate of locally-born populations. In contradiction with the claim, the two species co-occurred for decades and up to a century in some regions.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Cat_Bettongia lesueur.png)
+
+### References
+
+Moseby, Katherine E., et al. "Understanding predator densities for successful co‐existence of alien predators and threatened prey." Austral Ecology 44.3 (2019): 409-419.
+
+Short, Jeff, and Bruce Turner. "Reintroduction of the burrowing bettong Bettongia lesueur (Marsupialia: Potoroidae) to mainland Australia." Biological Conservation 96.2 (2000): 185-196.
+
+Moseby, K. E., et al. "Designer prey: can controlled predation accelerate selection for anti-predator traits in naïve populations?." Biological Conservation 217 (2018): 213-221
+
+Christensen, P., and N. Burrows. "Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia." Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp (1995): 199-207.
+
+Moyses, Jessie, et al. "Factors influencing the residency of bettongs using one‐way gates to exit a fenced reserve." Austral Ecology 45.7 (2020): 858-871
+
+Moseby, K. E., et al. "Predation determines the outcome of 10 reintroduction attempts in arid South Australia." Biological Conservation 144.12 (2011): 2863-2872.
+
+Moseby K, Peacock D, Read J. 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation 191:331-340.
+
+Wallach et al. 2023 In Submission
+

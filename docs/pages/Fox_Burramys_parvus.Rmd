@@ -1,0 +1,66 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Mountain pygmy possum**
+### *Burramys parvus*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Fox_Burramys parvus.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Critically Endangered**
+
+EPBC Threat Rating: **Very high**
+
+IUCN Claim: *Predation by the introduced Red Fox is also a threat'*
+
+</center>
+
+### Studies in support
+
+Possums were found in fox scats in three studies (Green & Osborne 1981; Green 2003; Davis et al. 2015).
+
+### Studies not in support
+
+No studies
+
+### Is the threat claim evidence-based?
+
+There are no studies linking foxes to pygmy possum populations.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Fox_Burramys parvus.png)
+
+### References
+
+Green, K., & Osborne, W. (1981). The Diet of Foxes, Vulpes Vulpes (L.), In Relation to Abundance of Prey Above the Winter Snowline in New South Wales. Wildlife Research, 8(2), 349. doi:10.1071/wr9810349 
+
+Davis NE, Forsyth DM, Triggs B, Pascoe C, Benshemesh J, Robley A, et al. (2015) Interspecific and Geographic Variation in the Diets of Sympatric Carnivores: Dingoes/Wild Dogs and Red Foxes in South-Eastern Australia. PLoS ONE 10(3): e0120975. https://doi.org/10.1371/journal.pone.0120975
+
+Green, K. (2003). Altitudinal and temporal differences in the food of foxes (Vulpes vulpes) at alpine and subalpine altitudes in the Snowy Mountains. Wildlife Research, 30(3), 245. doi:10.1071/wr02008 
+
+Wallach et al. 2023 In Submission
+

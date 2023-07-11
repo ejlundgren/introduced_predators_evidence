@@ -1,0 +1,82 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Woylie**
+### *Bettongia penicillata*
+
+:::: {style="display: flex;"}
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::: {}
+
+:::
+
+::: {}
+  ```{r map, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/figures/Map_Fox_Bettongia penicillata.png")
+  ```
+:::
+
+::::
+<center>
+IUCN Status: **Critically Endangered**
+
+EPBC Threat Rating: **High/Very High**
+
+IUCN Claim: *The major reason for past decline has been predation by Red Foxes and feral cats'*
+
+</center>
+
+### Studies in support
+
+The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). Foxes predated on reintroduced woylies (Marlow et al. 2015a). Woylies were detected in a single fox scat among 450 scats analysed from four sites where woylies occured (Marlow et al. 2014). One study reported higher bettong abundance at poison baited sites compared to controls but fox abundance was not monitored and sites were not randomly selected (Wayne et al. 2011). Woylies were last recorded on the Nullarbor 26 years after foxes arrived (Wallach et al. 202X).
+
+### Studies not in support
+
+Studies by Kinnear et al. (2002), Orell (2004), Marlow et al. (2015b) Yeatman et al. (2016), and Wayne et al. (2017) reported that woylies initially increased after poison baiting intensification but the population eventually crashed. Wayne et al. (2017) documented that woylies declined and fox abundance increased but no evidence of a correlation was provided (Wayne et al. 2017). Another study reported that increased poison baiting intensity was positively associated with woylie abundance, however the trend overlapped with zero, foxes were not monitored, and there were no control sites without poisoning (Geary et al. 2023). Foxes were not listed among predators of reintroduced woylies (Priddel & Wheeler 2004). Woylies were last confirmed in NSW 21-45 years before foxes arrived (Wallach et al. 202X).
+
+### Is the threat claim evidence-based?
+
+There are no studies evidencing a negative association between foxes and woylie populations. Bounties are not a reliable proxy of abundance (particularly when the species is unidentified); the fate of reintroduced animals is not a reliable proxy for the fate of populations; and poison baiting is not a reliable proxy of fox abundance.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Fox_Bettongia penicillata.png)
+
+### References
+
+Kinnear, J. E., N. R. Sumner, and M. L. Onus. "The red fox in Australia—an exotic predator turned biocontrol agent." Biological Conservation 108.3 (2002): 335-359.
+
+Yeatman, Georgina J., et al. "Temporal patterns in the abundance of a critically endangered marsupial relates to disturbance by roads and agriculture." PloS one 11.8 (2016): e0160790.
+
+Marlow, NICOLA J., et al. "The diet of foxes (Vulpes vulpes) in fragmented Wheatbelt reserves in Western Australia: implications for woylies (Bettongia penicillata) and other native fauna." Conservation Science Western Australia (2014)
+
+Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
+
+Orell, P. (2004). Fauna monitoring and staff training: Western Shield review – February 2003. Conservation Science Western Australia 5(2): 51-95.
+
+Short, J. 1998. The extinction of rat-kangaroos (Marsupialia: Potoroidae) in New South Wales, Australia. Biological Conservation 86: 365-377.
+
+Wayne, Adrian F., Graeme L. Liddelow, and Matthew R. Williams. "FORESTCHECK: terrestrial vertebrate associations with fox control and silviculture in jarrah (Eucalyptus marginata) forest." Australian Forestry 74.4 (2011): 336-349.
+
+Marlow, Nicola J., et al. "Cats (Felis catus) are more abundant and are the dominant predator of woylies (Bettongia penicillata) after sustained fox (Vulpes vulpes) control." Australian Journal of Zoology 63.1 (2015b): 18-27.
+
+Martin, Sheridan, Stephen Ball, and Paula Peeters. "Reintroduction of the brush-tailed Bettong (Bettongia penicillata ogilbyi) into Lincoln National Park." (2006).
+
+Priddel, D. and Wheeler, R. (2004). An experimental translocation of woylies (Bettongia penicillata) to western New South Wales. Wildlife Research 31: 421-432.
+
+Geary WL, Tulloch AI, Ritchie EG, Doherty TS, Nimmo DG, Maxwell MA, Wayne AF. 2023. Identifying historical and future global change drivers that place species recovery at risk. Global Change Biology https://doi.org/10.1111/gcb.16661
+
+Wallach et al. 2023 In Submission
+

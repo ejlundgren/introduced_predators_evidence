@@ -1,0 +1,49 @@
+---
+output: html_document
+---
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+## **Blue-gray mouse**
+### *Pseudomys glaucus*
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px;"}
+
+::: {}
+
+IUCN Status: **Extinct**
+
+Last seen: *Pseudomys glaucus were last seen in 1956 in ‘between Burren and Walgett’ in northern New South Wales*
+:::
+
+::: {}
+  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
+  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
+  ```
+:::
+
+::::
+
+### Studies in support
+
+Blue-gray mice were last confirmed in NSW 49 years after foxes arrived (Wallach et al. 202X).
+
+### Studies not in support
+
+Blue-gray mice were last confirmed in QLD 26 years before foxes arrived (Wallach et al. 202X).
+
+### Is the threat claim evidence-based?
+
+There are no studies evidencing a link between foxes and the extinction of blue-gray mice. In contradiction with the claim, the extinction record from QLD pre-dates the fox arrival record.
+<br>
+<br>
+
+![](assets/figures/Main_Evidence_Fox_Pseudomys glaucus.png)
+
+### References
+
+Wallach et al. 2023 In Submission
+
