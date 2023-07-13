@@ -53,13 +53,13 @@ There are no studies evidencing a negative association between foxes and dibbler
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Parantechinus apicalis* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Parantechinus apicalis.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Parantechinus apicalis* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Parantechinus apicalis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Parantechinus apicalis.png)
 
 ### References
 
-Kinnear, J. E., N. R. Sumner, and M. L. Onus. "The red fox in Australia—an exotic predator turned biocontrol agent." Biological Conservation 108.3 (2002): 335-359.
-
 Friend T. 2003. Dibbler (Parantechinus apicalis) Recovery Plan July 2003–June 2013. Wildlife Management Program.
+
+Kinnear, J. E., N. R. Sumner, and M. L. Onus. "The red fox in Australia—an exotic predator turned biocontrol agent." Biological Conservation 108.3 (2002): 335-359.
 
 Wallach et al. 2023 In Submission
 

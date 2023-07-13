@@ -53,19 +53,19 @@ There are no studies evidencing a negative association between foxes and yellow-
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Petrogale xanthopus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Petrogale xanthopus.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Petrogale xanthopus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Petrogale xanthopus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Petrogale xanthopus.png)
 
 ### References
-
-Stobo-Wilson Alyson M., Brandle Robert, Johnson Christopher N., Jones Menna E. (2020) Management of invasive mesopredators in the Flinders Ranges, South Australia: effectiveness and implications. Wildlife Research 47, 720-730.
-
-Sharp, A., Norton, M., Havelberg, C., Cliff, W., & Marks, A. (2014). Population recovery of the yellow-footed rock-wallaby following fox control in New South Wales and South Australia. Wildlife Research, 41(7), 560. doi:10.1071/wr14151
 
 Hornsby, P. "Possible causes of mortality in the yellow-footed rock-wallaby, Petrogale xanthopus Gray (Marsupialia: Macropodidae)." Australian Mammalogy 19.2 (1997): 245-248.
 
 Lapidge, Steven J., and Shane Henshall. "Diet Of Foxes And Cats, With Evidence Of Predation On Yellow-Footed Rock-Wallabies (Petrogale Xanthopus Celeris) By Foxes In Southwsetern Queensland." Australian Mammalogy 23.1 (2001): 47-52.
 
 Lethbridge, Mark R., and Peter J. Alexander. "Comparing population growth rates using weighted bootstrapping: guiding the conservation management of Petrogale xanthopus xanthopus (yellow-footed rock-wallaby)." Biological Conservation 141.5 (2008): 1185-1195
+
+Sharp, A., Norton, M., Havelberg, C., Cliff, W., & Marks, A. (2014). Population recovery of the yellow-footed rock-wallaby following fox control in New South Wales and South Australia. Wildlife Research, 41(7), 560. doi:10.1071/wr14151
+
+Stobo-Wilson Alyson M., Brandle Robert, Johnson Christopher N., Jones Menna E. (2020) Management of invasive mesopredators in the Flinders Ranges, South Australia: effectiveness and implications. Wildlife Research 47, 720-730.
 
 Wallach et al. 2023 In Submission
 

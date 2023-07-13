@@ -53,13 +53,13 @@ Cats have been documented among a range of ecological variables negatively corre
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Mesembriomys gouldii* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Mesembriomys gouldii.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Mesembriomys gouldii* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Mesembriomys gouldii, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Mesembriomys gouldii.png)
 
 ### References
 
-Stobo-Wilson, A. M., et al. "Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics." Biological Conservation 247 (2020): 108638.
-
 Davies, H. F., McCarthy, M. A., Firth, R. S., Woinarski, J. C., Gillespie, G. R., Andersen, A. N., ... & Murphy, B. P. (2018). Declining populations in one of the last refuges for threatened mammal species in northern Australia. Austral Ecology, 43(5), 602-612.
+
+Stobo-Wilson, A. M., et al. "Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics." Biological Conservation 247 (2020): 108638.
 
 Stokeld, D., Fisher, A., Gentles, T., Hill, B., Triggs, B., Woinarski, J. C., & Gillespie, G. R. (2018). What do predator diets tell us about mammal declines in Kakadu National Park?. Wildlife Research, 45(1), 92-101.
 

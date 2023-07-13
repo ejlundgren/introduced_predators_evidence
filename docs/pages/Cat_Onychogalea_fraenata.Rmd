@@ -53,21 +53,21 @@ There are no studies linking cats to nail-tail wallaby populations.
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Onychogalea fraenata* to cats. *A.* Systematic review of evidence for an association between *Onychogalea fraenata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of cats . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Onychogalea fraenata.png)
+![**Fig. 1** Evidence linking *Onychogalea fraenata* to cats. **A.** Systematic review of evidence for an association between *Onychogalea fraenata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Onychogalea fraenata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Onychogalea fraenata.png)
 
 ### References
 
-Hayward, Matt W., et al. "Reintroduction of bridled nailtail wallabies beyond fences at Scotia Sanctuary-Phase 1." Proceedings of the Linnean Society of New South Wales. Vol. 134. 2012.
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
-Horsup, A., and M. Evans. "Predation by feral cats, Felis catus, on an endangered marsupial, the bridled nailtail wallaby, Onychogalea fraenata." Australian Mammalogy 16.1 (1993): 83-84
+Augusteyn, John, et al. "Bringing back the endangered bridled nail-tailed wallaby at Taunton National Park (Scientific) through effective predator control." Wildlife Research (2022).
 
 Fisher, D. O. "Behavioural ecology and demography of the bridled nailtail wallaby." Onychogalea fraenata (1999).
 
 Fisher, Diana O., Simon Phillip Blomberg, and Simon David Hoyle. "Mechanisms of drought-induced population decline in an endangered wallaby." Biological Conservation 102.1 (2001): 107-115
 
-Augusteyn, John, et al. "Bringing back the endangered bridled nail-tailed wallaby at Taunton National Park (Scientific) through effective predator control." Wildlife Research (2022).
+Hayward, Matt W., et al. "Reintroduction of bridled nailtail wallabies beyond fences at Scotia Sanctuary-Phase 1." Proceedings of the Linnean Society of New South Wales. Vol. 134. 2012.
 
-Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+Horsup, A., and M. Evans. "Predation by feral cats, Felis catus, on an endangered marsupial, the bridled nailtail wallaby, Onychogalea fraenata." Australian Mammalogy 16.1 (1993): 83-84
 
 Wallach et al. 2023 In Submission
 

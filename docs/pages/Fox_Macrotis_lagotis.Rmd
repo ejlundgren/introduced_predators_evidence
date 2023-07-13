@@ -53,17 +53,17 @@ The evidence for a negative association between foxes and bilby populations is i
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Macrotis lagotis* to foxes. *A.* Systematic review of evidence for an association between *Macrotis lagotis* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of foxes . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Macrotis lagotis.png)
+![**Fig. 1** Evidence linking *Macrotis lagotis* to foxes. **A.** Systematic review of evidence for an association between *Macrotis lagotis* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Macrotis lagotis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Macrotis lagotis.png)
 
 ### References
 
 Abbott, Ian. "The bilby Macrotis lagotis (Marsupialia: Peramelidae) in south-western Australia: original range limits, subsequent decline, and presumed regional extinction." RECORDS-WESTERN AUSTRALIAN MUSEUM 20.3 (2001): 271-306.
 
-Southgate, Richard, et al. "Bilby distribution and fire: a test of alternative models of habitat suitability in the Tanami Desert, Australia." Ecography 30.6 (2007): 759-776
+Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
 Lohr, Cheryl A., et al. "Reintroduction of Bilbies (Macrotis lagotis) to Matuwa, an Indigenous Protected Area in Western Australia." Rangeland Ecology & Management 78 (2021): 67-78.
 
-Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
+Southgate, Richard, et al. "Bilby distribution and fire: a test of alternative models of habitat suitability in the Tanami Desert, Australia." Ecography 30.6 (2007): 759-776
 
 Wallach et al. 2023 In Submission
 

@@ -53,21 +53,21 @@ Cats are among a range of ecological variables negatively correlated with quoll 
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Dasyurus hallucatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Dasyurus hallucatus.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Dasyurus hallucatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Dasyurus hallucatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Dasyurus hallucatus.png)
 
 ### References
 
-Stobo-Wilson, A. M., et al. "Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics." Biological Conservation 247 (2020): 108638.
-
-Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historical hyperabundance in the quoll (Marsupialia: Dasyuridae) and an assessment of the role of disease, cats and foxes in its curtailment. Australian Journal of Zoology 62:294-344.
-
 A. B. Pollock, Notes on status, distribution and diet of northern quoll Dasyurus hallucatus in the Mackay-Bowen area, mideastern Queensland. Australian Zoologist. 31, 388–395 (1999).
 
-Palmer, Russell, et al. "Does aerial baiting for controlling feral cats in a heterogeneous landscape confer benefits to a threatened native meso-predator?." PloS one 16.5 (2021): e0251304
+Cowan, M., et al. "Aerial baiting for feral cats is unlikely to affect survivorship of northern quolls in the Pilbara region of Western Australia." Wildlife Research 47.8 (2020): 589-598
 
 Oakwood, M., 2000. Reproduction and demography of the northern quoll, Dasyurus hallucatus, in the lowland savanna of northern Australia. Australian Journal of Zoology, 48(5), pp.519-539.
 
-Cowan, M., et al. "Aerial baiting for feral cats is unlikely to affect survivorship of northern quolls in the Pilbara region of Western Australia." Wildlife Research 47.8 (2020): 589-598
+Palmer, Russell, et al. "Does aerial baiting for controlling feral cats in a heterogeneous landscape confer benefits to a threatened native meso-predator?." PloS one 16.5 (2021): e0251304
+
+Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historical hyperabundance in the quoll (Marsupialia: Dasyuridae) and an assessment of the role of disease, cats and foxes in its curtailment. Australian Journal of Zoology 62:294-344.
+
+Stobo-Wilson, A. M., et al. "Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics." Biological Conservation 247 (2020): 108638.
 
 Stokeld D, Fisher A, Gentles T, Hill B, Triggs B, Woinarski JCZ, Gillespie GR. 2018. What do predator diets tell us about mammal declines in Kakadu National Park? Wildlife Research 45:92-101.
 

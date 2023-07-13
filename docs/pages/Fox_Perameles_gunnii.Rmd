@@ -53,19 +53,19 @@ There are no studies evidence a negative association between foxes and eastern b
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Perameles gunnii* to foxes. *A.* Systematic review of evidence for an association between *Perameles gunnii* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of foxes . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Perameles gunnii.png)
+![**Fig. 1** Evidence linking *Perameles gunnii* to foxes. **A.** Systematic review of evidence for an association between *Perameles gunnii* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Perameles gunnii, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Perameles gunnii.png)
 
 ### References
 
 Cook, C. N., D. G. Morgan, and D. J. Marshall. "Reevaluating suitable habitat for reintroductions: lessons learnt from the eastern barred bandicoot recovery program." Animal Conservation 13.2 (2010): 184-195.
 
-Lenghaus, Cornelis, David L. Obendorf, and Frank H. Wright. "Veterinary aspects of Perameles gunnii biology with special reference to species conservation." Management and Conservation of Small Populations. Chicago Zoological Society, Brookfield, Illinois (1990): 89-108.
+Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
-Winnard, Amy L., and Graeme Coulson. "Sixteen years of Eastern Barred Bandicoot Perameles gunnii reintroductions in Victoria: a review." Pacific Conservation Biology 14.1 (2008): 34-53.
+Lenghaus, Cornelis, David L. Obendorf, and Frank H. Wright. "Veterinary aspects of Perameles gunnii biology with special reference to species conservation." Management and Conservation of Small Populations. Chicago Zoological Society, Brookfield, Illinois (1990): 89-108.
 
 Long, K., A. J. Robley, and K. Lovett. "Immediate post-release survival of eastern barred bandicoots Perameles gunnii at Woodlands Historic Park, Victoria, with reference to fox activity." Australian Mammalogy 27.1 (2005): 17-25
 
-Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
-
 Wallach et al. 2023 In Submission
+
+Winnard, Amy L., and Graeme Coulson. "Sixteen years of Eastern Barred Bandicoot Perameles gunnii reintroductions in Victoria: a review." Pacific Conservation Biology 14.1 (2008): 34-53.
 

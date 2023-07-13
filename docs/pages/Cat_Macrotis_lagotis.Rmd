@@ -53,21 +53,19 @@ There are no studies evidencing a negative association between  cats and bilby p
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Macrotis lagotis* to cats. *A.* Systematic review of evidence for an association between *Macrotis lagotis* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of cats . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Macrotis lagotis.png)
+![**Fig. 1** Evidence linking *Macrotis lagotis* to cats. **A.** Systematic review of evidence for an association between *Macrotis lagotis* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Macrotis lagotis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Macrotis lagotis.png)
 
 ### References
 
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+
 Lohr, Cheryl A., et al. "Reintroduction of Bilbies (Macrotis lagotis) to Matuwa, an Indigenous Protected Area in Western Australia." Rangeland Ecology & Management 78 (2021): 67-78.
 
-Southgate, Richard, et al. "Bilby distribution and fire: a test of alternative models of habitat suitability in the Tanami Desert, Australia." Ecography 30.6 (2007): 759-776
-
-Wysong ML. 2016. Predator ecology in the arid rangelands of Western Australia: spatial interactions and resource competition between an apex predator, the dingo Canis dingo, and an introduced mesopredator, the feral cat Felis catus. PhD thesis, University of Western Australia, Perth.
-
-Moseby, Katherine E., Amber Cameron, and Helen A. Crisp. "Can predator avoidance training improve reintroduction outcomes for the greater bilby in arid Australia?." Animal Behaviour 83.4 (2012): 1011-1021.
+Moseby, K. E., D. E. Peacock, and J. L. Read. "Catastrophic cat predation: a call for predator profiling in wildlife protection programs." Biological Conservation 191 (2015): 331-340.
 
 Moseby, K. E., et al. "Predation determines the outcome of 10 reintroduction attempts in arid South Australia." Biological Conservation 144.12 (2011): 2863-2872.
 
-Moseby, K. E., D. E. Peacock, and J. L. Read. "Catastrophic cat predation: a call for predator profiling in wildlife protection programs." Biological Conservation 191 (2015): 331-340.
+Moseby, Katherine E., Amber Cameron, and Helen A. Crisp. "Can predator avoidance training improve reintroduction outcomes for the greater bilby in arid Australia?." Animal Behaviour 83.4 (2012): 1011-1021.
 
 Murphy, Brett P., et al. "Introduced cats (Felis catus) eating a continental fauna: the number of mammals killed in Australia." Biological Conservation 237 (2019): 28-40
 
@@ -75,7 +73,9 @@ Paltridge, Rachel. "The diets of cats, foxes and dingoes in relation to prey ava
 
 Richards JD (2012). Western Barred Bandicoot, Burrowing Bettong and Banded Hare-wallaby Recovery Team, Department of Environment and Conservation (Western Australia), and the Australian Government Department of Sustainability, Environment, Water, Population and Communities.
 
-Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+Southgate, Richard, et al. "Bilby distribution and fire: a test of alternative models of habitat suitability in the Tanami Desert, Australia." Ecography 30.6 (2007): 759-776
 
 Wallach et al. 2023 In Submission
+
+Wysong ML. 2016. Predator ecology in the arid rangelands of Western Australia: spatial interactions and resource competition between an apex predator, the dingo Canis dingo, and an introduced mesopredator, the feral cat Felis catus. PhD thesis, University of Western Australia, Perth.
 

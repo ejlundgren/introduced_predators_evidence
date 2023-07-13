@@ -53,7 +53,7 @@ There are no studies linking cats to tiger quolls.
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Dasyurus maculatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Dasyurus maculatus.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Dasyurus maculatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Dasyurus maculatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Dasyurus maculatus.png)
 
 ### References
 

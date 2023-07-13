@@ -53,15 +53,15 @@ There are no studies evidencing a negative association between foxes and black-f
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Petrogale lateralis* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Petrogale lateralis.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Petrogale lateralis* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Petrogale lateralis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Petrogale lateralis.png)
 
 ### References
-
-Kinnear, Jack E., M. L. Onus, and R. N. Bromilow. "Fox control and rock-wallaby population dynamics." Wildlife Research 15.4 (1988): 435-450.
 
 Kinnear J, Onus M, Sumner NR. 1998. Fox control and rock-wallaby population dynamics—II. An update. Wildlife Research 25:81-88.
 
 Kinnear, J. E., Krebs, C. J., Pentland, C., Orell, P., Holme, C., and Karvinen, R. 2010. Predator-baiting experiments for the conservation of rock-wallabies in Western Australia: a 25-year review with recent advances. Wildlife Research 37: 57-67.
+
+Kinnear, Jack E., M. L. Onus, and R. N. Bromilow. "Fox control and rock-wallaby population dynamics." Wildlife Research 15.4 (1988): 435-450.
 
 Kinnear, Jean E., et al. "Fox control and 1080 baiting conundrums: time to prepare for a CRISPR solution." Australian Mammalogy 39.2 (2016): 127-136
 

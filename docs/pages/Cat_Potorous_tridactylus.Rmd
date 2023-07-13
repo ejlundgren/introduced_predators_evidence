@@ -53,17 +53,17 @@ There are no studies evidencing a negative association between cats and long-nos
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Potorous tridactylus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Potorous tridactylus.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Potorous tridactylus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Potorous tridactylus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Potorous tridactylus.png)
 
 ### References
-
-Norton, Melinda A., et al. "Population characteristics and management of the long-nosed potoroo (Potorous tridactylus) in high-quality habitat in the Southern Highlands of New South Wales." Australian Mammalogy 37.1 (2015): 67-74
-
-Schwarz E. 1995. Habitat use in a population of mainland Tasmanian feral cats, Felis catus. Grad.Dip. (Hons.) thesis. University of Tasmania, Hobart.
 
 Lazenby BT. 2012. Do feral cats affect small mammals? A case study from the forests of southern Tasmania. PhD thesis, University of Sydney, Sydney.
 
 Miritis, Vivianna; Rendall, Anthony R.; Doherty, Tim S.; Coetsee, Amy L.; Ritchie, Euan G. (2020). Living with the enemy: a threatened prey species coexisting with feral cats on a fox-free island. Wildlife Research, (), –. doi:10.1071/WR19202
+
+Norton, Melinda A., et al. "Population characteristics and management of the long-nosed potoroo (Potorous tridactylus) in high-quality habitat in the Southern Highlands of New South Wales." Australian Mammalogy 37.1 (2015): 67-74
+
+Schwarz E. 1995. Habitat use in a population of mainland Tasmanian feral cats, Felis catus. Grad.Dip. (Hons.) thesis. University of Tasmania, Hobart.
 
 Wallach et al. 2023 In Submission
 

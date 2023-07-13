@@ -53,13 +53,13 @@ There are no studies linking cats to brush-tailed phascogale populations.
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Phascogale tapoatafa* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Phascogale tapoatafa.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Phascogale tapoatafa* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Phascogale tapoatafa, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Phascogale tapoatafa.png)
 
 ### References
 
 Soderquist TR, Serena M. 1994. An experimental reintroduction programme for brush-tailed phascogales (Phascogale tapoatafa): the interface between captivity and the wild. In: Olney PJS, Mace GM, Feistner ATC (eds). Creative Conservation. Springer, Dordrecht.
 
-Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
-
 Wallach et al. 2023 In Submission
+
+Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
 

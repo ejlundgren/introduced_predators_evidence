@@ -53,33 +53,33 @@ There are no studies evidencing a negative association between foxes and woylie 
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Bettongia penicillata* to foxes. *A.* Systematic review of evidence for an association between *Bettongia penicillata* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of foxes . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Bettongia penicillata.png)
+![**Fig. 1** Evidence linking *Bettongia penicillata* to foxes. **A.** Systematic review of evidence for an association between *Bettongia penicillata* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Bettongia penicillata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Bettongia penicillata.png)
 
 ### References
 
-Kinnear, J. E., N. R. Sumner, and M. L. Onus. "The red fox in Australia—an exotic predator turned biocontrol agent." Biological Conservation 108.3 (2002): 335-359.
-
-Yeatman, Georgina J., et al. "Temporal patterns in the abundance of a critically endangered marsupial relates to disturbance by roads and agriculture." PloS one 11.8 (2016): e0160790.
-
-Marlow, NICOLA J., et al. "The diet of foxes (Vulpes vulpes) in fragmented Wheatbelt reserves in Western Australia: implications for woylies (Bettongia penicillata) and other native fauna." Conservation Science Western Australia (2014)
-
-Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
-
-Orell, P. (2004). Fauna monitoring and staff training: Western Shield review – February 2003. Conservation Science Western Australia 5(2): 51-95.
-
-Short, J. 1998. The extinction of rat-kangaroos (Marsupialia: Potoroidae) in New South Wales, Australia. Biological Conservation 86: 365-377.
-
-Wayne, Adrian F., Graeme L. Liddelow, and Matthew R. Williams. "FORESTCHECK: terrestrial vertebrate associations with fox control and silviculture in jarrah (Eucalyptus marginata) forest." Australian Forestry 74.4 (2011): 336-349.
-
-Marlow, Nicola J., et al. "Cats (Felis catus) are more abundant and are the dominant predator of woylies (Bettongia penicillata) after sustained fox (Vulpes vulpes) control." Australian Journal of Zoology 63.1 (2015b): 18-27.
-
-Martin, Sheridan, Stephen Ball, and Paula Peeters. "Reintroduction of the brush-tailed Bettong (Bettongia penicillata ogilbyi) into Lincoln National Park." (2006).
-
-Priddel, D. and Wheeler, R. (2004). An experimental translocation of woylies (Bettongia penicillata) to western New South Wales. Wildlife Research 31: 421-432.
+Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
 Geary WL, Tulloch AI, Ritchie EG, Doherty TS, Nimmo DG, Maxwell MA, Wayne AF. 2023. Identifying historical and future global change drivers that place species recovery at risk. Global Change Biology https://doi.org/10.1111/gcb.16661
 
-Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
+Kinnear, J. E., N. R. Sumner, and M. L. Onus. "The red fox in Australia—an exotic predator turned biocontrol agent." Biological Conservation 108.3 (2002): 335-359.
+
+Marlow, Nicola J., et al. "Cats (Felis catus) are more abundant and are the dominant predator of woylies (Bettongia penicillata) after sustained fox (Vulpes vulpes) control." Australian Journal of Zoology 63.1 (2015b): 18-27.
+
+Marlow, NICOLA J., et al. "The diet of foxes (Vulpes vulpes) in fragmented Wheatbelt reserves in Western Australia: implications for woylies (Bettongia penicillata) and other native fauna." Conservation Science Western Australia (2014)
+
+Martin, Sheridan, Stephen Ball, and Paula Peeters. "Reintroduction of the brush-tailed Bettong (Bettongia penicillata ogilbyi) into Lincoln National Park." (2006).
+
+Orell, P. (2004). Fauna monitoring and staff training: Western Shield review – February 2003. Conservation Science Western Australia 5(2): 51-95.
+
+Priddel, D. and Wheeler, R. (2004). An experimental translocation of woylies (Bettongia penicillata) to western New South Wales. Wildlife Research 31: 421-432.
+
+Short, J. 1998. The extinction of rat-kangaroos (Marsupialia: Potoroidae) in New South Wales, Australia. Biological Conservation 86: 365-377.
 
 Wallach et al. 2023 In Submission
+
+Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
+
+Wayne, Adrian F., Graeme L. Liddelow, and Matthew R. Williams. "FORESTCHECK: terrestrial vertebrate associations with fox control and silviculture in jarrah (Eucalyptus marginata) forest." Australian Forestry 74.4 (2011): 336-349.
+
+Yeatman, Georgina J., et al. "Temporal patterns in the abundance of a critically endangered marsupial relates to disturbance by roads and agriculture." PloS one 11.8 (2016): e0160790.
 

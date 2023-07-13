@@ -53,15 +53,15 @@ Foxes have been documented among a range of ecological variables negatively corr
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Pseudomys shortridgei* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Pseudomys shortridgei.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Pseudomys shortridgei* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Pseudomys shortridgei, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Pseudomys shortridgei.png)
 
 ### References
-
-Sinclair, Robin. The diet of foxes in the Grampians (Gariwerd) National Park. Diss. Deakin University, 2020.
 
 Davis, Naomi E., et al. "Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia." PloS one 10.3 (2015): e0120975
 
 Nalliah, R., Sitters, H., Smith, A., & Di Stefano, J. (2021). Untangling the influences of fire, habitat and introduced predators on the endangered heath mouse. Animal Conservation. doi:10.1111/acv.12731 
+
+Sinclair, Robin. The diet of foxes in the Grampians (Gariwerd) National Park. Diss. Deakin University, 2020.
 
 Wallach et al. 2023 In Submission
 

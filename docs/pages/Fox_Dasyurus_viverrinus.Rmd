@@ -53,17 +53,17 @@ There are no studies linking foxes to eastern quoll populations.
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Dasyurus viverrinus* to foxes. *A.* Systematic review of evidence for an association between *Dasyurus viverrinus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of foxes . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Dasyurus viverrinus.png)
+![**Fig. 1** Evidence linking *Dasyurus viverrinus* to foxes. **A.** Systematic review of evidence for an association between *Dasyurus viverrinus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Dasyurus viverrinus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Dasyurus viverrinus.png)
 
 ### References
+
+Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
+
+Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historical hyperabundance in the quoll (Marsupialia: Dasyuridae) and an assessment of the role of disease, cats and foxes in its curtailment. Australian Journal of Zoology 62:294-344.
 
 Robinson NM, Blanchard W, MacGregor C, Brewster R, Dexter N, Lindenmayer DB. Can evolutionary theories of dispersal and senescence predict postrelease survival, dispersal, and body condition of a reintroduced threatened mammal? Ecol Evol. 2021;11:1002– 1012
 
 Robinson, Natasha M., et al. "Be nimble with threat mitigation: lessons learned from the reintroduction of an endangered species." Restoration Ecology 28.1 (2020): 29-38
-
-Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historical hyperabundance in the quoll (Marsupialia: Dasyuridae) and an assessment of the role of disease, cats and foxes in its curtailment. Australian Journal of Zoology 62:294-344.
-
-Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
 Wallach et al. 2023 In Submission
 

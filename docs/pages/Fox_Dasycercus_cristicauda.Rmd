@@ -53,17 +53,17 @@ There are no studies evidencing a negative association between foxes and mulgara
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Dasycercus cristicauda* to foxes. *A.* Systematic review of evidence for an association between *Dasycercus cristicauda* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of foxes . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Dasycercus cristicauda.png)
+![**Fig. 1** Evidence linking *Dasycercus cristicauda* to foxes. **A.** Systematic review of evidence for an association between *Dasycercus cristicauda* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Dasycercus cristicauda, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Dasycercus cristicauda.png)
 
 ### References
 
-Jacqueline B. Cupples, Mathew S. Crowther, Georgeanna Story, Mike Letnic, Dietary overlap and prey selectivity among sympatric carnivores: Could dingoes suppress foxes through competition for prey?, Journal of Mammalogy, Volume 92, Issue 3, 9 June 2011, Pages 590–600, https://doi.org/10.1644/10-MAMM-A-164.1
+Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
-Paltridge, Rachel. "The diets of cats, foxes and dingoes in relation to prey availability in the Tanami Desert, Northern Territory." Wildlife Research 29.4 (2002): 389-403
+Jacqueline B. Cupples, Mathew S. Crowther, Georgeanna Story, Mike Letnic, Dietary overlap and prey selectivity among sympatric carnivores: Could dingoes suppress foxes through competition for prey?, Journal of Mammalogy, Volume 92, Issue 3, 9 June 2011, Pages 590–600, https://doi.org/10.1644/10-MAMM-A-164.1
 
 Mahon, P.S. (1999). Predation by feral cats and red foxes and the dynamics of small mammal populations in arid Australia. (PhD thesis, University of Sydney, Sydney).
 
-Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
+Paltridge, Rachel. "The diets of cats, foxes and dingoes in relation to prey availability in the Tanami Desert, Northern Territory." Wildlife Research 29.4 (2002): 389-403
 
 Wallach et al. 2023 In Submission
 

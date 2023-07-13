@@ -53,17 +53,17 @@ Cats are among a range of ecological variables negatively correlated with rat ab
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Conilurus penicillatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Conilurus penicillatus.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Conilurus penicillatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Conilurus penicillatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Conilurus penicillatus.png)
 
 ### References
 
-Stobo-Wilson, A. M., et al. "Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics." Biological Conservation 247 (2020): 108638.
+Davies, H. F., McCarthy, M. A., Firth, R. S., Woinarski, J. C., Gillespie, G. R., Andersen, A. N., ... & Murphy, B. P. (2017). Top‐down control of species distributions: feral cats driving the regional extinction of a threatened rodent in northern Australia. Diversity and Distributions, 23(3), 272-283.
 
 Davies, H. F., McCarthy, M. A., Firth, R. S., Woinarski, J. C., Gillespie, G. R., Andersen, A. N., ... & Murphy, B. P. (2018). Declining populations in one of the last refuges for threatened mammal species in northern Australia. Austral Ecology, 43(5), 602-612.
 
 Penton, Cara E., et al. "A Hollow Argument: Understory Vegetation and Disturbance Determine Abundance of Hollow-Dependent Mammals in an Australian Tropical Savanna." Frontiers in Ecology and Evolution 9 (2021): 739550
 
-Davies, H. F., McCarthy, M. A., Firth, R. S., Woinarski, J. C., Gillespie, G. R., Andersen, A. N., ... & Murphy, B. P. (2017). Top‐down control of species distributions: feral cats driving the regional extinction of a threatened rodent in northern Australia. Diversity and Distributions, 23(3), 272-283.
+Stobo-Wilson, A. M., et al. "Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics." Biological Conservation 247 (2020): 108638.
 
 Wallach et al. 2023 In Submission
 

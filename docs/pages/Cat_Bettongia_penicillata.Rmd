@@ -53,25 +53,25 @@ There are no studies evidencing a negative association between cats and woylie p
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Bettongia penicillata* to cats. *A.* Systematic review of evidence for an association between *Bettongia penicillata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of cats . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Bettongia penicillata.png)
+![**Fig. 1** Evidence linking *Bettongia penicillata* to cats. **A.** Systematic review of evidence for an association between *Bettongia penicillata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Bettongia penicillata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Bettongia penicillata.png)
 
 ### References
 
-Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 James, H., Acharya, A.B., Taylor, J.A. and Freak, M.J. (2002). A case of bitten bettongs. The Journal of Forensic Odonto-Stomatology 20(1): 10-12.
 
 Marlow, Nicola J., et al. "Cats (Felis catus) are more abundant and are the dominant predator of woylies (Bettongia penicillata) after sustained fox (Vulpes vulpes) control." Australian Journal of Zoology 63.1 (2015b): 18-27.
 
-Wheeler, R., & Priddel, D. (2009). The impact of introduced predators on two threatened prey species: A case study from western New South Wales. Ecological Management & Restoration, 10, S117–S123. doi:10.1111/j.1442-8903.2009.00457.x 
-
 Martin, Sheridan, Stephen Ball, and Paula Peeters. "Reintroduction of the brush-tailed Bettong (Bettongia penicillata ogilbyi) into Lincoln National Park." (2006).
-
-Priddel, D. and Wheeler, R. (2004). An experimental translocation of woylies (Bettongia penicillata) to western New South Wales. Wildlife Research 31: 421-432.
 
 Moseby K, Peacock D, Read J. 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation 191:331-340.
 
-Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+Priddel, D. and Wheeler, R. (2004). An experimental translocation of woylies (Bettongia penicillata) to western New South Wales. Wildlife Research 31: 421-432.
 
 Wallach et al. 2023 In Submission
+
+Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
+
+Wheeler, R., & Priddel, D. (2009). The impact of introduced predators on two threatened prey species: A case study from western New South Wales. Ecological Management & Restoration, 10, S117–S123. doi:10.1111/j.1442-8903.2009.00457.x 
 

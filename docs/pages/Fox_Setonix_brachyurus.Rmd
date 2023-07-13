@@ -53,13 +53,13 @@ There are no studies evidencing a negative association between  foxes and quokka
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Setonix brachyurus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Setonix brachyurus.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Setonix brachyurus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Setonix brachyurus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Setonix brachyurus.png)
 
 ### References
 
-Hayward, Matt W., et al. "Mortality and survivorship of the quokka (Setonix brachyurus)(Macropodidae: Marsupialia) in the northern jarrah forest of Western Australia." Wildlife Research 32.8 (2005): 715-722
-
 Hayward, M. 2002. The ecology of the Quokka (Setonix brachyurus) (Macropodidae: Marsupialia) in the northern jarrah forest of Australia. University of New South Wales.
+
+Hayward, Matt W., et al. "Mortality and survivorship of the quokka (Setonix brachyurus)(Macropodidae: Marsupialia) in the northern jarrah forest of Western Australia." Wildlife Research 32.8 (2005): 715-722
 
 Hayward, Matt W., et al. "Predicting the occurrence of the quokka, Setonix brachyurus (Macropodidae: Marsupialia), in Western Australia’s northern jarrah forest." Wildlife Research 34.3 (2007): 194-199
 

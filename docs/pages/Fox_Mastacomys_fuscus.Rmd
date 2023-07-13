@@ -53,25 +53,25 @@ There are no studies linking foxes to broad-toothed mouse populations.
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Mastacomys fuscus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Mastacomys fuscus.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Mastacomys fuscus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Mastacomys fuscus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Mastacomys fuscus.png)
 
 ### References
 
+Brunner, H., Lloyd, J., & Coman, B. (1975). Fox Scat Analysis in a Forest Park in South-Eastern Australia. Wildlife Research, 2(2), 147. doi:10.1071/wr9750147
+
 Bubela, T. M., and D. C. D. Happold. "The social organisation and mating system of an Australian subalpine rodent, the broad-toothed rat, Mastacomys fuscus Thomas." Wildlife Research 20.4 (1993): 405-417.
-
-Davis NE, Forsyth DM, Triggs B, Pascoe C, Benshemesh J, Robley A, et al. (2015) Interspecific and Geographic Variation in the Diets of Sympatric Carnivores: Dingoes/Wild Dogs and Red Foxes in South-Eastern Australia. PLoS ONE 10(3): e0120975. https://doi.org/10.1371/journal.pone.0120975
-
-Green, K., & Osborne, W. (1981). The Diet of Foxes, Vulpes Vulpes (L.), In Relation to Abundance of Prey Above the Winter Snowline in New South Wales. Wildlife Research, 8(2), 349. doi:10.1071/wr9810349 
 
 Bubela, Tania M., C. R. Dickman, and A. E. Newsome. "Diet and winter foraging behaviour of the red fox (Vulpes vulpes) in alpine and subalpine New South Wales." Australian Mammalogy 20.3 (1998): 321-330.
 
-Green, K. (2003). Altitudinal and temporal differences in the food of foxes (Vulpes vulpes) at alpine and subalpine altitudes in the Snowy Mountains. Wildlife Research, 30(3), 245. doi:10.1071/wr02008 
-
-Green, K. (2002). Selective predation on the broad-toothed rat, Mastacomys fuscus (Rodentia: Muridae), by the introduced red fox, Vulpes vulpes (Carnivora: Canidae), in the Snowy Mountains, Australia. Austral Ecology, 27(4), 353–359. doi:10.1046/j.1442-9993.2002.01187.x 
+Davis NE, Forsyth DM, Triggs B, Pascoe C, Benshemesh J, Robley A, et al. (2015) Interspecific and Geographic Variation in the Diets of Sympatric Carnivores: Dingoes/Wild Dogs and Red Foxes in South-Eastern Australia. PLoS ONE 10(3): e0120975. https://doi.org/10.1371/journal.pone.0120975
 
 Dickman, C. R., and C. A. McKechnie. "A survey of the mammals of Mount Royal and Barrington Tops, New South Wales." Australian Zoologist 21.6 (1985): 531-544.
 
-Brunner, H., Lloyd, J., & Coman, B. (1975). Fox Scat Analysis in a Forest Park in South-Eastern Australia. Wildlife Research, 2(2), 147. doi:10.1071/wr9750147
+Green, K. (2002). Selective predation on the broad-toothed rat, Mastacomys fuscus (Rodentia: Muridae), by the introduced red fox, Vulpes vulpes (Carnivora: Canidae), in the Snowy Mountains, Australia. Austral Ecology, 27(4), 353–359. doi:10.1046/j.1442-9993.2002.01187.x 
+
+Green, K. (2003). Altitudinal and temporal differences in the food of foxes (Vulpes vulpes) at alpine and subalpine altitudes in the Snowy Mountains. Wildlife Research, 30(3), 245. doi:10.1071/wr02008 
+
+Green, K., & Osborne, W. (1981). The Diet of Foxes, Vulpes Vulpes (L.), In Relation to Abundance of Prey Above the Winter Snowline in New South Wales. Wildlife Research, 8(2), 349. doi:10.1071/wr9810349 
 
 Seebeck, J. H. (1978). Diet of the fox Vulpes vulpes in a western Victorian forest. Austral Ecology, 3(1), 105–108. doi:10.1111/j.1442-9993.1978.tb00856.x 
 

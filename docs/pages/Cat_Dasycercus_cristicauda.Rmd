@@ -53,17 +53,17 @@ There are no studies linking cats to mulgara populations.
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Dasycercus cristicauda* to cats. *A.* Systematic review of evidence for an association between *Dasycercus cristicauda* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of cats . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Dasycercus cristicauda.png)
+![**Fig. 1** Evidence linking *Dasycercus cristicauda* to cats. **A.** Systematic review of evidence for an association between *Dasycercus cristicauda* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Dasycercus cristicauda, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Dasycercus cristicauda.png)
 
 ### References
+
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+
+Mahon, P.S. (1999). Predation by feral cats and red foxes and the dynamics of small mammal populations in arid Australia. (PhD thesis, University of Sydney, Sydney).
 
 Paltridge, Rachel. "The diets of cats, foxes and dingoes in relation to prey availability in the Tanami Desert, Northern Territory." Wildlife Research 29.4 (2002): 389-403
 
 Vernes, Karl, et al. "Diets of mammalian carnivores in the deserts of north-eastern South Australia." Journal of Arid Environments 188 (2021): 104377.
-
-Mahon, P.S. (1999). Predation by feral cats and red foxes and the dynamics of small mammal populations in arid Australia. (PhD thesis, University of Sydney, Sydney).
-
-Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Wallach et al. 2023 In Submission
 

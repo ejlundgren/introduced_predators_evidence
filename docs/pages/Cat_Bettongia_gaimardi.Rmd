@@ -53,15 +53,15 @@ There are no studies evidencing a negative association between  cats and eastern
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Bettongia gaimardi* to cats. *A.* Systematic review of evidence for an association between *Bettongia gaimardi* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of cats . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Bettongia gaimardi.png)
+![**Fig. 1** Evidence linking *Bettongia gaimardi* to cats. **A.** Systematic review of evidence for an association between *Bettongia gaimardi* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Bettongia gaimardi, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Bettongia gaimardi.png)
 
 ### References
 
-Fancourt, B. A. (2014). Rapid decline in detections of the Tasmanian bettong (Bettongia gaimardi) following local incursion of feral cats (Felis catus). Australian Mammalogy, 36(2), 247. doi:10.1071/am14004 
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Evans, Maldwyn J., et al. "The ‘goldilocks zone’of predation: The level of fox control needed to select predator resistance in a reintroduced mammal in Australia." Biodiversity and Conservation 30.6 (2021): 1731-1752
 
-Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+Fancourt, B. A. (2014). Rapid decline in detections of the Tasmanian bettong (Bettongia gaimardi) following local incursion of feral cats (Felis catus). Australian Mammalogy, 36(2), 247. doi:10.1071/am14004 
 
 Wallach et al. 2023 In Submission
 

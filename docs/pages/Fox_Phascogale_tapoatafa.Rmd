@@ -53,13 +53,13 @@ There are no studies linking foxes to brush-tailed phascogale populations.
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Phascogale tapoatafa* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Phascogale tapoatafa.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Phascogale tapoatafa* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Phascogale tapoatafa, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Phascogale tapoatafa.png)
 
 ### References
-
-Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
 
 Pascoe, Jack H., et al. "Diet analysis of mammals, raptors and reptiles in a complex predator assemblage in the Blue Mountains, eastern Australia." Australian Journal of Zoology 59.5 (2012): 295-301.
 
 Wallach et al. 2023 In Submission
+
+Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
 
