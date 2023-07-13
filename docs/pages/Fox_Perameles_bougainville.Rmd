@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Western barred bandicoot**
 ### *Perameles bougainville*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN Claim: *The current major threats to the natural subpopulations of the species include: the accidental introduction of predators (introduced cats and foxes)'*
+IUCN Claim: *'The current major threats to the natural subpopulations of the species include: the accidental introduction of predators (introduced cats and foxes)''*
 
 </center>
 

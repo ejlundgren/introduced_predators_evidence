@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Smoky mouse**
 ### *Pseudomys fumeus*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *The species is significantly preyed upon by introduced Red Foxes (Vulpes vulpes), wild dogs (Canis lupus dingo), and feral Domestic Cats (Felis catus). '*
+IUCN Claim: *'The species is significantly preyed upon by introduced Red Foxes (Vulpes vulpes), wild dogs (Canis lupus dingo), and feral Domestic Cats (Felis catus). ''*
 
 </center>
 

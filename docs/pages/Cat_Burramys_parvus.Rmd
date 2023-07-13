@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Mountain pygmy possum**
 ### *Burramys parvus*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Critically Endangered**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *The population at Mt. Buller suffers from fragmentation and subpopulations here and around ski resorts in the Kosciuszko area have declined severely since 2000 due to: habitat destruction, predation by feral cats, and possibly low snow cover. '*
+IUCN Claim: *'The population at Mt. Buller suffers from fragmentation and subpopulations here and around ski resorts in the Kosciuszko area have declined severely since 2000 due to: habitat destruction, predation by feral cats, and possibly low snow cover. ''*
 
 </center>
 

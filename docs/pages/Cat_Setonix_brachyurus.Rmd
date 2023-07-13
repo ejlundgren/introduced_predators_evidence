@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Quokka**
 ### *Setonix brachyurus*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **N/A**
 
-IUCN Claim: * Predation by red foxes and possibly feral cats has led to a past decline of mainland populations.'*
+IUCN Claim: *' Predation by red foxes and possibly feral cats has led to a past decline of mainland populations.''*
 
 </center>
 

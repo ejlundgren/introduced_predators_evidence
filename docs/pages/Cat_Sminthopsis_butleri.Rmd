@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Carpentarian dunnart**
 ### *Sminthopsis butleri*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN Claim: *Exotic predators (cats and possibly dogs)'*
+IUCN Claim: *'Exotic predators (cats and possibly dogs)''*
 
 </center>
 

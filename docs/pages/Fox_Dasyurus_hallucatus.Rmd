@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Northern quoll**
 ### *Dasyurus hallucatus*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Endangered**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN Claim: *N/A'*
+IUCN Claim: *'N/A''*
 
 </center>
 

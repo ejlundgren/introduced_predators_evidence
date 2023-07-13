@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Western mouse**
 ### *Pseudomys occidentalis*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **N/A**
 
-IUCN Claim: *Predation by Red Foxes may be a threat, however, there was no population level response observed in areas where foxes have been controlled.'*
+IUCN Claim: *'Predation by Red Foxes may be a threat, however, there was no population level response observed in areas where foxes have been controlled.''*
 
 </center>
 

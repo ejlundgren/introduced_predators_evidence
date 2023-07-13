@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Eastern barred bandicoot**
 ### *Perameles gunnii*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *Eastern Barred Bandicoots probably disappeared from the mainland due to introduced predators and habitat destruction from introduced herbivores. Predation from red foxes is thought to have been particularly detrimental, and the recent introduction of foxes to Tasmania could pose a major threat to the species here. '*
+IUCN Claim: *'Eastern Barred Bandicoots probably disappeared from the mainland due to introduced predators and habitat destruction from introduced herbivores. Predation from red foxes is thought to have been particularly detrimental, and the recent introduction of foxes to Tasmania could pose a major threat to the species here. ''*
 
 </center>
 

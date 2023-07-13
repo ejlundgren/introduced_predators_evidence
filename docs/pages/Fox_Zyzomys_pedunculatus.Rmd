@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Central rock rat**
 ### *Zyzomys pedunculatus*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Critically Endangered**
 
 EPBC Threat Rating: **Minor**
 
-IUCN Claim: *Other threats may include predation by dogs or foxes;'*
+IUCN Claim: *'Other threats may include predation by dogs or foxes;''*
 
 </center>
 

@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Long-nosed potoroo**
 ### *Potorous tridactylus*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *The major threat is predation, especially by the invasive Red Fox but also by wild dogs and feral cats. '*
+IUCN Claim: *'The major threat is predation, especially by the invasive Red Fox but also by wild dogs and feral cats. ''*
 
 </center>
 

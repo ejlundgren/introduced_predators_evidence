@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Numbat**
 ### *Myrmecobius fasciatus*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **Very high/Extreme**
 
-IUCN Claim: *The introduction of the predatory Red Fox and feral cats has had a profound impact and continues to be a major threat today (Friend 2008).'*
+IUCN Claim: *'The introduction of the predatory Red Fox and feral cats has had a profound impact and continues to be a major threat today (Friend 2008).''*
 
 </center>
 

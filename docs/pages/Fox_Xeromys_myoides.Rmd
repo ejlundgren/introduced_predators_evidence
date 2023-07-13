@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Water mouse**
 ### *Xeromys myoides*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Minor**
 
-IUCN Claim: *N/A'*
+IUCN Claim: *'N/A''*
 
 </center>
 

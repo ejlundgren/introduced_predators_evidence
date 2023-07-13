@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Bilby**
 ### *Macrotis lagotis*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Extreme**
 
-IUCN Claim: *The major threat to the Bilby is predation by introduced red foxes and feral cats'*
+IUCN Claim: *'The major threat to the Bilby is predation by introduced red foxes and feral cats''*
 
 </center>
 

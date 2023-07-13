@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Mount Claro rock-wallaby**
 ### *Petrogale sharmani*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN Claim: *predation by feral cats'*
+IUCN Claim: *'predation by feral cats''*
 
 </center>
 

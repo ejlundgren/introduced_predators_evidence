@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Alexandria false antechinus**
 ### *Pseudantechinus mimulus*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN Claim: *predation by exotic predators'*
+IUCN Claim: *'predation by exotic predators''*
 
 </center>
 

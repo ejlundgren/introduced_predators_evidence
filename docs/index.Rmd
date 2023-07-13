@@ -4,7 +4,6 @@ output: html_document
 ---
 
 #### Supplementary data for Wallach et al. 2023 In Submission
-Download systematic review [here](pages/assets/data/Table S1.xlsx) and extinction timing [here](pages/assets/data/Table S2 years since arrival.csv)
 
 ::::{style="display: flex;"}
 :::{}

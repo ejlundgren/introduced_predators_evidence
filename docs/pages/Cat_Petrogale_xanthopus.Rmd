@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Yellow-footed rock-wallaby**
 ### *Petrogale xanthopus*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *N/A'*
+IUCN Claim: *'N/A''*
 
 </center>
 

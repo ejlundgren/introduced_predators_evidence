@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Carpentarian rock rat**
 ### *Zyzomys palatalis*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Critically Endangered**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *Predation by feral cats may be a threat '*
+IUCN Claim: *'Predation by feral cats may be a threat ''*
 
 </center>
 

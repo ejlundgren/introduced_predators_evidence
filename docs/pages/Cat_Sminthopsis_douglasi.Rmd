@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Julia Creek dunnart**
 ### *Sminthopsis douglasi*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *Exotic predators (especially cats and foxes)'*
+IUCN Claim: *'Exotic predators (especially cats and foxes)''*
 
 </center>
 

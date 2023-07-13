@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Platypus**
 ### *Ornithorhynchus anatinus*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **N/A**
 
-IUCN Claim: *Across its range, the Platypus is also subject to predation by the introduced Red Fox, dogs and cats.'*
+IUCN Claim: *'Across its range, the Platypus is also subject to predation by the introduced Red Fox, dogs and cats.''*
 
 </center>
 

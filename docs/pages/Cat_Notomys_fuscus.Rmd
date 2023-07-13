@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Dusky hopping mouse**
 ### *Notomys fuscus*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN Claim: *Predation by feral Domestic Cats (Felis catus; moderate to severe, across the entire range) and Red Foxes (Vulpes vulpes) represent another major threat'*
+IUCN Claim: *'Predation by feral Domestic Cats (Felis catus; moderate to severe, across the entire range) and Red Foxes (Vulpes vulpes) represent another major threat''*
 
 </center>
 

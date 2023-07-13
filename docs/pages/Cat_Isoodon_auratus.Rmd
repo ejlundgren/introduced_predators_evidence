@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Golden bandicoot**
 ### *Isoodon auratus*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN Claim: *The reasons for past declines of the Golden Bandicoot are predation by feral cats and red foxes'*
+IUCN Claim: *'The reasons for past declines of the Golden Bandicoot are predation by feral cats and red foxes''*
 
 </center>
 

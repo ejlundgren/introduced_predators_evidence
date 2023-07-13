@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Crest-tailed mulgara**
 ### *Dasycercus cristicauda*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *Threats are poorly understood but include predation by and competition with feral cats and Red Foxes,'*
+IUCN Claim: *'Threats are poorly understood but include predation by and competition with feral cats and Red Foxes,''*
 
 </center>
 

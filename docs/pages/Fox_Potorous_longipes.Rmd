@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Long-footed potoroo**
 ### *Potorous longipes*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *Major threats to the species include predation from foxes'*
+IUCN Claim: *'Major threats to the species include predation from foxes''*
 
 </center>
 

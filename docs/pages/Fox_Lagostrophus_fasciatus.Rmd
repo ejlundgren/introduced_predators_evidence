@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Banded hare-wallaby**
 ### *Lagostrophus fasciatus*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN Claim: *The species presumably was extirpated from mainland Australia by a combination of predation by the Red Fox and feral cat and habitat disturbance.'*
+IUCN Claim: *'The species presumably was extirpated from mainland Australia by a combination of predation by the Red Fox and feral cat and habitat disturbance.''*
 
 </center>
 

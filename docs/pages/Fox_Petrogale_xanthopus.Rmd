@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Yellow-footed rock-wallaby**
 ### *Petrogale xanthopus*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **Extreme**
 
-IUCN Claim: *Predation from introduced foxes is the greatest threat to Yellow-footed Rock Wallabies (Lapidge and Henshall 2001).'*
+IUCN Claim: *'Predation from introduced foxes is the greatest threat to Yellow-footed Rock Wallabies (Lapidge and Henshall 2001).''*
 
 </center>
 

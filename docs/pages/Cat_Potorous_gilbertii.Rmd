@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Gilbert's potoroo**
 ### *Potorous gilbertii*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Critically Endangered**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN Claim: *Predation by introduced red foxes and feral cats are the major threats'*
+IUCN Claim: *'Predation by introduced red foxes and feral cats are the major threats''*
 
 </center>
 

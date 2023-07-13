@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Western quoll**
 ### *Dasyurus geoffroii*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *Predation by introduced Red Fox and feral Cat are the major threats.'*
+IUCN Claim: *'Predation by introduced Red Fox and feral Cat are the major threats.''*
 
 </center>
 

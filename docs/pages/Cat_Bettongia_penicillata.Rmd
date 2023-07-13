@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Woylie**
 ### *Bettongia penicillata*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Critically Endangered**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN Claim: *The major reason for past decline has been predation by Red Foxes and feral cats'*
+IUCN Claim: *'The major reason for past decline has been predation by Red Foxes and feral cats''*
 
 </center>
 

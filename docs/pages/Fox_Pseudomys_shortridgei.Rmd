@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Heath mouse**
 ### *Pseudomys shortridgei*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **N/A**
 
-IUCN Claim: * Predation by Red Foxes (Vulpes vulpes; moderate, entire range)'*
+IUCN Claim: *' Predation by Red Foxes (Vulpes vulpes; moderate, entire range)''*
 
 </center>
 

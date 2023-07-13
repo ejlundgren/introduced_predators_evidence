@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Northern bettong**
 ### *Bettongia tropica*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Endangered**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN Claim: *The main threats tot his species are: Predation by feral cats (moderate to severe): feral Cats shown to be a significant predator of the closely-related Woylie in south-western Australia'*
+IUCN Claim: *'The main threats tot his species are: Predation by feral cats (moderate to severe): feral Cats shown to be a significant predator of the closely-related Woylie in south-western Australia''*
 
 </center>
 

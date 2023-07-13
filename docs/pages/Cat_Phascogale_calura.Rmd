@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Red-tailed phascogale**
 ### *Phascogale calura*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *Predation by feral cats is considered to be a severe threat over the species' entire range, but has not been quantified. Predation by the Red Fox is considered a minor threat because of the arboreal behaviour of phascogales.'*
+IUCN Claim: *'Predation by feral cats is considered to be a severe threat over the species' entire range, but has not been quantified. Predation by the Red Fox is considered a minor threat because of the arboreal behaviour of phascogales.''*
 
 </center>
 

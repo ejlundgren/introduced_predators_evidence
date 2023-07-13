@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Heath mouse**
 ### *Pseudomys shortridgei*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: * Predation by feral Domestic Cats (Felis catus; moderate, entire range):'*
+IUCN Claim: *' Predation by feral Domestic Cats (Felis catus; moderate, entire range):''*
 
 </center>
 

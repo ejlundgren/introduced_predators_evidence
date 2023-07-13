@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **New Holland mouse**
 ### *Pseudomys novaehollandiae*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *Domestic Cats (Felis catus) occur through entire range of this species, including Flinders Island. Cats are significant predators of native mice, but probably significantly affect subpopulations only when the habitat is open.'*
+IUCN Claim: *'Domestic Cats (Felis catus) occur through entire range of this species, including Flinders Island. Cats are significant predators of native mice, but probably significantly affect subpopulations only when the habitat is open.''*
 
 </center>
 

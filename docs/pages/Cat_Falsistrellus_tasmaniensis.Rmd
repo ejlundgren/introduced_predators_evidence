@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Eastern false pipistrelle**
 ### *Falsistrellus tasmaniensis*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **N/A**
 
-IUCN Claim: *threats from feral cats are pervasive'*
+IUCN Claim: *'threats from feral cats are pervasive''*
 
 </center>
 

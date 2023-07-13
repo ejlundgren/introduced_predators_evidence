@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Black-footed rock-wallaby**
 ### *Petrogale lateralis*
+### Blamed on foxes
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Extreme**
 
-IUCN Claim: *The main threat overall to this species on the mainland is predation from introduced Red Foxes, and foxes are known to have played a major role in the decline of the species historically. Predation by feral cats is also occurring.'*
+IUCN Claim: *'The main threat overall to this species on the mainland is predation from introduced Red Foxes, and foxes are known to have played a major role in the decline of the species historically. Predation by feral cats is also occurring.''*
 
 </center>
 

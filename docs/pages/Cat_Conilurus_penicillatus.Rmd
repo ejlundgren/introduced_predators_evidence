@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Brush-tailed rabbit rat**
 ### *Conilurus penicillatus*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN Claim: *Predation by feral cats is a likely major threat'*
+IUCN Claim: *'Predation by feral cats is a likely major threat''*
 
 </center>
 

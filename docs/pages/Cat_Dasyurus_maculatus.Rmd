@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Tiger quoll**
 ### *Dasyurus maculatus*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *Predation by foxes and dogs'*
+IUCN Claim: *'Predation by foxes and dogs''*
 
 </center>
 

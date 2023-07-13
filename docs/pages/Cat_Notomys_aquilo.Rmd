@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Northern hopping mouse**
 ### *Notomys aquilo*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Endangered**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *Feral cats, strip-mining (for manganese and bauxite), and changes in the fire regime are threats (Woinarski et al. 2014)'*
+IUCN Claim: *'Feral cats, strip-mining (for manganese and bauxite), and changes in the fire regime are threats (Woinarski et al. 2014)''*
 
 </center>
 

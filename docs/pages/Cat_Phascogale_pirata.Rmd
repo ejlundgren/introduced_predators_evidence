@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Northern brush-tailed phascogale**
 ### *Phascogale pirata*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *cats might be threats (Rhind et al. 2008).'*
+IUCN Claim: *'cats might be threats (Rhind et al. 2008).''*
 
 </center>
 

@@ -9,6 +9,7 @@ h1, h2, h3 {
 
 ## **Bridled nail-tail wallaby**
 ### *Onychogalea fraenata*
+### Blamed on cats
 
 :::: {style="display: flex;"}
 
@@ -34,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *The species is threatened by introduced predators, the Red Fox and feral Cat especially'*
+IUCN Claim: *'The species is threatened by introduced predators, the Red Fox and feral Cat especially''*
 
 </center>
 
