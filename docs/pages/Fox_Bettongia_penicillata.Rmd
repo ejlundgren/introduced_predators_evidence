@@ -53,7 +53,7 @@ There are no studies evidencing a negative association between foxes and woylie 
 <br>
 <br>
 
-![](assets/figures/Main_Evidence_Fox_Bettongia penicillata.png)
+![**Fig. 1** Evidence linking *Bettongia penicillata* to foxes. *A.* Systematic review of evidence for an association between *Bettongia penicillata* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of foxes . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Bettongia penicillata.png)
 
 ### References
 
@@ -78,6 +78,8 @@ Martin, Sheridan, Stephen Ball, and Paula Peeters. "Reintroduction of the brush-
 Priddel, D. and Wheeler, R. (2004). An experimental translocation of woylies (Bettongia penicillata) to western New South Wales. Wildlife Research 31: 421-432.
 
 Geary WL, Tulloch AI, Ritchie EG, Doherty TS, Nimmo DG, Maxwell MA, Wayne AF. 2023. Identifying historical and future global change drivers that place species recovery at risk. Global Change Biology https://doi.org/10.1111/gcb.16661
+
+Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
 Wallach et al. 2023 In Submission
 

@@ -53,7 +53,7 @@ There are no studies evidencing a negative association between cats and rufous h
 <br>
 <br>
 
-![](assets/figures/Main_Evidence_Cat_Lagorchestes hirsutus.png)
+![**Fig. 1** Evidence linking *Lagorchestes hirsutus* to cats. *A.* Systematic review of evidence for an association between *Lagorchestes hirsutus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of cats . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Lagorchestes hirsutus.png)
 
 ### References
 
@@ -68,6 +68,8 @@ Hardman, Blair, Dorian Moro, and Mike Calver. "Direct evidence implicates feral 
 Hardman, Blair, and Dorian Moro. "Optimising reintroduction success by delayed dispersal: is the release protocol important for hare-wallabies?." Biological Conservation 128.3 (2006): 403-411.
 
 Paltridge, R., Gibson, D., & Edwards, G. (1997). Diet of the Feral Cat (Felis catus) in Central Australia. Wildlife Research, 24(1), 67. doi:10.1071/wr96023 
+
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Wallach et al. 2023 In Submission
 

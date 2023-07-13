@@ -53,11 +53,13 @@ There are no studies evidencing a negative association between banded hare-walla
 <br>
 <br>
 
-![](assets/figures/Main_Evidence_Cat_Lagostrophus fasciatus.png)
+![**Fig. 1** Evidence linking *Lagostrophus fasciatus* to cats. *A.* Systematic review of evidence for an association between *Lagostrophus fasciatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of cats . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Lagostrophus fasciatus.png)
 
 ### References
 
 Hardman, Blair, Dorian Moro, and Mike Calver. "Direct evidence implicates feral cat predation as the primary cause of failure of a mammal reintroduction programme." Ecological Management & Restoration 17.2 (2016): 152-158.
+
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Wallach et al. 2023 In Submission
 

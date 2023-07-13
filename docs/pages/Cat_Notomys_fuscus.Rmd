@@ -53,7 +53,7 @@ Cats have been documeted among a range of ecological variables both negatively a
 <br>
 <br>
 
-![](assets/figures/Main_Evidence_Cat_Notomys fuscus.png)
+![**Fig. 1** Evidence linking *Notomys fuscus* to cats. *A.* Systematic review of evidence for an association between *Notomys fuscus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of cats . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Notomys fuscus.png)
 
 ### References
 
@@ -68,6 +68,8 @@ Letnic, Mike, and Freya Koch. "Are dingoes a trophic regulator in arid Australia
 Gordon, Christopher E., et al. "Mesopredator suppression by an apex predator alleviates the risk of predation perceived by small prey." Proceedings of the Royal Society B: Biological Sciences 282.1802 (2015): 20142870.
 
 Feit, B., Feit, A. & Letnic, M. Apex Predators Decouple Population Dynamics Between Mesopredators and Their Prey. Ecosystems 22, 1606–1617 (2019). https://doi.org/10.1007/s10021-019-00360-2
+
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Wallach et al. 2023 In Submission
 

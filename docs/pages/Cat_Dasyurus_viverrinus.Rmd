@@ -53,7 +53,7 @@ There are no studies linking cats to tiger quolls. In contradiction with the cla
 <br>
 <br>
 
-![](assets/figures/Main_Evidence_Cat_Dasyurus viverrinus.png)
+![**Fig. 1** Evidence linking *Dasyurus viverrinus* to cats. *A.* Systematic review of evidence for an association between *Dasyurus viverrinus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of cats . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Dasyurus viverrinus.png)
 
 ### References
 
@@ -64,6 +64,8 @@ Robinson, Natasha M., et al. "Be nimble with threat mitigation: lessons learned 
 Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historical hyperabundance in the quoll (Marsupialia: Dasyuridae) and an assessment of the role of disease, cats and foxes in its curtailment. Australian Journal of Zoology 62:294-344.
 
 Fancourt, Bronwyn A., et al. "Devil declines and catastrophic cascades: is mesopredator release of feral cats inhibiting recovery of the eastern quoll?." PLoS One 10.3 (2015): e0119303.
+
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Wallach et al. 2023 In Submission
 

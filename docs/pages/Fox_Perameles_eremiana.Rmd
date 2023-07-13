@@ -53,9 +53,11 @@ There are no studies evidencing a link between foxes and the extinction of deser
 <br>
 <br>
 
-![](assets/figures/Main_Evidence_Fox_Perameles eremiana.png)
+![**Fig. 1**  Last records of extirpated populations relative to earliest local records of foxes . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019](assets/figures/Main_Evidence_Fox_Perameles eremiana.png)
 
 ### References
+
+Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
 Wallach et al. 2023 In Submission
 

@@ -53,13 +53,15 @@ There are no studies evidencing a negative association between foxes and rufous 
 <br>
 <br>
 
-![](assets/figures/Main_Evidence_Fox_Lagorchestes hirsutus.png)
+![**Fig. 1** Evidence linking *Lagorchestes hirsutus* to foxes. *A.* Systematic review of evidence for an association between *Lagorchestes hirsutus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of foxes . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Lagorchestes hirsutus.png)
 
 ### References
 
 Lundie-Jenkins, G; Corbett, LK; Phillips, CM (1993). Ecology of the rufous hare-wallaby, Lagorchestes hirsutus Gould (Marsupialia : Macropodidae) in the Tanami Desert, Northern Territory. III Interactions with introduced mammal species.. Wildlife Research, 20(4), 495–. doi:10.1071/WR9930495 
 
 Gibson, D.F., Lundie-Jenkins, J., Langford, D., Cole, J.R. & Johnson, K.A. (1994) Predation by feral cats, Felis catus, on the rufous hare-wallaby, Lagorchestes hirsutus,
+
+Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
 Wallach et al. 2023 In Submission
 

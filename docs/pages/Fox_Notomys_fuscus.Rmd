@@ -53,7 +53,7 @@ Foxes have been documented among a range of ecological variables negatively corr
 <br>
 <br>
 
-![](assets/figures/Main_Evidence_Fox_Notomys fuscus.png)
+![**Fig. 1** Evidence linking *Notomys fuscus* to foxes. *A.* Systematic review of evidence for an association between *Notomys fuscus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of foxes . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Fairfax 2019 *Biol. Invasions*](assets/figures/Main_Evidence_Fox_Notomys fuscus.png)
 
 ### References
 
@@ -66,6 +66,8 @@ Letnic, Mike, and Freya Koch. "Are dingoes a trophic regulator in arid Australia
 Gordon, Christopher E., et al. "Mesopredator suppression by an apex predator alleviates the risk of predation perceived by small prey." Proceedings of the Royal Society B: Biological Sciences 282.1802 (2015): 20142870.
 
 Feit, B., Feit, A. & Letnic, M. Apex Predators Decouple Population Dynamics Between Mesopredators and Their Prey. Ecosystems 22, 1606–1617 (2019). https://doi.org/10.1007/s10021-019-00360-2
+
+Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
 Wallach et al. 2023 In Submission
 

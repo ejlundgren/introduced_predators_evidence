@@ -53,7 +53,7 @@ There are no studies linking foxes to northern quolls.
 <br>
 <br>
 
-![](assets/figures/Main_Evidence_Fox_Dasyurus hallucatus.png)
+![**Fig. 1**  Systematic review of evidence for an association between *Dasyurus hallucatus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Dasyurus hallucatus.png)
 
 ### References
 

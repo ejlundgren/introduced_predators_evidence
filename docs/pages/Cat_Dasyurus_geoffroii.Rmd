@@ -53,7 +53,7 @@ There are no studies evidencing a negative association between cats and western 
 <br>
 <br>
 
-![](assets/figures/Main_Evidence_Cat_Dasyurus geoffroii.png)
+![**Fig. 1** Evidence linking *Dasyurus geoffroii* to cats. *A.* Systematic review of evidence for an association between *Dasyurus geoffroii* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of cats . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Dasyurus geoffroii.png)
 
 ### References
 
@@ -68,6 +68,8 @@ Glen, A.S., Berry, O., Sutherland, D.R. et al. Forensic DNA confirms intraguil
 Comer, S., et al. "Integrating feral cat (Felis catus) control into landscape-scale introduced predator management to improve conservation prospects for threatened fauna: a case study from the south coast of Western Australia." Wildlife Research 47.8 (2020): 762-778.
 
 Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
+
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Wallach et al. 2023 In Submission
 

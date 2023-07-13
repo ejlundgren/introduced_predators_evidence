@@ -53,7 +53,7 @@ There are no studies liking cats with eastern barred bandicoot populations. In c
 <br>
 <br>
 
-![](assets/figures/Main_Evidence_Cat_Perameles gunnii.png)
+![**Fig. 1** Evidence linking *Perameles gunnii* to cats. *A.* Systematic review of evidence for an association between *Perameles gunnii* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of threatened mammals, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. *B.* Last records of extirpated populations relative to earliest local records of cats . Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Perameles gunnii.png)
 
 ### References
 
@@ -68,6 +68,8 @@ Lenghaus, Cornelis, David L. Obendorf, and Frank H. Wright. "Veterinary aspects 
 Groenewegen, Rebecca, et al. "Assisted colonisation trial of the eastern barred bandicoot (Perameles gunnii) to a fox-free island." Wildlife Research 44.7 (2017): 484-496.
 
 Winnard, Amy L., and Graeme Coulson. "Sixteen years of Eastern Barred Bandicoot Perameles gunnii reintroductions in Victoria: a review." Pacific Conservation Biology 14.1 (2008): 34-53.
+
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Wallach et al. 2023 In Submission
 
