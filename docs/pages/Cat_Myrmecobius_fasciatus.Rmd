@@ -35,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *'The introduction of the predatory Red Fox and feral cats has had a profound impact and continues to be a major threat today (Friend 2008).''*
+IUCN Claim: *"The introduction of the predatory Red Fox and feral cats has had a profound impact and continues to be a major threat today (Friend 2008).'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies linking cats to numbat populations.
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Myrmecobius fasciatus* to cats. **A.** Systematic review of evidence for an association between *Myrmecobius fasciatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Myrmecobius fasciatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Myrmecobius fasciatus.png)
+![Evidence linking *Myrmecobius fasciatus* to cats. **A.** Systematic review of evidence for an association between *Myrmecobius fasciatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Myrmecobius fasciatus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008.](assets/figures/Main_Evidence_Cat_Myrmecobius fasciatus.png)
 
 ### References
 

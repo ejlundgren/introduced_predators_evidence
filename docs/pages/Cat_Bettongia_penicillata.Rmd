@@ -35,7 +35,7 @@ IUCN Status: **Critically Endangered**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN Claim: *'The major reason for past decline has been predation by Red Foxes and feral cats''*
+IUCN Claim: *"The major reason for past decline has been predation by Red Foxes and feral cats'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies evidencing a negative association between cats and woylie p
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Bettongia penicillata* to cats. **A.** Systematic review of evidence for an association between *Bettongia penicillata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Bettongia penicillata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Bettongia penicillata.png)
+![Evidence linking *Bettongia penicillata* to cats. **A.** Systematic review of evidence for an association between *Bettongia penicillata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia penicillata*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008.](assets/figures/Main_Evidence_Cat_Bettongia penicillata.png)
 
 ### References
 

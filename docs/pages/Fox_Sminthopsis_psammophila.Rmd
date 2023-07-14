@@ -35,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *'Major threats are predation by feral cats and Red Foxes''*
+IUCN Claim: *"Major threats are predation by feral cats and Red Foxes'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies linking foxes to sandhill dunnarts.
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Sminthopsis psammophila* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Sminthopsis psammophila, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Sminthopsis psammophila.png)
+![ Systematic review of evidence for an association between *Sminthopsis psammophila* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Sminthopsis psammophila, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Sminthopsis psammophila.png)
 
 ### References
 

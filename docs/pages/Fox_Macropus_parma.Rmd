@@ -35,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **N/A**
 
-IUCN Claim: *'Forest fragmentation combined with predation from foxes appear to be the principal reasons for the decline of the species. Grazing and burning regimes that affect availability of shelter are a disadvantage to populations (Maxwell et al. 1996). Reintroductions of the species have been unsuccessful due to fox predation.''*
+IUCN Claim: *"Forest fragmentation combined with predation from foxes appear to be the principal reasons for the decline of the species. Grazing and burning regimes that affect availability of shelter are a disadvantage to populations (Maxwell et al. 1996). Reintroductions of the species have been unsuccessful due to fox predation.'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies evidencing a negative association between  foxes and parma 
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Macropus parma* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Macropus parma, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Macropus parma.png)
+![ Systematic review of evidence for an association between *Macropus parma* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Macropus parma, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Macropus parma.png)
 
 ### References
 

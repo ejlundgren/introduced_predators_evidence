@@ -35,7 +35,7 @@ IUCN Status: **Critically Endangered**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN Claim: *'Predation by introduced red foxes and feral cats are the major threats''*
+IUCN Claim: *"Predation by introduced red foxes and feral cats are the major threats'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies linking foxes to Gilbert's potoroo.
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Potorous gilbertii* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Potorous gilbertii, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Potorous gilbertii.png)
+![ Systematic review of evidence for an association between *Potorous gilbertii* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Potorous gilbertii, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Potorous gilbertii.png)
 
 ### References
 

@@ -35,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *'predation by feral cats''*
+IUCN Claim: *"predation by feral cats'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies linking cats to scaly-tailed possums.
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Wyulda squamicaudata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Wyulda squamicaudata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Wyulda squamicaudata.png)
+![ Systematic review of evidence for an association between *Wyulda squamicaudata* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Wyulda squamicaudata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Wyulda squamicaudata.png)
 
 ### References
 

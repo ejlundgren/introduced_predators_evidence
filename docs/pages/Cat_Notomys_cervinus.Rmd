@@ -35,7 +35,7 @@ IUCN Status: **Near Threatened**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *'The major threat is predation by feral Domestic Cats (Felis catus; moderate, entire range), Red Foxes (Vulpes vulpes; minor, entire range)''*
+IUCN Claim: *"The major threat is predation by feral Domestic Cats (Felis catus; moderate, entire range), Red Foxes (Vulpes vulpes; minor, entire range)'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies linking cats to fawn hopping mice.
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Notomys cervinus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Notomys cervinus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Notomys cervinus.png)
+![ Systematic review of evidence for an association between *Notomys cervinus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Notomys cervinus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Notomys cervinus.png)
 
 ### References
 

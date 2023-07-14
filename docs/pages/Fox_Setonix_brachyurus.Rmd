@@ -35,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **N/A**
 
-IUCN Claim: *' Predation by red foxes and possibly feral cats has led to a past decline of mainland populations. Fox control has led to an increase in numbers in some areas.''*
+IUCN Claim: *" Predation by red foxes and possibly feral cats has led to a past decline of mainland populations. Fox control has led to an increase in numbers in some areas.'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies evidencing a negative association between  foxes and quokka
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Setonix brachyurus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of Setonix brachyurus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Setonix brachyurus.png)
+![ Systematic review of evidence for an association between *Setonix brachyurus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Setonix brachyurus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Setonix brachyurus.png)
 
 ### References
 

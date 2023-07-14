@@ -35,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *'cats might be threats (Rhind et al. 2008).''*
+IUCN Claim: *"cats might be threats (Rhind et al. 2008).'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies linking cats to northern brush-tailed phascogale.
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Phascogale pirata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Phascogale pirata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Phascogale pirata.png)
+![ Systematic review of evidence for an association between *Phascogale pirata* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Phascogale pirata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Phascogale pirata.png)
 
 ### References
 

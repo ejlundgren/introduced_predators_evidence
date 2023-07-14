@@ -35,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *'The species is threatened by introduced predators, the Red Fox and feral Cat especially''*
+IUCN Claim: *"The species is threatened by introduced predators, the Red Fox and feral Cat especially'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies linking cats to nail-tail wallaby populations.
 <br>
 <br>
 
-![**Fig. 1** Evidence linking *Onychogalea fraenata* to cats. **A.** Systematic review of evidence for an association between *Onychogalea fraenata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Onychogalea fraenata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Small points show unconfirmed records (excluded from analyses). Predator arrival records were digitized from Abbott 2008 *Conservation Science Western Australia*](assets/figures/Main_Evidence_Cat_Onychogalea fraenata.png)
+![Evidence linking *Onychogalea fraenata* to cats. **A.** Systematic review of evidence for an association between *Onychogalea fraenata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Onychogalea fraenata*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008.](assets/figures/Main_Evidence_Cat_Onychogalea fraenata.png)
 
 ### References
 

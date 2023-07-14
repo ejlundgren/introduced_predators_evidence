@@ -35,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN Claim: *'Predation by feral cats is a likely major threat''*
+IUCN Claim: *"Predation by feral cats is a likely major threat'"*
 
 </center>
 
@@ -53,7 +53,7 @@ Cats are among a range of ecological variables negatively correlated with rat ab
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Conilurus penicillatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Conilurus penicillatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Conilurus penicillatus.png)
+![ Systematic review of evidence for an association between *Conilurus penicillatus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Conilurus penicillatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Conilurus penicillatus.png)
 
 ### References
 

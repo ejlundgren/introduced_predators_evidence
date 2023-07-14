@@ -35,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **N/A**
 
-IUCN Claim: *'Feral cats are present in rainforests of Australia and with its slow and hovering flight, P. papuensis may be susceptible to additional predation pressure from introduced predators''*
+IUCN Claim: *"Feral cats are present in rainforests of Australia and with its slow and hovering flight, P. papuensis may be susceptible to additional predation pressure from introduced predators'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies linking cats to bats.
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Phoniscus papuensis* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Phoniscus papuensis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Phoniscus papuensis.png)
+![ Systematic review of evidence for an association between *Phoniscus papuensis* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Phoniscus papuensis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Phoniscus papuensis.png)
 
 ### References
 

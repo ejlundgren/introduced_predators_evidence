@@ -35,7 +35,7 @@ IUCN Status: **Vulnerable**
 
 EPBC Threat Rating: **Minor**
 
-IUCN Claim: *'N/A''*
+IUCN Claim: *"N/A'"*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies linking cats to brush-tailed rock-wallaby populations.
 <br>
 <br>
 
-![**Fig. 1**  Systematic review of evidence for an association between *Petrogale penicillata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of Petrogale penicillata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Petrogale penicillata.png)
+![ Systematic review of evidence for an association between *Petrogale penicillata* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Petrogale penicillata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Petrogale penicillata.png)
 
 ### References
 
