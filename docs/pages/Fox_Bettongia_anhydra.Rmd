@@ -53,7 +53,7 @@ There are on studies evidencing a link between foxes and the extinction of deser
 <br>
 <br>
 
-![ Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019.](assets/figures/Main_Evidence_Fox_Bettongia anhydra.png)
+![**Evidence linking *Bettongia anhydra* to foxes.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019.](assets/figures/Main_Evidence_Fox_Bettongia anhydra.png)
 
 ### References
 

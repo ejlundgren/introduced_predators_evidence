@@ -53,7 +53,7 @@ Foxes have been documented among a range of ecological variables negatively corr
 <br>
 <br>
 
-![Evidence linking *Notomys fuscus* to foxes. **A.** Systematic review of evidence for an association between *Notomys fuscus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Notomys fuscus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019.](assets/figures/Main_Evidence_Fox_Notomys fuscus.png)
+![**Evidence linking *Notomys fuscus* to foxes.** **A.** Systematic review of evidence for an association between *Notomys fuscus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Notomys fuscus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019.](assets/figures/Main_Evidence_Fox_Notomys fuscus.png)
 
 ### References
 

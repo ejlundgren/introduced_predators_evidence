@@ -53,7 +53,7 @@ There are no studies evidencing a link between cats and the extinction of desert
 <br>
 <br>
 
-![ Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008.](assets/figures/Main_Evidence_Cat_Caloprymnus campestris.png)
+![**Evidence linking *Caloprymnus campestris* to cats.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008.](assets/figures/Main_Evidence_Cat_Caloprymnus campestris.png)
 
 ### References
 

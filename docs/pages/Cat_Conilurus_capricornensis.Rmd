@@ -53,7 +53,7 @@ There are no studies evidencing a link between cats and the extinction of Capric
 <br>
 <br>
 
-![ Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008.](assets/figures/Main_Evidence_Cat_Conilurus capricornensis.png)
+![**Evidence linking *Conilurus capricornensis* to cats.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008.](assets/figures/Main_Evidence_Cat_Conilurus capricornensis.png)
 
 ### References
 

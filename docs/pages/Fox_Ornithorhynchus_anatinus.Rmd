@@ -53,7 +53,7 @@ There are no studies linking foxes to platypus populations.
 <br>
 <br>
 
-![ Systematic review of evidence for an association between *Ornithorhynchus anatinus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Ornithorhynchus anatinus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Ornithorhynchus anatinus.png)
+![**Evidence linking *Ornithorhynchus anatinus* to foxes.** Systematic review of evidence for an association between *Ornithorhynchus anatinus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Ornithorhynchus anatinus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Ornithorhynchus anatinus.png)
 
 ### References
 

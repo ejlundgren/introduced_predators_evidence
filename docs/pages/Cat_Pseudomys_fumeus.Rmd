@@ -53,7 +53,7 @@ There are no studies linking cats to smoky mouse populations.
 <br>
 <br>
 
-![ Systematic review of evidence for an association between *Pseudomys fumeus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Pseudomys fumeus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Pseudomys fumeus.png)
+![**Evidence linking *Pseudomys fumeus* to cats.** Systematic review of evidence for an association between *Pseudomys fumeus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Pseudomys fumeus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Pseudomys fumeus.png)
 
 ### References
 

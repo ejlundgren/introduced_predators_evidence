@@ -53,7 +53,7 @@ There are no studies evidencing a link between foxes and the extinction of lesse
 <br>
 <br>
 
-![ Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019.](assets/figures/Main_Evidence_Fox_Macrotis leucura.png)
+![**Evidence linking *Macrotis leucura* to foxes.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019.](assets/figures/Main_Evidence_Fox_Macrotis leucura.png)
 
 ### References
 

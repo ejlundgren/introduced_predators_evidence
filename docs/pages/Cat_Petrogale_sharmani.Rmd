@@ -53,7 +53,7 @@ There are no studies linking cats to Mount Clarorock rock-wallabies.
 <br>
 <br>
 
-![ Systematic review of evidence for an association between *Petrogale sharmani* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Petrogale sharmani, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Petrogale sharmani.png)
+![**Evidence linking *Petrogale sharmani* to cats.** Systematic review of evidence for an association between *Petrogale sharmani* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Petrogale sharmani, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Petrogale sharmani.png)
 
 ### References
 
