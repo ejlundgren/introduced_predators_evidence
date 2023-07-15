@@ -13,11 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-::: {}
-  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
-  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
-  ```
-:::
+[![](assets/photos/Isoodon auratus.png)](https://www.inaturalist.org/photos/6235137?size=original)
 
 ::: {}
 
@@ -45,7 +41,7 @@ Bandicoots were last confirmed in the Nullarbor 10 years after foxes arrived (Wa
 
 ### Studies not in support
 
-Foxes were not among predators of reintroduced bandicoots (Christensen & Burrows 1995). Bandicoots were last confirmed in NSW 46 years before foxes arrived (Wallach et al. 202X).
+Foxes were not among predators of reintroduced bandicoots (Christensen & Burrows 1995; Blythman et al. 2020). Bandicoots were last confirmed in NSW 46 years before foxes arrived (Wallach et al. 202X).
 
 ### Is the threat claim evidence-based?
 

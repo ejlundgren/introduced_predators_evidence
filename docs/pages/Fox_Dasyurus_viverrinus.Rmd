@@ -13,11 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-::: {}
-  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
-  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
-  ```
-:::
+[![](assets/photos/Dasyurus viverrinus.png)](https://www.inaturalist.org/photos/114390835?size=original)
 
 ::: {}
 
@@ -41,7 +37,7 @@ IUCN Claim: *"predation by introduced feral cats and red foxes'"*
 
 ### Studies in support
 
-Foxes or another canid (Canis sp.) were the main predators of a group of captive-raised reintroduced quolls (Robinson et al. 2020; Robinson et al. 2021). Historical records suggest foxes hunted or scavenged quolls when quolls were abundant (Peacock & Abbott 2014). Quolls were last confirmed in NSW 54 years after foxes arrived (Wallach et al. 202X).
+Foxes or another canid (Canis sp.) were the main predators of a group of captive-raised reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Historical records suggest foxes hunted or scavenged quolls when quolls were abundant (Peacock & Abbott 2014). Quolls were last confirmed in NSW 54 years after foxes arrived (Wallach et al. 202X).
 
 ### Studies not in support
 

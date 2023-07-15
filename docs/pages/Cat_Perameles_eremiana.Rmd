@@ -14,9 +14,9 @@ h1, h2, h3 {
 :::: {style="display: flex;"}
 
 ::: {}
-  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
-  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
-  ```
+
+[![](assets/photos/Perameles eremiana.png)](https://en.wikipedia.org/wiki/Desert_bandicoot#/media/File:Perameles_eremiana.jpg)
+
 :::
 
 ::: {}

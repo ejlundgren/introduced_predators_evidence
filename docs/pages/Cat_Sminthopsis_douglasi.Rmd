@@ -13,11 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-::: {}
-  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
-  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
-  ```
-:::
+[![](assets/photos/Sminthopsis douglasi.png)](https://www.inaturalist.org/photos/196659339?size=original)
 
 ::: {}
 
@@ -41,11 +37,11 @@ IUCN Claim: *"Exotic predators (especially cats and foxes)'"*
 
 ### Studies in support
 
-Cats hunt them (Kutt 2003; Kutt 2011; Kutt 2012; Mifsud & Woolley 2012).
+Cats hunt Julia Creek dunnarts (Kutt 2003; Kutt 2011; Kutt 2012; Mifsud & Woolley 2012).
 
 ### Studies not in support
 
-Cats do not select for Smithopsis dunnarts (Kutt 2012).
+Cats do not select for Smithopsis spp. (Kutt 2012).
 
 ### Is the threat claim evidence-based?
 

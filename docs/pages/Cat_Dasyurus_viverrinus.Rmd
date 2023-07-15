@@ -13,11 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-::: {}
-  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
-  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
-  ```
-:::
+[![](assets/photos/Dasyurus viverrinus.png)](https://www.inaturalist.org/photos/114390835?size=original)
 
 ::: {}
 
@@ -45,7 +41,7 @@ No studies
 
 ### Studies not in support
 
-Fancourt et al. (2015) found no evidence of a negative correlation between quoll and cat abundance. Cats were not among predators of reintroduced quolls (Robinson et al. 2020; Robinson et al. 2021). Quolls were last confirmed in NSW 148 years after cats arrived and continue to co-occurr on Tasmania after two centuries (Wallach et al. 202X).
+Fancourt et al. (2015) found no evidence of a negative correlation between quoll and cat abundance. Cats were not among predators of reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Quolls were last confirmed in NSW 148 years after cats arrived and continue to co-occurr on Tasmania after two centuries (Wallach et al. 202X).
 
 ### Is the threat claim evidence-based?
 

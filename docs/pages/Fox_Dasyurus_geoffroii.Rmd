@@ -13,11 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-::: {}
-  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
-  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
-  ```
-:::
+[![](assets/photos/Dasyurus geoffroii.png)](https://www.inaturalist.org/photos/30906138?size=original)
 
 ::: {}
 
@@ -41,11 +37,11 @@ IUCN Claim: *"Predation by introduced Red Fox and feral Cat are the major threat
 
 ### Studies in support
 
-Quoll population increased after poison baiting was intensified, but no evidence provided the baiting impacted foxes (Morris et al. 2003). Quoll abundance was higher at poison baited sites compared to controls, though not at statistical significance, fox abundance was not monitored, and sites not selected randomly (Wayne et al. 2011). Quoll population increased and then declined where poison baiting was conducted, and at one site it was observed but not evidenced that the population increased (Orell 2004; DEC 2012). A translocation failed at a site not intensively poison baited, and a quoll sighting occurred where poison baiting was intensive (Kinnear et al. 2002). Poison baiting targeting cats was associated with a decline in foxes, but temporal association with quoll abundance wasn’t analysed and association between fox and quoll abundance was unclear (Comer et al. 2020). Quolls were last confirmed 7 and 26 years after foxes arrived in the Eyre Peninsula and Nullarbor, respectively (Wallach et al. 202X).
+Quoll population increased after poison-baiting was intensified, but no evidence provided the baiting impacted foxes (Morris et al. 2003). Quoll abundance was higher at poison-baited sites compared to controls, though not at statistical significance, fox abundance was not monitored, and sites not selected randomly (Wayne et al. 2011). Quoll population increased and then declined where poison-baiting was conducted, and at one site it was observed but not evidenced that the population increased (Orell 2004; DEC 2012). A translocation failed at a site not intensively poison-baited, and a quoll sighting occurred where poison-baiting was intensive (Kinnear et al. 2002). poison-baiting targeting cats was associated with a decline in foxes, but temporal association with quoll abundance wasn’t analysed and association between fox and quoll abundance was unclear (Comer et al. 2020). Quolls were last confirmed 7 and 26 years after foxes arrived in the Eyre Peninsula and Nullarbor, respectively (Wallach et al. 202X).
 
 ### Studies not in support
 
-Increased poison baiting intensity relative to quoll abundance overlapped with zero, and no data on foxes, nor control sites without poisoning were included (Geary et al. 2023). Foxes were not among predators of translocated quolls (Moseby et al. 2015; Moseby et al. 2021a; Moseby et al. 2021b). Quoll abundance increased and fox abundance also increased but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017). Quolls were last confirmed in NSW 46 years before foxes arrived (Wallach et al. 202X).
+Increased poison-baiting intensity relative to quoll abundance overlapped with zero, and no data on foxes, nor control sites without poisoning were included (Geary et al. 2023). Foxes were not among predators of translocated quolls (Moseby et al. 2015; Moseby et al. 2021a; Moseby et al. 2021b). Quoll abundance increased and fox abundance also increased but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017). Quolls were last confirmed in NSW 46 years before foxes arrived (Wallach et al. 202X).
 
 ### Is the threat claim evidence-based?
 

@@ -13,11 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-::: {}
-  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
-  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
-  ```
-:::
+[![](assets/photos/Pseudantechinus mimulus.png)](https://www.phylopic.org/images/295cd9f7-eef2-441e-ba7e-40c772ca7611/antechinus-flavipes)
 
 ::: {}
 

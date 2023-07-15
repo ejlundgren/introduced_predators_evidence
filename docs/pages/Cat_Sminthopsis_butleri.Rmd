@@ -13,11 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-::: {}
-  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
-  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
-  ```
-:::
+[![](assets/photos/Sminthopsis butleri.png)](https://en.wikipedia.org/wiki/Carpentarian_dunnart#/media/File:Sminthopsis_Butleri.jpg)
 
 ::: {}
 
@@ -41,7 +37,7 @@ IUCN Claim: *"Exotic predators (cats and possibly dogs)'"*
 
 ### Studies in support
 
-Dunnarts were among small mammals negatively correlated with cat occupancy (Stobo-Wilson et al. 2020a)
+Carpentarian dunnarts were among small mammals negatively correlated with cat occupancy (Stobo-Wilson et al. 2020a)
 
 ### Studies not in support
 

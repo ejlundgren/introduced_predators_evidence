@@ -13,11 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-::: {}
-  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
-  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
-  ```
-:::
+[![](assets/photos/Perameles gunnii.png)](https://www.inaturalist.org/photos/470373?size=original)
 
 ::: {}
 
@@ -49,7 +45,7 @@ Cook et al. (2010) found no correlation between fox and bandicoot abundance. Lon
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidence a negative association between foxes and eastern barred bandicoot populations. Poison baiting is not a reliable proxy of fox abundance. In contradiction with the claim, the two species co-occurred for over a century.
+There are no studies evidence a negative association between foxes and eastern barred bandicoot populations. poison-baiting is not a reliable proxy of fox abundance. In contradiction with the claim, the two species co-occurred for over a century.
 <br>
 <br>
 

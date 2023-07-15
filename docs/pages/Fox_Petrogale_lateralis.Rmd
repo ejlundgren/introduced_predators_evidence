@@ -13,11 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-::: {}
-  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
-  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
-  ```
-:::
+[![](assets/photos/Petrogale lateralis.png)](Arian Wallach)
 
 ::: {}
 
@@ -49,7 +45,7 @@ Rock wallabies were not detected in the stomach contents of 14 foxes (Read et al
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between foxes and black-footed rock-wallaby populations. Poison baiting is not a reliable proxy for fox abundance.
+There are no studies evidencing a negative association between foxes and black-footed rock-wallaby populations. poison-baiting is not a reliable proxy for fox abundance.
 <br>
 <br>
 

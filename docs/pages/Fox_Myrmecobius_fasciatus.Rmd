@@ -13,11 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-::: {}
-  ```{r icon, echo=FALSE, fig.cap="", out.width = '100%'}
-  knitr::include_graphics("assets/phylopics/PLACEHOLDER_ready.png")
-  ```
-:::
+[![](assets/photos/Myrmecobius fasciatus.png)](https://www.inaturalist.org/photos/62718512?size=original)
 
 ::: {}
 
@@ -41,7 +37,7 @@ IUCN Claim: *"The introduction of the predatory Red Fox and feral cats has had a
 
 ### Studies in support
 
-A poison baiting campaign initiated in 1982 was followed by a population increase (Friend 1990) until 1992 (Friend & Thomas 1994), after which the population crashed (Friend & Page 2017).
+A poison-baiting campaign initiated in 1982 was followed by a population increase (Friend 1990) until 1992 (Friend & Thomas 1994), after which the population crashed (Friend & Page 2017).
 
 ### Studies not in support
 
@@ -49,7 +45,7 @@ Foxes were not the main cause of mortality nor the main predator of reintroduced
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between numbats and foxes. Poison baiting is not a reliable proxy for fox abundance. In contradiction with the claim, the extirpation record pre-dates the fox arrival record.
+There are no studies evidencing a negative association between numbats and foxes. Poison-baiting is not a reliable proxy for fox abundance. In contradiction with the claim, the extirpation record pre-dates the fox arrival record.
 <br>
 <br>
 
