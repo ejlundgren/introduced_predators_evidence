@@ -15,7 +15,7 @@ h1, h2, h3 {
 
 ::: {}
 
-NA
+![](assets/photos/Notomys amplus.png)
 
 :::
 
@@ -32,9 +32,9 @@ NA
 ::::
 
 <center>
-IUCN Status: **Extinct**
+IUCN status: **Extinct**
 
-Last Seen: *Notomys amplus were last seen in 1896 in Charlotte Waters, NT*
+Last seen: *Notomys amplus were last seen in 1896 in Charlotte Waters, NT*
 
 </center>
 

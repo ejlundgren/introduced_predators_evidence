@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Near Threatened**
+IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Extreme**
 
-IUCN Claim: *"Predation from introduced foxes is the greatest threat to Yellow-footed Rock Wallabies (Lapidge and Henshall 2001).'"*
+IUCN claim: *"Predation from introduced foxes is the greatest threat to Yellow-footed Rock Wallabies (Lapidge and Henshall 2001)."*
 
 </center>
 
@@ -52,6 +52,8 @@ There are no studies evidencing a negative association between foxes and yellow-
 ![**Evidence linking *Petrogale xanthopus* to foxes.** Systematic review of evidence for an association between *Petrogale xanthopus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Petrogale xanthopus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Petrogale xanthopus.png)
 
 ### References
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Hornsby, P. "Possible causes of mortality in the yellow-footed rock-wallaby, Petrogale xanthopus Gray (Marsupialia: Macropodidae)." Australian Mammalogy 19.2 (1997): 245-248.
 

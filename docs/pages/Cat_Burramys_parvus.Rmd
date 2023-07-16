@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Critically Endangered**
+IUCN status: **Critically Endangered**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"The population at Mt. Buller suffers from fragmentation and subpopulations here and around ski resorts in the Kosciuszko area have declined severely since 2000 due to: habitat destruction, predation by feral cats, and possibly low snow cover. '"*
+IUCN claim: *"The population at Mt. Buller suffers from fragmentation and subpopulations here and around ski resorts in the Kosciuszko area have declined severely since 2000 due to: habitat destruction, predation by feral cats, and possibly low snow cover. "*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies linking cats to pygmy possum populations.
 ### References
 
 
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Wallach et al. 2023 In Submission
 

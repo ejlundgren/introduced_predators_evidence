@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Extreme**
 
-IUCN Claim: *"The major threat to the Bilby is predation by introduced red foxes and feral cats'"*
+IUCN claim: *"The major threat to the Bilby is predation by introduced red foxes and feral cats"*
 
 </center>
 
@@ -54,6 +54,8 @@ The evidence for a negative association between foxes and bilby populations is i
 ### References
 
 Abbott, Ian. "The bilby Macrotis lagotis (Marsupialia: Peramelidae) in south-western Australia: original range limits, subsequent decline, and presumed regional extinction." RECORDS-WESTERN AUSTRALIAN MUSEUM 20.3 (2001): 271-306.
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

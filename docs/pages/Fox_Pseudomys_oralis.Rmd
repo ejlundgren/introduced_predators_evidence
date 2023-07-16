@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *"Predation by Red Foxes (moderate): '"*
+IUCN claim: *"Predation by Red Foxes (moderate): "*
 
 </center>
 
@@ -52,6 +52,8 @@ There are no studies linking cats to Hastings River mouse populations.
 ![**Evidence linking *Pseudomys oralis* to foxes.** Systematic review of evidence for an association between *Pseudomys oralis* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Pseudomys oralis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Pseudomys oralis.png)
 
 ### References
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Meek, P. D., and B. Triggs. "A record of Hastings River mouse (Pseudomys oralis) in a fox (Vulpes vulpes) scat from New South Wales (vol 121, pg 194, 1999)." PROCEEDINGS OF THE LINNEAN SOCIETY OF NEW SOUTH WALES. Vol. 122. PO BOX 137, MATRAVILLE, NEW SOUTH WALES, 2036, AUSTRALIA: LINNEAN SOC NEW SOUTH WALES, 2000.
 

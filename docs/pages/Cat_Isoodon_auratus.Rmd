@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN Claim: *"The reasons for past declines of the Golden Bandicoot are predation by feral cats and red foxes'"*
+IUCN claim: *"The reasons for past declines of the Golden Bandicoot are predation by feral cats and red foxes"*
 
 </center>
 
@@ -60,6 +60,8 @@ Blythman, Mark, et al. "Translocation of golden bandicoots, Isoodon auratus barr
 Christensen, P., and N. Burrows. "Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia." Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp (1995): 199-207.
 
 Doherty, T.S., Dickman, C.R., Johnson, C.N., Legge, S.M., Ritchie, E.G., and Woinarski, J.C.Z. (2017) Impacts and management of feral cats Felis catus in Australia. Mammal Review. 47 (2) 83-97; which has been published in final form at https://doi.org/10.1111/mam.12080
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
 

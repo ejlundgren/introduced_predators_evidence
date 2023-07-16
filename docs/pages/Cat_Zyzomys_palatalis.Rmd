@@ -13,7 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-[![](assets/photos/Zyzomys palatalis.png)](https://commons.wikimedia.org/wiki/File:Zyzomys_pedunculatus.jpg)
+![](assets/photos/Zyzomys palatalis.png)
 
 ::: {}
 
@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Critically Endangered**
+IUCN status: **Critically Endangered**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"Predation by feral cats may be a threat '"*
+IUCN claim: *"Predation by feral cats may be a threat "*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies linking cats to Carpentarian rock rats.
 ### References
 
 
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Wallach et al. 2023 In Submission
 

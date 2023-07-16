@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Moderate**
+EPBC Threat Rating: **A threat**
 
-IUCN Claim: *"Predation by Red Foxes (moderate to minor): there is no direct evidence of significant predation on this species by Red Fox (Vulpes vulpes). Predation of similar-sized Pseudomys elsewhere is not significant at the population level.'"*
+IUCN claim: *"Predation by Red Foxes (moderate to minor): there is no direct evidence of significant predation on this species by Red Fox (Vulpes vulpes). Predation of similar-sized Pseudomys elsewhere is not significant at the population level."*
 
 </center>
 
@@ -52,6 +52,8 @@ There are no studies linking foxes to New Holland mouse populations.
 ![**Evidence linking *Pseudomys novaehollandiae* to foxes.** Systematic review of evidence for an association between *Pseudomys novaehollandiae* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Pseudomys novaehollandiae, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Pseudomys novaehollandiae.png)
 
 ### References
+
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Mitchell, Bruce D., and Peter B. Banks. "Do wild dogs exclude foxes? Evidence for competition from dietary and spatial overlaps." Austral Ecology 30.5 (2005): 581-591.
 

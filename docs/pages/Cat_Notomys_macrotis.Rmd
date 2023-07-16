@@ -15,7 +15,7 @@ h1, h2, h3 {
 
 ::: {}
 
-NA
+![](assets/photos/Notomys macrotis.png)
 
 :::
 
@@ -32,9 +32,9 @@ NA
 ::::
 
 <center>
-IUCN Status: **Extinct**
+IUCN status: **Extinct**
 
-Last Seen: *Notomys macrotis were last seen in 1844 in New Norcia, WA*
+Last seen: *Notomys macrotis were last seen in 1844 in New Norcia, WA*
 
 </center>
 

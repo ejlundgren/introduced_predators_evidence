@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Near Threatened**
+IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"The major threat is predation, especially by the invasive Red Fox but also by wild dogs and feral cats. '"*
+IUCN claim: *"The major threat is predation, especially by the invasive Red Fox but also by wild dogs and feral cats. "*
 
 </center>
 
@@ -58,6 +58,8 @@ Claridge, A. W., Mills, D. J., & Barry, S. C. (2010). Prevalence of threatened n
 Davis, Naomi E., et al. "Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia." PloS one 10.3 (2015): e0120975
 
 Dexter, Nick, and Andy Murray. "The impact of fox control on the relative abundance of forest mammals in East Gippsland, Victoria." Wildlife Research 36.3 (2009): 252-261
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Glen, A. S., and C. R. Dickman. "Niche overlap between marsupial and eutherian carnivores: does competition threaten the endangered spotted?tailed quoll?."†Journal of applied Ecology†45.2 (2008): 700-707.
 

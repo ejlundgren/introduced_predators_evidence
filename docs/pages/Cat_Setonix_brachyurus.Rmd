@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **N/A**
+EPBC Threat Rating: **Not assessed**
 
-IUCN Claim: *" Predation by red foxes and possibly feral cats has led to a past decline of mainland populations.'"*
+IUCN claim: *" Predation by red foxes and possibly feral cats has led to a past decline of mainland populations."*
 
 </center>
 

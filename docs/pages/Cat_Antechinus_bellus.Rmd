@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *"This species is likely to be disadvantaged by the current regime of frequent and extensive fire (Corbett et al. 2003, Woinarski et al. 2010), predation by feral cats (Woinarski et al. 2011) and some loss of its extensive habitat.'"*
+IUCN claim: *"This species is likely to be disadvantaged by the current regime of frequent and extensive fire (Corbett et al. 2003, Woinarski et al. 2010), predation by feral cats (Woinarski et al. 2011) and some loss of its extensive habitat."*
 
 </center>
 
@@ -52,6 +52,8 @@ There are no studies evidencing a negative association between cats and antechin
 ![**Evidence linking *Antechinus bellus* to cats.** Systematic review of evidence for an association between *Antechinus bellus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Antechinus bellus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Antechinus bellus.png)
 
 ### References
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Stobo-Wilson, A. M., et al. "Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics." Biological Conservation 247 (2020): 108638.
 

@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Near Threatened**
+IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **N/A**
+EPBC Threat Rating: **Not assessed**
 
-IUCN Claim: *"Predation by the red fox is also a threat'"*
+IUCN claim: *"Predation by the red fox is also a threat"*
 
 </center>
 

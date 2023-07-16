@@ -13,7 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-[![](assets/photos/Petrogale lateralis.png)](Arian Wallach)
+![](assets/photos/Petrogale lateralis.png)
 
 ::: {}
 
@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *"The main threat overall to this species on the mainland is predation from introduced Red Foxes, and foxes are known to have played a major role in the decline of the species historically. Predation by feral cats is also occurring.'"*
+IUCN claim: *"The main threat overall to this species on the mainland is predation from introduced Red Foxes, and foxes are known to have played a major role in the decline of the species historically. Predation by feral cats is also occurring."*
 
 </center>
 
@@ -52,6 +52,8 @@ There are no studies linking cats to black-footed rock-wallaby populations.
 ![**Evidence linking *Petrogale lateralis* to cats.** Systematic review of evidence for an association between *Petrogale lateralis* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Petrogale lateralis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Petrogale lateralis.png)
 
 ### References
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Paltridge, R., Gibson, D., & Edwards, G. (1997). Diet of the Feral Cat (Felis catus) in Central Australia. Wildlife Research, 24(1), 67. doi:10.1071/wr96023 
 

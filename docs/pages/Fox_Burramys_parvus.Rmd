@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Critically Endangered**
+IUCN status: **Critically Endangered**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"Predation by the introduced Red Fox is also a threat'"*
+IUCN claim: *"Predation by the introduced Red Fox is also a threat"*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies linking foxes to pygmy possum populations.
 ### References
 
 Davis NE, Forsyth DM, Triggs B, Pascoe C, Benshemesh J, Robley A, et al. (2015) Interspecific and Geographic Variation in the Diets of Sympatric Carnivores: Dingoes/Wild Dogs and Red Foxes in South-Eastern Australia. PLoS ONE 10(3): e0120975. https://doi.org/10.1371/journal.pone.0120975
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Green, K. (2003). Altitudinal and temporal differences in the food of foxes (Vulpes vulpes) at alpine and subalpine altitudes in the Snowy Mountains. Wildlife Research, 30(3), 245. doi:10.1071/wr02008 
 

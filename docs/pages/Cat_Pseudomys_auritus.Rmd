@@ -15,7 +15,7 @@ h1, h2, h3 {
 
 ::: {}
 
-NA
+![](assets/photos/Pseudomys auritus.png)
 
 :::
 
@@ -32,9 +32,9 @@ NA
 ::::
 
 <center>
-IUCN Status: **Extinct**
+IUCN status: **Extinct**
 
-Last Seen: *Pseudomys auritus were last seen in 1850 (approximate) in Coorong through south-eastern SA to south-western Victoria*
+Last seen: *Pseudomys auritus were last seen in 1850 (approximate) in Coorong through south-eastern SA to south-western Victoria*
 
 </center>
 

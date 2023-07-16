@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Near Threatened**
+IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN Claim: *"Another threat is predation by feral cats (moderate, mainland part of range), which has not been demonstrated, but is highly plausible on the mainland; however, this is somewhat ameliorated by the rugged nature of habitat, which offers some protection from cats, and by partially arboreal behaviour.'"*
+IUCN claim: *"Another threat is predation by feral cats (moderate, mainland part of range), which has not been demonstrated, but is highly plausible on the mainland; however, this is somewhat ameliorated by the rugged nature of habitat, which offers some protection from cats, and by partially arboreal behaviour."*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies linking cats to golden-backed tree-rats.
 ### References
 
 
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Wallach et al. 2023 In Submission
 

@@ -13,7 +13,7 @@ h1, h2, h3 {
 
 :::: {style="display: flex;"}
 
-[![](assets/photos/Petrogale lateralis.png)](Arian Wallach)
+![](assets/photos/Petrogale lateralis.png)
 
 ::: {}
 
@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Extreme**
 
-IUCN Claim: *"The main threat overall to this species on the mainland is predation from introduced Red Foxes, and foxes are known to have played a major role in the decline of the species historically. Predation by feral cats is also occurring.'"*
+IUCN claim: *"The main threat overall to this species on the mainland is predation from introduced Red Foxes, and foxes are known to have played a major role in the decline of the species historically. Predation by feral cats is also occurring."*
 
 </center>
 
@@ -45,13 +45,15 @@ Rock wallabies were not detected in the stomach contents of 14 foxes (Read et al
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between foxes and black-footed rock-wallaby populations. poison-baiting is not a reliable proxy for fox abundance.
+There are no studies evidencing a negative association between foxes and black-footed rock-wallaby populations. Poison-baiting is not a reliable proxy for fox abundance.
 <br>
 <br>
 
 ![**Evidence linking *Petrogale lateralis* to foxes.** Systematic review of evidence for an association between *Petrogale lateralis* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Petrogale lateralis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Petrogale lateralis.png)
 
 ### References
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Kinnear J, Onus M, Sumner NR. 1998. Fox control and rock-wallaby population dynamics—II. An update. Wildlife Research 25:81-88.
 

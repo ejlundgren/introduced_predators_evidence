@@ -15,7 +15,7 @@ h1, h2, h3 {
 
 ::: {}
 
-[![](assets/photos/Bettongia anhydra.png)](https://www.phylopic.org/images/e50c6ba6-7a0d-42af-aa85-5b703e352d89/bettongia-lesueur)
+![](assets/photos/Bettongia anhydra.png)
 
 :::
 
@@ -32,9 +32,9 @@ h1, h2, h3 {
 ::::
 
 <center>
-IUCN Status: **Extinct**
+IUCN status: **Extinct**
 
-Last Seen: *Bettongia anhydra were last seen in 1933 in McEwin Hills, Lake Mackay, western Northern Territory*
+Last seen: *Bettongia anhydra were last seen in 1933 in McEwin Hills, Lake Mackay, western Northern Territory*
 
 </center>
 

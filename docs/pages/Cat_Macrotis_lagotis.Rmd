@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Very high/Extreme**
 
-IUCN Claim: *"The major threat to the Bilby is predation by introduced red foxes and feral cats'"*
+IUCN claim: *"The major threat to the Bilby is predation by introduced red foxes and feral cats"*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies evidencing a negative association between  cats and bilby p
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Lohr, Cheryl A., et al. "Reintroduction of Bilbies (Macrotis lagotis) to Matuwa, an Indigenous Protected Area in Western Australia." Rangeland Ecology & Management 78 (2021): 67-78.
 

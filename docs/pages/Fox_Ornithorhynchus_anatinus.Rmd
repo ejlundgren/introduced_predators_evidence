@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Near Threatened**
+IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **N/A**
+EPBC Threat Rating: **Not assessed**
 
-IUCN Claim: *"Across its range, the Platypus is also subject to predation by the introduced Red Fox, dogs and cats.'"*
+IUCN claim: *"Across its range, the Platypus is also subject to predation by the introduced Red Fox, dogs and cats."*
 
 </center>
 

@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **N/A**
+EPBC Threat Rating: **Not assessed**
 
-IUCN Claim: *"threats from feral cats are pervasive'"*
+IUCN claim: *"threats from feral cats are pervasive"*
 
 </center>
 

@@ -32,9 +32,9 @@ h1, h2, h3 {
 ::::
 
 <center>
-IUCN Status: **Extinct**
+IUCN status: **Extinct**
 
-Last Seen: *Onychogalea lunata were last seen in 1956 in Wheatbelt, WA*
+Last seen: *Onychogalea lunata were last seen in 1956 in Wheatbelt, WA*
 
 </center>
 

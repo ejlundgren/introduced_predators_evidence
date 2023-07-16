@@ -32,9 +32,9 @@ h1, h2, h3 {
 ::::
 
 <center>
-IUCN Status: **Extinct**
+IUCN status: **Extinct**
 
-Last Seen: *Conilurus albipes were last seen in 1862 in Victoria*
+Last seen: *Conilurus albipes were last seen in 1862 in Victoria*
 
 </center>
 

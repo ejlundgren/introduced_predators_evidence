@@ -32,9 +32,9 @@ h1, h2, h3 {
 ::::
 
 <center>
-IUCN Status: **Extinct**
+IUCN status: **Extinct**
 
-Last Seen: *Potorous platyops were last seen in 1875 in South Western Australia*
+Last seen: *Potorous platyops were last seen in 1875 in South Western Australia*
 
 </center>
 

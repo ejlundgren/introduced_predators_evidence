@@ -15,7 +15,7 @@ h1, h2, h3 {
 
 ::: {}
 
-[![](assets/photos/Conilurus capricornensis.png)](https://commons.wikimedia.org/wiki/File:Conilurus_albipes_-_Gould.jpg)
+![](assets/photos/Conilurus capricornensis.png)
 
 :::
 
@@ -32,9 +32,9 @@ h1, h2, h3 {
 ::::
 
 <center>
-IUCN Status: **Extinct**
+IUCN status: **Extinct**
 
-Last Seen: *Conilurus capricornensis were last seen in 1787 in Rockhampton and Townsville regions, QLD*
+Last seen: *Conilurus capricornensis were last seen in 1787 in Rockhampton and Townsville regions, QLD*
 
 </center>
 

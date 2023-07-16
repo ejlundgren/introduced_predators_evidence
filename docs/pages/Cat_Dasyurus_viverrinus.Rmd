@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Endangered**
+IUCN status: **Endangered**
 
 EPBC Threat Rating: **High**
 
-IUCN Claim: *"predation by introduced feral cats and red foxes'"*
+IUCN claim: *"predation by introduced feral cats and red foxes"*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies linking cats to tiger quolls. In contradiction with the cla
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fancourt, Bronwyn A., et al. "Devil declines and catastrophic cascades: is mesopredator release of feral cats inhibiting recovery of the eastern quoll?." PLoS One 10.3 (2015): e0119303.
 

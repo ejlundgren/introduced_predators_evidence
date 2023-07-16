@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Near Threatened**
+IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **N/A**
+EPBC Threat Rating: **Not assessed**
 
-IUCN Claim: *"Predation by feral cats is considered to be a severe threat over the species' entire range, but has not been quantified. Predation by the Red Fox is considered a minor threat because of the arboreal behaviour of phascogales.'"*
+IUCN claim: *"Predation by feral cats is considered to be a severe threat over the species' entire range, but has not been quantified. Predation by the Red Fox is considered a minor threat because of the arboreal behaviour of phascogales."*
 
 </center>
 
@@ -45,13 +45,15 @@ Phascogales were last confirmed in NSW 46 years before foxes arrived (Wallach et
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between foxes and red-tailed phascogale populations. poison-baiting is not a reliable proxy for fox abundance. In contradiction with the claim the extipration record pre-dates the fox arrival record.
+There are no studies evidencing a negative association between foxes and red-tailed phascogale populations. Poison-baiting is not a reliable proxy for fox abundance. In contradiction with the claim the extipration record pre-dates the fox arrival record.
 <br>
 <br>
 
 ![**Evidence linking *Phascogale calura* to foxes.** **A.** Systematic review of evidence for an association between *Phascogale calura* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Phascogale calura*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019.](assets/figures/Main_Evidence_Fox_Phascogale calura.png)
 
 ### References
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

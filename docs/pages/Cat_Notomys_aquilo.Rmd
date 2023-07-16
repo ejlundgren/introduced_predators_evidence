@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Endangered**
+IUCN status: **Endangered**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"Feral cats, strip-mining (for manganese and bauxite), and changes in the fire regime are threats (Woinarski et al. 2014)'"*
+IUCN claim: *"Feral cats, strip-mining (for manganese and bauxite), and changes in the fire regime are threats (Woinarski et al. 2014)"*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies linking cats to northern hopping mice.
 ### References
 
 
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Wallach et al. 2023 In Submission
 

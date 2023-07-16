@@ -32,9 +32,9 @@ h1, h2, h3 {
 ::::
 
 <center>
-IUCN Status: **Extinct**
+IUCN status: **Extinct**
 
-Last Seen: *Notomys longicaudatus were last seen in 1902 in Barrow Creek, Northern Territory*
+Last seen: *Notomys longicaudatus were last seen in 1902 in Barrow Creek, Northern Territory*
 
 </center>
 

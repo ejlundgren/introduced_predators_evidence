@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *" Predation by introduced foxes'"*
+IUCN claim: *" Predation by introduced foxes"*
 
 </center>
 
@@ -52,6 +52,8 @@ There are no studies linking foxes to brush-tailed rock-wallaby populations.
 ![**Evidence linking *Petrogale penicillata* to foxes.** Systematic review of evidence for an association between *Petrogale penicillata* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Petrogale penicillata, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Petrogale penicillata.png)
 
 ### References
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Lunney, Daniel, Bradley Law, and Catherine Rummery. "Contrast between the visible abundance of the brush-tailed rock-wallaby, Petrogale penicillata, and its rarity in fox and dog scats in the gorges east of Armidale, New South Wales." Wildlife Research 23.3 (1996): 373-379.
 

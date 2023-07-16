@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Endangered**
+IUCN status: **Endangered**
 
-EPBC Threat Rating: **Moderate**
+EPBC Threat Rating: **Secondary**
 
-IUCN Claim: *"N/A'"*
+IUCN claim: *Not attributed*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies linking foxes to northern quolls.
 ### References
 
 
+
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Wallach et al. 2023 In Submission
 

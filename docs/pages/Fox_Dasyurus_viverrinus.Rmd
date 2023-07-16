@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Endangered**
+IUCN status: **Endangered**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"predation by introduced feral cats and red foxes'"*
+IUCN claim: *"predation by introduced feral cats and red foxes"*
 
 </center>
 
@@ -52,6 +52,8 @@ There are no studies linking foxes to eastern quoll populations.
 ![**Evidence linking *Dasyurus viverrinus* to foxes.** **A.** Systematic review of evidence for an association between *Dasyurus viverrinus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Dasyurus viverrinus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. Small points show unconfirmed records (excluded from analyses).](assets/figures/Main_Evidence_Fox_Dasyurus viverrinus.png)
 
 ### References
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

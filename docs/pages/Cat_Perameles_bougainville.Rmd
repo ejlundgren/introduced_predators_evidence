@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN Claim: *"The current major threats to the natural subpopulations of the species include: the accidental introduction of predators (introduced cats and foxes)'"*
+IUCN claim: *"The current major threats to the natural subpopulations of the species include: the accidental introduction of predators (introduced cats and foxes)"*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies evidencing a negative association between cats and western 
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Richards JD (2012). Western Barred Bandicoot, Burrowing Bettong and Banded Hare-wallaby Recovery Team, Department of Environment and Conservation (Western Australia), and the Australian Government Department of Sustainability, Environment, Water, Population and Communities.
 

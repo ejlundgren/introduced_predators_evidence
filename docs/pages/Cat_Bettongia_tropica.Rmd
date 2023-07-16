@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Endangered**
+IUCN status: **Endangered**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN Claim: *"The main threats tot his species are: Predation by feral cats (moderate to severe): feral Cats shown to be a significant predator of the closely-related Woylie in south-western Australia'"*
+IUCN claim: *"The main threats tot his species are: Predation by feral cats (moderate to severe): feral Cats shown to be a significant predator of the closely-related Woylie in south-western Australia"*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies linking northern bettongs to cats.
 ### References
 
 Doherty, T.S., Davis, R.A., van Etten, E.J., Algar, D., Collier, N., Dickman, C.R., Edwards, G., Masters, P., Palmer, R. and Robinson, S., 2015. A continental‐scale analysis of feral cat diet in Australia. Journal of Biogeography, 42(5), pp.964-975.
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Wallach et al. 2023 In Submission
 

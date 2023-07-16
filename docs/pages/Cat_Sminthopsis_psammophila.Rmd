@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"Major threats are predation by feral cats and Red Foxes'"*
+IUCN claim: *"Major threats are predation by feral cats and Red Foxes"*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies linking cats to sandhill dunnarts.
 ### References
 
 
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Wallach et al. 2023 In Submission
 

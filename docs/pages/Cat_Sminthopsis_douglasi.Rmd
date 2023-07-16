@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Near Threatened**
+IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"Exotic predators (especially cats and foxes)'"*
+IUCN claim: *"Exotic predators (especially cats and foxes)"*
 
 </center>
 
@@ -52,6 +52,8 @@ There are no studies linking cats to Julia Creek dunnart populations.
 ![**Evidence linking *Sminthopsis douglasi* to cats.** Systematic review of evidence for an association between *Sminthopsis douglasi* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Sminthopsis douglasi, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Sminthopsis douglasi.png)
 
 ### References
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Kutt AS. 2011. The diet of the feral cat (Felis catus) in north-eastern Australia. Acta Theriologica 56:157-169.
 

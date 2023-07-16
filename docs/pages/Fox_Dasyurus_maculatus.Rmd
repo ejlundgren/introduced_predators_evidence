@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Near Threatened**
+IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"Predation by foxes and dogs'"*
+IUCN claim: *"Predation by foxes and dogs"*
 
 </center>
 
@@ -52,6 +52,8 @@ There are no studies linking foxes to tiger quoll populations.
 ![**Evidence linking *Dasyurus maculatus* to foxes.** Systematic review of evidence for an association between *Dasyurus maculatus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Dasyurus maculatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Dasyurus maculatus.png)
 
 ### References
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Körtner, Gerhard, Shaan Gresser, and Bob Harden. "Does fox baiting threaten the spotted-tailed quoll, Dasyurus maculatus?." Wildlife Research 30.2 (2003): 111-118.
 

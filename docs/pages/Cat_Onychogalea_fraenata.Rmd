@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"The species is threatened by introduced predators, the Red Fox and feral Cat especially'"*
+IUCN claim: *"The species is threatened by introduced predators, the Red Fox and feral Cat especially"*
 
 </center>
 
@@ -56,6 +56,8 @@ There are no studies linking cats to nail-tail wallaby populations.
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Augusteyn, John, et al. "Bringing back the endangered bridled nail-tailed wallaby at Taunton National Park (Scientific) through effective predator control." Wildlife Research (2022).
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fisher, D. O. "Behavioural ecology and demography of the bridled nailtail wallaby." Onychogalea fraenata (1999).
 

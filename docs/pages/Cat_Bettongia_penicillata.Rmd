@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Critically Endangered**
+IUCN status: **Critically Endangered**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN Claim: *"The major reason for past decline has been predation by Red Foxes and feral cats'"*
+IUCN claim: *"The major reason for past decline has been predation by Red Foxes and feral cats"*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies evidencing a negative association between cats and woylie p
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 James, H., Acharya, A.B., Taylor, J.A. and Freak, M.J. (2002). A case of bitten bettongs. The Journal of Forensic Odonto-Stomatology 20(1): 10-12.
 

@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Vulnerable**
+IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"The species is significantly preyed upon by introduced Red Foxes (Vulpes vulpes), wild dogs (Canis lupus dingo), and feral Domestic Cats (Felis catus). '"*
+IUCN claim: *"The species is significantly preyed upon by introduced Red Foxes (Vulpes vulpes), wild dogs (Canis lupus dingo), and feral Domestic Cats (Felis catus). "*
 
 </center>
 
@@ -54,6 +54,8 @@ There are no studies linking cats to smoky mouse populations.
 ### References
 
 Cockburn, A. 1981. Population regulation and dispersion of the Smoky Mouse Pseudomys fumeus. II. Spring decline, breeding success and habitat heterogeneity. Australian Journal of Ecology 6: 255-266.
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Wallach et al. 2023 In Submission
 

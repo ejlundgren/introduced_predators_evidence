@@ -27,11 +27,11 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN Status: **Critically Endangered**
+IUCN status: **Critically Endangered**
 
 EPBC Threat Rating: **Very high**
 
-IUCN Claim: *"Recent evidence has shown predation by feral cats'"*
+IUCN claim: *"Recent evidence has shown predation by feral cats"*
 
 </center>
 
@@ -52,6 +52,8 @@ There are no studies linking cats to central rock rat populations.
 ![**Evidence linking *Zyzomys pedunculatus* to cats.** Systematic review of evidence for an association between *Zyzomys pedunculatus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Zyzomys pedunculatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Zyzomys pedunculatus.png)
 
 ### References
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 McDonald, Peter J., et al. "A new population of the critically endangered central rock-rat (Zyzomys pedunculatus) discovered in the Northern Territory." Australian Mammalogy 37.1 (2014): 97-100.
 
