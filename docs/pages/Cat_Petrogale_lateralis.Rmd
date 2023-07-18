@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **High**
 
-IUCN claim: *"The main threat overall to this species on the mainland is predation from introduced Red Foxes, and foxes are known to have played a major role in the decline of the species historically. Predation by feral cats is also occurring."*
+IUCN claim: *"The main threat overall to this species on the mainland is predation from introduced red foxes, and foxes are known to have played a major role in the decline of the species historically. Predation by feral cats is also occurring."*
 
 </center>
 

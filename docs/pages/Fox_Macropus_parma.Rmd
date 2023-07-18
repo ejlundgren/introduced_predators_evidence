@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Not assessed**
 
-IUCN claim: *"Forest fragmentation combined with predation from foxes appear to be the principal reasons for the decline of the species. Grazing and burning regimes that affect availability of shelter are a disadvantage to populations (Maxwell et al. 1996). Reintroductions of the species have been unsuccessful due to fox predation."*
+IUCN claim: *"Forest fragmentation combined with predation from foxes appear to be the principal reasons for the decline of the species. Grazing and burning regimes that affect availability of shelter are a disadvantage to populations (maxwell et al. 1996). Reintroductions of the species have been unsuccessful due to fox predation."*
 
 </center>
 
