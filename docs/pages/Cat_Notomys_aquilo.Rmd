@@ -31,7 +31,7 @@ IUCN status: **Endangered**
 
 EPBC Threat Rating: **Very high**
 
-IUCN claim: *"Feral cats, strip-mining (for manganese and bauxite), and changes in the fire regime are threats (woinarski et al. 2014)"*
+IUCN claim: *"Feral cats, strip-mining (for manganese and bauxite), and changes in the fire regime are threats (Woinarski et al. 2014)"*
 
 </center>
 

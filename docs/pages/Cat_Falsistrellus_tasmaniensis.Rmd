@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Not assessed**
 
-IUCN claim: *"Threats from feral cats are pervasive"*
+IUCN claim: *"threats from feral cats are pervasive"*
 
 </center>
 

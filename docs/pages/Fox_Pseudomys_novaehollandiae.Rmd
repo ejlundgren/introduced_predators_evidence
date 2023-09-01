@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **A threat**
 
-IUCN claim: *"Predation by red foxes (moderate to minor): there is no direct evidence of significant predation on this species by red fox (vulpes vulpes). Predation of similar-sized pseudomys elsewhere is not significant at the population level."*
+IUCN claim: *"Predation by Red Foxes (moderate to minor): there is no direct evidence of significant predation on this species by Red Fox (Vulpes vulpes). Predation of similar-sized Pseudomys elsewhere is not significant at the population level."*
 
 </center>
 

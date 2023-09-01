@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN claim: *"The species presumably was extirpated from mainland australia by a combination of predation by the red fox and feral cat and habitat disturbance."*
+IUCN claim: *"The species presumably was extirpated from mainland Australia by a combination of predation by the Red Fox and feral cat and habitat disturbance."*
 
 </center>
 

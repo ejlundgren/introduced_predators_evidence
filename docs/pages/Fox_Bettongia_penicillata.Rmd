@@ -31,7 +31,7 @@ IUCN status: **Critically Endangered**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN claim: *"The major reason for past decline has been predation by red foxes and feral cats"*
+IUCN claim: *"The major reason for past decline has been predation by Red Foxes and feral cats"*
 
 </center>
 
@@ -41,7 +41,7 @@ The number of bounties paid for Bettongia spp. declined around the same time tha
 
 ### Studies not in support
 
-Studies by Kinnear et al. (2002), Orell (2004), Marlow et al. (2015b) Yeatman et al. (2016), and Wayne et al. (2017) reported that woylies initially increased after poison-baiting intensification but the population eventually crashed. Wayne et al. (2017) documented that woylies declined and fox abundance increased but no evidence of a correlation was provided (Wayne et al. 2017). Another study reported that increased poison-baiting intensity was positively associated with woylie abundance, however the trend overlapped with zero, foxes were not monitored, and there were no control sites without poisoning (Geary et al. 2023). Foxes were not listed among predators of reintroduced woylies (Priddel & Wheeler 2004). Woylies were last confirmed in NSW 21-45 years before foxes arrived (Wallach et al. 202X).
+Studies by Kinnear et al. (2002), Orell (2004), Marlow et al. (2015b), Yeatman et al. (2016), and Wayne et al. (2017) reported that woylies initially increased after poison-baiting intensification but the population eventually crashed. Wayne et al. (2017) documented that woylies declined and fox abundance increased but no evidence of a correlation was provided (Wayne et al. 2017). Another study reported that increased poison-baiting intensity was positively associated with woylie abundance, however the trend overlapped with zero, foxes were not monitored, and there were no control sites without poisoning (Geary et al. 2023). Foxes were not listed among predators of reintroduced woylies (Priddel & Wheeler 2004). Woylies were last confirmed in NSW 21-45 years before foxes arrived (Wallach et al. 202X).
 
 ### Is the threat claim evidence-based?
 

@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN claim: *"The species is significantly preyed upon by introduced red foxes (vulpes vulpes), wild dogs (canis lupus dingo), and feral domestic cats (felis catus). "*
+IUCN claim: *"The species is significantly preyed upon by introduced Red Foxes (Vulpes vulpes), wild dogs (Canis lupus dingo), and feral Domestic Cats (Felis catus). "*
 
 </center>
 

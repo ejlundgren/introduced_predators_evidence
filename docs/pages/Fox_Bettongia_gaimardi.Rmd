@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Not assessed**
 
-IUCN claim: *"The eastern bettong is potentially threatened by predation from the red fox (vulpes vulpes) and feral cat (felis catus). Historically, the red fox has not occurred in tasmania, but if it were to become established in tasmania this could be expected to have a major impact on the eastern bettong, given the evidence that predation by the red fox caused the species' extinction from mainland australia (short 1998; johnson 2006). There is evidence of a recent incursion of the red fox, possibly as a result of a deliberate introduction (sarre et al. 2013)."*
+IUCN claim: *"The Eastern Bettong is potentially threatened by predation from the Red Fox (Vulpes vulpes) and feral Cat (Felis catus). Historically, the Red Fox has not occurred in Tasmania, but if it were to become established in Tasmania this could be expected to have a major impact on the Eastern Bettong, given the evidence that predation by the Red Fox caused the species' extinction from mainland Australia (Short 1998; Johnson 2006). There is evidence of a recent incursion of the Red Fox, possibly as a result of a deliberate introduction (Sarre et al. 2013)."*
 
 </center>
 

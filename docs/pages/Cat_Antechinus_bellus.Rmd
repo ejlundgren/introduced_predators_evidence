@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **High**
 
-IUCN claim: *"This species is likely to be disadvantaged by the current regime of frequent and extensive fire (corbett et al. 2003, woinarski et al. 2010), predation by feral cats (woinarski et al. 2011) and some loss of its extensive habitat."*
+IUCN claim: *"This species is likely to be disadvantaged by the current regime of frequent and extensive fire (Corbett et al. 2003, Woinarski et al. 2010), predation by feral cats (Woinarski et al. 2011) and some loss of its extensive habitat."*
 
 </center>
 

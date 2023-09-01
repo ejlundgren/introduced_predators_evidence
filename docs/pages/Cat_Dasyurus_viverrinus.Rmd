@@ -31,7 +31,7 @@ IUCN status: **Endangered**
 
 EPBC Threat Rating: **High**
 
-IUCN claim: *"Predation by introduced feral cats and red foxes"*
+IUCN claim: *"predation by introduced feral cats and red foxes"*
 
 </center>
 

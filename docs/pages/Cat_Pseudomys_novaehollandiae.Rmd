@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN claim: *"Domestic cats (felis catus) occur through entire range of this species, including flinders island. Cats are significant predators of native mice, but probably significantly affect subpopulations only when the habitat is open."*
+IUCN claim: *"Domestic Cats (Felis catus) occur through entire range of this species, including Flinders Island. Cats are significant predators of native mice, but probably significantly affect subpopulations only when the habitat is open."*
 
 </center>
 

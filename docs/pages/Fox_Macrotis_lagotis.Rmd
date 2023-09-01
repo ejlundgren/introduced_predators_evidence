@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Extreme**
 
-IUCN claim: *"The major threat to the bilby is predation by introduced red foxes and feral cats"*
+IUCN claim: *"The major threat to the Bilby is predation by introduced red foxes and feral cats"*
 
 </center>
 
