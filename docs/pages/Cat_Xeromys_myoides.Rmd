@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN claim: *"Predation by feral Domestic Cats (Felis catus) may be a threat, but extent"*
+IUCN claim: *"Predation by feral domestic cats (felis catus) may be a threat, but extent"*
 
 </center>
 

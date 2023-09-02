@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN claim: *"Predation by feral Domestic Cats (Felis catus), Red Foxes (Vulpes vulpes) and Black Rats (Rattus rattus) could have severe to catastrophic effects if they establish on island. Feral Cats and Red Foxes have caused the extinction of medium-sized mammals on arid Australian islands"*
+IUCN claim: *"Predation by feral domestic cats (felis catus), red foxes (vulpes vulpes) and black rats (rattus rattus) could have severe to catastrophic effects if they establish on island. Feral cats and red foxes have caused the extinction of medium-sized mammals on arid australian islands"*
 
 </center>
 

@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN claim: *"Predation by feral Domestic Cats (Felis catus; moderate to severe, across the entire range) and Red Foxes (Vulpes vulpes) represent another major threat"*
+IUCN claim: *"Predation by feral domestic cats (felis catus; moderate to severe, across the entire range) and red foxes (vulpes vulpes) represent another major threat"*
 
 </center>
 
