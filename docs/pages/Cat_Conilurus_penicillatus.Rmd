@@ -53,6 +53,8 @@ Cats are among a range of ecological variables negatively correlated with rat ab
 
 ### References
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 Davies, H.F., McCarthy, M.A., Firth, R.S., Woinarski, J.C., Gillespie, G.R., Andersen, A.N., Geyle, H.M., Nicholson, E. and Murphy, B.P., 2017. Top‐down control of species distributions: feral cats driving the regional extinction of a threatened rodent in northern Australia. Diversity and Distributions, 23(3), pp.272-283.
 
 Davies, H.F., McCarthy, M.A., Firth, R.S., Woinarski, J.C., Gillespie, G.R., Andersen, A.N., Rioli, W., Puruntatameri, J., Roberts, W., Kerinaiua, C. and Kerinauia, V., 2018. Declining populations in one of the last refuges for threatened mammal species in northern Australia. Austral Ecology, 43(5), pp.602-612.
@@ -62,6 +64,4 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 Penton, C.E., Davies, H.F., Radford, I.J., Woolley, L.A., Rangers, T.L. and Murphy, B.P., 2021. A hollow argument: understory vegetation and disturbance determine abundance of hollow-dependent mammals in an Australian tropical savanna. Frontiers in Ecology and Evolution, 9, p.739550.
 
 Stobo-Wilson, A.M., Stokeld, D., Einoder, L.D., Davies, H.F., Fisher, A., Hill, B.M., Mahney, T., Murphy, B.P., Scroggie, M.P., Stevens, A. and Woinarski, J.C.Z., 2020. Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics. Biological Conservation, 247, p.108638.
-
-Wallach et al. 2023 In Submission
 

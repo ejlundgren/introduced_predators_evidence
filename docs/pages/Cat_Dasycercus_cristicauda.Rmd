@@ -37,7 +37,7 @@ IUCN claim: *"Threats are poorly understood but include predation by and competi
 
 ### Studies in support
 
-Mulgara were found in cat’s diet (Mahon 1999; Paltridge 2002; Vernes et al. 2021b); and mulgara were last confirmed 24 and 43 years after cats arrived in NSW and the Nullarbor, respectively (Wallach et al. In Submission).
+Mulgara were found in cat’s diet (Mahon 1999; Paltridge 2002; Vernes et al. 2021b); and mulgara were last confirmed 24 and 43 years after cats arrived in NSW and the Nullarbor, respectively (Current submission).
 
 ### Studies not in support
 
@@ -55,6 +55,8 @@ There are no studies linking cats to mulgara populations.
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Mahon, P.S., 1999. Predation by feral cats and red foxes and the dynamics of small mammal populations in arid Australia. PhD thesis, University of Sydney, Sydney, Australia.
@@ -62,6 +64,4 @@ Mahon, P.S., 1999. Predation by feral cats and red foxes and the dynamics of sma
 Paltridge, R., 2002. The diets of cats, foxes and dingoes in relation to prey availability in the Tanami Desert, Northern Territory. Wildlife Research, 29(4), pp.389-403.
 
 Vernes, K., Jackson, S.M., Elliott, T.F., Tischler, M. and Harper, A., 2021. Diets of mammalian carnivores in the deserts of north-eastern South Australia. Journal of Arid Environments, 188, p.104377.
-
-Wallach et al. 2023 In Submission
 

@@ -55,6 +55,8 @@ Cats are among a range of ecological variables negatively correlated with quoll 
 
 Cowan, M., Moro, D., Anderson, H., Angus, J., Garretson, S. and Morris, K., 2020. Aerial baiting for feral cats is unlikely to affect survivorship of northern quolls in the Pilbara region of Western Australia. Wildlife Research, 47(8), pp.589-598.
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Oakwood, M., 2000. Reproduction and demography of the northern quoll, Dasyurus hallucatus, in the lowland savanna of northern Australia. Australian Journal of Zoology, 48(5), pp.519-539.
@@ -68,6 +70,4 @@ Pollock, A.B., 1999. Notes on status, distribution and diet of northern quoll Da
 Stobo-Wilson, A.M., Stokeld, D., Einoder, L.D., Davies, H.F., Fisher, A., Hill, B.M., Mahney, T., Murphy, B.P., Scroggie, M.P., Stevens, A. and Woinarski, J.C.Z., 2020. Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics. Biological Conservation, 247, p.108638.
 
 Stokeld D, Fisher A, Gentles T, Hill B, Triggs B, Woinarski JCZ, Gillespie GR. 2018. What do predator diets tell us about mammal declines in Kakadu National Park? Wildlife Research 45:92-101.
-
-Wallach et al. 2023 In Submission
 

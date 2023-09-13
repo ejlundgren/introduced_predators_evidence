@@ -37,11 +37,11 @@ IUCN claim: *"On the mainland, predation by introduced feral Cat and Red Foxes w
 
 ### Studies in support
 
-Cats were the main predator of reintroduced, predator-inexperienced, hare-wallabies in two locations (Gibson et al. 1994; Hardman & Moro 2006; Hardman et al. 2016). Cats can hunt locally-born wallabies (Paltridge et al. 1997). Hare-wallabies were last confirmed in south-west Australia 58 years after foxes arrived (Wallach et al. In Submission).
+Cats were the main predator of reintroduced, predator-inexperienced, hare-wallabies in two locations (Gibson et al. 1994; Hardman & Moro 2006; Hardman et al. 2016). Cats can hunt locally-born wallabies (Paltridge et al. 1997). Hare-wallabies were last confirmed in south-west Australia 58 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
-Lundie-Jenkins et al. (1993) found no spatial correlation one year, and a positive correlation another year, between cats and hare-wallabies. Cats breached the enclosures of two semi-captive hare-wallaby colonies, none were hunted in 5-8 weeks (from Moseby et al. 2015). Hare-wallabies were last confirmed in the Tanami Desert 106 years after cats arrived (Wallach et al. In Submission).
+Lundie-Jenkins et al. (1993) found no spatial correlation one year, and a positive correlation another year, between cats and hare-wallabies. Cats breached the enclosures of two semi-captive hare-wallaby colonies, none were hunted in 5-8 weeks (from Moseby et al. 2015). Hare-wallabies were last confirmed in the Tanami Desert 106 years after cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -54,6 +54,8 @@ There are no studies evidencing a negative association between cats and rufous h
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -68,6 +70,4 @@ Lundie-Jenkins, G., Corbett, L.K., Phillips, C.M. 1993. Ecology of the rufous h
 Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
 
 Paltridge, R., Gibson, D. and Edwards, G., 1997. Diet of the feral cat (Felis catus) in central Australia. Wildlife Research, 24(1), pp.67-76.
-
-Wallach et al. 2023 In Submission
 

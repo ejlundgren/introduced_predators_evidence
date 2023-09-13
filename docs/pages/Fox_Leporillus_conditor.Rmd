@@ -37,11 +37,11 @@ IUCN claim: *"The major threat for L. conditor is predation by feral cats and 
 
 ### Studies in support
 
-Foxes were among predators of reintroduced captive-bred stick-nest rats (Copley 1999). Stick-nest rats were last confirmed in the Nullarbor 18-26 years after foxes arrived (Wallach et al. In Submission).
+Foxes were among predators of reintroduced captive-bred stick-nest rats (Copley 1999). Stick-nest rats were last confirmed in the Nullarbor 18-26 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
-Stick-nest rats were last confirmed in the Murray-Darling, Flinders Ranges, and NSW 23-46 years before foxes arrived (Wallach et al. In Submission).
+Stick-nest rats were last confirmed in the Murray-Darling, Flinders Ranges, and NSW 23-46 years before foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -55,9 +55,9 @@ There are no studies linking foxes to stick-nest rat populations. In contradicti
 
 Copley, P., 1999. Natural histories of Australia’s stick-nest rats, genus Leporillus (Rodentia: Muridae). Wildlife Research, 26(4), pp.513-539.
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
-
-Wallach et al. 2023 In Submission
 

@@ -37,11 +37,11 @@ IUCN claim: *"The major reason for past decline has been predation by Red Foxes 
 
 ### Studies in support
 
-The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). Foxes predated on reintroduced woylies (Marlow et al. 2015a). Woylies were detected in a single fox scat among 450 scats analysed from four sites where woylies occured (Marlow et al. 2014). One study reported higher bettong abundance at poison-baited sites compared to controls but fox abundance was not monitored and sites were not randomly selected (Wayne et al. 2011). Woylies were last recorded on the Nullarbor 26 years after foxes arrived (Wallach et al. In Submission).
+The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). Foxes predated on reintroduced woylies (Marlow et al. 2015a). Woylies were detected in a single fox scat among 450 scats analysed from four sites where woylies occured (Marlow et al. 2014). One study reported higher bettong abundance at poison-baited sites compared to controls but fox abundance was not monitored and sites were not randomly selected (Wayne et al. 2011). Woylies were last recorded on the Nullarbor 26 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
-Studies by Kinnear et al. (2002), Orell (2004), Marlow et al. (2015b), Yeatman et al. (2016), and Wayne et al. (2017) reported that woylies initially increased after poison-baiting intensification but the population eventually crashed. Wayne et al. (2017) documented that woylies declined and fox abundance increased but no evidence of a correlation was provided (Wayne et al. 2017). Another study reported that increased poison-baiting intensity was positively associated with woylie abundance, however the trend overlapped with zero, foxes were not monitored, and there were no control sites without poisoning (Geary et al. 2023). Foxes were not listed among predators of reintroduced woylies (Priddel & Wheeler 2004). Woylies were last confirmed in NSW 21-45 years before foxes arrived (Wallach et al. In Submission).
+Studies by Kinnear et al. (2002), Orell (2004), Marlow et al. (2015b), Yeatman et al. (2016), and Wayne et al. (2017) reported that woylies initially increased after poison-baiting intensification but the population eventually crashed. Wayne et al. (2017) documented that woylies declined and fox abundance increased but no evidence of a correlation was provided (Wayne et al. 2017). Another study reported that increased poison-baiting intensity was positively associated with woylie abundance, however the trend overlapped with zero, foxes were not monitored, and there were no control sites without poisoning (Geary et al. 2023). Foxes were not listed among predators of reintroduced woylies (Priddel & Wheeler 2004). Woylies were last confirmed in NSW 21-45 years before foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -52,6 +52,8 @@ There are no studies evidencing a negative association between foxes and woylie 
 ![**Evidence linking *Bettongia penicillata* to foxes.** **A.** Systematic review of evidence for an association between *Bettongia penicillata* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Bettongia penicillata*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019.](assets/figures/Main_Evidence_Fox_Bettongia penicillata.png)
 
 ### References
+
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -72,8 +74,6 @@ Orell, P., 2004. Fauna monitoring and staff training: Western Shield review – 
 Priddel, D. and Wheeler, R., 2004. An experimental translocation of brush-tailed bettongs (Bettongia penicillata) to western New South Wales. Wildlife Research, 31(4), pp.421-432.
 
 Short, J. 1998. The extinction of rat-kangaroos (Marsupialia: Potoroidae) in New South Wales, Australia. Biological Conservation 86: 365-377.
-
-Wallach et al. 2023 In Submission
 
 Wayne, A.F., Liddelow, G.L. and Williams, M.R., 2011. FORESTCHECK: terrestrial vertebrate associations with fox control and silviculture in jarrah (Eucalyptus marginata) forest. Australian Forestry, 74(4), pp.336-349.
 

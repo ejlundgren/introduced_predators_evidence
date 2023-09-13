@@ -37,11 +37,11 @@ IUCN claim: *"On the mainland, predation by introduced feral Cat and Red Foxes w
 
 ### Studies in support
 
-The tracks of a fox were detected for the first time around the time signs of a local wallaby population disappeared (Lundie-Jenkins et al. 1993). Hare-wallaby was found in a fox scat (Lundie-Jenkins et al. 1993). Hare-wallabies were last confirmed in the Tanami Desert 63 years after foxes arrived (Wallach et al. In Submission).
+The tracks of a fox were detected for the first time around the time signs of a local wallaby population disappeared (Lundie-Jenkins et al. 1993). Hare-wallaby was found in a fox scat (Lundie-Jenkins et al. 1993). Hare-wallabies were last confirmed in the Tanami Desert 63 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
-Foxes were not among predators of reintroduced hare-wallabies (Gibson et al. 1994). Hare-wallabies were last confirmed in south-west Australia 30 years before foxes arrived (Wallach et al. In Submission).
+Foxes were not among predators of reintroduced hare-wallabies (Gibson et al. 1994). Hare-wallabies were last confirmed in south-west Australia 30 years before foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -53,6 +53,8 @@ There are no studies evidencing a negative association between foxes and rufous 
 
 ### References
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
@@ -60,6 +62,4 @@ Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. B
 Gibson, D.F., Lundie-Jenkins, G., Langford, D.G., Cole, J.R. and Johnson, K.A., 1994. Predation by feral cats, Felis catus, on the rufous hare-wallaby, Lagorchestes hirsutus, in the Tanami Desert. Australian Mammalogy, 17(1), pp.103-107.
 
 Lundie-Jenkins, G., Corbett, L.K., Phillips, C.M. 1993. Ecology of the rufous hare-wallaby, Lagorchestes hirsutus Gould (Marsupialia : Macropodidae) in the Tanami Desert, Northern Territory. III Interactions with introduced mammal species. Wildlife Research, 20(4), pp 495-511.
-
-Wallach et al. 2023 In Submission
 

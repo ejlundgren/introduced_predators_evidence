@@ -53,6 +53,8 @@ There are no studies linking foxes to pygmy possum populations.
 
 ### References
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 Davis, N.E., Forsyth, D.M., Triggs, B., Pascoe, C., Benshemesh, J., Robley, A., Lawrence, J., Ritchie, E.G., Nimmo, D.G. and Lumsden, L.F., 2015. Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia. PloS One, 10(3), p.e0120975.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
@@ -60,6 +62,4 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 Green, K. and Osborne, W.S., 1981. The diet of foxes, Vulpes vulpes (L.), in relation to abundance of prey above the winter snowline in New South Wales. Wildlife Research, 8(2), pp.349-360.
 
 Green, K., 2003. Altitudinal and temporal differences in the food of foxes (Vulpes vulpes) at alpine and subalpine altitudes in the Snowy Mountains. Wildlife Research, 30(3), pp.245-253.
-
-Wallach et al. 2023 In Submission
 

@@ -53,6 +53,8 @@ There are no studies evidencing a negative association between foxes and yellow-
 
 ### References
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Hornsby, P., 1997. Possible causes of mortality in the yellow-footed rock-wallaby, Petrogale xanthopus Gray (Marsupialia: Macropodidae). Australian Mammalogy, 19(2), pp.245-248.
@@ -64,6 +66,4 @@ Lethbridge, M.R. and Alexander, P.J., 2008. Comparing population growth rates us
 Sharp, A., Norton, M., Havelberg, C., Cliff, W. and Marks, A., 2015. Population recovery of the yellow-footed rock-wallaby following fox control in New South Wales and South Australia. Wildlife Research, 41(7), pp.560-570.
 
 Stobo-Wilson, A.M., Brandle, R., Johnson, C.N. and Jones, M.E., 2020. Management of invasive mesopredators in the Flinders Ranges, South Australia: effectiveness and implications. Wildlife Research, 47(8), pp.720-730.
-
-Wallach et al. 2023 In Submission
 

@@ -37,7 +37,7 @@ IUCN claim: *"The major reason for past decline has been predation by Red Foxes 
 
 ### Studies in support
 
-Cats commonly predate on reintroduced woylies (James et al. 2002; Priddel & Wheeler 2004; Martin et al. 2006; Wheeler & Priddel 2009; Marlow et al. 2015a). Woylies were last recorded in NSW 7-27 years after cats arrived and in the Nullarbor 53 years after cats arrived (Wallach et al. In Submission).
+Cats commonly predate on reintroduced woylies (James et al. 2002; Priddel & Wheeler 2004; Martin et al. 2006; Wheeler & Priddel 2009; Marlow et al. 2015a). Woylies were last recorded in NSW 7-27 years after cats arrived and in the Nullarbor 53 years after cats arrived (Current submission).
 
 ### Studies not in support
 
@@ -55,6 +55,8 @@ There are no studies evidencing a negative association between cats and woylie p
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 James, H., Acharya, A.B., Taylor, J.A. and Freak, M.J., 2002. A case of bitten bettongs. The Journal of Forensic Odonto-Stomatology-JFOS, 20(1), pp.10-12.
@@ -66,8 +68,6 @@ Martin, S., Ball, S. and Peeters, P., 2006. Reintroduction of the brush-tailed B
 Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
 
 Priddel, D. and Wheeler, R., 2004. An experimental translocation of brush-tailed bettongs (Bettongia penicillata) to western New South Wales. Wildlife Research, 31(4), pp.421-432.
-
-Wallach et al. 2023 In Submission
 
 Wayne, A.F., Maxwell, M.A., Ward, C.G., Wayne, J.C., Vellios, C.V. and Wilson, I.J., 2017. Recoveries and cascading declines of native mammals associated with control of an introduced predator. Journal of Mammalogy, 98(2), pp.489-501.
 

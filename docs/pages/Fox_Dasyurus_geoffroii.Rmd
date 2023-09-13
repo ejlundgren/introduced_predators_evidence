@@ -37,11 +37,11 @@ IUCN claim: *"Predation by introduced Red Fox and feral Cat are the major threat
 
 ### Studies in support
 
-Quoll population increased after poison-baiting was intensified, but no evidence provided the baiting impacted foxes (Morris et al. 2003). Quoll abundance was higher at poison-baited sites compared to controls, though not at statistical significance, fox abundance was not monitored, and sites not selected randomly (Wayne et al. 2011). Quoll population increased and then declined where poison-baiting was conducted, and at one site it was observed but not evidenced that the population increased (Orell 2004; DEC 2012). A translocation failed at a site not intensively poison-baited, and a quoll sighting occurred where poison-baiting was intensive (Kinnear et al. 2002). poison-baiting targeting cats was associated with a decline in foxes, but temporal association with quoll abundance wasn’t analysed and association between fox and quoll abundance was unclear (Comer et al. 2020). Quolls were last confirmed 7 and 26 years after foxes arrived in the Eyre Peninsula and Nullarbor, respectively (Wallach et al. In Submission).
+Quoll population increased after poison-baiting was intensified, but no evidence provided the baiting impacted foxes (Morris et al. 2003). Quoll abundance was higher at poison-baited sites compared to controls, though not at statistical significance, fox abundance was not monitored, and sites not selected randomly (Wayne et al. 2011). Quoll population increased and then declined where poison-baiting was conducted, and at one site it was observed but not evidenced that the population increased (Orell 2004; DEC 2012). A translocation failed at a site not intensively poison-baited, and a quoll sighting occurred where poison-baiting was intensive (Kinnear et al. 2002). poison-baiting targeting cats was associated with a decline in foxes, but temporal association with quoll abundance wasn’t analysed and association between fox and quoll abundance was unclear (Comer et al. 2020). Quolls were last confirmed 7 and 26 years after foxes arrived in the Eyre Peninsula and Nullarbor, respectively (Current submission).
 
 ### Studies not in support
 
-Increased poison-baiting intensity relative to quoll abundance overlapped with zero, and no data on foxes, nor control sites without poisoning were included (Geary et al. 2023). Foxes were not among predators of translocated quolls (Moseby et al. 2015; Moseby et al. 2021a; Moseby et al. 2021b). Quoll abundance increased and fox abundance also increased but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017). Quolls were last confirmed in NSW 46 years before foxes arrived (Wallach et al. In Submission).
+Increased poison-baiting intensity relative to quoll abundance overlapped with zero, and no data on foxes, nor control sites without poisoning were included (Geary et al. 2023). Foxes were not among predators of translocated quolls (Moseby et al. 2015; Moseby et al. 2021a; Moseby et al. 2021b). Quoll abundance increased and fox abundance also increased but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017). Quolls were last confirmed in NSW 46 years before foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -54,6 +54,8 @@ There are no studies evidencing a negative association between foxes and western
 ### References
 
 Comer, S., Clausen, L., Cowen, S., Pinder, J., Thomas, A., Burbidge, A.H., Tiller, C., Algar, D. and Speldewinde, P., 2020. Integrating feral cat (Felis catus) control into landscape-scale introduced predator management to improve conservation prospects for threatened fauna: a case study from the south coast of Western Australia. Wildlife Research, 47(8), pp.762-778.
+
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 Department of Environment and Conservation, 2012. Chuditch (Dasyurus geoffroii) Recovery Plan. Wildlife Management Program No. 54. Department of Environment and Conservation, Perth, Western Australia.
 
@@ -74,8 +76,6 @@ Moseby, K.E., Hodgens, P., Peacock, D., Mooney, P., Brandle, R., Lynch, C., West
 Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
 
 Orell, P., 2004. Fauna monitoring and staff training: Western Shield review – February 2003. Conservation Science Western Australia 5(2), 51-95.
-
-Wallach et al. 2023 In Submission
 
 Wayne, A.F., Liddelow, G.L. and Williams, M.R., 2011. FORESTCHECK: terrestrial vertebrate associations with fox control and silviculture in jarrah (Eucalyptus marginata) forest. Australian Forestry, 74(4), pp.336-349.
 

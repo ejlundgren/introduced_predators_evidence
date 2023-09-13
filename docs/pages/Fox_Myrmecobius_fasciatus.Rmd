@@ -41,7 +41,7 @@ A poison-baiting campaign initiated in 1982 was followed by a population increas
 
 ### Studies not in support
 
-Foxes were not the main cause of mortality nor the main predator of reintroduced numbats (Friend & Thomas 1994). Numbats were last confirmed in NSW 3 years before foxes arrived (Wallach et al. In Submission).
+Foxes were not the main cause of mortality nor the main predator of reintroduced numbats (Friend & Thomas 1994). Numbats were last confirmed in NSW 3 years before foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -53,6 +53,8 @@ There are no studies evidencing a negative association between numbats and foxes
 
 ### References
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
@@ -62,6 +64,4 @@ Friend, J.A. and Thomas, N.D., 1994. Reintroduction and the numbat recovery prog
 Friend, J.A., 1990. The numbat Myrmecobius fasciatus (Myrmecobiidae): history of decline and potential for recovery. In Proceedings of the Ecological Society of Australia (Vol. 16, pp. 369-377).
 
 Friend, J.A., Page, M.J., 2017. Numbat (Myrmecobius fasciatus) Recovery Plan. Wildlife Management Program No. 60 in Department of Parks and Wildlife, Western Australia
-
-Wallach et al. 2023 In Submission
 

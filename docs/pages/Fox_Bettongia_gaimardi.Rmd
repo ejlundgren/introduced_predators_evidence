@@ -37,7 +37,7 @@ IUCN claim: *"The Eastern Bettong is potentially threatened by predation from th
 
 ### Studies in support
 
-The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). In a reintroduction study, foxes killed 20 of 46 reintroduced, predator-inexperienced bettongs and survival time was higher in one of two reintroduced groups where bait take was higher (Evans et al. 2021). Bettongs were last confirmed in NSW 5 years after foxes arrived (Wallach et al. In Submission)
+The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). In a reintroduction study, foxes killed 20 of 46 reintroduced, predator-inexperienced bettongs and survival time was higher in one of two reintroduced groups where bait take was higher (Evans et al. 2021). Bettongs were last confirmed in NSW 5 years after foxes arrived (Current submission)
 
 ### Studies not in support
 
@@ -53,11 +53,11 @@ There are no studies evidencing a negative association between foxes and eastern
 
 ### References
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 Evans, M.J., Batson, W.G., Gordon, I.J., Belton, E., Chaseling, T., Fletcher, D., Harrison, M., McElroy, T., Mungoven, A., Newport, J. and Pierson, J., 2021. The ‘Goldilocks Zone’of predation: the level of fox control needed to select predator resistance in a reintroduced mammal in Australia. Biodiversity and Conservation, 30, pp.1731-1752.
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
 Short, J. 1998. The extinction of rat-kangaroos (Marsupialia: Potoroidae) in New South Wales, Australia. Biological Conservation 86: 365-377.
-
-Wallach et al. 2023 In Submission
 

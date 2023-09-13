@@ -41,7 +41,7 @@ Bandicoot abundance was positively correlated with a measure of predator control
 
 ### Studies not in support
 
-Cook et al. (2010) found no correlation between fox and bandicoot abundance. Long et al. (2005) reported that foxes remained common and unaffected by poison-baiting where a group of predator-inexperienced bandicoots were reintroduced; that no bandicoots were known to be hunted by foxes; and that no bandicoot remains were found in fox scats. Bandicoots co-occurred with foxes on the mainland for 115 years (Wallach et al. In Submission).
+Cook et al. (2010) found no correlation between fox and bandicoot abundance. Long et al. (2005) reported that foxes remained common and unaffected by poison-baiting where a group of predator-inexperienced bandicoots were reintroduced; that no bandicoots were known to be hunted by foxes; and that no bandicoot remains were found in fox scats. Bandicoots co-occurred with foxes on the mainland for 115 years (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -55,6 +55,8 @@ There are no studies evidence a negative association between foxes and eastern b
 
 Cook, C.N., Morgan, D.G. and Marshall, D.J., 2010. Reevaluating suitable habitat for reintroductions: lessons learnt from the eastern barred bandicoot recovery program. Animal Conservation, 13(2), pp.184-195.
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
@@ -62,8 +64,6 @@ Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. B
 Lenghaus, C., Obendorf, D.L. and Wright, F.H., 1990. Veterinary aspects of Perameles gunnii biology with special reference to species conservation. Management and Conservation of Small Populations. Chicago Zoological Society, Brookfield, Illinois, pp.89-108.
 
 Long, K., A. J. Robley, and K. Lovett. 2005. Immediate post-release survival of eastern barred bandicoots Perameles gunnii at Woodlands Historic Park, Victoria, with reference to fox activity. Australian Mammalogy 27.1: 17-25
-
-Wallach et al. 2023 In Submission
 
 Winnard, A.L. and Coulson, G., 2008. Sixteen years of Eastern Barred Bandicoot Perameles gunnii reintroductions in Victoria: a review. Pacific Conservation Biology, 14(1), pp.34-53.
 

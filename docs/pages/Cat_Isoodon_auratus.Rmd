@@ -37,11 +37,11 @@ IUCN claim: *"The reasons for past declines of the Golden Bandicoot are predatio
 
 ### Studies in support
 
-Cats were the main predator of a group of reintroduced, predator-inexperienced bandicoots (Blythman et al. 2020). Cats also predated on another reintroduced group (Christensen & Burrows 1995) and on locally-born bandicoots (Wysong 2016; Doherty et al. 2017). Bandicoots were last confirmed in the Nullarbor 37 years after cats arrived (Wallach et al. In Submission).
+Cats were the main predator of a group of reintroduced, predator-inexperienced bandicoots (Blythman et al. 2020). Cats also predated on another reintroduced group (Christensen & Burrows 1995) and on locally-born bandicoots (Wysong 2016; Doherty et al. 2017). Bandicoots were last confirmed in the Nullarbor 37 years after cats arrived (Current submission).
 
 ### Studies not in support
 
-Cat breached fence of semi-captive bandicoot enclosure, none were hunted in 5 weeks (from Moseby et al. 2015). Bandicoots were last confirmed in NSW 18 years before cats arrived (Wallach et al. In Submission).
+Cat breached fence of semi-captive bandicoot enclosure, none were hunted in 5 weeks (from Moseby et al. 2015). Bandicoots were last confirmed in NSW 18 years before cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -59,13 +59,13 @@ Blythman, M., Lohr, C., Sims, C. and Morris, K., 2020. Translocation of Golden B
 
 Christensen, P. and Burrows, N., 1995. Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia. Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp, pp.199-207.
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 Doherty, T.S., Dickman, C.R., Johnson, C.N., Legge, S.M., Ritchie, E.G. and Woinarski, J.C., 2017. Impacts and management of feral cats Felis catus in Australia. Mammal Review, 47(2), pp.83-97.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
-
-Wallach et al. 2023 In Submission
 
 Wysong, M.L., 2016. Predator ecology in the arid rangelands of Western Australia: spatial interactions and resource competition between an apex predator, the dingo Canis dingo, and an introduced mesopredator, the feral cat Felis catus. PhD thesis, University of Western Australia, Perth.
 

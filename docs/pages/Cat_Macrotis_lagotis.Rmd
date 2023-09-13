@@ -37,7 +37,7 @@ IUCN claim: *"The major threat to the Bilby is predation by introduced red foxes
 
 ### Studies in support
 
-Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011). Cat predation was a regular cause of mortality for mostly predator-inexperienced reintroduced bilbies at two sites (Moseby et al. 2011; Lohr et al. 2021). Cats were documented hunting reintroduced bilbies in another study (Moseby et al. 2012) and hunting locally-born bilbies (Paltridge et al. 1997; Wysong 2016; Murphy et al. 2019). The last record of bilby populations is, on average, 58 years after cats arrived, including one population that co-occurred for a century (Wallach et al. In Submission).
+Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011). Cat predation was a regular cause of mortality for mostly predator-inexperienced reintroduced bilbies at two sites (Moseby et al. 2011; Lohr et al. 2021). Cats were documented hunting reintroduced bilbies in another study (Moseby et al. 2012) and hunting locally-born bilbies (Paltridge et al. 1997; Wysong 2016; Murphy et al. 2019). The last record of bilby populations is, on average, 58 years after cats arrived, including one population that co-occurred for a century (Current submission).
 
 ### Studies not in support
 
@@ -54,6 +54,8 @@ There are no studies evidencing a negative association between  cats and bilby p
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -72,8 +74,6 @@ Paltridge, R., 2002. The diets of cats, foxes and dingoes in relation to prey av
 Richards, J.D., 2012. Western Barred Bandicoot, Burrowing Bettong and Banded Hare-wallaby Recovery Team, Department of Environment and Conservation (Western Australia), and the Australian Government Department of Sustainability, Environment, Water, Population and Communities.
 
 Southgate, R., Paltridge, R., Masters, P. and Carthew, S., 2007. Bilby distribution and fire: a test of alternative models of habitat suitability in the Tanami Desert, Australia. Ecography, 30(6), pp.759-776.
-
-Wallach et al. 2023 In Submission
 
 Wysong, M.L., 2016. Predator ecology in the arid rangelands of Western Australia: spatial interactions and resource competition between an apex predator, the dingo Canis dingo, and an introduced mesopredator, the feral cat Felis catus. PhD thesis, University of Western Australia, Perth.
 

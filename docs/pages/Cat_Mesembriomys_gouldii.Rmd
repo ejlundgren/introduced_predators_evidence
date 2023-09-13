@@ -53,6 +53,8 @@ Cats have been documented among a range of ecological variables negatively corre
 
 ### References
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 Davies, H.F., McCarthy, M.A., Firth, R.S., Woinarski, J.C., Gillespie, G.R., Andersen, A.N., Rioli, W., Puruntatameri, J., Roberts, W., Kerinaiua, C. and Kerinauia, V., 2018. Declining populations in one of the last refuges for threatened mammal species in northern Australia. Austral Ecology, 43(5), pp.602-612.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
@@ -60,6 +62,4 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 Stobo-Wilson, A.M., Stokeld, D., Einoder, L.D., Davies, H.F., Fisher, A., Hill, B.M., Mahney, T., Murphy, B.P., Scroggie, M.P., Stevens, A. and Woinarski, J.C.Z., 2020. Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics. Biological Conservation, 247, p.108638.
 
 Stokeld D, Fisher A, Gentles T, Hill B, Triggs B, Woinarski JCZ, Gillespie GR. 2018. What do predator diets tell us about mammal declines in Kakadu National Park? Wildlife Research 45:92-101.
-
-Wallach et al. 2023 In Submission
 

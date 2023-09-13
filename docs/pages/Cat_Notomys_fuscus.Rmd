@@ -37,7 +37,7 @@ IUCN claim: *"Predation by feral Domestic Cats (Felis catus; moderate to severe,
 
 ### Studies in support
 
-Cat abundance was negatively correlated with hopping mouse abundance (Gordon et al. 2015). Cats hunt hopping mice (Feit et al. 2019; Vernes et al. 2021a; Vernes et al. 2021b). Hopping mice were last confirmed in NSW 24 years after cats arrived (Wallach et al. In Submission).
+Cat abundance was negatively correlated with hopping mouse abundance (Gordon et al. 2015). Cats hunt hopping mice (Feit et al. 2019; Vernes et al. 2021a; Vernes et al. 2021b). Hopping mice were last confirmed in NSW 24 years after cats arrived (Current submission).
 
 ### Studies not in support
 
@@ -55,6 +55,8 @@ Cats have been documeted among a range of ecological variables both negatively a
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Feit, B., Feit, A. and Letnic, M., 2019. Apex predators decouple population dynamics between mesopredators and their prey. Ecosystems, 22, pp.1606-1617.
@@ -68,6 +70,4 @@ Letnic, M., Crowther, M.S. and Koch, F., 2009. Does a top‐predator provide an 
 Vernes, K., Elliott, T.F. and Jackson, S.M., 2021. 150 years of mammal extinction and invasion at Koonchera Dune in the Lake Eyre Basin of South Australia. Biological Invasions, 23(2), pp.593-610.
 
 Vernes, K., Jackson, S.M., Elliott, T.F., Tischler, M. and Harper, A., 2021. Diets of mammalian carnivores in the deserts of north-eastern South Australia. Journal of Arid Environments, 188, p.104377.
-
-Wallach et al. 2023 In Submission
 

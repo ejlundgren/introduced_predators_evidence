@@ -37,11 +37,11 @@ IUCN claim: *"The current major threats to the natural populations of the specie
 
 ### Studies in support
 
-Cats were the main predator, or a predator, of predator-inexperienced (where known) reintroduced bettongs (Christensen & Burrows 1995; Short & Turner 2000; Moseby et al. 2011; Moseby et al. 2018; Moyses et al. 2020). Cats hunted bettongs in fenced reserve (Moseby et al. 2019). Bettongs were last confirmed in NSW, QLD and Victoria 17-40 years after cats arrived (Wallach et al. In Submission).
+Cats were the main predator, or a predator, of predator-inexperienced (where known) reintroduced bettongs (Christensen & Burrows 1995; Short & Turner 2000; Moseby et al. 2011; Moseby et al. 2018; Moyses et al. 2020). Cats hunted bettongs in fenced reserve (Moseby et al. 2019). Bettongs were last confirmed in NSW, QLD and Victoria 17-40 years after cats arrived (Current submission).
 
 ### Studies not in support
 
-A positive correlation was found between cat and bettong abundance within a fenced reserve, despite evidence of hunting, and bettong recruitment was confirmed (Moseby et al. 2019). A cat breached the fence of a semi-captive bettong enclosure, yet none were hunted in 1 month (from Moseby et al. 2015). Bettongs were last confirmed in Western Australia a century after cats arrived (Wallach et al. In Submission).
+A positive correlation was found between cat and bettong abundance within a fenced reserve, despite evidence of hunting, and bettong recruitment was confirmed (Moseby et al. 2019). A cat breached the fence of a semi-captive bettong enclosure, yet none were hunted in 1 month (from Moseby et al. 2015). Bettongs were last confirmed in Western Australia a century after cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -57,6 +57,8 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 Christensen, P. and Burrows, N., 1995. Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia. Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp, pp.199-207.
 
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Moseby K, Peacock D, Read J. 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation 191:331-340.
@@ -70,6 +72,4 @@ Moseby, K.E., Read, J.L., Paton, D.C., Copley, P., Hill, B.M. and Crisp, H.A., 2
 Moyses, J., Hradsky, B., Tuft, K., Moseby, K., Golding, N. and Wintle, B., 2020. Factors influencing the residency of bettongs using one‐way gates to exit a fenced reserve. Austral Ecology, 45(7), pp.858-871.
 
 Short, J. and Turner, B., 2000. Reintroduction of the burrowing bettong Bettongia lesueur (Marsupialia: Potoroidae) to mainland Australia. Biological Conservation, 96(2), pp.185-196.
-
-Wallach et al. 2023 In Submission
 

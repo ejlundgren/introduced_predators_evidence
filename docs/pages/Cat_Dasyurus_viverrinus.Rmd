@@ -37,15 +37,15 @@ IUCN claim: *"predation by introduced feral cats and red foxes"*
 
 ### Studies in support
 
-No studies
+There is evidence of cat predation of eatern quolls (Peacock & Abbott 2014)
 
 ### Studies not in support
 
-Fancourt et al. (2015) found no evidence of a negative correlation between quoll and cat abundance. Cats were not among predators of reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Quolls were last confirmed in NSW 148 years after cats arrived and continue to co-occurr on Tasmania after two centuries (Wallach et al. In Submission).
+Fancourt et al. (2015) found no evidence of a negative correlation between quoll and cat abundance. Cats were not among predators of reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Quolls were last confirmed in NSW 148 years after cats arrived and continue to co-occurr on Tasmania after two centuries (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to tiger quolls. In contradiction with the claim, the two species co-occurred on the mainland for over a century and continue to co-occur in Tasmania after more than two centuries.
+There are no studies linking cats to tiger quoll populations. In contradiction with the claim, the two species co-occurred on the mainland for over a century and continue to co-occur in Tasmania after more than two centuries.
 <br>
 <br>
 
@@ -54,6 +54,8 @@ There are no studies linking cats to tiger quolls. In contradiction with the cla
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
+
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -64,6 +66,4 @@ Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historic
 Robinson NM, Blanchard W, MacGregor C, Brewster R, Dexter N, Lindenmayer DB. 2021. Can evolutionary theories of dispersal and senescence predict postrelease survival, dispersal, and body condition of a reintroduced threatened mammal? Ecol Evol;11:1002– 1012
 
 Robinson, N.M., Dexter, N., Brewster, R., Maple, D., MacGregor, C., Rose, K., Hall, J. and Lindenmayer, D.B., 2020. Be nimble with threat mitigation: lessons learned from the reintroduction of an endangered species. Restoration Ecology, 28(1), pp.29-38.
-
-Wallach et al. 2023 In Submission
 

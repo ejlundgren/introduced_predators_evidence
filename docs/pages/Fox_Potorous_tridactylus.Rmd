@@ -37,7 +37,7 @@ IUCN claim: *"The major threat is predation, especially by the invasive Red Fox 
 
 ### Studies in support
 
-Foxes hunt potoroos (Lunney et al. 1990; Long 2001; Glen & Dickman 2008; Claridge et al. 2010; Glen et al. 2011; Davis et al. 2015; Norton et al. 2015). Dexter & Murray (2009) reported that potoroo abundance increased after about two years after intensification of poison-baiting in both treatment and control sites, but more steeply in the high intensity poisoning sites, but there was no difference in bait uptake between the treatment and control sites. Robley et al. (2014) reported that three measures of potoroo abundance tended to be higher at sites where poison-baiting was intensified compared to controls, corresponding with differences in bait uptake.
+Foxes hunt potoroos (Lunney et al. 1990; Long 2001; Glen & Dickman 2008; Claridge et al. 2010; Glen et al. 2011; Davis et al. 2015; Norton et al. 2015). Dexter & Murray (2009) reported that potoroo abundance increased about two years after intensification of poison-baiting in both treatment and control sites, but more steeply in the high intensity poisoning sites, but there was no difference in bait uptake between the treatment and control sites. Robley et al. (2014) reported that three measures of potoroo abundance tended to be higher at sites where poison-baiting was intensified compared to controls, corresponding with differences in bait uptake.
 
 ### Studies not in support
 
@@ -54,6 +54,8 @@ There are no studies evidencing a negative association between foxes and long-no
 ### References
 
 Claridge, A.W., Mills, D.J. and Barry, S.C., 2010. Prevalence of threatened native species in canid scats from coastal and near-coastal landscapes in south-eastern Australia. Australian Mammalogy, 32(2), pp.117-126.
+
+Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 Davis, N.E., Forsyth, D.M., Triggs, B., Pascoe, C., Benshemesh, J., Robley, A., Lawrence, J., Ritchie, E.G., Nimmo, D.G. and Lumsden, L.F., 2015. Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia. PloS One, 10(3), p.e0120975.
 
@@ -74,6 +76,4 @@ Norton, M.A., Prentice, A., Dingle, J., French, K. and Claridge, A.W., 2015. Pop
 Robley, A., Gormley, A.M., Forsyth, D.M. and Triggs, B., 2014. Long-term and large-scale control of the introduced red fox increases native mammal occupancy in Australian forests. Biological Conservation, 180, pp.262-269.
 
 Robley, A.J., Cally, J.G., Murray, A., Bluff, L., Collyer, A., Borg, N. and Phillips, L., 2022. The response of native species to the 2019–20 bushfires and introduced predators in far East Gippsland. Arthur Rylah Institute for Environmental Research Technical Report Series No. 329. Department of Environment. Land, Water and Planning, Heidelberg.
-
-Wallach et al. 2023 In Submission
 
