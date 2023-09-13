@@ -31,13 +31,13 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN claim: *"The species presumably was extirpated from mainland australia by a combination of predation by the red fox and feral cat and habitat disturbance."*
+IUCN claim: *"The species presumably was extirpated from mainland Australia by a combination of predation by the Red Fox and feral cat and habitat disturbance."*
 
 </center>
 
 ### Studies in support
 
-Cats were the main cause of mortality of a reintroduced, predator-inexperienced, hare-wallaby group (Hardman et al. 2016). Hare-wallabies were last confirmed on the mainland in Western Australia 28-68 years after cats arrived (Wallach et al. 202X).
+Cats were the main cause of mortality of a reintroduced, predator-inexperienced, hare-wallaby group (Hardman et al. 2016). Hare-wallabies were last confirmed on the mainland in Western Australia 28-68 years after cats arrived (Wallach et al. In Submission).
 
 ### Studies not in support
 
@@ -57,7 +57,7 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Hardman, Blair, Dorian Moro, and Mike Calver. "Direct evidence implicates feral cat predation as the primary cause of failure of a mammal reintroduction programme." Ecological Management & Restoration 17.2 (2016): 152-158.
+Hardman, B., Moro, D. and Calver, M., 2016. Direct evidence implicates feral cat predation as the primary cause of failure of a mammal reintroduction programme. Ecological Management & Restoration, 17(2), pp.152-158.
 
 Wallach et al. 2023 In Submission
 

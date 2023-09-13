@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Extreme**
 
-IUCN claim: *"Predation from introduced foxes is the greatest threat to yellow-footed rock wallabies (lapidge and henshall 2001)."*
+IUCN claim: *"Predation from introduced foxes is the greatest threat to Yellow-footed Rock Wallabies (Lapidge and Henshall 2001)."*
 
 </center>
 
@@ -55,15 +55,15 @@ There are no studies evidencing a negative association between foxes and yellow-
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Hornsby, P. "Possible causes of mortality in the yellow-footed rock-wallaby, Petrogale xanthopus Gray (Marsupialia: Macropodidae)." Australian Mammalogy 19.2 (1997): 245-248.
+Hornsby, P., 1997. Possible causes of mortality in the yellow-footed rock-wallaby, Petrogale xanthopus Gray (Marsupialia: Macropodidae). Australian Mammalogy, 19(2), pp.245-248.
 
-Lapidge, Steven J., and Shane Henshall. "Diet Of Foxes And Cats, With Evidence Of Predation On Yellow-Footed Rock-Wallabies (Petrogale Xanthopus Celeris) By Foxes In Southwsetern Queensland." Australian Mammalogy 23.1 (2001): 47-52.
+Lapidge, S.J. and Henshall, S., 2001. Diet of foxes and cats, with evidence of predation on yellow-footed rock-wallabies (Petrogale xanthopus Celeris) by foxes in southwsetern Queensland. Australian Mammalogy, 23(1), pp.47-52.
 
-Lethbridge, Mark R., and Peter J. Alexander. "Comparing population growth rates using weighted bootstrapping: guiding the conservation management of Petrogale xanthopus xanthopus (yellow-footed rock-wallaby)." Biological Conservation 141.5 (2008): 1185-1195
+Lethbridge, M.R. and Alexander, P.J., 2008. Comparing population growth rates using weighted bootstrapping: guiding the conservation management of Petrogale xanthopus xanthopus (yellow-footed rock-wallaby). Biological Conservation, 141(5), pp.1185-1195.
 
-Sharp, A., Norton, M., Havelberg, C., Cliff, W., & Marks, A. (2014). Population recovery of the yellow-footed rock-wallaby following fox control in New South Wales and South Australia. Wildlife Research, 41(7), 560. doi:10.1071/wr14151
+Sharp, A., Norton, M., Havelberg, C., Cliff, W. and Marks, A., 2015. Population recovery of the yellow-footed rock-wallaby following fox control in New South Wales and South Australia. Wildlife Research, 41(7), pp.560-570.
 
-Stobo-Wilson Alyson M., Brandle Robert, Johnson Christopher N., Jones Menna E. (2020) Management of invasive mesopredators in the Flinders Ranges, South Australia: effectiveness and implications. Wildlife Research 47, 720-730.
+Stobo-Wilson, A.M., Brandle, R., Johnson, C.N. and Jones, M.E., 2020. Management of invasive mesopredators in the Flinders Ranges, South Australia: effectiveness and implications. Wildlife Research, 47(8), pp.720-730.
 
 Wallach et al. 2023 In Submission
 

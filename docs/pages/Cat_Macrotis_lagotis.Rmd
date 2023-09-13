@@ -31,13 +31,13 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Very high/Extreme**
 
-IUCN claim: *"The major threat to the bilby is predation by introduced red foxes and feral cats"*
+IUCN claim: *"The major threat to the Bilby is predation by introduced red foxes and feral cats"*
 
 </center>
 
 ### Studies in support
 
-Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011). Cat predation was a regular cause of mortality for mostly predator-inexperienced reintroduced bilbies at two sites (Moseby et al. 2011; Lohr et al. 2021). Cats were documented hunting reintroduced bilbies in another study (Moseby et al. 2012) and hunting locally-born bilbies (Paltridge et al. 1997; Wysong 2016; Murphy et al. 2019). The last record of bilby populations is, on average, 58 years after cats arrived, including one population that co-occurred for a century (Wallach et al. 202X).
+Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011). Cat predation was a regular cause of mortality for mostly predator-inexperienced reintroduced bilbies at two sites (Moseby et al. 2011; Lohr et al. 2021). Cats were documented hunting reintroduced bilbies in another study (Moseby et al. 2012) and hunting locally-born bilbies (Paltridge et al. 1997; Wysong 2016; Murphy et al. 2019). The last record of bilby populations is, on average, 58 years after cats arrived, including one population that co-occurred for a century (Wallach et al. In Submission).
 
 ### Studies not in support
 
@@ -57,23 +57,23 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Lohr, Cheryl A., et al. "Reintroduction of Bilbies (Macrotis lagotis) to Matuwa, an Indigenous Protected Area in Western Australia." Rangeland Ecology & Management 78 (2021): 67-78.
+Lohr, C.A., Dziminski, M., Dunlop, J., Miller, E. and Morris, K., 2021. Reintroduction of bilbies (Macrotis lagotis) to Matuwa, an Indigenous Protected Area in Western Australia. Rangeland Ecology & Management, 78, pp.67-78.
 
-Moseby, K. E., D. E. Peacock, and J. L. Read. "Catastrophic cat predation: a call for predator profiling in wildlife protection programs." Biological Conservation 191 (2015): 331-340.
+Moseby, K.E., Cameron, A. and Crisp, H.A., 2012. Can predator avoidance training improve reintroduction outcomes for the greater bilby in arid Australia?. Animal Behaviour, 83(4), pp.1011-1021.
 
-Moseby, K. E., et al. "Predation determines the outcome of 10 reintroduction attempts in arid South Australia." Biological Conservation 144.12 (2011): 2863-2872.
+Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
 
-Moseby, Katherine E., Amber Cameron, and Helen A. Crisp. "Can predator avoidance training improve reintroduction outcomes for the greater bilby in arid Australia?." Animal Behaviour 83.4 (2012): 1011-1021.
+Moseby, K.E., Read, J.L., Paton, D.C., Copley, P., Hill, B.M. and Crisp, H.A., 2011. Predation determines the outcome of 10 reintroduction attempts in arid South Australia. Biological Conservation, 144(12), pp.2863-2872.
 
-Murphy, Brett P., et al. "Introduced cats (Felis catus) eating a continental fauna: the number of mammals killed in Australia." Biological Conservation 237 (2019): 28-40
+Murphy, B.P., Woolley, L.A., Geyle, H.M., Legge, S.M., Palmer, R., Dickman, C.R., Augusteyn, J., Brown, S.C., Comer, S., Doherty, T.S. and Eager, C., 2019. Introduced cats (Felis catus) eating a continental fauna: the number of mammals killed in Australia. Biological Conservation, 237, pp.28-40.
 
-Paltridge, Rachel. "The diets of cats, foxes and dingoes in relation to prey availability in the Tanami Desert, Northern Territory." Wildlife Research 29.4 (2002): 389-403
+Paltridge, R., 2002. The diets of cats, foxes and dingoes in relation to prey availability in the Tanami Desert, Northern Territory. Wildlife Research, 29(4), pp.389-403.
 
-Richards JD (2012). Western Barred Bandicoot, Burrowing Bettong and Banded Hare-wallaby Recovery Team, Department of Environment and Conservation (Western Australia), and the Australian Government Department of Sustainability, Environment, Water, Population and Communities.
+Richards, J.D., 2012. Western Barred Bandicoot, Burrowing Bettong and Banded Hare-wallaby Recovery Team, Department of Environment and Conservation (Western Australia), and the Australian Government Department of Sustainability, Environment, Water, Population and Communities.
 
-Southgate, Richard, et al. "Bilby distribution and fire: a test of alternative models of habitat suitability in the Tanami Desert, Australia." Ecography 30.6 (2007): 759-776
+Southgate, R., Paltridge, R., Masters, P. and Carthew, S., 2007. Bilby distribution and fire: a test of alternative models of habitat suitability in the Tanami Desert, Australia. Ecography, 30(6), pp.759-776.
 
 Wallach et al. 2023 In Submission
 
-Wysong ML. 2016. Predator ecology in the arid rangelands of Western Australia: spatial interactions and resource competition between an apex predator, the dingo Canis dingo, and an introduced mesopredator, the feral cat Felis catus. PhD thesis, University of Western Australia, Perth.
+Wysong, M.L., 2016. Predator ecology in the arid rangelands of Western Australia: spatial interactions and resource competition between an apex predator, the dingo Canis dingo, and an introduced mesopredator, the feral cat Felis catus. PhD thesis, University of Western Australia, Perth.
 

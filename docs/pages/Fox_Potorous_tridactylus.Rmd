@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Very high**
 
-IUCN claim: *"The major threat is predation, especially by the invasive red fox but also by wild dogs and feral cats. "*
+IUCN claim: *"The major threat is predation, especially by the invasive Red Fox but also by wild dogs and feral cats. "*
 
 </center>
 
@@ -53,25 +53,27 @@ There are no studies evidencing a negative association between foxes and long-no
 
 ### References
 
-Claridge, A. W., Mills, D. J., & Barry, S. C. (2010). Prevalence of threatened native species in canid scats from coastal and near-coastal landscapes in south-eastern Australia. Australian Mammalogy, 32(2), 117. doi:10.1071/am09038 
+Claridge, A.W., Mills, D.J. and Barry, S.C., 2010. Prevalence of threatened native species in canid scats from coastal and near-coastal landscapes in south-eastern Australia. Australian Mammalogy, 32(2), pp.117-126.
 
-Davis, Naomi E., et al. "Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia." PloS one 10.3 (2015): e0120975
+Davis, N.E., Forsyth, D.M., Triggs, B., Pascoe, C., Benshemesh, J., Robley, A., Lawrence, J., Ritchie, E.G., Nimmo, D.G. and Lumsden, L.F., 2015. Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia. PloS One, 10(3), p.e0120975.
 
-Dexter, Nick, and Andy Murray. "The impact of fox control on the relative abundance of forest mammals in East Gippsland, Victoria." Wildlife Research 36.3 (2009): 252-261
+Dexter, N. and Murray, A., 2009. The impact of fox control on the relative abundance of forest mammals in East Gippsland, Victoria. Wildlife Research, 36(3), pp.252-261.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Glen, A. S., and C. R. Dickman. "Niche overlap between marsupial and eutherian carnivores: does competition threaten the endangered spotted?tailed quoll?."†Journal of applied Ecology†45.2 (2008): 700-707.
+Glen, A.S. and Dickman, C.R., 2008. Niche overlap between marsupial and eutherian carnivores: does competition threaten the endangered spotted‐tailed quoll?. Journal of Applied Ecology, 45(2), pp.700-707.
 
-Glen, A. S., et al. "Diets of sympatric native and introduced carnivores in the Barrington Tops, eastern Australia."†Austral Ecology†36.3 (2011): 290-296.
+Glen, A.S., Pennay, M., Dickman, C.R., Wintle, B.A. and Firestone, K.B., 2011. Diets of sympatric native and introduced carnivores in the Barrington Tops, eastern Australia. Austral Ecology, 36(3), pp.290-296.
 
 Long, K.I., 2001. Spatio-temporal interactions among male and female Long-nosed Potoroos, Potorous tridactylus (Marsupialia: Macropodoidea): mating system implications. Australian Journal of Zoology, 49(1), pp.17-26.
 
-Lunney, Daniel, et al. "Analysis of Scats of Dogs Canis-Familiaris and Foxes Vulpes-Vulpes (Canidae, Carnivora) in Coastal Forests Near Bega, New-South-Wales." Wildlife Research 17.1 (1990): 61-68.
+Lunney, D., Triggs, B., Eby, P. and Ashby, E., 1990. Analysis of scats of dogs Canis-familiaris and foxes Vulpes-Vulpes (Canidae, Carnivora) in coastal forests near Bega, New-South-Wales. Wildlife Research, 17(1), pp.61-68.
 
-Norton, Melinda A., et al. "Population characteristics and management of the long-nosed potoroo (Potorous tridactylus) in high-quality habitat in the Southern Highlands of New South Wales." Australian Mammalogy 37.1 (2015): 67-74
+Norton, M.A., Prentice, A., Dingle, J., French, K. and Claridge, A.W., 2015. Population characteristics and management of the long-nosed potoroo (Potorous tridactylus) in high-quality habitat in the Southern Highlands of New South Wales. Australian Mammalogy, 37(1), pp.67-74.
 
-Robley, Alan, et al. "Long-term and large-scale control of the introduced red fox increases native mammal occupancy in Australian forests." Biological Conservation 180 (2014): 262-269
+Robley, A., Gormley, A.M., Forsyth, D.M. and Triggs, B., 2014. Long-term and large-scale control of the introduced red fox increases native mammal occupancy in Australian forests. Biological Conservation, 180, pp.262-269.
+
+Robley, A.J., Cally, J.G., Murray, A., Bluff, L., Collyer, A., Borg, N. and Phillips, L., 2022. The response of native species to the 2019–20 bushfires and introduced predators in far East Gippsland. Arthur Rylah Institute for Environmental Research Technical Report Series No. 329. Department of Environment. Land, Water and Planning, Heidelberg.
 
 Wallach et al. 2023 In Submission
 

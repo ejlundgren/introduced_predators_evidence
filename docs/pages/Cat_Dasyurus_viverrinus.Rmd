@@ -31,7 +31,7 @@ IUCN status: **Endangered**
 
 EPBC Threat Rating: **High**
 
-IUCN claim: *"Predation by introduced feral cats and red foxes"*
+IUCN claim: *"predation by introduced feral cats and red foxes"*
 
 </center>
 
@@ -41,7 +41,7 @@ No studies
 
 ### Studies not in support
 
-Fancourt et al. (2015) found no evidence of a negative correlation between quoll and cat abundance. Cats were not among predators of reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Quolls were last confirmed in NSW 148 years after cats arrived and continue to co-occurr on Tasmania after two centuries (Wallach et al. 202X).
+Fancourt et al. (2015) found no evidence of a negative correlation between quoll and cat abundance. Cats were not among predators of reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Quolls were last confirmed in NSW 148 years after cats arrived and continue to co-occurr on Tasmania after two centuries (Wallach et al. In Submission).
 
 ### Is the threat claim evidence-based?
 
@@ -57,13 +57,13 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Fancourt, Bronwyn A., et al. "Devil declines and catastrophic cascades: is mesopredator release of feral cats inhibiting recovery of the eastern quoll?." PLoS One 10.3 (2015): e0119303.
+Fancourt, B.A., Hawkins, C.E., Cameron, E.Z., Jones, M.E. and Nicol, S.C., 2015. Devil declines and catastrophic cascades: is mesopredator release of feral cats inhibiting recovery of the eastern quoll?. PLoS One, 10(3), p.e0119303.
 
 Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historical hyperabundance in the quoll (Marsupialia: Dasyuridae) and an assessment of the role of disease, cats and foxes in its curtailment. Australian Journal of Zoology 62:294-344.
 
-Robinson NM, Blanchard W, MacGregor C, Brewster R, Dexter N, Lindenmayer DB. Can evolutionary theories of dispersal and senescence predict postrelease survival, dispersal, and body condition of a reintroduced threatened mammal? Ecol Evol. 2021;11:1002– 1012
+Robinson NM, Blanchard W, MacGregor C, Brewster R, Dexter N, Lindenmayer DB. 2021. Can evolutionary theories of dispersal and senescence predict postrelease survival, dispersal, and body condition of a reintroduced threatened mammal? Ecol Evol;11:1002– 1012
 
-Robinson, Natasha M., et al. "Be nimble with threat mitigation: lessons learned from the reintroduction of an endangered species." Restoration Ecology 28.1 (2020): 29-38
+Robinson, N.M., Dexter, N., Brewster, R., Maple, D., MacGregor, C., Rose, K., Hall, J. and Lindenmayer, D.B., 2020. Be nimble with threat mitigation: lessons learned from the reintroduction of an endangered species. Restoration Ecology, 28(1), pp.29-38.
 
 Wallach et al. 2023 In Submission
 

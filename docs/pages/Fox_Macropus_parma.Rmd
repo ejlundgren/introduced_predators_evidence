@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Not assessed**
 
-IUCN claim: *"Forest fragmentation combined with predation from foxes appear to be the principal reasons for the decline of the species. Grazing and burning regimes that affect availability of shelter are a disadvantage to populations (maxwell et al. 1996). Reintroductions of the species have been unsuccessful due to fox predation."*
+IUCN claim: *"Forest fragmentation combined with predation from foxes appear to be the principal reasons for the decline of the species. Grazing and burning regimes that affect availability of shelter are a disadvantage to populations (Maxwell et al. 1996). Reintroductions of the species have been unsuccessful due to fox predation."*
 
 </center>
 
@@ -53,9 +53,7 @@ There are no studies evidencing a negative association between  foxes and parma 
 
 ### References
 
-Glen, A. S., et al. "Diets of sympatric native and introduced carnivores in the Barrington Tops, eastern Australia."†Austral Ecology†36.3 (2011): 290-296.
-
-Short, J., Bradshaw, S. D., Giles, J., Prince, R. I. T., & Wilson, G. R. (1992). Reintroduction of macropods (Marsupialia: Macropodoidea) in Australia—a review. Biological Conservation, 62(3), 189-204.
+Glen, A.S., Pennay, M., Dickman, C.R., Wintle, B.A. and Firestone, K.B., 2011. Diets of sympatric native and introduced carnivores in the Barrington Tops, eastern Australia. Austral Ecology, 36(3), pp.290-296.
 
 Wallach et al. 2023 In Submission
 

@@ -31,13 +31,13 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **High**
 
-IUCN claim: *"The eastern bettong is potentially threatened by predation from the red fox (vulpes vulpes) and feral cat (felis catus). Historically, the red fox has not occurred in tasmania, but if it were to become established in tasmania this could be expected to have a major impact on the eastern bettong, given the evidence that predation by the red fox caused the species' extinction from mainland australia (short 1998; johnson 2006). There is evidence of a recent incursion of the red fox, possibly as a result of a deliberate introduction (sarre et al. 2013)."*
+IUCN claim: *"The Eastern Bettong is potentially threatened by predation from the Red Fox (Vulpes vulpes) and feral Cat (Felis catus). Historically, the Red Fox has not occurred in Tasmania, but if it were to become established in Tasmania this could be expected to have a major impact on the Eastern Bettong, given the evidence that predation by the Red Fox caused the species' extinction from mainland Australia (Short 1998; Johnson 2006). There is evidence of a recent incursion of the Red Fox, possibly as a result of a deliberate introduction (Sarre et al. 2013)."*
 
 </center>
 
 ### Studies in support
 
-Bettongs declined on a Tasmanian cattle station after cats were detected (Fancourt 2014). Bettongs were last confirmed in NSW 59 years after cats arrived (Wallach et al. 202X)
+Bettongs declined on a Tasmanian cattle station after cats were detected (Fancourt 2014). Bettongs were last confirmed in NSW 59 years after cats arrived (Wallach et al. In Submission)
 
 ### Studies not in support
 
@@ -57,9 +57,9 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Evans, Maldwyn J., et al. "The ‘goldilocks zone’of predation: The level of fox control needed to select predator resistance in a reintroduced mammal in Australia." Biodiversity and Conservation 30.6 (2021): 1731-1752
+Evans, M.J., Batson, W.G., Gordon, I.J., Belton, E., Chaseling, T., Fletcher, D., Harrison, M., McElroy, T., Mungoven, A., Newport, J. and Pierson, J., 2021. The ‘Goldilocks Zone’of predation: the level of fox control needed to select predator resistance in a reintroduced mammal in Australia. Biodiversity and Conservation, 30, pp.1731-1752.
 
-Fancourt, B. A. (2014). Rapid decline in detections of the Tasmanian bettong (Bettongia gaimardi) following local incursion of feral cats (Felis catus). Australian Mammalogy, 36(2), 247. doi:10.1071/am14004 
+Fancourt, B.A., 2014. Rapid decline in detections of the Tasmanian bettong (Bettongia gaimardi) following local incursion of feral cats (Felis catus). Australian Mammalogy, 36(2), pp.247-253.
 
 Wallach et al. 2023 In Submission
 

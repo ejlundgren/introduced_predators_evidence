@@ -31,17 +31,17 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **High**
 
-IUCN claim: *"Threats are poorly understood but include predation by and competition with feral cats and red foxes,"*
+IUCN claim: *"Threats are poorly understood but include predation by and competition with feral cats and Red Foxes,"*
 
 </center>
 
 ### Studies in support
 
-Mulgara were found in foxes’ diet (Mahon 1999; Paltridge 2002; Cupples et al. 2011); and mulgara were last confirmed in the Nullarbor 16 years after foxes arrived (Wallach et al. 202X).
+Mulgara were found in foxes’ diet (Mahon 1999; Paltridge 2002; Cupples et al. 2011); and mulgara were last confirmed in the Nullarbor 16 years after foxes arrived (Wallach et al. In Submission).
 
 ### Studies not in support
 
-Mulgara were last confirmed in NSW 4 years before foxes arrived (Wallach et al. 202X).
+Mulgara were last confirmed in NSW 4 years before foxes arrived (Wallach et al. In Submission).
 
 ### Is the threat claim evidence-based?
 
@@ -53,15 +53,15 @@ There are no studies evidencing a negative association between foxes and mulgara
 
 ### References
 
+Cupples, J.B., Crowther, M.S., Story, G. and Letnic, M., 2011. Dietary overlap and prey selectivity among sympatric carnivores: could dingoes suppress foxes through competition for prey?. Journal of Mammalogy, 92(3), pp.590-600.
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
-Jacqueline B. Cupples, Mathew S. Crowther, Georgeanna Story, Mike Letnic, Dietary overlap and prey selectivity among sympatric carnivores: Could dingoes suppress foxes through competition for prey?, Journal of Mammalogy, Volume 92, Issue 3, 9 June 2011, Pages 590–600, https://doi.org/10.1644/10-MAMM-A-164.1
+Mahon, P.S., 1999. Predation by feral cats and red foxes and the dynamics of small mammal populations in arid Australia. PhD thesis, University of Sydney, Sydney, Australia.
 
-Mahon, P.S. (1999). Predation by feral cats and red foxes and the dynamics of small mammal populations in arid Australia. (PhD thesis, University of Sydney, Sydney).
-
-Paltridge, Rachel. "The diets of cats, foxes and dingoes in relation to prey availability in the Tanami Desert, Northern Territory." Wildlife Research 29.4 (2002): 389-403
+Paltridge, R., 2002. The diets of cats, foxes and dingoes in relation to prey availability in the Tanami Desert, Northern Territory. Wildlife Research, 29(4), pp.389-403.
 
 Wallach et al. 2023 In Submission
 

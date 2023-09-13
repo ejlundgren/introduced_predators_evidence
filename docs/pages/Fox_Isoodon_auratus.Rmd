@@ -31,17 +31,17 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Not assessed**
 
-IUCN claim: *"The reasons for past declines of the golden bandicoot are predation by feral cats and red foxes"*
+IUCN claim: *"The reasons for past declines of the Golden Bandicoot are predation by feral cats and red foxes"*
 
 </center>
 
 ### Studies in support
 
-Bandicoots were last confirmed in the Nullarbor 10 years after foxes arrived (Wallach et al. 202X).
+Bandicoots were last confirmed in the Nullarbor 10 years after foxes arrived (Wallach et al. In Submission).
 
 ### Studies not in support
 
-Foxes were not among predators of reintroduced bandicoots (Christensen & Burrows 1995; Blythman et al. 2020). Bandicoots were last confirmed in NSW 46 years before foxes arrived (Wallach et al. 202X).
+Foxes were not among predators of reintroduced bandicoots (Christensen & Burrows 1995; Blythman et al. 2020). Bandicoots were last confirmed in NSW 46 years before foxes arrived (Wallach et al. In Submission).
 
 ### Is the threat claim evidence-based?
 
@@ -53,9 +53,9 @@ There are no studies linking foxes to golden bandicoots. In contradiction with t
 
 ### References
 
-Blythman, Mark, et al. "Translocation of golden bandicoots, Isoodon auratus barrowensis, from a fenced enclosure to unfenced managed land on Matuwa (formally Lorna Glen) in September 2015." (2020)
+Blythman, M., Lohr, C., Sims, C. and Morris, K., 2020. Translocation of Golden Bandicoots, Isoodon auratus barrowensis, from a fenced enclosure to unfenced managed land on Matuwa (formally Lorna Glen) September 2015: Final Report. Department of Biodiversity Conservation and Attractions, Perth Western Australia, 43.
 
-Christensen, P., and N. Burrows. "Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia." Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp (1995): 199-207.
+Christensen, P. and Burrows, N., 1995. Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia. Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp, pp.199-207.
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

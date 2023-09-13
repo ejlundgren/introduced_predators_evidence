@@ -31,7 +31,7 @@ IUCN status: **Critically Endangered**
 
 EPBC Threat Rating: **Very high/Extreme**
 
-IUCN claim: *"Translocation experiments in the past and other data demonstrate that red foxes and feral cats are major threats"*
+IUCN claim: *"Translocation experiments in the past and other data demonstrate that Red Foxes and feral Cats are major threats"*
 
 </center>
 
@@ -53,15 +53,15 @@ There are no studies linking foxes to Western ringtail possum populations.
 
 ### References
 
-Clarke, J. R. (2011). Translocation outcomes for the western ringtail possum (Pseudocheirus occidentalis) in the presence of the common brushtail possum (Trichosurus vulpecula): health, survivorship and habitat use. (Doctoral dissertation) Murdoch University, Western Australia.
+Clarke, J.R., 2011. Translocation outcomes for the western ringtail possum (Pseudocheirus occidentalis) in the presence of the common brushtail possum (Trichosurus vulpecula): health, survivorship and habitat use. Doctoral dissertation, Murdoch University.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Grimm, H.L and de Tores P.J. (2009). Some aspects of the biology of the common brushtail possum (Trichosurus vulpecula) and the threatened western ringtail possum (Pseudocheirus occidentalis) in a pine plantation scheduled for harvesting and in adjacent tuart and peppermint woodland near Busselton, Western Australia. Report prepared for the Forest Products Commission, Government of Western Australia.
+Grimm, H.L. and De Tores, P.J., 2009. Some aspects of the biology of the common brushtail possum, Trichosurus vulpecula, and the threatened western ringtail possum, Pseudocheirus occidentalis, in a pine plantation scheduled for harvesting and in adjacent turat and peppermint woodland near Busselton, Western Australia. Government of Western Australia, Perth.
 
-Jones, B. A., R. A. How, and D. J. Kitchener. "A field study of Pseudocheirus occidentalis (Marsupialia: Petauridae) II. Population studies." Wildlife Research 21.2 (1994): 189-201.
+Jones, B.A., How, R.A. and Kitchener, D.J., 1994. A field study of Pseudocheirus occidentalis (Marsupialia: Petauridae) II. Population studies. Wildlife Research, 21(2), pp.189-201.
 
 Wallach et al. 2023 In Submission
 
-Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
+Wayne, A.F., Maxwell, M.A., Ward, C.G., Wayne, J.C., Vellios, C.V. and Wilson, I.J., 2017. Recoveries and cascading declines of native mammals associated with control of an introduced predator. Journal of Mammalogy, 98(2), pp.489-501.
 

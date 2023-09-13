@@ -53,19 +53,19 @@ Cats are among a range of ecological variables negatively correlated with quoll 
 
 ### References
 
-A. B. Pollock, Notes on status, distribution and diet of northern quoll Dasyurus hallucatus in the Mackay-Bowen area, mideastern Queensland. Australian Zoologist. 31, 388–395 (1999).
-
-Cowan, M., et al. "Aerial baiting for feral cats is unlikely to affect survivorship of northern quolls in the Pilbara region of Western Australia." Wildlife Research 47.8 (2020): 589-598
+Cowan, M., Moro, D., Anderson, H., Angus, J., Garretson, S. and Morris, K., 2020. Aerial baiting for feral cats is unlikely to affect survivorship of northern quolls in the Pilbara region of Western Australia. Wildlife Research, 47(8), pp.589-598.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Oakwood, M., 2000. Reproduction and demography of the northern quoll, Dasyurus hallucatus, in the lowland savanna of northern Australia. Australian Journal of Zoology, 48(5), pp.519-539.
 
-Palmer, Russell, et al. "Does aerial baiting for controlling feral cats in a heterogeneous landscape confer benefits to a threatened native meso-predator?." PloS one 16.5 (2021): e0251304
+Palmer, R., Anderson, H., Richards, B., Craig, M.D. and Gibson, L., 2021. Does aerial baiting for controlling feral cats in a heterogeneous landscape confer benefits to a threatened native meso-predator?. PLoS One, 16(5), p.e0251304.
 
 Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historical hyperabundance in the quoll (Marsupialia: Dasyuridae) and an assessment of the role of disease, cats and foxes in its curtailment. Australian Journal of Zoology 62:294-344.
 
-Stobo-Wilson, A. M., et al. "Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics." Biological Conservation 247 (2020): 108638.
+Pollock, A.B., 1999. Notes on status, distribution and diet of northern quoll Dasyurus hallucatus in the Mackay-Bowen area, mideastern Queensland. Australian Zoologist, 31(2), pp.388-395.
+
+Stobo-Wilson, A.M., Stokeld, D., Einoder, L.D., Davies, H.F., Fisher, A., Hill, B.M., Mahney, T., Murphy, B.P., Scroggie, M.P., Stevens, A. and Woinarski, J.C.Z., 2020. Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics. Biological Conservation, 247, p.108638.
 
 Stokeld D, Fisher A, Gentles T, Hill B, Triggs B, Woinarski JCZ, Gillespie GR. 2018. What do predator diets tell us about mammal declines in Kakadu National Park? Wildlife Research 45:92-101.
 

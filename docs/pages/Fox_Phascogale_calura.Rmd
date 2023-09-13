@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Not assessed**
 
-IUCN claim: *"Predation by feral cats is considered to be a severe threat over the species' entire range, but has not been quantified. Predation by the red fox is considered a minor threat because of the arboreal behaviour of phascogales."*
+IUCN claim: *"Predation by feral cats is considered to be a severe threat over the species' entire range, but has not been quantified. Predation by the Red Fox is considered a minor threat because of the arboreal behaviour of phascogales."*
 
 </center>
 
@@ -41,7 +41,7 @@ Friend et al. (1996) reported a positive correlation between poison-baiting and 
 
 ### Studies not in support
 
-Phascogales were last confirmed in NSW 46 years before foxes arrived (Wallach et al. 202X).
+Phascogales were last confirmed in NSW 46 years before foxes arrived (Wallach et al. In Submission).
 
 ### Is the threat claim evidence-based?
 
@@ -57,7 +57,7 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
-Friend J, Scanlon M, Himbeck K. 1996. Assessment of the effect of fox control on populations of red-tailed phascogale: Phase 4: Final Report: ANCA Feral Pests Project 18, Department of Conservation & Land Management, Western Australia. Phase.
+Friend, J. and Scanlon, M., 1996. Assessment of the Effect of Fox Control on Populations of the Red-tailed Phascogale. Phase 4: Final Report: ANCA Feral Pests Program Project 18. Department of Conservation & Land Management.
 
 Wallach et al. 2023 In Submission
 

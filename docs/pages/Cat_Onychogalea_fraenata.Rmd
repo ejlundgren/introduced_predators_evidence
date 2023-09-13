@@ -31,13 +31,13 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN claim: *"The species is threatened by introduced predators, the red fox and feral cat especially"*
+IUCN claim: *"The species is threatened by introduced predators, the Red Fox and feral Cat especially"*
 
 </center>
 
 ### Studies in support
 
-Cats hunt them (Horsup & Evans 1993; Fisher 1999; Fisher et al. 2001; Augusteyn et al. 2022). Wallabies were last confirmed in NSW 25 years after cats arrived (Wallach et al. 202X).
+Cats hunt them (Horsup & Evans 1993; Fisher 1999; Fisher et al. 2001; Augusteyn et al. 2022). Wallabies were last confirmed in NSW 25 years after cats arrived (Wallach et al. In Submission).
 
 ### Studies not in support
 
@@ -55,17 +55,17 @@ There are no studies linking cats to nail-tail wallaby populations.
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
-Augusteyn, John, et al. "Bringing back the endangered bridled nail-tailed wallaby at Taunton National Park (Scientific) through effective predator control." Wildlife Research (2022).
+Augusteyn, J., McCarthy, M.A., Robley, A., Pople, A., Nolan, B., Hemson, G., Melzer, R., Richards, S. and Dinwoodie, A., 2022. Bringing back the endangered bridled nail-tailed wallaby at Taunton National Park (Scientific) through effective predator control. Wildlife Research, 49(4), pp.382-398.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Fisher, D. O. "Behavioural ecology and demography of the bridled nailtail wallaby." Onychogalea fraenata (1999).
+Fisher, D., 1999. Behavioural ecology and demography of the bridled nailtail wallaby, Onychogalea fraenata. PhD Thesis, School of Biological Sciences, The University of Queensland.
 
-Fisher, Diana O., Simon Phillip Blomberg, and Simon David Hoyle. "Mechanisms of drought-induced population decline in an endangered wallaby." Biological Conservation 102.1 (2001): 107-115
+Fisher, D.O., Blomberg, S.P. and Hoyle, S.D., 2001. Mechanisms of drought-induced population decline in an endangered wallaby. Biological Conservation, 102(1), pp.107-115.
 
-Hayward, Matt W., et al. "Reintroduction of bridled nailtail wallabies beyond fences at Scotia Sanctuary-Phase 1." Proceedings of the Linnean Society of New South Wales. Vol. 134. 2012.
+Hayward, M.W., L'Hotellier, F., O'Connor, T., Ward-Fear, G., Cathcart, J., Cathcart, T., Sephens, J., Stephens, J., Herman, K. and Legge, S., 2012, January. Reintroduction of bridled nailtail wallabies beyond fences at Scotia Sanctuary-Phase 1. In Proceedings of the Linnean Society of New South Wales (Vol. 134).
 
-Horsup, A., and M. Evans. "Predation by feral cats, Felis catus, on an endangered marsupial, the bridled nailtail wallaby, Onychogalea fraenata." Australian Mammalogy 16.1 (1993): 83-84
+Horsup, A. and Evans, M., 1993. Predation by feral cats, Felis catus, on an endangered marsupial, the bridled nailtail wallaby, Onychogalea fraenata. Australian Mammalogy, 16(1), pp.83-84.
 
 Wallach et al. 2023 In Submission
 

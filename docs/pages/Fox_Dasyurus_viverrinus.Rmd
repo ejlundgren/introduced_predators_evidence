@@ -31,13 +31,13 @@ IUCN status: **Endangered**
 
 EPBC Threat Rating: **Very high**
 
-IUCN claim: *"Predation by introduced feral cats and red foxes"*
+IUCN claim: *"predation by introduced feral cats and red foxes"*
 
 </center>
 
 ### Studies in support
 
-Foxes or another canid (Canis sp.) were the main predators of a group of captive-raised reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Historical records suggest foxes hunted or scavenged quolls when quolls were abundant (Peacock & Abbott 2014). Quolls were last confirmed in NSW 54 years after foxes arrived (Wallach et al. 202X).
+Foxes or another canid (Canis sp.) were the main predators of a group of captive-raised reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Historical records suggest foxes hunted or scavenged quolls when quolls were abundant (Peacock & Abbott 2014). Quolls were last confirmed in NSW 54 years after foxes arrived (Wallach et al. In Submission).
 
 ### Studies not in support
 
@@ -59,9 +59,9 @@ Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. B
 
 Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historical hyperabundance in the quoll (Marsupialia: Dasyuridae) and an assessment of the role of disease, cats and foxes in its curtailment. Australian Journal of Zoology 62:294-344.
 
-Robinson NM, Blanchard W, MacGregor C, Brewster R, Dexter N, Lindenmayer DB. Can evolutionary theories of dispersal and senescence predict postrelease survival, dispersal, and body condition of a reintroduced threatened mammal? Ecol Evol. 2021;11:1002– 1012
+Robinson NM, Blanchard W, MacGregor C, Brewster R, Dexter N, Lindenmayer DB. 2021. Can evolutionary theories of dispersal and senescence predict postrelease survival, dispersal, and body condition of a reintroduced threatened mammal? Ecol Evol;11:1002– 1012
 
-Robinson, Natasha M., et al. "Be nimble with threat mitigation: lessons learned from the reintroduction of an endangered species." Restoration Ecology 28.1 (2020): 29-38
+Robinson, N.M., Dexter, N., Brewster, R., Maple, D., MacGregor, C., Rose, K., Hall, J. and Lindenmayer, D.B., 2020. Be nimble with threat mitigation: lessons learned from the reintroduction of an endangered species. Restoration Ecology, 28(1), pp.29-38.
 
 Wallach et al. 2023 In Submission
 

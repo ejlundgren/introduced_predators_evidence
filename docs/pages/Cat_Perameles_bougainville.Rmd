@@ -37,11 +37,11 @@ IUCN claim: *"The current major threats to the natural subpopulations of the spe
 
 ### Studies in support
 
-Short (2016) described that the incursion of cats into a fenced reserve led to the loss of the entire group of semi-captive, predator-inexperienced bandicoots, but no data was provided. Richards (2012) described that the incursion of cats into a fenced reserve led to population decline, which recovered once cats were killed, but no data was provided. Bandicoots were last confirmed in the Nullarbor, WA and SA 44-68 years after cats arrived (Wallach et al. 202X).
+Short (2016) described that the incursion of cats into a fenced reserve led to the loss of the entire group of semi-captive, predator-inexperienced bandicoots, but no data was provided. Richards (2012) described that the incursion of cats into a fenced reserve led to population decline, which recovered once cats were killed, but no data was provided. Bandicoots were last confirmed in the Nullarbor, WA and SA 44-68 years after cats arrived (Wallach et al. In Submission).
 
 ### Studies not in support
 
-Bandicoots were reintroduced successfully into a fenced reserve with cats (defined as low density) and no evidence of predation was recorded (Richards & Short 2003). Bandicoots were last confirmed in NSW 18 years before cats arrived (Wallach et al. 202X).
+Bandicoots were reintroduced successfully into a fenced reserve with cats (defined as low density) and no evidence of predation was recorded (Richards & Short 2003). Bandicoots were last confirmed in NSW 18 years before cats arrived (Wallach et al. In Submission).
 
 ### Is the threat claim evidence-based?
 
@@ -57,11 +57,11 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Richards JD (2012). Western Barred Bandicoot, Burrowing Bettong and Banded Hare-wallaby Recovery Team, Department of Environment and Conservation (Western Australia), and the Australian Government Department of Sustainability, Environment, Water, Population and Communities.
+Richards, J., 2012. Western barred bandicoot Perameles bougainville, burrowing bettong Bettongia lesueur and banded hare-wallaby Lagostrophus fasciatus National Recovery Plan. Wildlife Management Program, (49).
 
-Richards, J.D. and Short, J. (2003). Reintroduction and establishment of the western barred bandicoot Perameles bougainville (Marsupialia: Peramelidae) at Shark Bay, Western Australia. Biological Conservation 109: 181-195.
+Richards, J.D. and Short, J., 2003. Reintroduction and establishment of the western barred bandicoot Perameles bougainville (Marsupialia: Peramelidae) at Shark Bay, Western Australia. Biological Conservation, 109(2), pp.181-195.
 
-Short, Jeff. "Predation by feral cats key to the failure of a long-term reintroduction of the western barred bandicoot (Perameles bougainville)." Wildlife Research 43.1 (2016): 38-50.
+Short, J., 2016. Predation by feral cats key to the failure of a long-term reintroduction of the western barred bandicoot (Perameles bougainville). Wildlife Research, 43(1), pp.38-50.
 
 Wallach et al. 2023 In Submission
 

@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Not assessed**
 
-IUCN claim: *"Predation by feral domestic cats (felis catus; moderate to severe, across the entire range) and red foxes (vulpes vulpes) represent another major threat"*
+IUCN claim: *"Predation by feral Domestic Cats (Felis catus; moderate to severe, across the entire range) and Red Foxes (Vulpes vulpes) represent another major threat"*
 
 </center>
 
@@ -41,7 +41,7 @@ Gordon et al. (2015) found a negative correlation betwen fox abundance and hoppi
 
 ### Studies not in support
 
-Hopping mice were last confirmed in NSW 4 years before foxes arrived (Wallach et al. 202X).
+Hopping mice were last confirmed in NSW 4 years before foxes arrived (Wallach et al. In Submission).
 
 ### Is the threat claim evidence-based?
 
@@ -57,15 +57,13 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
-Feit, B., Feit, A. & Letnic, M. Apex Predators Decouple Population Dynamics Between Mesopredators and Their Prey. Ecosystems 22, 1606–1617 (2019). https://doi.org/10.1007/s10021-019-00360-2
+Feit, B., Feit, A. and Letnic, M., 2019. Apex predators decouple population dynamics between mesopredators and their prey. Ecosystems, 22, pp.1606-1617.
 
-Gordon, Christopher E., et al. "Mesopredator suppression by an apex predator alleviates the risk of predation perceived by small prey." Proceedings of the Royal Society B: Biological Sciences 282.1802 (2015): 20142870.
+Gordon, C.E., Feit, A., Grüber, J. and Letnic, M., 2015. Mesopredator suppression by an apex predator alleviates the risk of predation perceived by small prey. Proceedings of the Royal Society B: Biological Sciences, 282(1802), p.20142870.
 
-Letnic, M., M. S. Crowther, and F. Koch. "Does a top‐predator provide an endangered rodent with refuge from an invasive mesopredator?." Animal Conservation 12.4 (2009): 302-312
+Letnic, M. and Dworjanyn, S.A., 2011. Does a top predator reduce the predatory impact of an invasive mesopredator on an endangered rodent?. Ecography, 34(5), pp.827-835.
 
-Letnic, Mike, and Freya Koch. "Are dingoes a trophic regulator in arid Australia? A comparison of mammal communities on either side of the dingo fence." Austral Ecology 35.2 (2010): 167-175.
-
-Letnic, Mike, and Symon A. Dworjanyn. "Does a top predator reduce the predatory impact of an invasive mesopredator on an endangered rodent?." Ecography 34.5 (2011): 827-835
+Letnic, M. and Koch, F., 2010. Are dingoes a trophic regulator in arid Australia? A comparison of mammal communities on either side of the dingo fence. Austral Ecology, 35(2), pp.167-175.
 
 Wallach et al. 2023 In Submission
 

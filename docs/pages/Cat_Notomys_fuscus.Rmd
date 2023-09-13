@@ -31,13 +31,13 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN claim: *"Predation by feral domestic cats (felis catus; moderate to severe, across the entire range) and red foxes (vulpes vulpes) represent another major threat"*
+IUCN claim: *"Predation by feral Domestic Cats (Felis catus; moderate to severe, across the entire range) and Red Foxes (Vulpes vulpes) represent another major threat"*
 
 </center>
 
 ### Studies in support
 
-Cat abundance was negatively correlated with hopping mouse abundance (Gordon et al. 2015). Cats hunt hopping mice (Feit et al. 2019; Vernes et al. 2021a; Vernes et al. 2021b). Hopping mice were last confirmed in NSW 24 years after cats arrived (Wallach et al. 202X).
+Cat abundance was negatively correlated with hopping mouse abundance (Gordon et al. 2015). Cats hunt hopping mice (Feit et al. 2019; Vernes et al. 2021a; Vernes et al. 2021b). Hopping mice were last confirmed in NSW 24 years after cats arrived (Wallach et al. In Submission).
 
 ### Studies not in support
 
@@ -57,17 +57,17 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Feit, B., Feit, A. & Letnic, M. Apex Predators Decouple Population Dynamics Between Mesopredators and Their Prey. Ecosystems 22, 1606–1617 (2019). https://doi.org/10.1007/s10021-019-00360-2
+Feit, B., Feit, A. and Letnic, M., 2019. Apex predators decouple population dynamics between mesopredators and their prey. Ecosystems, 22, pp.1606-1617.
 
-Gordon, Christopher E., et al. "Mesopredator suppression by an apex predator alleviates the risk of predation perceived by small prey." Proceedings of the Royal Society B: Biological Sciences 282.1802 (2015): 20142870.
+Gordon, C.E., Feit, A., Grüber, J. and Letnic, M., 2015. Mesopredator suppression by an apex predator alleviates the risk of predation perceived by small prey. Proceedings of the Royal Society B: Biological Sciences, 282(1802), p.20142870.
 
-Letnic, M., M. S. Crowther, and F. Koch. "Does a top‐predator provide an endangered rodent with refuge from an invasive mesopredator?." Animal Conservation 12.4 (2009): 302-312
+Letnic, M. and Koch, F., 2010. Are dingoes a trophic regulator in arid Australia? A comparison of mammal communities on either side of the dingo fence. Austral Ecology, 35(2), pp.167-175.
 
-Letnic, Mike, and Freya Koch. "Are dingoes a trophic regulator in arid Australia? A comparison of mammal communities on either side of the dingo fence." Austral Ecology 35.2 (2010): 167-175.
+Letnic, M., Crowther, M.S. and Koch, F., 2009. Does a top‐predator provide an endangered rodent with refuge from an invasive mesopredator?. Animal Conservation, 12(4), pp.302-312.
 
-Vernes, K., Elliott, T.F. & Jackson, S.M. 150 years of mammal extinction and invasion at Koonchera Dune in the Lake Eyre Basin of South Australia. Biol Invasions 23, 593–610, 2021
+Vernes, K., Elliott, T.F. and Jackson, S.M., 2021. 150 years of mammal extinction and invasion at Koonchera Dune in the Lake Eyre Basin of South Australia. Biological Invasions, 23(2), pp.593-610.
 
-Vernes, Karl, et al. "Diets of mammalian carnivores in the deserts of north-eastern South Australia." Journal of Arid Environments 188 (2021): 104377.
+Vernes, K., Jackson, S.M., Elliott, T.F., Tischler, M. and Harper, A., 2021. Diets of mammalian carnivores in the deserts of north-eastern South Australia. Journal of Arid Environments, 188, p.104377.
 
 Wallach et al. 2023 In Submission
 

@@ -37,11 +37,11 @@ IUCN claim: *"The current major threats to the natural populations of the specie
 
 ### Studies in support
 
-The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). A group of 66 predator-inexperienced bettongs were eliminated from a section of a fenced reserve shortly after a fox breached the fence (Moseby et al. 2019). Foxes were the main predators of predator-inexperienced reintroduced bettongs (Short & Turner 2000). Bettongs were last confirmed in Western Australia 9-16 years after foxes arrived (Wallach et al. 202X).
+The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). A group of 66 predator-inexperienced bettongs were eliminated from a section of a fenced reserve shortly after a fox breached the fence (Moseby et al. 2019). Foxes were the main predators of predator-inexperienced reintroduced bettongs (Short & Turner 2000). Bettongs were last confirmed in Western Australia 9-16 years after foxes arrived (Wallach et al. In Submission).
 
 ### Studies not in support
 
-Bettongs were last confirmed in NSW, QLD and Victoria 11-22 years before foxes arrived (Wallach et al. 202X). Foxes were not listed among predators of reintroduced bettongs (Christensen & Burrows 1995).
+Bettongs were last confirmed in NSW, QLD and Victoria 11-22 years before foxes arrived (Wallach et al. In Submission). Foxes were not listed among predators of reintroduced bettongs (Christensen & Burrows 1995).
 
 ### Is the threat claim evidence-based?
 
@@ -53,17 +53,17 @@ There are no studies evidencing a negative association between foxes and burrowi
 
 ### References
 
-Christensen, P., and N. Burrows. "Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia." Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp (1995): 199-207.
+Christensen, P. and Burrows, N., 1995. Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia. Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp, pp.199-207.
 
 EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
-Moseby, Katherine E., et al. "Understanding predator densities for successful co‐existence of alien predators and threatened prey." Austral Ecology 44.3 (2019): 409-419.
+Moseby, K.E., Letnic, M., Blumstein, D.T. and West, R., 2019. Understanding predator densities for successful co‐existence of alien predators and threatened prey. Austral Ecology, 44(3), pp.409-419.
 
 Short, J. 1998. The extinction of rat-kangaroos (Marsupialia: Potoroidae) in New South Wales, Australia. Biological Conservation 86: 365-377.
 
-Short, Jeff, and Bruce Turner. "Reintroduction of the burrowing bettong Bettongia lesueur (Marsupialia: Potoroidae) to mainland Australia." Biological Conservation 96.2 (2000): 185-196.
+Short, J. and Turner, B., 2000. Reintroduction of the burrowing bettong Bettongia lesueur (Marsupialia: Potoroidae) to mainland Australia. Biological Conservation, 96(2), pp.185-196.
 
 Wallach et al. 2023 In Submission
 

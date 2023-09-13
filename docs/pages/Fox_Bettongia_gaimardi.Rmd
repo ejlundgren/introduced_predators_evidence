@@ -31,13 +31,13 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Not assessed**
 
-IUCN claim: *"The eastern bettong is potentially threatened by predation from the red fox (vulpes vulpes) and feral cat (felis catus). Historically, the red fox has not occurred in tasmania, but if it were to become established in tasmania this could be expected to have a major impact on the eastern bettong, given the evidence that predation by the red fox caused the species' extinction from mainland australia (short 1998; johnson 2006). There is evidence of a recent incursion of the red fox, possibly as a result of a deliberate introduction (sarre et al. 2013)."*
+IUCN claim: *"The Eastern Bettong is potentially threatened by predation from the Red Fox (Vulpes vulpes) and feral Cat (Felis catus). Historically, the Red Fox has not occurred in Tasmania, but if it were to become established in Tasmania this could be expected to have a major impact on the Eastern Bettong, given the evidence that predation by the Red Fox caused the species' extinction from mainland Australia (Short 1998; Johnson 2006). There is evidence of a recent incursion of the Red Fox, possibly as a result of a deliberate introduction (Sarre et al. 2013)."*
 
 </center>
 
 ### Studies in support
 
-The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). In a reintroduction study, foxes killed 20 of 46 reintroduced, predator-inexperienced bettongs and survival time was higher in one of two reintroduced groups where bait take was higher (Evans et al. 2021). Bettongs were last confirmed in NSW 5 years after foxes arrived (Wallach et al. 202X)
+The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). In a reintroduction study, foxes killed 20 of 46 reintroduced, predator-inexperienced bettongs and survival time was higher in one of two reintroduced groups where bait take was higher (Evans et al. 2021). Bettongs were last confirmed in NSW 5 years after foxes arrived (Wallach et al. In Submission)
 
 ### Studies not in support
 
@@ -53,7 +53,7 @@ There are no studies evidencing a negative association between foxes and eastern
 
 ### References
 
-Evans, Maldwyn J., et al. "The ‘goldilocks zone’of predation: The level of fox control needed to select predator resistance in a reintroduced mammal in Australia." Biodiversity and Conservation 30.6 (2021): 1731-1752
+Evans, M.J., Batson, W.G., Gordon, I.J., Belton, E., Chaseling, T., Fletcher, D., Harrison, M., McElroy, T., Mungoven, A., Newport, J. and Pierson, J., 2021. The ‘Goldilocks Zone’of predation: the level of fox control needed to select predator resistance in a reintroduced mammal in Australia. Biodiversity and Conservation, 30, pp.1731-1752.
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

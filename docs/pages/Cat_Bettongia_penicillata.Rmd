@@ -31,13 +31,13 @@ IUCN status: **Critically Endangered**
 
 EPBC Threat Rating: **High/Very High**
 
-IUCN claim: *"The major reason for past decline has been predation by red foxes and feral cats"*
+IUCN claim: *"The major reason for past decline has been predation by Red Foxes and feral cats"*
 
 </center>
 
 ### Studies in support
 
-Cats commonly predate on reintroduced woylies (James et al. 2002; Priddel & Wheeler 2004; Martin et al. 2006; Wheeler & Priddel 2009; Marlow et al. 2015a). Woylies were last recorded in NSW 7-27 years after cats arrived and in the Nullarbor 53 years after cats arrived (Wallach et al. 202X).
+Cats commonly predate on reintroduced woylies (James et al. 2002; Priddel & Wheeler 2004; Martin et al. 2006; Wheeler & Priddel 2009; Marlow et al. 2015a). Woylies were last recorded in NSW 7-27 years after cats arrived and in the Nullarbor 53 years after cats arrived (Wallach et al. In Submission).
 
 ### Studies not in support
 
@@ -57,19 +57,19 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-James, H., Acharya, A.B., Taylor, J.A. and Freak, M.J. (2002). A case of bitten bettongs. The Journal of Forensic Odonto-Stomatology 20(1): 10-12.
+James, H., Acharya, A.B., Taylor, J.A. and Freak, M.J., 2002. A case of bitten bettongs. The Journal of Forensic Odonto-Stomatology-JFOS, 20(1), pp.10-12.
 
-Marlow, Nicola J., et al. "Cats (Felis catus) are more abundant and are the dominant predator of woylies (Bettongia penicillata) after sustained fox (Vulpes vulpes) control." Australian Journal of Zoology 63.1 (2015b): 18-27.
+Marlow, N.J., Thomas, N.D., Williams, A.A., Macmahon, B., Lawson, J., Hitchen, Y., Angus, J. and Berry, O., 2015. Cats (Felis catus) are more abundant and are the dominant predator of woylies (Bettongia penicillata) after sustained fox (Vulpes vulpes) control. Australian Journal of Zoology, 63(1), pp.18-27.
 
-Martin, Sheridan, Stephen Ball, and Paula Peeters. "Reintroduction of the brush-tailed Bettong (Bettongia penicillata ogilbyi) into Lincoln National Park." (2006).
+Martin, S., Ball, S. and Peeters, P., 2006. Reintroduction of the brush-tailed Bettong (Bettongia penicillata ogilbyi) into Lincoln National Park.Program review from September 1999 to July 2004. Department for Environment and Heritage, Government of South Australia.
 
-Moseby K, Peacock D, Read J. 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation 191:331-340.
+Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
 
-Priddel, D. and Wheeler, R. (2004). An experimental translocation of woylies (Bettongia penicillata) to western New South Wales. Wildlife Research 31: 421-432.
+Priddel, D. and Wheeler, R., 2004. An experimental translocation of brush-tailed bettongs (Bettongia penicillata) to western New South Wales. Wildlife Research, 31(4), pp.421-432.
 
 Wallach et al. 2023 In Submission
 
-Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
+Wayne, A.F., Maxwell, M.A., Ward, C.G., Wayne, J.C., Vellios, C.V. and Wilson, I.J., 2017. Recoveries and cascading declines of native mammals associated with control of an introduced predator. Journal of Mammalogy, 98(2), pp.489-501.
 
-Wheeler, R., & Priddel, D. (2009). The impact of introduced predators on two threatened prey species: A case study from western New South Wales. Ecological Management & Restoration, 10, S117–S123. doi:10.1111/j.1442-8903.2009.00457.x 
+Wheeler, R. and Priddel, D., 2009. The impact of introduced predators on two threatened prey species: A case study from western New South Wales. Ecological Management & Restoration, 10, pp.S117-S123.
 

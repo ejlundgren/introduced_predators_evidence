@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Very high**
 
-IUCN claim: *"Competition with foxes and feral cats, predation by foxes and dogs"*
+IUCN claim: *"Predation by foxes and dogs"*
 
 </center>
 
@@ -55,7 +55,7 @@ There are no studies linking foxes to tiger quoll populations.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Körtner, Gerhard, Shaan Gresser, and Bob Harden. "Does fox baiting threaten the spotted-tailed quoll, Dasyurus maculatus?." Wildlife Research 30.2 (2003): 111-118.
+Körtner, G., Gresser, S. and Harden, B., 2003. Does fox baiting threaten the spotted-tailed quoll, Dasyurus maculatus?. Wildlife Research, 30(2), pp.111-118.
 
 Wallach et al. 2023 In Submission
 

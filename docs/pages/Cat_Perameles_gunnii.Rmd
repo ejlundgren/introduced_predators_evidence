@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Very high**
 
-IUCN claim: *"Eastern barred bandicoots probably disappeared from the mainland due to introduced predators and habitat destruction from introduced herbivores. Predation from red foxes is thought to have been particularly detrimental, and the recent introduction of foxes to tasmania could pose a major threat to the species here. "*
+IUCN claim: *"Eastern Barred Bandicoots probably disappeared from the mainland due to introduced predators and habitat destruction from introduced herbivores. Predation from red foxes is thought to have been particularly detrimental, and the recent introduction of foxes to Tasmania could pose a major threat to the species here. "*
 
 </center>
 
@@ -41,7 +41,7 @@ Cats hunt locally-born bandicoots (Lenghaus et al. 1990; Dufty 1994; Schwarz 199
 
 ### Studies not in support
 
-Bandicoots have co-occurred with cats on Tasmania since 1820 and on the mainland for 167 years (Wallach et al. 202X).
+Bandicoots have co-occurred with cats on Tasmania since 1820 and on the mainland for 167 years (Wallach et al. In Submission).
 
 ### Is the threat claim evidence-based?
 
@@ -55,19 +55,19 @@ There are no studies liking cats with eastern barred bandicoot populations. In c
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
-Dufty, Anthony C. "Population demography of the eastern barred bandicoot (Perameles gunnii) at Hamilton, Victoria." Wildlife Research 21.4 (1994): 445-457
+Dufty, A.C., 1994. Population demography of the eastern barred bandicoot (Perameles gunnii) at Hamilton, Victoria. Wildlife Research, 21(4), pp.445-457.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Groenewegen, Rebecca, et al. "Assisted colonisation trial of the eastern barred bandicoot (Perameles gunnii) to a fox-free island." Wildlife Research 44.7 (2017): 484-496.
+Groenewegen, R., Harley, D., Hill, R. and Coulson, G., 2017. Assisted colonisation trial of the eastern barred bandicoot (Perameles gunnii) to a fox-free island. Wildlife Research, 44(7), pp.484-496.
 
-Lenghaus, Cornelis, David L. Obendorf, and Frank H. Wright. "Veterinary aspects of Perameles gunnii biology with special reference to species conservation." Management and Conservation of Small Populations. Chicago Zoological Society, Brookfield, Illinois (1990): 89-108.
+Lenghaus, C., Obendorf, D.L. and Wright, F.H., 1990. Veterinary aspects of Perameles gunnii biology with special reference to species conservation. Management and Conservation of Small Populations. Chicago Zoological Society, Brookfield, Illinois, pp.89-108.
 
-Schwarz E. 1995. Habitat use in a population of mainland Tasmanian feral cats, Felis catus. Grad.Dip. (Hons.) thesis. University of Tasmania, Hobart.
+Schwarz, E., 1995. Habitat use in a population of mainland Tasmanian feral cats, Felis catus. Graduate Diploma Honours Thesis. University of Tasmania, Hobart.
 
 Wallach et al. 2023 In Submission
 
-Winnard, Amy L., and Graeme Coulson. "Sixteen years of Eastern Barred Bandicoot Perameles gunnii reintroductions in Victoria: a review." Pacific Conservation Biology 14.1 (2008): 34-53.
+Winnard, A.L. and Coulson, G., 2008. Sixteen years of Eastern Barred Bandicoot Perameles gunnii reintroductions in Victoria: a review. Pacific Conservation Biology, 14(1), pp.34-53.
 
-Woolley, Leigh‐Ann, et al. "Introduced cats Felis catus eating a continental fauna: inventory and traits of Australian mammal species killed." Mammal Review 49.4 (2019): 354-368
+Woolley, L.A., Geyle, H.M., Murphy, B.P., Legge, S.M., Palmer, R., Dickman, C.R., Augusteyn, J., Comer, S., Doherty, T.S., Eager, C. and Edwards, G., 2019. Introduced cats Felis catus eating a continental fauna: inventory and traits of Australian mammal species killed. Mammal Review, 49(4), pp.354-368.
 

@@ -31,17 +31,17 @@ IUCN status: **Vulnerable**
 
 EPBC Threat Rating: **Moderate**
 
-IUCN claim: *"The reasons for past declines of the golden bandicoot are predation by feral cats and red foxes"*
+IUCN claim: *"The reasons for past declines of the Golden Bandicoot are predation by feral cats and red foxes"*
 
 </center>
 
 ### Studies in support
 
-Cats were the main predator of a group of reintroduced, predator-inexperienced bandicoots (Blythman et al. 2020). Cats also predated on another reintroduced group (Christensen & Burrows 1995) and on locally-born bandicoots (Wysong 2016; Doherty et al. 2017). Bandicoots were last confirmed in the Nullarbor 37 years after cats arrived (Wallach et al. 202X).
+Cats were the main predator of a group of reintroduced, predator-inexperienced bandicoots (Blythman et al. 2020). Cats also predated on another reintroduced group (Christensen & Burrows 1995) and on locally-born bandicoots (Wysong 2016; Doherty et al. 2017). Bandicoots were last confirmed in the Nullarbor 37 years after cats arrived (Wallach et al. In Submission).
 
 ### Studies not in support
 
-Cat breached fence of semi-captive bandicoot enclosure, none were hunted in 5 weeks (from Moseby et al. 2015). Bandicoots were last confirmed in NSW 18 years before cats arrived (Wallach et al. 202X).
+Cat breached fence of semi-captive bandicoot enclosure, none were hunted in 5 weeks (from Moseby et al. 2015). Bandicoots were last confirmed in NSW 18 years before cats arrived (Wallach et al. In Submission).
 
 ### Is the threat claim evidence-based?
 
@@ -55,11 +55,11 @@ There are no studies linking cats to golden bandicoot populations. The fate of r
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
-Blythman, Mark, et al. "Translocation of golden bandicoots, Isoodon auratus barrowensis, from a fenced enclosure to unfenced managed land on Matuwa (formally Lorna Glen) in September 2015." (2020)
+Blythman, M., Lohr, C., Sims, C. and Morris, K., 2020. Translocation of Golden Bandicoots, Isoodon auratus barrowensis, from a fenced enclosure to unfenced managed land on Matuwa (formally Lorna Glen) September 2015: Final Report. Department of Biodiversity Conservation and Attractions, Perth Western Australia, 43.
 
-Christensen, P., and N. Burrows. "Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia." Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp (1995): 199-207.
+Christensen, P. and Burrows, N., 1995. Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia. Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp, pp.199-207.
 
-Doherty, T.S., Dickman, C.R., Johnson, C.N., Legge, S.M., Ritchie, E.G., and Woinarski, J.C.Z. (2017) Impacts and management of feral cats Felis catus in Australia. Mammal Review. 47 (2) 83-97; which has been published in final form at https://doi.org/10.1111/mam.12080
+Doherty, T.S., Dickman, C.R., Johnson, C.N., Legge, S.M., Ritchie, E.G. and Woinarski, J.C., 2017. Impacts and management of feral cats Felis catus in Australia. Mammal Review, 47(2), pp.83-97.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -67,5 +67,5 @@ Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a 
 
 Wallach et al. 2023 In Submission
 
-Wysong ML. 2016. Predator ecology in the arid rangelands of Western Australia: spatial interactions and resource competition between an apex predator, the dingo Canis dingo, and an introduced mesopredator, the feral cat Felis catus. PhD thesis, University of Western Australia, Perth.
+Wysong, M.L., 2016. Predator ecology in the arid rangelands of Western Australia: spatial interactions and resource competition between an apex predator, the dingo Canis dingo, and an introduced mesopredator, the feral cat Felis catus. PhD thesis, University of Western Australia, Perth.
 

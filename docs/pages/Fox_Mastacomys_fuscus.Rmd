@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **High**
 
-IUCN claim: *"The species is threatened by predation from introduced foxes (vulpes vulpes) (bubela and happold 1993, green 2002) and domestic cats (felis catus) (l. Broome pers. comm., milner et al. 2015)."*
+IUCN claim: *"The species is threatened by predation from introduced foxes (Vulpes vulpes) (Bubela and Happold 1993, Green 2002) and Domestic Cats (Felis catus) (L. Broome pers. comm., Milner et al. 2015)."*
 
 </center>
 
@@ -53,25 +53,23 @@ There are no studies linking foxes to broad-toothed mouse populations.
 
 ### References
 
-Brunner, H., Lloyd, J., & Coman, B. (1975). Fox Scat Analysis in a Forest Park in South-Eastern Australia. Wildlife Research, 2(2), 147. doi:10.1071/wr9750147
+Brunner, H., Lloyd, J.W. and Coman, B.J., 1975. Fox scat analysis in a forest park in south-eastern Australia. Wildlife Research, 2(2), pp.147-154.
 
-Bubela, T. M., and D. C. D. Happold. "The social organisation and mating system of an Australian subalpine rodent, the broad-toothed rat, Mastacomys fuscus Thomas." Wildlife Research 20.4 (1993): 405-417.
+Bubela, T.M. and Happold, D.C.D., 1993. The social organisation and mating system of an Australian subalpine rodent, the broad-toothed rat, Mastacomys fuscus Thomas. Wildlife Research, 20(4), pp.405-417.
 
-Bubela, Tania M., C. R. Dickman, and A. E. Newsome. "Diet and winter foraging behaviour of the red fox (Vulpes vulpes) in alpine and subalpine New South Wales." Australian Mammalogy 20.3 (1998): 321-330.
+Davis, N.E., Forsyth, D.M., Triggs, B., Pascoe, C., Benshemesh, J., Robley, A., Lawrence, J., Ritchie, E.G., Nimmo, D.G. and Lumsden, L.F., 2015. Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia. PloS One, 10(3), p.e0120975.
 
-Davis NE, Forsyth DM, Triggs B, Pascoe C, Benshemesh J, Robley A, et al. (2015) Interspecific and Geographic Variation in the Diets of Sympatric Carnivores: Dingoes/Wild Dogs and Red Foxes in South-Eastern Australia. PLoS ONE 10(3): e0120975. https://doi.org/10.1371/journal.pone.0120975
-
-Dickman, C. R., and C. A. McKechnie. "A survey of the mammals of Mount Royal and Barrington Tops, New South Wales." Australian Zoologist 21.6 (1985): 531-544.
+Dickman, C.R. and McKechnie, C.A., 1985. A survey of the mammals of Mount Royal and Barrington Tops, New South Wales. Australian Zoologist, 21(6), pp.531-544.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Green, K. (2002). Selective predation on the broad-toothed rat, Mastacomys fuscus (Rodentia: Muridae), by the introduced red fox, Vulpes vulpes (Carnivora: Canidae), in the Snowy Mountains, Australia. Austral Ecology, 27(4), 353–359. doi:10.1046/j.1442-9993.2002.01187.x 
+Green, K. and Osborne, W.S., 1981. The diet of foxes, Vulpes vulpes (L.), in relation to abundance of prey above the winter snowline in New South Wales. Wildlife Research, 8(2), pp.349-360.
 
-Green, K. (2003). Altitudinal and temporal differences in the food of foxes (Vulpes vulpes) at alpine and subalpine altitudes in the Snowy Mountains. Wildlife Research, 30(3), 245. doi:10.1071/wr02008 
+Green, K., 2002. Selective predation on the broad‐toothed rat, Mastacomys fuscus (Rodentia: Muridae), by the introduced red fox, Vulpes vulpes (Carnivora: Canidae), in the Snowy Mountains, Australia. Austral Ecology, 27(4), pp.353-359.
 
-Green, K., & Osborne, W. (1981). The Diet of Foxes, Vulpes Vulpes (L.), In Relation to Abundance of Prey Above the Winter Snowline in New South Wales. Wildlife Research, 8(2), 349. doi:10.1071/wr9810349 
+Green, K., 2003. Altitudinal and temporal differences in the food of foxes (Vulpes vulpes) at alpine and subalpine altitudes in the Snowy Mountains. Wildlife Research, 30(3), pp.245-253.
 
-Seebeck, J. H. (1978). Diet of the fox Vulpes vulpes in a western Victorian forest. Austral Ecology, 3(1), 105–108. doi:10.1111/j.1442-9993.1978.tb00856.x 
+Seebeck, J.H., 1978. Diet of the fox Vulpes vulpes in a western Victorian forest. Australian Journal of Ecology, 3(1), pp.105-108.
 
 Wallach et al. 2023 In Submission
 

@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **High**
 
-IUCN claim: *"The species is threatened by predation from introduced foxes (vulpes vulpes) (bubela and happold 1993, green 2002) and domestic cats (felis catus) (l. Broome pers. comm., milner et al. 2015)."*
+IUCN claim: *"The species is threatened by predation from introduced foxes (Vulpes vulpes) (Bubela and Happold 1993, Green 2002) and Domestic Cats (Felis catus) (L. Broome pers. comm., Milner et al. 2015)."*
 
 </center>
 
@@ -53,7 +53,7 @@ There are no studies linking cats to broad-toothed mouse populations.
 
 ### References
 
-Doherty, Tim S., et al. "A continental‐scale analysis of feral cat diet in Australia." Journal of Biogeography 42.5 (2015): 964-975.
+Doherty, T.S., Davis, R.A., van Etten, E.J., Algar, D., Collier, N., Dickman, C.R., Edwards, G., Masters, P., Palmer, R. and Robinson, S., 2015. A continental‐scale analysis of feral cat diet in Australia. Journal of Biogeography, 42(5), pp.964-975.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 

@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **High**
 
-IUCN claim: *"The major threat is predation, especially by the invasive red fox but also by wild dogs and feral cats. "*
+IUCN claim: *"The major threat is predation, especially by the invasive Red Fox but also by wild dogs and feral cats. "*
 
 </center>
 
@@ -55,13 +55,15 @@ There are no studies evidencing a negative association between cats and long-nos
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
-Lazenby BT. 2012. Do feral cats affect small mammals? A case study from the forests of southern Tasmania. PhD thesis, University of Sydney, Sydney.
+Lazenby, B.T., 2012. Do feral cats affect small mammals? A case study from the forests of southern Tasmania. PhD thesis, University of Sydney, Sydney.
 
-Miritis, Vivianna; Rendall, Anthony R.; Doherty, Tim S.; Coetsee, Amy L.; Ritchie, Euan G. (2020). Living with the enemy: a threatened prey species coexisting with feral cats on a fox-free island. Wildlife Research, (), –. doi:10.1071/WR19202
+Miritis, V., Rendall, A.R., Doherty, T.S., Coetsee, A.L. and Ritchie, E.G., 2020. Living with the enemy: a threatened prey species coexisting with feral cats on a fox-free island. Wildlife Research, 47(8), pp.633-642.
 
-Norton, Melinda A., et al. "Population characteristics and management of the long-nosed potoroo (Potorous tridactylus) in high-quality habitat in the Southern Highlands of New South Wales." Australian Mammalogy 37.1 (2015): 67-74
+Norton, M.A., Prentice, A., Dingle, J., French, K. and Claridge, A.W., 2015. Population characteristics and management of the long-nosed potoroo (Potorous tridactylus) in high-quality habitat in the Southern Highlands of New South Wales. Australian Mammalogy, 37(1), pp.67-74.
 
-Schwarz E. 1995. Habitat use in a population of mainland Tasmanian feral cats, Felis catus. Grad.Dip. (Hons.) thesis. University of Tasmania, Hobart.
+Robley, A.J., Cally, J.G., Murray, A., Bluff, L., Collyer, A., Borg, N. and Phillips, L., 2022. The response of native species to the 2019–20 bushfires and introduced predators in far East Gippsland. Arthur Rylah Institute for Environmental Research Technical Report Series No. 329. Department of Environment. Land, Water and Planning, Heidelberg.
+
+Schwarz, E., 1995. Habitat use in a population of mainland Tasmanian feral cats, Felis catus. Graduate Diploma Honours Thesis. University of Tasmania, Hobart.
 
 Wallach et al. 2023 In Submission
 

@@ -31,17 +31,17 @@ IUCN status: **Near Threatened**
 
 EPBC Threat Rating: **Very high**
 
-IUCN claim: *"Predation by introduced red fox and feral cat are the major threats."*
+IUCN claim: *"Predation by introduced Red Fox and feral Cat are the major threats."*
 
 </center>
 
 ### Studies in support
 
-Quoll population increased after poison-baiting was intensified, but no evidence provided the baiting impacted foxes (Morris et al. 2003). Quoll abundance was higher at poison-baited sites compared to controls, though not at statistical significance, fox abundance was not monitored, and sites not selected randomly (Wayne et al. 2011). Quoll population increased and then declined where poison-baiting was conducted, and at one site it was observed but not evidenced that the population increased (Orell 2004; DEC 2012). A translocation failed at a site not intensively poison-baited, and a quoll sighting occurred where poison-baiting was intensive (Kinnear et al. 2002). poison-baiting targeting cats was associated with a decline in foxes, but temporal association with quoll abundance wasn’t analysed and association between fox and quoll abundance was unclear (Comer et al. 2020). Quolls were last confirmed 7 and 26 years after foxes arrived in the Eyre Peninsula and Nullarbor, respectively (Wallach et al. 202X).
+Quoll population increased after poison-baiting was intensified, but no evidence provided the baiting impacted foxes (Morris et al. 2003). Quoll abundance was higher at poison-baited sites compared to controls, though not at statistical significance, fox abundance was not monitored, and sites not selected randomly (Wayne et al. 2011). Quoll population increased and then declined where poison-baiting was conducted, and at one site it was observed but not evidenced that the population increased (Orell 2004; DEC 2012). A translocation failed at a site not intensively poison-baited, and a quoll sighting occurred where poison-baiting was intensive (Kinnear et al. 2002). poison-baiting targeting cats was associated with a decline in foxes, but temporal association with quoll abundance wasn’t analysed and association between fox and quoll abundance was unclear (Comer et al. 2020). Quolls were last confirmed 7 and 26 years after foxes arrived in the Eyre Peninsula and Nullarbor, respectively (Wallach et al. In Submission).
 
 ### Studies not in support
 
-Increased poison-baiting intensity relative to quoll abundance overlapped with zero, and no data on foxes, nor control sites without poisoning were included (Geary et al. 2023). Foxes were not among predators of translocated quolls (Moseby et al. 2015; Moseby et al. 2021a; Moseby et al. 2021b). Quoll abundance increased and fox abundance also increased but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017). Quolls were last confirmed in NSW 46 years before foxes arrived (Wallach et al. 202X).
+Increased poison-baiting intensity relative to quoll abundance overlapped with zero, and no data on foxes, nor control sites without poisoning were included (Geary et al. 2023). Foxes were not among predators of translocated quolls (Moseby et al. 2015; Moseby et al. 2021a; Moseby et al. 2021b). Quoll abundance increased and fox abundance also increased but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017). Quolls were last confirmed in NSW 46 years before foxes arrived (Wallach et al. In Submission).
 
 ### Is the threat claim evidence-based?
 
@@ -53,31 +53,31 @@ There are no studies evidencing a negative association between foxes and western
 
 ### References
 
-Comer, S., et al. "Integrating feral cat (Felis catus) control into landscape-scale introduced predator management to improve conservation prospects for threatened fauna: a case study from the south coast of Western Australia." Wildlife Research 47.8 (2020): 762-778.
+Comer, S., Clausen, L., Cowen, S., Pinder, J., Thomas, A., Burbidge, A.H., Tiller, C., Algar, D. and Speldewinde, P., 2020. Integrating feral cat (Felis catus) control into landscape-scale introduced predator management to improve conservation prospects for threatened fauna: a case study from the south coast of Western Australia. Wildlife Research, 47(8), pp.762-778.
 
-Department of Environment and Conservation (2012). Chuditch (Dasyurus geoffroii) Recovery Plan. Wildlife Management Program No. 54. Department of Environment and Conservation, Perth, Western Australia.
+Department of Environment and Conservation, 2012. Chuditch (Dasyurus geoffroii) Recovery Plan. Wildlife Management Program No. 54. Department of Environment and Conservation, Perth, Western Australia.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
-Geary WL, Tulloch AI, Ritchie EG, Doherty TS, Nimmo DG, Maxwell MA, Wayne AF. 2023. Identifying historical and future global change drivers that place species recovery at risk. Global Change Biology https://doi.org/10.1111/gcb.16661
+Geary, W.L., Tulloch, A.I., Ritchie, E.G., Doherty, T.S., Nimmo, D.G., Maxwell, M.A. and Wayne, A.F., 2023. Identifying historical and future global change drivers that place species recovery at risk. Global Change Biology, 29(11), pp.2953-2967.
 
-Kinnear, J. E., N. R. Sumner, and M. L. Onus. "The red fox in Australia—an exotic predator turned biocontrol agent." Biological Conservation 108.3 (2002): 335-359.
+Kinnear, J.E., Sumner, N.R. and Onus, M.L., 2002. The red fox in Australia—an exotic predator turned biocontrol agent. Biological Conservation, 108(3), pp.335-359.
 
-Morris, K., et al. "Recovery of the threatened chuditch (): a case study. In ‘Predators with Pouches: the Biology of Carnivorous Marsupials’.(Eds M. Jones, C. Dickman, and M. Archer.) pp. 435–451." (2003): 435-451.
+Morris, K., Johnson, B., Orell, P., Gaikhorst, G., Wayne, A. and Moro, D., 2003. Recovery of the threatened chuditch (Dasyurus geoffroii): a case study. Predators With Pouches: The Biology of Carnivorous Marsupials, pp.435-451.
 
-Moseby, K. E., D. E. Peacock, and J. L. Read. "Catastrophic cat predation: a call for predator profiling in wildlife protection programs." Biological Conservation 191 (2015): 331-340.
+Moseby, K., Hodgens, P., Bannister, H., Mooney, P., Brandle, R., Lynch, C., Young, C., Jansen, J. and Jensen, M., 2021. The ecological costs and benefits of a feral cat poison‐baiting programme for protection of reintroduced populations of the western quoll and brushtail possum. Austral Ecology, 46(8), pp.1366-1382.
 
-Moseby, K. E., et al. "Intensive monitoring, the key to identifying cat predation as a major threat to native carnivore (Dasyurus geoffroii) reintroduction." Biodiversity and Conservation 30.5 (2021): 1547-1571
+Moseby, K.E., Hodgens, P., Peacock, D., Mooney, P., Brandle, R., Lynch, C., West, R., Young, C.M., Bannister, H., Copley, P. and Jensen, M.A., 2021. Intensive monitoring, the key to identifying cat predation as a major threat to native carnivore (Dasyurus geoffroii) reintroduction. Biodiversity and Conservation, 30, pp.1547-1571.
 
-Moseby, Katherine, et al. "The ecological costs and benefits of a feral cat poison‐baiting programme for protection of reintroduced populations of the western quoll and brushtail possum." Austral Ecology 46.8 (2021): 1366-1382.
+Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
 
-Orell, P. (2004). Fauna monitoring and staff training: Western Shield review – February 2003. Conservation Science Western Australia 5(2): 51-95.
+Orell, P., 2004. Fauna monitoring and staff training: Western Shield review – February 2003. Conservation Science Western Australia 5(2), 51-95.
 
 Wallach et al. 2023 In Submission
 
-Wayne, Adrian F., et al. "Recoveries and cascading declines of native mammals associated with control of an introduced predator." Journal of Mammalogy 98.2 (2017): 489-50
+Wayne, A.F., Liddelow, G.L. and Williams, M.R., 2011. FORESTCHECK: terrestrial vertebrate associations with fox control and silviculture in jarrah (Eucalyptus marginata) forest. Australian Forestry, 74(4), pp.336-349.
 
-Wayne, Adrian F., Graeme L. Liddelow, and Matthew R. Williams. "FORESTCHECK: terrestrial vertebrate associations with fox control and silviculture in jarrah (Eucalyptus marginata) forest." Australian Forestry 74.4 (2011): 336-349.
+Wayne, A.F., Maxwell, M.A., Ward, C.G., Wayne, J.C., Vellios, C.V. and Wilson, I.J., 2017. Recoveries and cascading declines of native mammals associated with control of an introduced predator. Journal of Mammalogy, 98(2), pp.489-501.
 
