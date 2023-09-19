@@ -3,7 +3,7 @@ title: 'Species Accounts'
 output: html_document
 ---
 
-#### Supplementary data for Scant evidence that introduced predators cause extinctions
+#### Supplementary data for 'Scant evidence that introduced predators cause extinctions'
 
 ::::{style="display: flex;"}
 :::{}
