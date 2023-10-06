@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Critically Endangered**
 
-EPBC Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Very high**
 
 IUCN claim: *"Predation by the introduced Red Fox is also a threat"*
 
@@ -62,4 +62,6 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 Green, K. and Osborne, W.S., 1981. The diet of foxes, Vulpes vulpes (L.), in relation to abundance of prey above the winter snowline in New South Wales. Wildlife Research, 8(2), pp.349-360.
 
 Green, K., 2003. Altitudinal and temporal differences in the food of foxes (Vulpes vulpes) at alpine and subalpine altitudes in the Snowy Mountains. Wildlife Research, 30(3), pp.245-253.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

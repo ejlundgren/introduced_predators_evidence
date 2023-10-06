@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Extreme**
+EPBC Predator Threat Rating: **Extreme**
 
 IUCN claim: *"The major threat to the Bilby is predation by introduced red foxes and feral cats"*
 
@@ -60,6 +60,8 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Lohr, C.A., Dziminski, M., Dunlop, J., Miller, E. and Morris, K., 2021. Reintroduction of bilbies (Macrotis lagotis) to Matuwa, an Indigenous Protected Area in Western Australia. Rangeland Ecology & Management, 78, pp.67-78.
 

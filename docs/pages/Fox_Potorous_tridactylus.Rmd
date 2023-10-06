@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Very high**
 
 IUCN claim: *"The major threat is predation, especially by the invasive Red Fox but also by wild dogs and feral cats. "*
 
@@ -66,6 +66,8 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 Glen, A.S. and Dickman, C.R., 2008. Niche overlap between marsupial and eutherian carnivores: does competition threaten the endangered spotted‐tailed quoll?. Journal of Applied Ecology, 45(2), pp.700-707.
 
 Glen, A.S., Pennay, M., Dickman, C.R., Wintle, B.A. and Firestone, K.B., 2011. Diets of sympatric native and introduced carnivores in the Barrington Tops, eastern Australia. Austral Ecology, 36(3), pp.290-296.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Long, K.I., 2001. Spatio-temporal interactions among male and female Long-nosed Potoroos, Potorous tridactylus (Marsupialia: Macropodoidea): mating system implications. Australian Journal of Zoology, 49(1), pp.17-26.
 

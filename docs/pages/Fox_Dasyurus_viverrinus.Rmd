@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Endangered**
 
-EPBC Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Very high**
 
 IUCN claim: *"predation by introduced feral cats and red foxes"*
 
@@ -58,6 +58,8 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historical hyperabundance in the quoll (Marsupialia: Dasyuridae) and an assessment of the role of disease, cats and foxes in its curtailment. Australian Journal of Zoology 62:294-344.
 

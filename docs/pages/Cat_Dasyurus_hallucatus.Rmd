@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Endangered**
 
-EPBC Threat Rating: **High**
+EPBC Predator Threat Rating: **High**
 
 IUCN claim: *"Predation by feral cats may also be a threat."*
 
@@ -58,6 +58,8 @@ Cowan, M., Moro, D., Anderson, H., Angus, J., Garretson, S. and Morris, K., 2020
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Oakwood, M., 2000. Reproduction and demography of the northern quoll, Dasyurus hallucatus, in the lowland savanna of northern Australia. Australian Journal of Zoology, 48(5), pp.519-539.
 

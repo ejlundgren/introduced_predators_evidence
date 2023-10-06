@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **High**
+EPBC Predator Threat Rating: **High**
 
 IUCN claim: *"This species is threatened by predation by feral cats, which are known to be predators of mammals of this size"*
 
@@ -58,4 +58,6 @@ There are no studies linking cats to western mice.
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **High/Very High**
+EPBC Predator Threat Rating: **High/Very High**
 
 IUCN claim: *"Predation by feral cats may also be a threat."*
 
@@ -56,6 +56,8 @@ Cats have been documented among a range of ecological variables negatively corre
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Stobo-Wilson, A.M., Stokeld, D., Einoder, L.D., Davies, H.F., Fisher, A., Hill, B.M., Mahney, T., Murphy, B.P., Scroggie, M.P., Stevens, A. and Woinarski, J.C.Z., 2020. Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics. Biological Conservation, 247, p.108638.
 

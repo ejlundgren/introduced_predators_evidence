@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Very high**
 
 IUCN claim: *"Eastern Barred Bandicoots probably disappeared from the mainland due to introduced predators and habitat destruction from introduced herbivores. Predation from red foxes is thought to have been particularly detrimental, and the recent introduction of foxes to Tasmania could pose a major threat to the species here. "*
 
@@ -62,6 +62,8 @@ Dufty, A.C., 1994. Population demography of the eastern barred bandicoot (Perame
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Groenewegen, R., Harley, D., Hill, R. and Coulson, G., 2017. Assisted colonisation trial of the eastern barred bandicoot (Perameles gunnii) to a fox-free island. Wildlife Research, 44(7), pp.484-496.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Lenghaus, C., Obendorf, D.L. and Wright, F.H., 1990. Veterinary aspects of Perameles gunnii biology with special reference to species conservation. Management and Conservation of Small Populations. Chicago Zoological Society, Brookfield, Illinois, pp.89-108.
 

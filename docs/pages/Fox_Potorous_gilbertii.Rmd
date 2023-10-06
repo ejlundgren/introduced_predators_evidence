@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Critically Endangered**
 
-EPBC Threat Rating: **High/Very High**
+EPBC Predator Threat Rating: **High/Very High**
 
 IUCN claim: *"Predation by introduced red foxes and feral cats are the major threats"*
 
@@ -58,4 +58,6 @@ There are no studies linking foxes to Gilbert's potoroo.
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

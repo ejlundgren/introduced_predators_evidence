@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Predation by Red Foxes may be a threat, however, there was no population level response observed in areas where foxes have been controlled."*
 
@@ -56,4 +56,6 @@ There are no studies linking foxes to western mice.
 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

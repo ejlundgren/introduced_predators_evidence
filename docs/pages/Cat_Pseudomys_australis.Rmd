@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Very high**
 
 IUCN claim: *" Recent research has demonstrated marked detrimental impact of introduced predators: Red Fox (Vulpes vulpes) and feral Domestic Cats (Felis catus)"*
 
@@ -58,6 +58,8 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Pavey, C.R., Cole, J.R., McDonald, P.J. and Nano, C.E., 2014. Population dynamics and spatial ecology of a declining desert rodent, Pseudomys australis: the importance of refuges for persistence. Journal of Mammalogy, 95(3), pp.615-625.
 

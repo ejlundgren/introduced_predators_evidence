@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **High**
+EPBC Predator Threat Rating: **High**
 
 IUCN claim: *"Threats are poorly understood but include predation by and competition with feral cats and Red Foxes,"*
 
@@ -60,6 +60,8 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Mahon, P.S., 1999. Predation by feral cats and red foxes and the dynamics of small mammal populations in arid Australia. PhD thesis, University of Sydney, Sydney, Australia.
 

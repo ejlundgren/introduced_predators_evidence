@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"threats from feral cats are pervasive"*
 
@@ -56,4 +56,6 @@ There are no studies linking cats to bats.
 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

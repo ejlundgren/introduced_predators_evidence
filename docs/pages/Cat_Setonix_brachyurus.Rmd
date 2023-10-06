@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *" Predation by red foxes and possibly feral cats has led to a past decline of mainland populations."*
 
@@ -58,4 +58,6 @@ Bain, K.T., 2015. The ecology of the quokka (Setonix brachyurus) in the southern
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 Hayward, M.W., de Tores, P.J., Augee, M.L. and Banks, P.B., 2005. Mortality and survivorship of the quokka (Setonix brachyurus)(Macropodidae: Marsupialia) in the northern jarrah forest of Western Australia. Wildlife Research, 32(8), pp.715-722.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Very high**
 
 IUCN claim: *"The species is threatened by introduced predators, the Red Fox and feral Cat especially"*
 
@@ -68,4 +68,6 @@ Fisher, D.O., Blomberg, S.P. and Hoyle, S.D., 2001. Mechanisms of drought-induce
 Hayward, M.W., L'Hotellier, F., O'Connor, T., Ward-Fear, G., Cathcart, J., Cathcart, T., Sephens, J., Stephens, J., Herman, K. and Legge, S., 2012, January. Reintroduction of bridled nailtail wallabies beyond fences at Scotia Sanctuary-Phase 1. In Proceedings of the Linnean Society of New South Wales (Vol. 134).
 
 Horsup, A. and Evans, M., 1993. Predation by feral cats, Felis catus, on an endangered marsupial, the bridled nailtail wallaby, Onychogalea fraenata. Australian Mammalogy, 16(1), pp.83-84.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

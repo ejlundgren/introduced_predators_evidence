@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Very high**
 
 IUCN claim: *"The introduction of the predatory Red Fox and feral cats has had a profound impact and continues to be a major threat today (Friend 2008)."*
 
@@ -60,4 +60,6 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Friend, J.A. and Thomas, N.D., 1994. Reintroduction and the numbat recovery programme. Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp, pp.189-198.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

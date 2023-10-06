@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Critically Endangered**
 
-EPBC Threat Rating: **Very high/Extreme**
+EPBC Predator Threat Rating: **Very high/Extreme**
 
 IUCN claim: *"Translocation experiments in the past and other data demonstrate that Red Foxes and feral Cats are major threats"*
 
@@ -60,6 +60,8 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Grimm, H.L. and De Tores, P.J., 2009. Some aspects of the biology of the common brushtail possum, Trichosurus vulpecula, and the threatened western ringtail possum, Pseudocheirus occidentalis, in a pine plantation scheduled for harvesting and in adjacent turat and peppermint woodland near Busselton, Western Australia. Government of Western Australia, Perth.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Jones, B.A., How, R.A. and Kitchener, D.J., 1994. A field study of Pseudocheirus occidentalis (Marsupialia: Petauridae) II. Population studies. Wildlife Research, 21(2), pp.189-201.
 

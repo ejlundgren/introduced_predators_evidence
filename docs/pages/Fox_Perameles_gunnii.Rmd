@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Moderate**
+EPBC Predator Threat Rating: **Moderate**
 
 IUCN claim: *"Eastern Barred Bandicoots probably disappeared from the mainland due to introduced predators and habitat destruction from introduced herbivores. Predation from red foxes is thought to have been particularly detrimental, and the recent introduction of foxes to Tasmania could pose a major threat to the species here. "*
 
@@ -60,6 +60,8 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Lenghaus, C., Obendorf, D.L. and Wright, F.H., 1990. Veterinary aspects of Perameles gunnii biology with special reference to species conservation. Management and Conservation of Small Populations. Chicago Zoological Society, Brookfield, Illinois, pp.89-108.
 

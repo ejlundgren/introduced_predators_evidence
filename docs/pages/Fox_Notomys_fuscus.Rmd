@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Predation by feral Domestic Cats (Felis catus; moderate to severe, across the entire range) and Red Foxes (Vulpes vulpes) represent another major threat"*
 
@@ -62,6 +62,8 @@ Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. B
 Feit, B., Feit, A. and Letnic, M., 2019. Apex predators decouple population dynamics between mesopredators and their prey. Ecosystems, 22, pp.1606-1617.
 
 Gordon, C.E., Feit, A., Grüber, J. and Letnic, M., 2015. Mesopredator suppression by an apex predator alleviates the risk of predation perceived by small prey. Proceedings of the Royal Society B: Biological Sciences, 282(1802), p.20142870.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Letnic, M. and Dworjanyn, S.A., 2011. Does a top predator reduce the predatory impact of an invasive mesopredator on an endangered rodent?. Ecography, 34(5), pp.827-835.
 

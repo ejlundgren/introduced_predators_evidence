@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **Moderate**
+EPBC Predator Threat Rating: **Moderate**
 
 IUCN claim: *"The current major threats to the natural populations of the species include: the accidental introduction of predators (introduced cats and foxes)"*
 
@@ -60,6 +60,8 @@ Christensen, P. and Burrows, N., 1995. Project desert dreaming: experimental rei
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Moseby K, Peacock D, Read J. 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation 191:331-340.
 

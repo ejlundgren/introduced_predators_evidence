@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **High/Very High**
+EPBC Predator Threat Rating: **High/Very High**
 
 IUCN claim: *"Predation by feral Domestic Cats (Felis catus; moderate to severe, across the entire range) and Red Foxes (Vulpes vulpes) represent another major threat"*
 
@@ -62,6 +62,8 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 Feit, B., Feit, A. and Letnic, M., 2019. Apex predators decouple population dynamics between mesopredators and their prey. Ecosystems, 22, pp.1606-1617.
 
 Gordon, C.E., Feit, A., Grüber, J. and Letnic, M., 2015. Mesopredator suppression by an apex predator alleviates the risk of predation perceived by small prey. Proceedings of the Royal Society B: Biological Sciences, 282(1802), p.20142870.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Letnic, M. and Koch, F., 2010. Are dingoes a trophic regulator in arid Australia? A comparison of mammal communities on either side of the dingo fence. Austral Ecology, 35(2), pp.167-175.
 

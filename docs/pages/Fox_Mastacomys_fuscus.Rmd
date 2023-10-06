@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **High**
+EPBC Predator Threat Rating: **High**
 
 IUCN claim: *"The species is threatened by predation from introduced foxes (Vulpes vulpes) (Bubela and Happold 1993, Green 2002) and Domestic Cats (Felis catus) (L. Broome pers. comm., Milner et al. 2015)."*
 
@@ -70,6 +70,8 @@ Green, K. and Osborne, W.S., 1981. The diet of foxes, Vulpes vulpes (L.), in rel
 Green, K., 2002. Selective predation on the broad‐toothed rat, Mastacomys fuscus (Rodentia: Muridae), by the introduced red fox, Vulpes vulpes (Carnivora: Canidae), in the Snowy Mountains, Australia. Austral Ecology, 27(4), pp.353-359.
 
 Green, K., 2003. Altitudinal and temporal differences in the food of foxes (Vulpes vulpes) at alpine and subalpine altitudes in the Snowy Mountains. Wildlife Research, 30(3), pp.245-253.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Seebeck, J.H., 1978. Diet of the fox Vulpes vulpes in a western Victorian forest. Australian Journal of Ecology, 3(1), pp.105-108.
 

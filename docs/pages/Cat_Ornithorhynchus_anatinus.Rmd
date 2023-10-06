@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Across its range, the Platypus is also subject to predation by the introduced Red Fox, dogs and cats."*
 
@@ -56,4 +56,6 @@ There are no studies linking cats to platypus.
 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

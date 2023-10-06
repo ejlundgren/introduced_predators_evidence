@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Critically Endangered**
 
-EPBC Threat Rating: **High/Very High**
+EPBC Predator Threat Rating: **High/Very High**
 
 IUCN claim: *"The major reason for past decline has been predation by Red Foxes and feral cats"*
 
@@ -58,6 +58,8 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 James, H., Acharya, A.B., Taylor, J.A. and Freak, M.J., 2002. A case of bitten bettongs. The Journal of Forensic Odonto-Stomatology-JFOS, 20(1), pp.10-12.
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Moderate**
+EPBC Predator Threat Rating: **Moderate**
 
 IUCN claim: *"On the mainland, predation by introduced feral Cat and Red Foxes was the major cause of extinction in the wild"*
 
@@ -64,6 +64,8 @@ Gibson, D.F., Lundie-Jenkins, G., Langford, D.G., Cole, J.R. and Johnson, K.A., 
 Hardman, B. and Moro, D., 2006. Optimising reintroduction success by delayed dispersal: is the release protocol important for hare-wallabies?. Biological Conservation, 128(3), pp.403-411.
 
 Hardman, B., Moro, D. and Calver, M., 2016. Direct evidence implicates feral cat predation as the primary cause of failure of a mammal reintroduction programme. Ecological Management & Restoration, 17(2), pp.152-158.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Lundie-Jenkins, G., Corbett, L.K., Phillips, C.M. 1993. Ecology of the rufous hare-wallaby, Lagorchestes hirsutus Gould (Marsupialia : Macropodidae) in the Tanami Desert, Northern Territory. III Interactions with introduced mammal species. Wildlife Research, 20(4), pp 495-511.
 

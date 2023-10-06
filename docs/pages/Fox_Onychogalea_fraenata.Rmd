@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Very high**
 
 IUCN claim: *"The species is threatened by introduced predators, the Red Fox and feral Cat especially"*
 
@@ -60,4 +60,6 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
 Hayward, M.W., L'Hotellier, F., O'Connor, T., Ward-Fear, G., Cathcart, J., Cathcart, T., Sephens, J., Stephens, J., Herman, K. and Legge, S., 2012, January. Reintroduction of bridled nailtail wallabies beyond fences at Scotia Sanctuary-Phase 1. In Proceedings of the Linnean Society of New South Wales (Vol. 134).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

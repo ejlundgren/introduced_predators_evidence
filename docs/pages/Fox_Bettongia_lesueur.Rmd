@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **Major**
+EPBC Predator Threat Rating: **Major**
 
 IUCN claim: *"The current major threats to the natural populations of the species include: the accidental introduction of predators (introduced cats and foxes)"*
 
@@ -60,6 +60,8 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Moseby, K.E., Letnic, M., Blumstein, D.T. and West, R., 2019. Understanding predator densities for successful co‐existence of alien predators and threatened prey. Austral Ecology, 44(3), pp.409-419.
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Very high**
 
 IUCN claim: *" Predation by introduced foxes"*
 
@@ -56,6 +56,8 @@ There are no studies linking foxes to brush-tailed rock-wallaby populations.
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Lunney, D., Law, B. and Rummery, C., 1996. Contrast between the visible abundance of the brush-tailed rock-wallaby, Petrogale penicillata, and its rarity in fox and dog scats in the gorges east of Armidale, New South Wales. Wildlife Research, 23(3), pp.373-379.
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Very high**
 
 IUCN claim: *"Exotic predators (especially cats and foxes)"*
 
@@ -56,6 +56,8 @@ There are no studies linking cats to Julia Creek dunnart populations.
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Kutt, A.S., 2003. New records of the Julia Creek Dunnart Sminthopsis douglasi in central-north Queensland. Australian Zoologist, 32(2), pp.257-260.
 

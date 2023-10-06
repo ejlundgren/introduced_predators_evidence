@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **Very high/Extreme**
+EPBC Predator Threat Rating: **Very high/Extreme**
 
 IUCN claim: *"The introduction of the predatory Red Fox and feral cats has had a profound impact and continues to be a major threat today (Friend 2008)."*
 
@@ -64,4 +64,6 @@ Friend, J.A. and Thomas, N.D., 1994. Reintroduction and the numbat recovery prog
 Friend, J.A., 1990. The numbat Myrmecobius fasciatus (Myrmecobiidae): history of decline and potential for recovery. In Proceedings of the Ecological Society of Australia (Vol. 16, pp. 369-377).
 
 Friend, J.A., Page, M.J., 2017. Numbat (Myrmecobius fasciatus) Recovery Plan. Wildlife Management Program No. 60 in Department of Parks and Wildlife, Western Australia
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

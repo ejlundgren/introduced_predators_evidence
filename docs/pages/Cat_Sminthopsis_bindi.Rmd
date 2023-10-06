@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **High/Very High**
+EPBC Predator Threat Rating: **High/Very High**
 
 IUCN claim: *"Predation by feral cats may also be a threat."*
 
@@ -56,6 +56,8 @@ There are no studies linking cats to Kakadu dunnarts.
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Stokeld, D., Gentles, T., Young, S., Hill, B., Fisher, A., Woinarski, J. and Gillespie, G., 2016. Experimental evaluation of the role of feral cat predation in the decline of small mammals in Kakadu National Park. NT Department of Land Resource Management, Berrimah.
 

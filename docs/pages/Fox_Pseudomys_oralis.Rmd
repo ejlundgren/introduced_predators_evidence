@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **High**
+EPBC Predator Threat Rating: **High**
 
 IUCN claim: *"Predation by Red Foxes (moderate): "*
 
@@ -56,6 +56,8 @@ There are no studies linking cats to Hastings River mouse populations.
 Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Meek, P.D. and Triggs, B., 1999. A record of Hastings River Mouse (Pseudomys oralis) in a fox (Vulpes vulpes) scat from New South Wales. In Proceedings-Linnean Society of New South Wales (Vol. 121, pp. 193-197). Linnean Society of New South Wales.
 

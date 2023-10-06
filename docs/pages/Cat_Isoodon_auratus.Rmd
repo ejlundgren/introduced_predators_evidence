@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Threat Rating: **Moderate**
+EPBC Predator Threat Rating: **Moderate**
 
 IUCN claim: *"The reasons for past declines of the Golden Bandicoot are predation by feral cats and red foxes"*
 
@@ -64,6 +64,8 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 Doherty, T.S., Dickman, C.R., Johnson, C.N., Legge, S.M., Ritchie, E.G. and Woinarski, J.C., 2017. Impacts and management of feral cats Felis catus in Australia. Mammal Review, 47(2), pp.83-97.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
 

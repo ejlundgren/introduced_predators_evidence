@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"The Eastern Bettong is potentially threatened by predation from the Red Fox (Vulpes vulpes) and feral Cat (Felis catus). Historically, the Red Fox has not occurred in Tasmania, but if it were to become established in Tasmania this could be expected to have a major impact on the Eastern Bettong, given the evidence that predation by the Red Fox caused the species' extinction from mainland Australia (Short 1998; Johnson 2006). There is evidence of a recent incursion of the Red Fox, possibly as a result of a deliberate introduction (Sarre et al. 2013)."*
 
@@ -58,6 +58,8 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 Evans, M.J., Batson, W.G., Gordon, I.J., Belton, E., Chaseling, T., Fletcher, D., Harrison, M., McElroy, T., Mungoven, A., Newport, J. and Pierson, J., 2021. The ‘Goldilocks Zone’of predation: the level of fox control needed to select predator resistance in a reintroduced mammal in Australia. Biodiversity and Conservation, 30, pp.1731-1752.
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Short, J. 1998. The extinction of rat-kangaroos (Marsupialia: Potoroidae) in New South Wales, Australia. Biological Conservation 86: 365-377.
 

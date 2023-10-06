@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Critically Endangered**
 
-EPBC Threat Rating: **High/Very High**
+EPBC Predator Threat Rating: **High/Very High**
 
 IUCN claim: *"The major reason for past decline has been predation by Red Foxes and feral cats"*
 
@@ -60,6 +60,8 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
 Geary, W.L., Tulloch, A.I., Ritchie, E.G., Doherty, T.S., Nimmo, D.G., Maxwell, M.A. and Wayne, A.F., 2023. Identifying historical and future global change drivers that place species recovery at risk. Global Change Biology, 29(11), pp.2953-2967.
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Kinnear, J.E., Sumner, N.R. and Onus, M.L., 2002. The red fox in Australia—an exotic predator turned biocontrol agent. Biological Conservation, 108(3), pp.335-359.
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *" Predation by Red Foxes (Vulpes vulpes; moderate, entire range)"*
 
@@ -58,6 +58,8 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 Davis, N.E., Forsyth, D.M., Triggs, B., Pascoe, C., Benshemesh, J., Robley, A., Lawrence, J., Ritchie, E.G., Nimmo, D.G. and Lumsden, L.F., 2015. Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia. PloS One, 10(3), p.e0120975.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+
+IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Nalliah, R., Sitters, H., Smith, A., & Di Stefano, J. 2021. Untangling the influences of fire, habitat and introduced predators on the endangered heath mouse. Animal Conservation. doi:10.1111/acv.12731 
 
