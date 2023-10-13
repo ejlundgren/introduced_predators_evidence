@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Pseudomys glaucus were last seen in 1956 in ‘between Burren and Walgett’ in northern New South Wales*
+Last seen: *Pseudomys glaucus were last seen in 1956 in ‘between Burren and Walgett’ in northern New South Wales (IUCN 2023)*
 
 </center>
 

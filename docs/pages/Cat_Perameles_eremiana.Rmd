@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Perameles eremiana were last seen in 1943 in Well 33, Canning Stock Route*
+Last seen: *Perameles eremiana were last seen in 1943 in Well 33, Canning Stock Route (IUCN 2023)*
 
 </center>
 

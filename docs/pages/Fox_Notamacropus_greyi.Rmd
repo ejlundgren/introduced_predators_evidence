@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Notamacropus greyi were last seen in 1924 in Konetta Station, about halfway between Robe and Penola, SA*
+Last seen: *Notamacropus greyi were last seen in 1924 in Konetta Station, about halfway between Robe and Penola, SA (IUCN 2023)*
 
 </center>
 

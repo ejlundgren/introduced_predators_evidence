@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Chaeropus ecaudatus were last seen in 1901 in Alice Springs, NT*
+Last seen: *Chaeropus ecaudatus were last seen in 1901 in Alice Springs, NT (IUCN 2023)*
 
 </center>
 

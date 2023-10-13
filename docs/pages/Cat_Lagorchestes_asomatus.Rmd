@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Lagorchestes asomatus were last seen in 1932 between Mt Farewell and Lake Mackay, Northern Territory*
+Last seen: *Lagorchestes asomatus were last seen in 1932 between Mt Farewell and Lake Mackay, Northern Territory (IUCN 2023)*
 
 </center>
 

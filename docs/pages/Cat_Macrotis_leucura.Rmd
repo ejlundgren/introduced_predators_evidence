@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Macrotis leucura were last seen in 1967 in Alice Springs near the edge of the Simpson Desert*
+Last seen: *Macrotis leucura were last seen in 1967 in Alice Springs near the edge of the Simpson Desert (IUCN 2023)*
 
 </center>
 

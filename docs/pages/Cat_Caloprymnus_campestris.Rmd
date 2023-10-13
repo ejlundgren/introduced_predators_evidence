@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Caloprymnus campestris were last seen in 1935 in Ooroowilanie, east of Lake Eyre*
+Last seen: *Caloprymnus campestris were last seen in 1935 in Ooroowilanie, east of Lake Eyre (IUCN 2023)*
 
 </center>
 
