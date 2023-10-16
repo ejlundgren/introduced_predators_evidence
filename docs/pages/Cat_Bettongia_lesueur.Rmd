@@ -49,7 +49,7 @@ There are no studies evidencing a negative association between cats and burrowin
 <br>
 <br>
 
-![**Evidence linking *Bettongia lesueur* to cats.** **A.** Systematic review of evidence for an association between *Bettongia lesueur* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia lesueur*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. Small points show unconfirmed records (excluded from analyses).](assets/figures/Main_Evidence_Cat_Bettongia lesueur.png)
+![**Evidence linking *Bettongia lesueur* to cats.** **A.** Systematic review of evidence for an association between *Bettongia lesueur* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia lesueur*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. Small points show unconfirmed records (excluded from analyses). See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia lesueur.png)
 
 ### References
 
@@ -57,7 +57,7 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 Christensen, P. and Burrows, N., 1995. Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia. Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp, pp.199-207.
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 

@@ -49,13 +49,13 @@ There are no studies linking foxes to northern quolls.
 <br>
 <br>
 
-![**Evidence linking *Dasyurus hallucatus* to foxes.** Systematic review of evidence for an association between *Dasyurus hallucatus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Dasyurus hallucatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Dasyurus hallucatus.png)
+![**Evidence linking *Dasyurus hallucatus* to foxes.** Systematic review of evidence for an association between *Dasyurus hallucatus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Dasyurus hallucatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Dasyurus hallucatus.png)
 
 ### References
 
 
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 

@@ -49,11 +49,11 @@ Cats are among a range of ecological variables negatively correlated with rat ab
 <br>
 <br>
 
-![**Evidence linking *Conilurus penicillatus* to cats.** Systematic review of evidence for an association between *Conilurus penicillatus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Conilurus penicillatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Conilurus penicillatus.png)
+![**Evidence linking *Conilurus penicillatus* to cats.** Systematic review of evidence for an association between *Conilurus penicillatus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Conilurus penicillatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Conilurus penicillatus.png)
 
 ### References
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Davies, H.F., McCarthy, M.A., Firth, R.S., Woinarski, J.C., Gillespie, G.R., Andersen, A.N., Geyle, H.M., Nicholson, E. and Murphy, B.P., 2017. Top‐down control of species distributions: feral cats driving the regional extinction of a threatened rodent in northern Australia. Diversity and Distributions, 23(3), pp.272-283.
 

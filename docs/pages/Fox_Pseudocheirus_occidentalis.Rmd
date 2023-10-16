@@ -49,13 +49,13 @@ There are no studies linking foxes to Western ringtail possum populations.
 <br>
 <br>
 
-![**Evidence linking *Pseudocheirus occidentalis* to foxes.** Systematic review of evidence for an association between *Pseudocheirus occidentalis* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Pseudocheirus occidentalis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Pseudocheirus occidentalis.png)
+![**Evidence linking *Pseudocheirus occidentalis* to foxes.** Systematic review of evidence for an association between *Pseudocheirus occidentalis* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Pseudocheirus occidentalis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Pseudocheirus occidentalis.png)
 
 ### References
 
 Clarke, J.R., 2011. Translocation outcomes for the western ringtail possum (Pseudocheirus occidentalis) in the presence of the common brushtail possum (Trichosurus vulpecula): health, survivorship and habitat use. Doctoral dissertation, Murdoch University.
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 

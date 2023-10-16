@@ -49,13 +49,13 @@ There are no studies evidencing a negative association between foxes and mulgara
 <br>
 <br>
 
-![**Evidence linking *Dasycercus cristicauda* to foxes.** **A.** Systematic review of evidence for an association between *Dasycercus cristicauda* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Dasycercus cristicauda*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019.](assets/figures/Main_Evidence_Fox_Dasycercus cristicauda.png)
+![**Evidence linking *Dasycercus cristicauda* to foxes.** **A.** Systematic review of evidence for an association between *Dasycercus cristicauda* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Dasycercus cristicauda*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Dasycercus cristicauda.png)
 
 ### References
 
 Cupples, J.B., Crowther, M.S., Story, G. and Letnic, M., 2011. Dietary overlap and prey selectivity among sympatric carnivores: could dingoes suppress foxes through competition for prey?. Journal of Mammalogy, 92(3), pp.590-600.
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 

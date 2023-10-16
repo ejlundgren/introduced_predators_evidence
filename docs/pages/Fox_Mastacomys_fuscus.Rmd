@@ -49,7 +49,7 @@ There are no studies linking foxes to broad-toothed mouse populations.
 <br>
 <br>
 
-![**Evidence linking *Mastacomys fuscus* to foxes.** Systematic review of evidence for an association between *Mastacomys fuscus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Mastacomys fuscus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Mastacomys fuscus.png)
+![**Evidence linking *Mastacomys fuscus* to foxes.** Systematic review of evidence for an association between *Mastacomys fuscus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Mastacomys fuscus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Mastacomys fuscus.png)
 
 ### References
 
@@ -57,7 +57,7 @@ Brunner, H., Lloyd, J.W. and Coman, B.J., 1975. Fox scat analysis in a forest pa
 
 Bubela, T.M. and Happold, D.C.D., 1993. The social organisation and mating system of an Australian subalpine rodent, the broad-toothed rat, Mastacomys fuscus Thomas. Wildlife Research, 20(4), pp.405-417.
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Davis, N.E., Forsyth, D.M., Triggs, B., Pascoe, C., Benshemesh, J., Robley, A., Lawrence, J., Ritchie, E.G., Nimmo, D.G. and Lumsden, L.F., 2015. Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia. PloS One, 10(3), p.e0120975.
 

@@ -49,11 +49,11 @@ There are no studies evidencing a negative association between  foxes and parma 
 <br>
 <br>
 
-![**Evidence linking *Macropus parma* to foxes.** Systematic review of evidence for an association between *Macropus parma* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Macropus parma, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Macropus parma.png)
+![**Evidence linking *Macropus parma* to foxes.** Systematic review of evidence for an association between *Macropus parma* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Macropus parma, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Macropus parma.png)
 
 ### References
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Glen, A.S., Pennay, M., Dickman, C.R., Wintle, B.A. and Firestone, K.B., 2011. Diets of sympatric native and introduced carnivores in the Barrington Tops, eastern Australia. Austral Ecology, 36(3), pp.290-296.
 

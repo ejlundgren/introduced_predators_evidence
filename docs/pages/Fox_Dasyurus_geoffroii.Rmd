@@ -49,13 +49,13 @@ There are no studies evidencing a negative association between foxes and western
 <br>
 <br>
 
-![**Evidence linking *Dasyurus geoffroii* to foxes.** **A.** Systematic review of evidence for an association between *Dasyurus geoffroii* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Dasyurus geoffroii*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019.](assets/figures/Main_Evidence_Fox_Dasyurus geoffroii.png)
+![**Evidence linking *Dasyurus geoffroii* to foxes.** **A.** Systematic review of evidence for an association between *Dasyurus geoffroii* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Dasyurus geoffroii*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Dasyurus geoffroii.png)
 
 ### References
 
 Comer, S., Clausen, L., Cowen, S., Pinder, J., Thomas, A., Burbidge, A.H., Tiller, C., Algar, D. and Speldewinde, P., 2020. Integrating feral cat (Felis catus) control into landscape-scale introduced predator management to improve conservation prospects for threatened fauna: a case study from the south coast of Western Australia. Wildlife Research, 47(8), pp.762-778.
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Department of Environment and Conservation, 2012. Chuditch (Dasyurus geoffroii) Recovery Plan. Wildlife Management Program No. 54. Department of Environment and Conservation, Perth, Western Australia.
 

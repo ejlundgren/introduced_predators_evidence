@@ -49,11 +49,11 @@ There are no studies linking foxes to pygmy possum populations.
 <br>
 <br>
 
-![**Evidence linking *Burramys parvus* to foxes.** Systematic review of evidence for an association between *Burramys parvus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Burramys parvus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Fox_Burramys parvus.png)
+![**Evidence linking *Burramys parvus* to foxes.** Systematic review of evidence for an association between *Burramys parvus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Burramys parvus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Burramys parvus.png)
 
 ### References
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Davis, N.E., Forsyth, D.M., Triggs, B., Pascoe, C., Benshemesh, J., Robley, A., Lawrence, J., Ritchie, E.G., Nimmo, D.G. and Lumsden, L.F., 2015. Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia. PloS One, 10(3), p.e0120975.
 

@@ -49,13 +49,13 @@ There are no studies evidencing a negative association between foxes and plains 
 <br>
 <br>
 
-![**Evidence linking *Pseudomys australis* to foxes.** **A.** Systematic review of evidence for an association between *Pseudomys australis* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Pseudomys australis*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. Small points show unconfirmed records (excluded from analyses).](assets/figures/Main_Evidence_Fox_Pseudomys australis.png)
+![**Evidence linking *Pseudomys australis* to foxes.** **A.** Systematic review of evidence for an association between *Pseudomys australis* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Pseudomys australis*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. Small points show unconfirmed records (excluded from analyses). See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Pseudomys australis.png)
 
 ### References
 
 Chris R. Pavey, Stephen R. Eldridge, Mike Heywood, Population Dynamics and Prey Selection of Native and Introduced Predators During a Rodent Outbreak in Arid Australia, Journal of Mammalogy, Volume 89, Issue 3, 5 June 2008, Pages 674–683, https://doi.org/10.1644/07-MAMM-A-168R.1
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 

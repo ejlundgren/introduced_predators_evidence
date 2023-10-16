@@ -49,13 +49,13 @@ There are no studies linking cats to sandhill dunnarts.
 <br>
 <br>
 
-![**Evidence linking *Sminthopsis psammophila* to cats.** Systematic review of evidence for an association between *Sminthopsis psammophila* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Sminthopsis psammophila, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Sminthopsis psammophila.png)
+![**Evidence linking *Sminthopsis psammophila* to cats.** Systematic review of evidence for an association between *Sminthopsis psammophila* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Sminthopsis psammophila, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Sminthopsis psammophila.png)
 
 ### References
 
 
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 

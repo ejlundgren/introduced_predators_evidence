@@ -49,13 +49,13 @@ There are no studies linking cats to numbat populations.
 <br>
 <br>
 
-![**Evidence linking *Myrmecobius fasciatus* to cats.** **A.** Systematic review of evidence for an association between *Myrmecobius fasciatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Myrmecobius fasciatus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008.](assets/figures/Main_Evidence_Cat_Myrmecobius fasciatus.png)
+![**Evidence linking *Myrmecobius fasciatus* to cats.** **A.** Systematic review of evidence for an association between *Myrmecobius fasciatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Myrmecobius fasciatus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Myrmecobius fasciatus.png)
 
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 

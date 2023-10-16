@@ -49,11 +49,11 @@ There are no studies evidencing a negative association between cats and yellow-f
 <br>
 <br>
 
-![**Evidence linking *Petrogale xanthopus* to cats.** Systematic review of evidence for an association between *Petrogale xanthopus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Petrogale xanthopus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance.](assets/figures/Main_Evidence_Cat_Petrogale xanthopus.png)
+![**Evidence linking *Petrogale xanthopus* to cats.** Systematic review of evidence for an association between *Petrogale xanthopus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Petrogale xanthopus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Petrogale xanthopus.png)
 
 ### References
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions. Conservation Biology
+Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Doherty, T.S., Davis, R.A., van Etten, E.J., Algar, D., Collier, N., Dickman, C.R., Edwards, G., Masters, P., Palmer, R. and Robinson, S., 2015. A continental‐scale analysis of feral cat diet in Australia. Journal of Biogeography, 42(5), pp.964-975.
 
