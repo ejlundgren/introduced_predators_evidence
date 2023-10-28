@@ -52,7 +52,7 @@ output: html_document
  
 [Lesser bilby (_Macrotis leucura_)](pages/Fox_Macrotis_leucura.html)
  
-[Broad-toothed mouse (_Mastacomys fuscus_)](pages/Fox_Mastacomys_fuscus.html)
+[Broad-toothed rat (_Mastacomys fuscus_)](pages/Fox_Mastacomys_fuscus.html)
  
 [Numbat (_Myrmecobius fasciatus_)](pages/Fox_Myrmecobius_fasciatus.html)
  
@@ -185,7 +185,7 @@ output: html_document
  
 [Lesser bilby (_Macrotis leucura_)](pages/Cat_Macrotis_leucura.html)
  
-[Broad-toothed mouse (_Mastacomys fuscus_)](pages/Cat_Mastacomys_fuscus.html)
+[Broad-toothed rat (_Mastacomys fuscus_)](pages/Cat_Mastacomys_fuscus.html)
  
 [Black-footed tree-rat (_Mesembriomys gouldii_)](pages/Cat_Mesembriomys_gouldii.html)
  

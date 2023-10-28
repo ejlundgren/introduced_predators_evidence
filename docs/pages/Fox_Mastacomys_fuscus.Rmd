@@ -7,7 +7,7 @@ h1, h2, h3 {
 }
 ```
 
-## **Broad-toothed mouse**
+## **Broad-toothed rat**
 ### *Mastacomys fuscus*
 ### Blamed on foxes
 
