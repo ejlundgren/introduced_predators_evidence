@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Predator Threat Rating: **Not assessed**
 
-IUCN claim: *"Predation by Red Foxes (Vulpes vulpes; moderate, entire range): plausible, but impact not known; impact likely to be less in dense vegetation"*
+IUCN claim: *"Predation by Red Foxes (Vulpes vulpes; moderate, entire range): plausible, but impact not known; impact likely to be less in dense vegetation."*
 
 </center>
 

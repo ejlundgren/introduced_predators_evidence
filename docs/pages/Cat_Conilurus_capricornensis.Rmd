@@ -36,7 +36,7 @@ IUCN status: **Extinct**
 
 Last seen: *Conilurus capricornensis were last seen in 1787 in Rockhampton and Townsville regions, QLD (IUCN 2023)*
 
-IUCN claim: *""Most likely predation by feral cats""*
+IUCN claim: *"This species has never been recorded alive, so assessment of threats is speculative. It was probably affected by the same threats that contributed to the extinction of Conilurus albipes - most likely predation by feral cats"*
 
 </center>
 
