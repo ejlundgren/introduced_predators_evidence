@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Macrotis leucura were last seen in 1967 in Alice Springs near the edge of the Simpson Desert (IUCN 2023)*
+Last seen: *Macrotis leucura was last seen near Koonchera Dune (Cooncherie) in north-eastern South Australia in 1931 and in 1967 in Alice Springs near the edge of the Simpson Desert (IUCN 2023)*
 
 IUCN claim: *"Predation from introduced feral cats and red foxes is considered to be the major cause of extinction, probably exacerbated by changes in fire regime."*
 

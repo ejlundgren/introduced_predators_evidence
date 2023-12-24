@@ -31,7 +31,7 @@ IUCN status: **Vulnerable**
 
 EPBC Predator Threat Rating: **High**
 
-IUCN claim: *"Predation by feral cats may also be a threat."*
+IUCN claim: *"Major threats are predation by feral cats and habitat decline."*
 
 </center>
 
