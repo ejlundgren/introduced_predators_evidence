@@ -37,7 +37,7 @@ IUCN claim: *"The species is significantly preyed upon by introduced Red Foxes (
 
 ### Studies in support
 
-Foxes hunt smoky mice (Davis et al. 2015).
+Smoky mice were found in up to ~1% of the foxes’ diet  (Davis et al. 2015).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking foxes to smoky mouse populations.
+There are no studies linking foxes to smoky mouse population trends.
 <br>
 <br>
 

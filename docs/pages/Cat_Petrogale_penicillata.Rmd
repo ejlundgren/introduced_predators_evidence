@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Minor**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *Not attributed*
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to brush-tailed rock-wallaby populations.
+There are no studies linking cats to brush-tailed rock-wallaby population trends.
 <br>
 <br>
 
@@ -56,8 +56,6 @@ There are no studies linking cats to brush-tailed rock-wallaby populations.
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Doherty, T.S., Davis, R.A., van Etten, E.J., Algar, D., Collier, N., Dickman, C.R., Edwards, G., Masters, P., Palmer, R. and Robinson, S., 2015. A continental‐scale analysis of feral cat diet in Australia. Journal of Biogeography, 42(5), pp.964-975.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

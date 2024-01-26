@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"Forest fragmentation combined with predation from foxes appear to be the principal reasons for the decline of the species. Grazing and burning regimes that affect availability of shelter are a disadvantage to populations (Maxwell et al. 1996). Reintroductions of the species have been unsuccessful due to fox predation."*
 
@@ -37,7 +37,7 @@ IUCN claim: *"Forest fragmentation combined with predation from foxes appear to 
 
 ### Studies in support
 
-Found in 1% of fox scats in one site (Glen et al. 2011). In one study, foxes hunted 12 of 12 reintroduced, predator-inexperienced, wallabies (Short et al. 1992).
+Found in 1% of fox scats where the wallabies had been reintroduced (Glen et al. 2011). At the same site foxes had been attributed with hunting all the reintroduced, predator-inexperienced, wallabies (Short et al. 1992).
 
 ### Studies not in support
 
@@ -55,7 +55,11 @@ There are no studies evidencing a negative association between  foxes and parma 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
+
 Glen, A.S., Pennay, M., Dickman, C.R., Wintle, B.A. and Firestone, K.B., 2011. Diets of sympatric native and introduced carnivores in the Barrington Tops, eastern Australia. Austral Ecology, 36(3), pp.290-296.
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Short, J., Bradshaw, S.D., Giles, J., Prince, R.I.T. and Wilson, G.R., 1992. Reintroduction of macropods (Marsupialia: Macropodoidea) in Australia—a review. Biological Conservation, 62(3), pp.189-204.
 

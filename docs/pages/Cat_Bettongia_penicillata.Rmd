@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Critically Endangered**
 
-EPBC Predator Threat Rating: **High/Very High**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"The major reason for past decline has been predation by Red Foxes and feral cats"*
 
@@ -45,7 +45,7 @@ No correlation was suggested nor tested between woylie and cat abundance (Wayne 
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between cats and woylie populations. The fate of reintroduced animals is not a reliable proxy for the fate of populations.
+There are no studies evidencing a negative association between cats and woylie populations. The fate of reintroduced animals is not a reliable proxy for the fate of populations. The two species coexisted for over half a century in one region.
 <br>
 <br>
 
@@ -57,8 +57,6 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
-
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 James, H., Acharya, A.B., Taylor, J.A. and Freak, M.J., 2002. A case of bitten bettongs. The Journal of Forensic Odonto-Stomatology-JFOS, 20(1), pp.10-12.
@@ -66,8 +64,6 @@ James, H., Acharya, A.B., Taylor, J.A. and Freak, M.J., 2002. A case of bitten b
 Marlow, N.J., Thomas, N.D., Williams, A.A., Macmahon, B., Lawson, J., Hitchen, Y., Angus, J. and Berry, O., 2015. Cats (Felis catus) are more abundant and are the dominant predator of woylies (Bettongia penicillata) after sustained fox (Vulpes vulpes) control. Australian Journal of Zoology, 63(1), pp.18-27.
 
 Martin, S., Ball, S. and Peeters, P., 2006. Reintroduction of the brush-tailed Bettong (Bettongia penicillata ogilbyi) into Lincoln National Park.Program review from September 1999 to July 2004. Department for Environment and Heritage, Government of South Australia.
-
-Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
 
 Priddel, D. and Wheeler, R., 2004. An experimental translocation of brush-tailed bettongs (Bettongia penicillata) to western New South Wales. Wildlife Research, 31(4), pp.421-432.
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Moderate**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Predation by feral Domestic Cats (Felis catus), Red Foxes (Vulpes vulpes) and Black Rats (Rattus rattus) could have severe to catastrophic effects if they establish on island. Feral Cats and Red Foxes have caused the extinction of medium-sized mammals on arid Australian islands"*
 
@@ -37,11 +37,11 @@ IUCN claim: *"Predation by feral Domestic Cats (Felis catus), Red Foxes (Vulpes 
 
 ### Studies in support
 
-Mouse last confirmed in the NT and south-west WA 2-20 years after cats arrived (Table S2).
+Mouse last confirmed in the NT and south-west WA 2-20 years after cats arrived (Current submission).
 
 ### Studies not in support
 
-Mouse was last confirmed in NSW 18 years before cats arrived (Table S2).
+Mouse was last confirmed in NSW 18 years before cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -56,8 +56,6 @@ There are no studies linking cats to Gould's mice. In contradiction with the cla
 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

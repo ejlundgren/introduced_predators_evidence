@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Endangered**
 
-EPBC Predator Threat Rating: **Secondary**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *Not attributed*
 

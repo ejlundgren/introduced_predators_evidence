@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Extreme**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"Predation from introduced foxes is the greatest threat to Yellow-footed Rock Wallabies (Lapidge and Henshall 2001)."*
 
@@ -37,11 +37,11 @@ IUCN claim: *"Predation from introduced foxes is the greatest threat to Yellow-f
 
 ### Studies in support
 
-Stobo-Wilson et al. (2020b) reported that rock-wallabies were detected at 2 intensively poison-baited sites where foxes were not detected, and the wallabies were not detected at 2 control sites where foxes were detected, but no statistical analysis was provided. Lethbridge & Alexander (2008) reported that in South Australia, growth rates of rock-wallaby colonies increased where poison-baiting was intensified, and remained stable at control sites. Sharp et al. (2014) reported that at two sites in NSW and SA, intensification of poison-baiting for 3 years was associated with increased rock-wallaby abundance, while wallaby population remained stable at control sites, and that juveniles were more common at one high-intensity poisoning site. Rock-wallaby has been found in foxes’ diet (Hornsby 1997; Lapidge & Henshall 2001). Copley (1983) described that in the Gawler Ranges, rock wallabies declined after the arrival and population growth of foxes but no data was provided.
+Stobo-Wilson et al. (2020b) reported that rock-wallabies were detected at 2 intensively poison-baited sites where foxes were not detected, and the wallabies were not detected at 2 control sites where foxes were detected, but no statistical analysis was provided. Lethbridge & Alexander (2008) reported that in South Australia, growth rates of rock-wallaby colonies increased where poison-baiting was intensified, and remained stable at control sites. Sharp et al. (2014) reported that at two sites in NSW and SA, intensification of poison-baiting for 3 years was associated with increased rock-wallaby abundance, while wallaby population remained stable at control sites, and that juveniles were more common at one high-intensity poisoning site. Rock-wallaby has been found in foxes’ diet (Hornsby 1997; Lapidge & Henshall 2001). Copley (1983) described that in the Gawler Ranges, rock-wallabies declined after the arrival and population growth of foxes but no data was provided.
 
 ### Studies not in support
 
-Copley (1983) described that in the Flinders Ranges, rock wallabies declined before the arrival of the fox but no data was provided.
+Copley (1983) described that in the Flinders Ranges, rock-wallabies declined before the arrival of the fox but no data was provided.
 
 ### Is the threat claim evidence-based?
 
@@ -55,7 +55,7 @@ There are no studies evidencing a negative association between foxes and yellow-
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Hornsby, P., 1997. Possible causes of mortality in the yellow-footed rock-wallaby, Petrogale xanthopus Gray (Marsupialia: Macropodidae). Australian Mammalogy, 19(2), pp.245-248.
 

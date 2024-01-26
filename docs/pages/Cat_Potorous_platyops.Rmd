@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Potorous platyops were last seen in 1875 in South Western Australia (IUCN 2023)*
+Last seen: *1875*
 
 IUCN claim: *"Predation by feral cats (severe, possibly catastrophic in combination with other threats)"*
 

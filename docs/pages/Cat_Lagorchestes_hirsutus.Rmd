@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Moderate**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"On the mainland, predation by introduced feral Cat and Red Foxes was the major cause of extinction in the wild"*
 
@@ -37,7 +37,7 @@ IUCN claim: *"On the mainland, predation by introduced feral Cat and Red Foxes w
 
 ### Studies in support
 
-Cats were the main predator of reintroduced, predator-inexperienced, hare-wallabies in two locations (Gibson et al. 1994; Hardman & Moro 2006; Hardman et al. 2016). Cats can hunt locally-born wallabies (Paltridge et al. 1997). Hare-wallabies were last confirmed in south-west Australia 58 years after foxes arrived (Current submission).
+Cats were predators, or the main predators, of reintroduced, predator-inexperienced, hare-wallabies in two locations (Gibson et al. 1994; Hardman & Moro 2006; Hardman et al. 2016). Cats can hunt locally-born wallabies (Paltridge et al. 1997). Hare-wallabies were last confirmed in south-west Australia 58 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ Lundie-Jenkins et al. (1993) found no spatial correlation one year, and a positi
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between cats and rufous hare-wallaby population. The fate of reintroduced animals is not a reliable proxy for the fate of populations. In contradiction with the claim, the two species co-occurred for over half-a-century in one locale and for over a century in another.
+There are no studies evidencing a negative association between cats and rufous hare-wallaby populations. The fate of reintroduced animals is not a reliable proxy for the fate of populations. In contradiction with the claim, the two species co-occurred for over half a century in one locale and for over a century in another.
 <br>
 <br>
 
@@ -57,8 +57,6 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
-
 Gibson, D.F., Lundie-Jenkins, G., Langford, D.G., Cole, J.R. and Johnson, K.A., 1994. Predation by feral cats, Felis catus, on the rufous hare-wallaby, Lagorchestes hirsutus, in the Tanami Desert. Australian Mammalogy, 17(1), pp.103-107.
 
 Hardman, B. and Moro, D., 2006. Optimising reintroduction success by delayed dispersal: is the release protocol important for hare-wallabies?. Biological Conservation, 128(3), pp.403-411.
@@ -68,8 +66,6 @@ Hardman, B., Moro, D. and Calver, M., 2016. Direct evidence implicates feral cat
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Lundie-Jenkins, G., Corbett, L.K., Phillips, C.M. 1993. Ecology of the rufous hare-wallaby, Lagorchestes hirsutus Gould (Marsupialia : Macropodidae) in the Tanami Desert, Northern Territory. III Interactions with introduced mammal species. Wildlife Research, 20(4), pp 495-511.
-
-Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
 
 Paltridge, R., Gibson, D. and Edwards, G., 1997. Diet of the feral cat (Felis catus) in central Australia. Wildlife Research, 24(1), pp.67-76.
 

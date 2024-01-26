@@ -29,9 +29,9 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Not assessed**
 
-IUCN claim: *"Exotic predators (especially cats and foxes)… [have been] implicated as major threats to the species."*
+IUCN claim: *"Exotic predators (especially cats and foxes)"*
 
 </center>
 
@@ -45,7 +45,7 @@ Cats do not select for Smithopsis spp. (Kutt 2012).
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to Julia Creek dunnart populations.
+There are no studies linking cats to Julia Creek dunnart population trends.
 <br>
 <br>
 
@@ -54,8 +54,6 @@ There are no studies linking cats to Julia Creek dunnart populations.
 ### References
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

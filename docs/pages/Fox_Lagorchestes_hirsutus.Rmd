@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Extreme**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"On the mainland, predation by introduced feral Cat and Red Foxes was the major cause of extinction in the wild"*
 
@@ -45,7 +45,7 @@ Foxes were not among predators of reintroduced hare-wallabies (Gibson et al. 199
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between foxes and rufous hare-wallaby population that has been tested statistically. In contradiction with the claim, the extirpation record from south-west Australia pre-dates the fox arrival record, and the the two species co-occurred in one locale for over half-a-century.
+There are no studies evidencing a negative association between foxes and rufous hare-wallaby population that has been tested statistically. In contradiction with the claim, the extirpation record from south-west Australia pre-dates the fox arrival record, and the two species co-occurred in one locale for over half a century.
 <br>
 <br>
 
@@ -55,7 +55,7 @@ There are no studies evidencing a negative association between foxes and rufous 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

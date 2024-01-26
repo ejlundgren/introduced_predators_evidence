@@ -27,9 +27,9 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN status: **Near Threatened**
+IUCN status: **Endangered**
 
-EPBC Predator Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"The introduction of the predatory Red Fox and feral cats has had a profound impact and continues to be a major threat today (Friend 2008)."*
 
@@ -37,7 +37,7 @@ IUCN claim: *"The introduction of the predatory Red Fox and feral cats has had a
 
 ### Studies in support
 
-Cats were among predators of reintroduced numbats (Friend & Thomas 1994).Numbats were last confirmed in NSW 25 years after cats arrived (Current submission).
+Cats were among predators of reintroduced numbats (Friend & Thomas 1994). Numbats were last confirmed in NSW 25 years after cats arrived (Current submission).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to numbat populations.
+There are no studies linking cats to numbat population trends.
 <br>
 <br>
 
@@ -56,8 +56,6 @@ There are no studies linking cats to numbat populations.
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Friend, J.A. and Thomas, N.D., 1994. Reintroduction and the numbat recovery programme. Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp, pp.189-198.
 

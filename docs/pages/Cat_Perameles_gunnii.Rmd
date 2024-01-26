@@ -29,9 +29,9 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Not assessed**
 
-IUCN claim: *"Eastern Barred Bandicoots probably disappeared from the mainland due to introduced predators and habitat destruction from introduced herbivores. Predation from red foxes is thought to have been particularly detrimental, and the recent introduction of foxes to Tasmania could pose a major threat to the species here."*
+IUCN claim: *"Eastern Barred Bandicoots probably disappeared from the mainland due to introduced predators and habitat destruction from introduced herbivores."*
 
 </center>
 
@@ -45,7 +45,7 @@ Bandicoots have co-occurred with cats on Tasmania since 1820 and on the mainland
 
 ### Is the threat claim evidence-based?
 
-There are no studies liking cats with eastern barred bandicoot populations. In contradiction with the claim, the two species continue to co-occur in Tasmania after over two centuries and they co-occurred on the mainland for over a century-and-a-half.
+There are no studies linking cats with eastern barred bandicoot population trends. In contradiction with the claim, the two species continue to co-occur in Tasmania after over two centuries and they co-occurred on the mainland for over a century-and-a-half.
 <br>
 <br>
 
@@ -58,8 +58,6 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Dufty, A.C., 1994. Population demography of the eastern barred bandicoot (Perameles gunnii) at Hamilton, Victoria. Wildlife Research, 21(4), pp.445-457.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Groenewegen, R., Harley, D., Hill, R. and Coulson, G., 2017. Assisted colonisation trial of the eastern barred bandicoot (Perameles gunnii) to a fox-free island. Wildlife Research, 44(7), pp.484-496.
 

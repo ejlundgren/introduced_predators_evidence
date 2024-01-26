@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Moderate**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"The major threat for L. conditor is predation by feral cats and red foxes."*
 
@@ -45,7 +45,7 @@ Stick-nest rats were last confirmed in NSW 18 years before cats arrived (Current
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to stick-nest rat populations. In contradiction with the claim, the NSW extipration record pre-dates the cat arrival record, and in one locale the two species co-occurred for over half-a-century.
+There are no studies linking cats to stick-nest rat population trends. In contradiction with the claim, the NSW extirpation record pre-dates the cat arrival record, and in one locale the two species co-occurred for over half a century.
 <br>
 <br>
 
@@ -58,8 +58,6 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 Copley, P., 1999. Natural histories of Australia’s stick-nest rats, genus Leporillus (Rodentia: Muridae). Wildlife Research, 26(4), pp.513-539.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

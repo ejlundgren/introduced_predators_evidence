@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Critically Endangered**
 
-EPBC Predator Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Recent evidence has shown predation by feral cats"*
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to central rock rat populations.
+There are no studies linking cats to central rock rat population trends.
 <br>
 <br>
 
@@ -54,8 +54,6 @@ There are no studies linking cats to central rock rat populations.
 ### References
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

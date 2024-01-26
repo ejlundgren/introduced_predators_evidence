@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Domestic Cats (Felis catus) occur through entire range of this species, including Flinders Island. Cats are significant predators of native mice, but probably significantly affect subpopulations only when the habitat is open."*
 
@@ -56,8 +56,6 @@ There are no studies linking cats to New Holland mice.
 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

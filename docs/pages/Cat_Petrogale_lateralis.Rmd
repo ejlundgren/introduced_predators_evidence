@@ -29,9 +29,9 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **High**
+EPBC Predator Threat Rating: **Not assessed**
 
-IUCN claim: *"The main threat overall to this species on the mainland is predation from introduced Red Foxes, and foxes are known to have played a major role in the decline of the species historically. Predation by feral cats is also occurring."*
+IUCN claim: *"Predation by feral cats is also occurring."*
 
 </center>
 
@@ -41,11 +41,11 @@ Cats hunt rock-wallabies (Paltridge et al. 1997; Read et al. 2018).
 
 ### Studies not in support
 
-Cat prey preference for rock wallabies was relatively low (Read et al. 2018).
+Cat prey preference for rock-wallabies was relatively low (Read et al. 2018).
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to black-footed rock-wallaby populations.
+There are no studies linking cats to black-footed rock-wallaby population trends.
 <br>
 <br>
 
@@ -54,8 +54,6 @@ There are no studies linking cats to black-footed rock-wallaby populations.
 ### References
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

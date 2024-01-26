@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Endangered**
 
-EPBC Predator Threat Rating: **High**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Introduced foxes and cats are known to prey on this species"*
 
@@ -37,7 +37,7 @@ IUCN claim: *"Introduced foxes and cats are known to prey on this species"*
 
 ### Studies in support
 
-Cats hunt dibblers (Woolley 1977).
+Cats hunt dibblers (Friend 2003).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to dibbler populations.
+There are no studies linking cats to dibbler population trends.
 <br>
 <br>
 
@@ -54,8 +54,6 @@ There are no studies linking cats to dibbler populations.
 ### References
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Friend T. 2003. Dibbler (Parantechinus apicalis) Recovery Plan July 2003–June 2013. Wildlife Management Program. Department of Conservation and Land Management Western Australian Threatened Species and Communities Unit
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **High**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *Not attributed*
 
@@ -37,15 +37,15 @@ IUCN claim: *Not attributed*
 
 ### Studies in support
 
-Rock wallaby remains were found in the cat’s diet (Doherty et al. 2015).
+Rock-wallaby remains were found in the cat’s diet (Doherty et al. 2015).
 
 ### Studies not in support
 
-Rock-wallaby remains were not found in the cat’s diet (Lapidge & Henshall 2001). Stobo-Wilson et al. (2020b) reported that rock-wallabies were detected at 2 sites but not at the other 2 sites, and that cats were detected at all 4, but no statistical analysis was provided.
+Rock-wallaby remains were not found in the cat’s diet (Lapidge & Henshall 2001). Stobo-Wilson et al. (2020b) reported that rock-wallabies were detected at 2 of 4 cat-present sites, but no statistical analysis was provided.
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between cats and yellow-footed rock-wallaby populations.
+There are no studies evidencing a negative association between cats and yellow-footed rock-wallaby population trends.
 <br>
 <br>
 
@@ -56,8 +56,6 @@ There are no studies evidencing a negative association between cats and yellow-f
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Doherty, T.S., Davis, R.A., van Etten, E.J., Algar, D., Collier, N., Dickman, C.R., Edwards, G., Masters, P., Palmer, R. and Robinson, S., 2015. A continental‐scale analysis of feral cat diet in Australia. Journal of Biogeography, 42(5), pp.964-975.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

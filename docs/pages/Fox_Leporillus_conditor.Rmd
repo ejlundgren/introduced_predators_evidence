@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Moderate**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"The major threat for L. conditor is predation by feral cats and red foxes."*
 
@@ -45,7 +45,7 @@ Stick-nest rats were last confirmed in the Murray-Darling, Flinders Ranges, and 
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking foxes to stick-nest rat populations. In contradiction with the claim, most extipration records pre-date fox arrival records.
+There are no studies linking foxes to stick-nest rat population trends. In contradiction with the claim, most extirpation records pre-date fox arrival records.
 <br>
 <br>
 
@@ -57,7 +57,7 @@ Copley, P., 1999. Natural histories of Australia’s stick-nest rats, genus Lepo
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

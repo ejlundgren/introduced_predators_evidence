@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Moderate**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Predation by introduced Red Fox and feral Cat are the major threats."*
 
@@ -41,11 +41,11 @@ Cats hunted quolls translocated to the Flinders Ranges, SA (Moseby et al. 2015; 
 
 ### Studies not in support
 
-Intensive poison-baiting was associated with reduced cat abundance and reduced quoll abundance over time (Moseby et al. 2021a).
+Intensive poison-baiting was associated with reduced cat abundance and reduced quoll abundance over time (Moseby et al. 2021a). Quolls were last confirmed in NSW 18 years before cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between cats and western quoll populations that has been tested statistically. Poison-baiting is not a reliable proxy of cat abundance.
+There are no studies evidencing a negative association between cats and western quoll populations that has been tested statistically. Poison-baiting is not a reliable proxy of cat abundance. In contradiction with the claim, the extirpation record from NSW pre-dates the cat arrival record.
 <br>
 <br>
 
@@ -58,8 +58,6 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 Comer, S., Clausen, L., Cowen, S., Pinder, J., Thomas, A., Burbidge, A.H., Tiller, C., Algar, D. and Speldewinde, P., 2020. Integrating feral cat (Felis catus) control into landscape-scale introduced predator management to improve conservation prospects for threatened fauna: a case study from the south coast of Western Australia. Wildlife Research, 47(8), pp.762-778.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Glen, A.S., Berry, O., Sutherland, D.R., Garretson, S., Robinson, T. and De Tores, P.J., 2010. Forensic DNA confirms intraguild killing of a chuditch (Dasyurus geoffroii) by a feral cat (Felis catus). Conservation Genetics, 11, pp.1099-1101.
 

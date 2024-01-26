@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Very high/Extreme**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"The major threat to the Bilby is predation by introduced red foxes and feral cats"*
 
@@ -37,15 +37,15 @@ IUCN claim: *"The major threat to the Bilby is predation by introduced red foxes
 
 ### Studies in support
 
-Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011). Cat predation was a regular cause of mortality for mostly predator-inexperienced reintroduced bilbies at two sites (Moseby et al. 2011; Lohr et al. 2021). Cats were documented hunting reintroduced bilbies in another study (Moseby et al. 2012) and hunting locally-born bilbies (Paltridge et al. 1997; Wysong 2016; Murphy et al. 2019). The last record of bilby populations is, on average, 58 years after cats arrived, including one population that co-occurred for a century (Current submission).
+Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011). Cat predation was a regular cause of mortality for mostly predator-inexperienced reintroduced bilbies at two sites (Moseby et al. 2011; Lohr et al. 2021). Cats were documented hunting reintroduced bilbies in another study (Moseby et al. 2012) and hunting locally-born bilbies (Paltridge et al. 1997; Wysong 2016; Murphy et al. 2019). The last records of bilby populations are, on average, 58 years after cats arrived (Current submission).
 
 ### Studies not in support
 
-Cat probability of occurrence did not predict bilby occurrence (Southgate et al. 2007). Bilbies were successfully reintroduced into a fenced reserve where cats occur (Richards 2012). Moseby et al. (2019) reported a positive correlation between cat and bilby abundance within a fenced reserve, despite evidence of predation, and bilby recruitment was confirmed. A cat breached the fence of semi-captive bilby enclosure, none of which were hunted in 1 month (from Moseby et al. 2015).
+Cat probability of occurrence did not predict bilby occurrence (Southgate et al. 2007). Bilbies were successfully reintroduced into a fenced reserve where cats occurred (Richards 2012). Moseby et al. (2019) reported a positive correlation between cat and bilby abundance within a fenced reserve and bilby recruitment was confirmed despite evidence of cat predation. A cat breached the fence of a semi-captive bilby enclosure, none of which were hunted during one month (from Moseby et al. 2015). Cats and bilbies co-occurred for a century in one locale in Western Australia (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between  cats and bilby populations. The fate of reintroduced animals is not a reliable proxy for the fate of populations. In contradiction with the claim, no negative association was found between the two species, which have co-occured for a century in one locale.
+There are no studies evidencing a negative association between  cats and bilby populations. The fate of reintroduced animals is not a reliable proxy for the fate of populations. In contradiction with the claim, no negative association was found between the two species, which have co-occurred for a century in one locale.
 <br>
 <br>
 
@@ -57,13 +57,13 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
-
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Lohr, C.A., Dziminski, M., Dunlop, J., Miller, E. and Morris, K., 2021. Reintroduction of bilbies (Macrotis lagotis) to Matuwa, an Indigenous Protected Area in Western Australia. Rangeland Ecology & Management, 78, pp.67-78.
 
 Moseby, K.E., Cameron, A. and Crisp, H.A., 2012. Can predator avoidance training improve reintroduction outcomes for the greater bilby in arid Australia?. Animal Behaviour, 83(4), pp.1011-1021.
+
+Moseby, K.E., Letnic, M., Blumstein, D.T. and West, R., 2019. Understanding predator densities for successful co‐existence of alien predators and threatened prey. Austral Ecology, 44(3), pp.409-419.
 
 Moseby, K.E., Peacock, D.E. and Read, J.L., 2015. Catastrophic cat predation: a call for predator profiling in wildlife protection programs. Biological Conservation, 191, pp.331-340.
 

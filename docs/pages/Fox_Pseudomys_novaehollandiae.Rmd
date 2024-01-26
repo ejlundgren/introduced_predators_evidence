@@ -37,7 +37,7 @@ IUCN claim: *"Predation by Red Foxes (moderate to minor): there is no direct evi
 
 ### Studies in support
 
-Foxes hunt mice (Mitchell & Banks 2005; Pascoe et al. 2012).
+New holland mice were found in <1% of fox scats  (Mitchell & Banks 2005; Pascoe et al. 2012).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking foxes to New Holland mouse populations.
+There are no studies linking foxes to New Holland mouse population trends.
 <br>
 <br>
 

@@ -29,15 +29,15 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Not assessed**
 
-IUCN claim: *"Predation by feral cats is considered to be a severe threat over the species' entire range, but has not been quantified. Predation by the Red Fox is considered a minor threat because of the arboreal behaviour of phascogales."*
+IUCN claim: *"Predation by feral cats is considered to be a severe threat over the species' entire range, but has not been quantified."*
 
 </center>
 
 ### Studies in support
 
-No studies
+Cats hunt phascogales (Short & Hide 2011).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ Phascogales were last confirmed in NSW 18 years before cats arrived (Current sub
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to red-tailed phascogales. In contradiction with the claim the extipration record pre-dates the cat arrival record.
+There are no studies linking cats to red-tailed phascogale population trends. In contradiction with the claim the extirpation record pre-dates the cat arrival record.
 <br>
 <br>
 
@@ -56,8 +56,6 @@ There are no studies linking cats to red-tailed phascogales. In contradiction wi
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

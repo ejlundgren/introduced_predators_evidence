@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Very high**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"Major threats are predation by feral cats and Red Foxes"*
 
@@ -57,7 +57,7 @@ There are no studies linking foxes to sandhill dunnarts.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

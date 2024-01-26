@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Very high**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"Predation by introduced Red Fox and feral Cat are the major threats."*
 
@@ -37,7 +37,7 @@ IUCN claim: *"Predation by introduced Red Fox and feral Cat are the major threat
 
 ### Studies in support
 
-Quoll population increased after poison-baiting was intensified, but no evidence provided the baiting impacted foxes (Morris et al. 2003). Quoll abundance was higher at poison-baited sites compared to controls, though not at statistical significance, fox abundance was not monitored, and sites not selected randomly (Wayne et al. 2011). Quoll population increased and then declined where poison-baiting was conducted, and at one site it was observed but not evidenced that the population increased (Orell 2004; DEC 2012). A translocation failed at a site not intensively poison-baited, and a quoll sighting occurred where poison-baiting was intensive (Kinnear et al. 2002). poison-baiting targeting cats was associated with a decline in foxes, but temporal association with quoll abundance wasn’t analysed and association between fox and quoll abundance was unclear (Comer et al. 2020). Quolls were last confirmed 7 and 26 years after foxes arrived in the Eyre Peninsula and Nullarbor, respectively (Current submission).
+Quoll population increased after poison-baiting was intensified, but no evidence was provided that baiting impacted foxes (Morris et al. 2003). Quoll abundance was higher at poison-baited sites compared to controls, though not at statistical significance, fox abundance was not monitored, and sites not selected randomly (Wayne et al. 2011). Quoll population increased and then declined where poison-baiting was conducted, and at one site it was observed but not evidenced that the population increased (Orell 2004; DEC 2012). A translocation failed at a site not intensively poison-baited, and a quoll sighting occurred where poison-baiting was intensive (Kinnear et al. 2002). Poison-baiting targeting cats was associated with a decline in foxes, but temporal association with quoll abundance wasn’t analysed and association between fox and quoll abundance was unclear (Comer et al. 2020). Quolls were last confirmed 7 and 26 years after foxes arrived in the Eyre Peninsula and Nullarbor, respectively (Current submission).
 
 ### Studies not in support
 
@@ -59,7 +59,7 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 
 Department of Environment and Conservation, 2012. Chuditch (Dasyurus geoffroii) Recovery Plan. Wildlife Management Program No. 54. Department of Environment and Conservation, Perth, Western Australia.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

@@ -31,13 +31,13 @@ IUCN status: **Near Threatened**
 
 EPBC Predator Threat Rating: **A threat**
 
-IUCN claim: *"Exotic predators (especially cats and foxes)… [have been] implicated as major threats to the species."*
+IUCN claim: *"Exotic predators (especially cats and foxes)"*
 
 </center>
 
 ### Studies in support
 
-Foxes hunt Julia Creek dunnarts (Kutt 2003).
+Julia Creek dunnart found inside a single fox stomach (Kutt 2003).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking foxes to Julia Creek dunnart populations.
+There are no studies linking foxes to Julia Creek dunnart population trends.
 <br>
 <br>
 

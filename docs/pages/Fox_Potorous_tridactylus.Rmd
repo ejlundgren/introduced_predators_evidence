@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Very high**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"The major threat is predation, especially by the invasive Red Fox but also by wild dogs and feral cats."*
 
@@ -37,7 +37,7 @@ IUCN claim: *"The major threat is predation, especially by the invasive Red Fox 
 
 ### Studies in support
 
-Foxes hunt potoroos (Lunney et al. 1990; Long 2001; Glen & Dickman 2008; Claridge et al. 2010; Glen et al. 2011; Davis et al. 2015; Norton et al. 2015). Dexter & Murray (2009) reported that potoroo abundance increased about two years after intensification of poison-baiting in both treatment and control sites, but more steeply in the high intensity poisoning sites, but there was no difference in bait uptake between the treatment and control sites. Robley et al. (2014) reported that three measures of potoroo abundance tended to be higher at sites where poison-baiting was intensified compared to controls, corresponding with differences in bait uptake.
+Foxes eat and hunt potoroos (Lunney et al. 1990; Long 2001; Glen & Dickman 2008; Claridge et al. 2010; Glen et al. 2011; Davis et al. 2015; Norton et al. 2015). Dexter & Murray (2009) reported that potoroo abundance increased about two years after intensification of poison-baiting in both treatment and control sites, but more steeply in the high intensity poisoning sites, but there was no difference in bait uptake between the treatment and control sites. Robley et al. (2014) reported that three measures of potoroo abundance tended to be higher at sites where poison-baiting was intensified compared to controls, corresponding with differences in bait uptake.
 
 ### Studies not in support
 
@@ -61,7 +61,7 @@ Davis, N.E., Forsyth, D.M., Triggs, B., Pascoe, C., Benshemesh, J., Robley, A., 
 
 Dexter, N. and Murray, A., 2009. The impact of fox control on the relative abundance of forest mammals in East Gippsland, Victoria. Wildlife Research, 36(3), pp.252-261.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Glen, A.S. and Dickman, C.R., 2008. Niche overlap between marsupial and eutherian carnivores: does competition threaten the endangered spotted‐tailed quoll?. Journal of Applied Ecology, 45(2), pp.700-707.
 

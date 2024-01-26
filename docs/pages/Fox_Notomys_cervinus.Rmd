@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"The major threat is predation by feral Domestic Cats (Felis catus; moderate, entire range), Red Foxes (Vulpes vulpes; minor, entire range)"*
 
@@ -56,6 +56,8 @@ There are no studies linking foxes to fawn hopping mice.
 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
+
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

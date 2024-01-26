@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Moderate**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"The species presumably was extirpated from mainland Australia by a combination of predation by the Red Fox and feral cat and habitat disturbance."*
 
@@ -45,7 +45,7 @@ Hare-wallabies were last confirmed on the mainland in Western Australia 17-20 ye
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking foxes to banded hare-wallabies. In contradiction with the claim, the exirpation record pre-dates the fox arrival record.
+There are no studies linking foxes to banded hare-wallabies. In contradiction with the claim, the exirpation records pre-date the fox arrival records.
 <br>
 <br>
 
@@ -57,7 +57,7 @@ There are no studies linking foxes to banded hare-wallabies. In contradiction wi
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

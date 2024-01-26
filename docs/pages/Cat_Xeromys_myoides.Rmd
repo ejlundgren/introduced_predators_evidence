@@ -29,9 +29,9 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Moderate**
+EPBC Predator Threat Rating: **Not assessed**
 
-IUCN claim: *"Predation by feral Domestic Cats (Felis catus) may be a threat, but extent"*
+IUCN claim: *"Predation by feral Domestic Cats (Felis catus) may be a threat, but extent and impact are not known."*
 
 </center>
 
@@ -56,8 +56,6 @@ There are no studies linking cats to water mice.
 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

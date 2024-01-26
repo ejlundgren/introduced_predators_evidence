@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Very high**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Recent research has demonstrated marked detrimental impact of introduced predators: Red Fox (Vulpes vulpes) and feral Domestic Cats (Felis catus)"*
 
@@ -37,15 +37,15 @@ IUCN claim: *"Recent research has demonstrated marked detrimental impact of intr
 
 ### Studies in support
 
-Cats hunt rats (Pavey et al. 2008; Pavey et al. 2014)./Read & Cunningham (2010) described an occasion where more plains rats were captured inside than outside a fenced reserve where carnivores were excluded. Rats were last confirmed at Koonchera Dune, SA, 56 years after cats arrived (Current submission).
+Cats hunt rats (Pavey et al. 2008; Pavey et al. 2014). Read & Cunningham (2010) described an occasion where more plains rats were captured inside than outside a fenced reserve where carnivores were excluded (no data or analysis was provided). Rats were last confirmed at Koonchera Dune, SA, 56 years after cats arrived (Current submission).
 
 ### Studies not in support
 
-Rats were last confirmed in NSW 35 years before cats arrived (Table S2).
+Rats were last confirmed in NSW 35 years before cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between cats and plains rats which report data. In contradiction with the claim, NSW extirpation record pre-dates cat arrival record, and the two species co-ocurred at one locale for over half-a-century.
+There are no studies evidencing a negative association between cats and plains rats that report data. In contradiction with the claim, the NSW extirpation record pre-dates cat arrival record, and the two species co-occurred at one locale for over half a century.
 <br>
 <br>
 
@@ -56,8 +56,6 @@ There are no studies evidencing a negative association between cats and plains r
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

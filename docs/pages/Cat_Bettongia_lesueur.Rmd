@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Moderate**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Feral cats are a proven threat to this species"*
 
@@ -58,8 +58,6 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 Christensen, P. and Burrows, N., 1995. Project desert dreaming: experimental reintroduction of mammals to the Gibson Desert, Western Australia. Reintroduction Biology of Australian and New Zealand Fauna’.(Ed. M. Serena.) pp, pp.199-207.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

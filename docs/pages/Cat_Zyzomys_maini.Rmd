@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **High/Very High**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Predation by feral cats may also be a threat."*
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-Cats have been documented among a range of ecological variables negatively correlated with Arnhem Land rock rats. Causality cannot be inferred due to confounding variables.
+Cats have been documented among a range of ecological variables negatively correlated with Arnhem Land rock rats in one study. Causality for decline cannot be inferred due to confounding variables.
 <br>
 <br>
 
@@ -54,8 +54,6 @@ Cats have been documented among a range of ecological variables negatively corre
 ### References
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

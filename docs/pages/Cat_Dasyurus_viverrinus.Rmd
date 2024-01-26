@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Endangered**
 
-EPBC Predator Threat Rating: **High**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Predation by introduced feral cats and red foxes are the most likely causes."*
 
@@ -37,15 +37,15 @@ IUCN claim: *"Predation by introduced feral cats and red foxes are the most like
 
 ### Studies in support
 
-There is evidence of cat predation of eatern quolls (Peacock & Abbott 2014)
+There is evidence of cat predation of eastern quolls (Peacock & Abbott 2014).
 
 ### Studies not in support
 
-Fancourt et al. (2015) found no evidence of a negative correlation between quoll and cat abundance. Cats were not among predators of reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Quolls were last confirmed in NSW 148 years after cats arrived and continue to co-occurr on Tasmania after two centuries (Current submission).
+Fancourt et al. (2015) found no evidence of a negative correlation between quoll and cat abundance. Cats were not among predators of reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Quolls were last confirmed in NSW 148 years after cats arrived and continue to co-occur on Tasmania after two centuries (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to tiger quoll populations. In contradiction with the claim, the two species co-occurred on the mainland for over a century and continue to co-occur in Tasmania after more than two centuries.
+There are no studies linking cats to tiger quoll population trends. In contradiction with the claim, the two species co-occurred on the mainland for over a century and continue to co-occur in Tasmania after more than two centuries.
 <br>
 <br>
 
@@ -56,8 +56,6 @@ There are no studies linking cats to tiger quoll populations. In contradiction w
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fancourt, B.A., Hawkins, C.E., Cameron, E.Z., Jones, M.E. and Nicol, S.C., 2015. Devil declines and catastrophic cascades: is mesopredator release of feral cats inhibiting recovery of the eastern quoll?. PLoS One, 10(3), p.e0119303.
 

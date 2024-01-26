@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Moderate**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"The reasons for past declines of the Golden Bandicoot are predation by feral cats and red foxes"*
 
@@ -37,15 +37,15 @@ IUCN claim: *"The reasons for past declines of the Golden Bandicoot are predatio
 
 ### Studies in support
 
-Cats were the main predator of a group of reintroduced, predator-inexperienced bandicoots (Blythman et al. 2020). Cats also predated on another reintroduced group (Christensen & Burrows 1995) and on locally-born bandicoots (Wysong 2016; Doherty et al. 2017). Bandicoots were last confirmed in the Nullarbor 37 years after cats arrived (Current submission).
+Cats were the main predator of a group of reintroduced, predator-inexperienced bandicoots (Blythman et al. 2020) and also on locally-born bandicoots (Wysong 2016; Doherty et al. 2017). Bandicoots were last confirmed in the Nullarbor 37 years after cats arrived (Current submission).
 
 ### Studies not in support
 
-Cat breached fence of semi-captive bandicoot enclosure, none were hunted in 5 weeks (from Moseby et al. 2015). Bandicoots were last confirmed in NSW 18 years before cats arrived (Current submission).
+Cats were not recorded as predators of a group of reintroduced bandicoots (Christensen & Burrows 1995). A cat breached a bandicoot enclosure, none were hunted in five weeks (from Moseby et al. 2015). Bandicoots were last confirmed in NSW 18 years before cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to golden bandicoot populations. The fate of reintroduced animals is not a reliable proxy for the fate of populations. In contradiction with the claim the extirpation record from NSW pre-dates the cat arrival record.
+There are no studies linking cats to golden bandicoot population trends. The fate of reintroduced animals is not a reliable proxy for the fate of populations. In contradiction with the claim the extirpation record from NSW pre-dates the cat arrival record.
 <br>
 <br>
 
@@ -62,8 +62,6 @@ Christensen, P. and Burrows, N., 1995. Project desert dreaming: experimental rei
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Doherty, T.S., Dickman, C.R., Johnson, C.N., Legge, S.M., Ritchie, E.G. and Woinarski, J.C., 2017. Impacts and management of feral cats Felis catus in Australia. Mammal Review, 47(2), pp.83-97.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

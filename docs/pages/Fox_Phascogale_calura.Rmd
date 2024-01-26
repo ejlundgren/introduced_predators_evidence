@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"Predation by feral cats is considered to be a severe threat over the species' entire range, but has not been quantified. Predation by the Red Fox is considered a minor threat because of the arboreal behaviour of phascogales."*
 
@@ -45,7 +45,7 @@ Phascogales were last confirmed in NSW 46 years before foxes arrived (Current su
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between foxes and red-tailed phascogale populations. Poison-baiting is not a reliable proxy for fox abundance. In contradiction with the claim the extipration record pre-dates the fox arrival record.
+There are no studies evidencing a negative association between foxes and red-tailed phascogale populations. Poison-baiting is not a reliable proxy for fox abundance. In contradiction with the claim the extirpation record pre-dates the fox arrival record.
 <br>
 <br>
 
@@ -55,7 +55,7 @@ There are no studies evidencing a negative association between foxes and red-tai
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

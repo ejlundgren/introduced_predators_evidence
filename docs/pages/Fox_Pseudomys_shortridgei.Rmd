@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"Predation by Red Foxes (Vulpes vulpes; moderate, entire range): plausible, but impact not known; impact likely to be less in dense vegetation."*
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-Foxes have been documented among a range of ecological variables negatively correlated with heath mouse abundance but cause of extirpation remains unknown.
+Foxes have been documented among a range of ecological variables negatively correlated with heath mouse abundance in one study. Causality for decline cannot be inferred due to confounding variables.
 <br>
 <br>
 
@@ -57,11 +57,11 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 
 Davis, N.E., Forsyth, D.M., Triggs, B., Pascoe, C., Benshemesh, J., Robley, A., Lawrence, J., Ritchie, E.G., Nimmo, D.G. and Lumsden, L.F., 2015. Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia. PloS One, 10(3), p.e0120975.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
-Nalliah, R., Sitters, H., Smith, A., & Di Stefano, J. 2021. Untangling the influences of fire, habitat and introduced predators on the endangered heath mouse. Animal Conservation. doi:10.1111/acv.12731 
+Nalliah, R., Sitters, H., Smith, A., & Di Stefano, J. 2021. Untangling the influences of fire, habitat and introduced predators on the endangered heath mouse. Animal Conservation. doi:10.1111/acv.12731
 
 Sinclair, R., 2020. The diet of foxes in the Grampians (Gariwerd) National Park. Doctoral dissertation, Deakin University.
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"Across its range, the Platypus is also subject to predation by the introduced Red Fox, dogs and cats."*
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking foxes to platypus populations.
+There are no studies linking foxes to platypus population trends.
 <br>
 <br>
 
@@ -58,6 +58,8 @@ Brown, G.W., 1990. Diets of wild canids and foxes in East Gippsland 1983–1987,
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Davis, N.E., Forsyth, D.M., Triggs, B., Pascoe, C., Benshemesh, J., Robley, A., Lawrence, J., Ritchie, E.G., Nimmo, D.G. and Lumsden, L.F., 2015. Interspecific and geographic variation in the diets of sympatric carnivores: dingoes/wild dogs and red foxes in south-eastern Australia. PloS One, 10(3), p.e0120975.
+
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Green, K., 2003. Altitudinal and temporal differences in the food of foxes (Vulpes vulpes) at alpine and subalpine altitudes in the Snowy Mountains. Wildlife Research, 30(3), pp.245-253.
 

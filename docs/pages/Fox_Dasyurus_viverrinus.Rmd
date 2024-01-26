@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Endangered**
 
-EPBC Predator Threat Rating: **Very high**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"predation by introduced feral cats and red foxes"*
 
@@ -37,7 +37,7 @@ IUCN claim: *"predation by introduced feral cats and red foxes"*
 
 ### Studies in support
 
-Foxes or another canid (Canis sp.) were the main predators of a group of captive-raised reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Historical records suggest foxes hunted or scavenged quolls when quolls were abundant (Peacock & Abbott 2014). Quolls were last confirmed in NSW 54 years after foxes arrived (Current submission).
+Foxes or another canid (Canis sp.) were the main predators of a group of captive-raised reintroduced quolls (Peacock & Abbott 2014; Robinson et al. 2020; Robinson et al. 2021). Historical records suggest foxes hunted or scavenged quolls when quolls were abundant (Peacock & Abbott 2014). Quolls were last confirmed in NSW 54 and 82 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking foxes to eastern quoll populations.
+There are no studies linking foxes to eastern quoll population trends. The two species co-occurred in one locale for over half a century.
 <br>
 <br>
 
@@ -55,7 +55,7 @@ There are no studies linking foxes to eastern quoll populations.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

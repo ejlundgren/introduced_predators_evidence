@@ -27,9 +27,9 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN status: **Near Threatened**
+IUCN status: **Endangered**
 
-EPBC Predator Threat Rating: **Very high/Extreme**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"The introduction of the predatory Red Fox and feral cats has had a profound impact and continues to be a major threat today (Friend 2008)."*
 
@@ -37,11 +37,11 @@ IUCN claim: *"The introduction of the predatory Red Fox and feral cats has had a
 
 ### Studies in support
 
-A poison-baiting campaign initiated in 1982 was followed by a population increase (Friend 1990) until 1992 (Friend & Thomas 1994), after which the population crashed (Friend & Page 2017).
+A poison-baiting campaign initiated in 1982 was followed by a population increase (Friend 1990) until 1992 (Friend & Thomas 1994). Friend (1990) argued that numbat range contraction was more rapid in the arid zone during the 1940s and 1950s when foxes established in the area though no formal analysis was provided.
 
 ### Studies not in support
 
-Foxes were not the main cause of mortality nor the main predator of reintroduced numbats (Friend & Thomas 1994). Numbats were last confirmed in NSW 3 years before foxes arrived (Current submission).
+The poison-baiting campaign that saw an initial population increase (1982-1992) was followed by a population crash (Friend & Page 2017). Foxes were not the main cause of mortality nor the main predator of reintroduced numbats (Friend & Thomas 1994). Numbats originally occurred across much of the southern half of Australia. Numbat distribution began to contract in the mid-1800s before foxes established (Friend 1990). Numbats were last confirmed in NSW and Adelaide before foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -55,7 +55,7 @@ There are no studies evidencing a negative association between numbats and foxes
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

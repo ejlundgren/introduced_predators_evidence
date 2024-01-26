@@ -27,9 +27,9 @@ h1, h2, h3 {
 
 ::::
 <center>
-IUCN status: **Near Threatened**
+IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **High**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Threats are poorly understood but include predation by and competition with feral cats and Red Foxes,"*
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to mulgara populations.
+There are no studies linking cats to mulgara population trends.
 <br>
 <br>
 
@@ -56,8 +56,6 @@ There are no studies linking cats to mulgara populations.
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

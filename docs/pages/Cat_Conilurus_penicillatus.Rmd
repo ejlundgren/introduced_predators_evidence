@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **High/Very High**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Predation by feral cats is a likely major threat"*
 
@@ -37,7 +37,7 @@ IUCN claim: *"Predation by feral cats is a likely major threat"*
 
 ### Studies in support
 
-Lower rat site occupancy was associated with higher cat detection on Melville Island (Davies et al. 2017; Davies et al. 2018; Penton et al. 2021) and higher cat occupancy across Melville Island and north of Northern Territory mainland (Stobo-Wilson et al. 2020a)
+Lower rat site occupancy was associated with higher cat detection on Melville Island (Davies et al. 2017; Davies et al. 2018; Penton et al. 2021) and higher cat occupancy across Melville Island and the northern region of the Northern Territory mainland (Stobo-Wilson et al. 2020a)
 
 ### Studies not in support
 
@@ -58,8 +58,6 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 Davies, H.F., McCarthy, M.A., Firth, R.S., Woinarski, J.C., Gillespie, G.R., Andersen, A.N., Geyle, H.M., Nicholson, E. and Murphy, B.P., 2017. Top‐down control of species distributions: feral cats driving the regional extinction of a threatened rodent in northern Australia. Diversity and Distributions, 23(3), pp.272-283.
 
 Davies, H.F., McCarthy, M.A., Firth, R.S., Woinarski, J.C., Gillespie, G.R., Andersen, A.N., Rioli, W., Puruntatameri, J., Roberts, W., Kerinaiua, C. and Kerinauia, V., 2018. Declining populations in one of the last refuges for threatened mammal species in northern Australia. Austral Ecology, 43(5), pp.602-612.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

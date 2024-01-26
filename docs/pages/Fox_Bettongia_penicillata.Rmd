@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Critically Endangered**
 
-EPBC Predator Threat Rating: **High/Very High**
+EPBC Predator Threat Rating: ****
 
 IUCN claim: *"The major reason for past decline has been predation by Red Foxes and feral cats"*
 
@@ -37,11 +37,11 @@ IUCN claim: *"The major reason for past decline has been predation by Red Foxes 
 
 ### Studies in support
 
-The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). Foxes predated on reintroduced woylies (Marlow et al. 2015a). Woylies were detected in a single fox scat among 450 scats analysed from four sites where woylies occured (Marlow et al. 2014). One study reported higher bettong abundance at poison-baited sites compared to controls but fox abundance was not monitored and sites were not randomly selected (Wayne et al. 2011). Woylies were last recorded on the Nullarbor 26 years after foxes arrived (Current submission).
+The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). Foxes predated on reintroduced woylies (Marlow et al. 2015a). Woylies were detected in a single fox scat among 450 scats analysed from four sites where woylies occurred (Marlow et al. 2014). One study reported higher bettong abundance at poison-baited sites compared to controls but fox abundance was not monitored and sites were not randomly selected (Wayne et al. 2011). Woylies were last recorded on the Nullarbor 26 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
-Studies by Kinnear et al. (2002), Orell (2004), Marlow et al. (2015b), Yeatman et al. (2016), and Wayne et al. (2017) reported that woylies initially increased after poison-baiting intensification but the population eventually crashed. Wayne et al. (2017) documented that woylies declined and fox abundance increased but no evidence of a correlation was provided (Wayne et al. 2017). Another study reported that increased poison-baiting intensity was positively associated with woylie abundance, however the trend overlapped with zero, foxes were not monitored, and there were no control sites without poisoning (Geary et al. 2023). Foxes were not listed among predators of reintroduced woylies (Priddel & Wheeler 2004). Woylies were last confirmed in NSW 21-45 years before foxes arrived (Current submission).
+Studies by Kinnear et al. (2002), Orell (2004), Marlow et al. (2015b), Yeatman et al. (2016), and Wayne et al. (2017) reported that woylies initially increased after poison-baiting intensification but the population eventually crashed. Wayne et al. (2017) documented that woylies declined and fox abundance increased but no evidence of a correlation was provided (Wayne et al. 2017). Another study reported that increased poison-baiting intensity was positively associated with woylie abundance, however the trend overlapped with zero, foxes were not monitored, and there were no control sites without poisoning (Geary et al. 2023). Foxes were not listed among predators of reintroduced woylies (Priddel & Wheeler 2004, Martin et al. 2006). Woylies were last confirmed in NSW 21-45 years before foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -55,7 +55,7 @@ There are no studies evidencing a negative association between foxes and woylie 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
+EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 

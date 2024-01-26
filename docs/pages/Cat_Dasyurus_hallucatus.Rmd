@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Endangered**
 
-EPBC Predator Threat Rating: **High**
+EPBC Predator Threat Rating: **Not assessed**
 
 IUCN claim: *"Predation by feral cats may also be a threat."*
 
@@ -37,7 +37,7 @@ IUCN claim: *"Predation by feral cats may also be a threat."*
 
 ### Studies in support
 
-Stobo-Wilson et al. (2020a) reported lower quoll occupancy correlated with higher cat occupancy across Melville Island and north of Northern Territory mainland (Stobo-Wilson et al. 2020a). Palmer et al. (2021) reported a positive association between poison-baiting targeting cats and quoll abundance, but no effect of poison-baiting on cats was found, nor direct association between cats and quolls tested. Cats hunt quolls (Pollock 1999; Oakwood 2000; Peacock & Abbott 2014; Stokeld et al. 2018; Cowan et al. 2020).
+Stobo-Wilson et al. (2020a) reported lower quoll occupancy correlated with higher cat occupancy across Melville Island and north of Northern Territory mainland. Palmer et al. (2021) reported a positive association between poison-baiting targeting cats and quoll abundance, but no effect of poison-baiting on cats was found, nor direct association between cats and quolls tested. Cats hunt quolls (Pollock 1999; Oakwood 2000; Peacock & Abbott 2014; Stokeld et al. 2018; Cowan et al. 2020).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-Cats are among a range of ecological variables negatively correlated with quoll abundance, but causality cannot be inferred due to confounding variables..
+Cats are among a range of ecological variables negatively correlated with quoll abundance, but causality cannot be inferred due to confounding variables.
 <br>
 <br>
 
@@ -56,8 +56,6 @@ Cats are among a range of ecological variables negatively correlated with quoll 
 Cowan, M., Moro, D., Anderson, H., Angus, J., Garretson, S. and Morris, K., 2020. Aerial baiting for feral cats is unlikely to affect survivorship of northern quolls in the Pilbara region of Western Australia. Wildlife Research, 47(8), pp.589-598.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
-EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
