@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **Moderate**
 
 IUCN claim: *"Exotic predators (cats and possibly dogs)"*
 
@@ -54,6 +54,8 @@ Cats have been documented among a range of ecological variables negatively corre
 ### References
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **Moderate**
 
 IUCN claim: *"Predation by introduced Red Fox and feral Cat are the major threats."*
 
@@ -58,6 +58,8 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 Comer, S., Clausen, L., Cowen, S., Pinder, J., Thomas, A., Burbidge, A.H., Tiller, C., Algar, D. and Speldewinde, P., 2020. Integrating feral cat (Felis catus) control into landscape-scale introduced predator management to improve conservation prospects for threatened fauna: a case study from the south coast of Western Australia. Wildlife Research, 47(8), pp.762-778.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Glen, A.S., Berry, O., Sutherland, D.R., Garretson, S., Robinson, T. and De Tores, P.J., 2010. Forensic DNA confirms intraguild killing of a chuditch (Dasyurus geoffroii) by a feral cat (Felis catus). Conservation Genetics, 11, pp.1099-1101.
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **Very high**
 
 IUCN claim: *"The species is threatened by introduced predators, the Red Fox and feral Cat especially"*
 
@@ -58,6 +58,8 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 Augusteyn, J., McCarthy, M.A., Robley, A., Pople, A., Nolan, B., Hemson, G., Melzer, R., Richards, S. and Dinwoodie, A., 2022. Bringing back the endangered bridled nail-tailed wallaby at Taunton National Park (Scientific) through effective predator control. Wildlife Research, 49(4), pp.382-398.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fisher, D., 1999. Behavioural ecology and demography of the bridled nailtail wallaby, Onychogalea fraenata. PhD Thesis, School of Biological Sciences, The University of Queensland.
 

@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Vulnerable**
 
-EPBC Predator Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **High/Very High**
 
 IUCN claim: *"Predation by feral Domestic Cats (Felis catus; moderate to severe, across the entire range) and Red Foxes (Vulpes vulpes) represent another major threat"*
 
@@ -56,6 +56,8 @@ Cats have been documeted among a range of ecological variables both negatively a
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Feit, B., Feit, A. and Letnic, M., 2019. Apex predators decouple population dynamics between mesopredators and their prey. Ecosystems, 22, pp.1606-1617.
 

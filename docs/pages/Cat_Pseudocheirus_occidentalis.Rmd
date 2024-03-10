@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Critically Endangered**
 
-EPBC Predator Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **Very high/Extreme**
 
 IUCN claim: *"Translocation experiments in the past and other data demonstrate that Red Foxes and feral Cats are major threats"*
 
@@ -56,6 +56,8 @@ There are no studies linking cats to Western ringtail possum population trends.
 Clarke, J.R., 2011. Translocation outcomes for the western ringtail possum (Pseudocheirus occidentalis) in the presence of the common brushtail possum (Trichosurus vulpecula): health, survivorship and habitat use. Doctoral dissertation, Murdoch University.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

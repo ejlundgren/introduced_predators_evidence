@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Near Threatened**
 
-EPBC Predator Threat Rating: ****
+EPBC Predator Threat Rating: **Extreme**
 
 IUCN claim: *"Predation from introduced foxes is the greatest threat to Yellow-footed Rock Wallabies (Lapidge and Henshall 2001)."*
 
@@ -55,7 +55,7 @@ There are no studies evidencing a negative association between foxes and yellow-
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
-EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Hornsby, P., 1997. Possible causes of mortality in the yellow-footed rock-wallaby, Petrogale xanthopus Gray (Marsupialia: Macropodidae). Australian Mammalogy, 19(2), pp.245-248.
 

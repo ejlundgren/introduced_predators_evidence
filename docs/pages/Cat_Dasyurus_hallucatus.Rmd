@@ -29,7 +29,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Endangered**
 
-EPBC Predator Threat Rating: **Not assessed**
+EPBC Predator Threat Rating: **High**
 
 IUCN claim: *"Predation by feral cats may also be a threat."*
 
@@ -56,6 +56,8 @@ Cats are among a range of ecological variables negatively correlated with quoll 
 Cowan, M., Moro, D., Anderson, H., Angus, J., Garretson, S. and Morris, K., 2020. Aerial baiting for feral cats is unlikely to affect survivorship of northern quolls in the Pilbara region of Western Australia. Wildlife Research, 47(8), pp.589-598.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
+
+EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
