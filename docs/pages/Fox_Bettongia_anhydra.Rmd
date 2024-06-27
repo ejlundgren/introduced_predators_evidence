@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Bettongia anhydra were last seen in 1933 in McEwin Hills, Lake Mackay, western Northern Territory (IUCN 2023)*
+Last seen: *Bettongia anhydra were last seen in 1933 in McEwin Hills, Lake Mackay, western NT (IUCN 2023)*
 
 IUCN claim: *"The Desert Bettong was probably driven to extinction because of predation by introduced Red Foxes and feral domestic cats"*
 
@@ -43,7 +43,7 @@ IUCN claim: *"The Desert Bettong was probably driven to extinction because of pr
 
 ### Studies in support
 
-Desert bettongs were last confirmed 11 years after foxes arrived (Current submission).
+Desert bettongs were last confirmed at McEwin Hills, NT, 5.5-15.5 years after foxes arrived (Current submission).
 
 ### Studies not in support
 

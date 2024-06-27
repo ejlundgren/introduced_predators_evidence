@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Conilurus capricornensis were last seen in 1787 in Rockhampton and Townsville regions, QLD (IUCN 2023)*
+NA
 
 IUCN claim: *"This species has never been recorded alive, so assessment of threats is speculative. It was probably affected by the same threats that contributed to the extinction of Conilurus albipes - most likely predation by feral cats"*
 
@@ -47,15 +47,15 @@ No studies
 
 ### Studies not in support
 
-Capricorn rabbit rats were last confirmed 75 years before cats arrived (Current submission).
+No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a link between cats and the extinction of Capricorn rabbit rats. In contradiction with the claim, the extinction record pre-dates the cat arrival record.
+There are no studies linking cats to Capricorn rabbit rats.
 <br>
 <br>
 
-![**Evidence linking *Conilurus capricornensis* to cats.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008.](assets/figures/Main_Evidence_Cat_Conilurus capricornensis.png)
+![**Evidence linking *Conilurus capricornensis* to cats.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. Small points show unconfirmed records (excluded from analyses).](assets/figures/Main_Evidence_Cat_Conilurus capricornensis.png)
 
 ### References
 

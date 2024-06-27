@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Notamacropus greyi were last seen in 1924 in Konetta Station, about halfway between Robe and Penola, SA (IUCN 2023)*
+Last seen: *Notamacropus greyi were last seen in 1924 in Konetta Station, between Robe and Penola, SA (IUCN 2023)*
 
 IUCN claim: *"The introduced red fox and hunting contributed to the extinction."*
 
@@ -43,7 +43,7 @@ IUCN claim: *"The introduced red fox and hunting contributed to the extinction."
 
 ### Studies in support
 
-Toolache wallabies were last confirmed 38 years after foxes arrived (Current submission).
+Toolache wallabies were last confirmed at Konetta Station 31.5-46.5 years after foxes arrived (Current submission).
 
 ### Studies not in support
 

@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Notomys longicaudatus were last seen in 1902 in Barrow Creek, Northern Territory (IUCN 2023)*
+Last seen: *Notomys longicaudatus were last seen in 1902 (1901-1902) in Barrow Creek, Northern Territory (IUCN 2023)*
 
 IUCN claim: *"Extinction is attributed to predation by feral cats."*
 
@@ -43,15 +43,15 @@ IUCN claim: *"Extinction is attributed to predation by feral cats."*
 
 ### Studies in support
 
-Long-tailed hopping mice were last confirmed in WA and NT 2 and 27 years after cats arrived (Current submission).
+Long-tailed hopping mice were last confirmed at Barrow Creek, NT, 16-37 years after cats arrived (Current submission).
 
 ### Studies not in support
 
-Long-tailed hopping mice were last confirmed in NSW 30 years before cats arrived (Current submission).
+Long-tailed hopping mice were last confirmed in the Western Division of NSW and southwest Australia 40 and 55 years before, to 20 and 24 years after, cats arrived, respectively (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a link between cats and the extinction of long-tailed hopping mice. In contradiction with the claim, the extinction record from NSW pre-dates the cat arrival record.
+There are no studies evidencing a link between cats and the extinction of long-tailed hopping mice. In two regions it cannot be verified that extirpation occurred after cat arrival.
 <br>
 <br>
 

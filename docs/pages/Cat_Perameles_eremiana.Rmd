@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Perameles eremiana were last seen in 1943 in Well 33, Canning Stock Route (IUCN 2023)*
+Last seen: *Perameles eremiana were last seen in 1943 at well 33, Canning Stock Route (IUCN 2023)*
 
 IUCN claim: *"Its population decline was probably due to introduced predators: cats and foxes."*
 
@@ -43,7 +43,7 @@ IUCN claim: *"Its population decline was probably due to introduced predators: c
 
 ### Studies in support
 
-Desert bandicoots were last confirmed 58 years after cats arrived (Current submission).
+Desert bandicoots were last confirmed at the Canning Stock Route 48-68 years after cats arrived, respectively (Current submission).
 
 ### Studies not in support
 
@@ -51,7 +51,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a link between cats and the extinction of desert bandicoots. In contradiction with the claim, the two species co-occurred for over half a century.
+There are no studies evidencing a link between cats and the extinction of desert bandicoots.
 <br>
 <br>
 

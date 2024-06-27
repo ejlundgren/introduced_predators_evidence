@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Pseudomys auritus were last seen in 1850 (approximate) in Coorong through south-eastern SA to south-western Victoria (IUCN 2023)*
+Last seen: *Pseudomys auritus were last seen in 1850 (1800-1899) in Coorong through south-eastern SA to south-western Victoria (IUCN 2023)*
 
 IUCN claim: *"Extinction likely due to a combination of predation by feral cats, land clearance and overgrazing by livestock."*
 
@@ -43,15 +43,15 @@ IUCN claim: *"Extinction likely due to a combination of predation by feral cats,
 
 ### Studies in support
 
-Long-eared mice were last confirmed 6 years after cats arrived (Current submission).
+No studies
 
 ### Studies not in support
 
-No studies
+Long-eared mice were last confirmed 65 years before, to 74 years after, cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a link between cats and the extinction of long-eared mice.
+There are no studies evidencing a link between cats and the extinction of long-eared mice. It cannot be verrified that extinction occurred after cat arrival.
 <br>
 <br>
 

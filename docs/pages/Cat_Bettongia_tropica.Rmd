@@ -37,7 +37,7 @@ IUCN claim: *"The main threats tot his species are: Predation by feral cats (mod
 
 ### Studies in support
 
-No studies
+Bettongs were last recorded at Goodooga, NSW, 34-54 years after cats arrived (Current submission).
 
 ### Studies not in support
 
@@ -45,17 +45,19 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking northern bettongs to cats.
+There are no studies evidencing a link between cats and the extinction of northern bettongs.
 <br>
 <br>
 
-![**Evidence linking *Bettongia tropica* to cats.** Systematic review of evidence for an association between *Bettongia tropica* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Bettongia tropica, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia tropica.png)
+![**Evidence linking *Bettongia tropica* to cats.** **A.** Systematic review of evidence for an association between *Bettongia tropica* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia tropica*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia tropica.png)
 
 ### References
 
 
 
 
+
+Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 

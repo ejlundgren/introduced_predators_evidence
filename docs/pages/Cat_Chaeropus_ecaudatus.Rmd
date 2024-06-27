@@ -43,19 +43,19 @@ IUCN claim: *"The extinction of the Pig-footed Bandicoot is attributed to predat
 
 ### Studies in support
 
-Southern pig-footed bandicoots were last confirmed in the NT, NSW and WA 2-26 years after cats arrived (Current submission).
+Southern pig-footed bandicoots were last confirmed at Alice Springs and Youndegin 16-36 and 43-63 after cats arrived, respectively (Current submission).
 
 ### Studies not in support
 
-No studies
+Southern pig-footed bandicoots were last confirmed in the Murray-Darling, Western Division of NSW (two records) and south-west Australia 29, 39, 55 years before, to 22, 55, and 24 years after, cats arrived, respectively (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a link between cats and the extinction of southern pig-footed bandicoots.
+There are no studies evidencing a link between cats and the extinction of southern pig-footed bandicoots. In three regions it cannot be verified that extirpation occurred after cat arrival.
 <br>
 <br>
 
-![**Evidence linking *Chaeropus ecaudatus* to cats.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008.](assets/figures/Main_Evidence_Cat_Chaeropus ecaudatus.png)
+![**Evidence linking *Chaeropus ecaudatus* to cats.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. Small points show unconfirmed records (excluded from analyses).](assets/figures/Main_Evidence_Cat_Chaeropus ecaudatus.png)
 
 ### References
 

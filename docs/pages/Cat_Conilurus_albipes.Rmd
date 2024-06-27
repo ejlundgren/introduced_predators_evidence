@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Conilurus albipes were last seen in 1862 in Victoria (IUCN 2023)*
+Last seen: *Conilurus albipes were last seen in 1861 (1860-1862) in Victoria (IUCN 2023)*
 
 IUCN claim: *"The primary cause of decline was probably predation by feral cats"*
 
@@ -43,15 +43,15 @@ IUCN claim: *"The primary cause of decline was probably predation by feral cats"
 
 ### Studies in support
 
-White-footed rabbit rats were last confirmed in Victoria 20 years after cats arrived (Current submission).
+No studies
 
 ### Studies not in support
 
-White-footed rabbit rats were last confirmed in NSW 29 years before cats arrived (Current submission).
+White-footed rabbit rats were last confirmed in NSW and Victoria 39 and 5 years before to 21 and 37 years after cats arrived, respectively (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a link between cats and the extinction of white-footed rabbit rats. In contradiction with the claim, the extinction record from NSW pre-dates the cat arrival record.
+There are no studies evidencing a link between cats and the extinction of white-footed rabbit rats. It cannot be verified that extinction occurred after cat arrival.
 <br>
 <br>
 

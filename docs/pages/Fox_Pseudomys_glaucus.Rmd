@@ -34,7 +34,7 @@ h1, h2, h3 {
 <center>
 IUCN status: **Extinct**
 
-Last seen: *Pseudomys glaucus were last seen in 1956 in ‘between Burren and Walgett’ in northern New South Wales (IUCN 2023)*
+Last seen: *Pseudomys glaucus were last seen in 1956 between Burren and Walgett, northern NSW (IUCN 2023)*
 
 IUCN claim: *"Extinction is considered to have been due to habitat clearance and predation by feral cats. Predation by red foxes may have contributed."*
 
@@ -43,15 +43,15 @@ IUCN claim: *"Extinction is considered to have been due to habitat clearance and
 
 ### Studies in support
 
-Blue-gray mice were last confirmed in NSW 49 years after foxes arrived (Current submission).
+Blue-gray mice were last confirmed and in north NSW 43.5-53.5 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
-Blue-gray mice were last confirmed in QLD 26 years before foxes arrived (Current submission).
+Blue-gray mice were last confirmed in the region of southeast QLD and northeast NSW 41.5 years before, to 48.5 years after, foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a link between foxes and the extinction of blue-gray mice. In contradiction with the claim, the extinction record from QLD pre-dates the fox arrival record.
+There are no studies evidencing a link between foxes and the extinction of blue-gray mice. In one region it cannot be verified that extirpation occurred after fox arrival.
 <br>
 <br>
 

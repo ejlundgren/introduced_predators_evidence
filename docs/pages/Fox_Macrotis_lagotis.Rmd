@@ -37,15 +37,15 @@ IUCN claim: *"The major threat to the Bilby is predation by introduced red foxes
 
 ### Studies in support
 
-About 70% of bilby extirpation records (36 populations) occurred 1-53 years after foxes arrived and the timing of fox establishment correlates with bilby extirpation across the country (Abbott 2001, Current submission). Fox probability of occurrence was a negative predictor of bilby occurrence, but model uncertainty was high (Southgate et al. 2007). Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011).
+About 70% of bilby extirpation records (36 populations) occurred 1-53 years after foxes arrived and the timing of fox establishment correlates with bilby extirpation across the country (Abbott 2001). Fox probability of occurrence was a negative predictor of bilby occurrence, but model uncertainty was high (Southgate et al. 2007). Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011).
 
 ### Studies not in support
 
-Sixteen bilby populations (~30% of records) were last recorded 0-13 years before foxes arrived (Abbott 2001, Current submission). Bilbies were last recorded in the Murray-Darling about 20 years before fox arrival (Copley 1999). In one study foxes were not among the predators of reintroduced bilbies (Lohr et al. 2021).
+Sixteen bilby populations (~30% of records) were last recorded 0-13 years before foxes arrived (Abbott 2001). Bilbies were last recorded in the Murray-Darling about 20 years before fox arrival (Copley 1999). In one study foxes were not among the predators of reintroduced bilbies (Lohr et al. 2021).
 
 ### Is the threat claim evidence-based?
 
-The evidence for a negative association between foxes and bilby populations is inconclusive due to high model uncertainty. A temporal correlation between extirpation and arrival does not prove causation since nearly a third pre-date fox arrival and confounding variables were not tested for.
+The evidence for a negative association between foxes and bilby populations is inconclusive due to high model uncertainty. A temporal correlation between extirpation and arrival does not prove causation particularly since nearly a third pre-date fox arrival and confounding variables were not tested for.
 <br>
 <br>
 
