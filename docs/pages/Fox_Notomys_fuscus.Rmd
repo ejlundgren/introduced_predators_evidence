@@ -41,7 +41,7 @@ Gordon et al. (2015) found a negative correlation betwen fox abundance and hoppi
 
 ### Studies not in support
 
-Hopping mice were last confirmed at Charlotte Waters, NT, 22.5-12.5 years before foxes arrived, and in the Western Division of NSW 13.5 years before, to 16.6 years after, foxes arrived (Current submission).
+Hopping mice were last confirmed at Charlotte Waters, NT, 20-15 years before foxes arrived, and in the Western Division of NSW 11 years before, to 14 years after, foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ Foxes have been documented among a range of ecological variables negatively corr
 <br>
 <br>
 
-![**Evidence linking *Notomys fuscus* to foxes.** **A.** Systematic review of evidence for an association between *Notomys fuscus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Notomys fuscus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Notomys fuscus.png)
+![**Evidence linking *Notomys fuscus* to foxes.** **A.** Systematic review of evidence for an association between *Notomys fuscus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Notomys fuscus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Notomys fuscus.png)
 
 ### References
 

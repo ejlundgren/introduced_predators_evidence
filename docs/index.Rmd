@@ -98,8 +98,6 @@ output: html_document
  
 [Plains rat (_Pseudomys australis_)](pages/Fox_Pseudomys_australis.html)
  
-[Gould's mouse (_Pseudomys fieldi_)](pages/Fox_Pseudomys_fieldi.html)
- 
 [Smoky mouse (_Pseudomys fumeus_)](pages/Fox_Pseudomys_fumeus.html)
  
 [Blue-gray mouse (_Pseudomys glaucus_)](pages/Fox_Pseudomys_glaucus.html)

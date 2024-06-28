@@ -37,11 +37,11 @@ IUCN claim: *"The major threat for L. conditor is predation by feral cats and 
 
 ### Studies in support
 
-Cats were among predators of reintroduced captive-bred stick-nest rats (Copley 1999). The rats were last confirmed in the Nullarbor 35-84 years (two records) after cats arrived (Current submission).
+Cats were among predators of reintroduced captive-bred stick-nest rats (Copley 1999). The rats were last confirmed in the Nullarbor (two records) 40-79 years after cats arrived (Current submission).
 
 ### Studies not in support
 
-Stick-nest rats were last confirmed in the Murray-Darling, Flinders Ranges and the Western Division of NSW 29, 25 and 28 years before, to 22, 34 and 32 years after, cats arrived, respectively (Current submission).
+Stick-nest rats were last confirmed in the Murray-Darling, Flinders Ranges and the Western Division of NSW 24, 20 and 23 years before, to 17, 29 and 27 years after, cats arrived, respectively (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ There are no studies linking cats to stick-nest rat population trends. In three 
 <br>
 <br>
 
-![**Evidence linking *Leporillus conditor* to cats.** **A.** Systematic review of evidence for an association between *Leporillus conditor* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Leporillus conditor*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Leporillus conditor.png)
+![**Evidence linking *Leporillus conditor* to cats.** **A.** Systematic review of evidence for an association between *Leporillus conditor* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Leporillus conditor*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Leporillus conditor.png)
 
 ### References
 

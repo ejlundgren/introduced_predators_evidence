@@ -37,19 +37,19 @@ IUCN claim: *"The reasons for past declines of the Golden Bandicoot are predatio
 
 ### Studies in support
 
-No studies
+Bandicoots were last confirmed in the Nullarbor and Canning Stock Route 2-17 and 0-6 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
-Foxes were not among predators of reintroduced bandicoots (Christensen & Burrows 1995; Blythman et al. 2020). Bandicoots were last confirmed in western NSW (two records) 55.5-17.5 years before foxes arrived; and in the Nullarbor and Canning Stock Route 0.5 and 2.5 years before, to 19.5 and 8.5 years after, foxes arrived, respectively (Current submission).
+Foxes were not among predators of reintroduced bandicoots (Christensen & Burrows 1995; Blythman et al. 2020). Bandicoots were last confirmed in western NSW (two records) 53-20 years before foxes arrived, respectively (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking foxes to golden bandicoots. Extirpation records predate fox arrival records in one region, and in two other regions it cannot be verified that extirpation occurred after fox arrival.
+There are no studies linking foxes to golden bandicoots. Extirpation records predate fox arrival records in one region.
 <br>
 <br>
 
-![**Evidence linking *Isoodon auratus* to foxes.** **A.** Systematic review of evidence for an association between *Isoodon auratus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Isoodon auratus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Isoodon auratus.png)
+![**Evidence linking *Isoodon auratus* to foxes.** **A.** Systematic review of evidence for an association between *Isoodon auratus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Isoodon auratus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Isoodon auratus.png)
 
 ### References
 

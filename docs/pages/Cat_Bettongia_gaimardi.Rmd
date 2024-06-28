@@ -37,7 +37,7 @@ IUCN claim: *"The Eastern Bettong is potentially threatened by predation from th
 
 ### Studies in support
 
-Bettongs declined on a Tasmanian cattle station after cats were detected (Fancourt 2014). Bettongs were last confirmed in Victoria and NSW 5-54 years and 20-100 years after cats arrived, respectively (Current submission).
+Bettongs declined on a Tasmanian cattle station after cats were detected (Fancourt 2014). Bettongs were last confirmed in Victoria and NSW 10-49 years and 25-95 years after cats arrived, respectively (Current submission).
 
 ### Studies not in support
 
@@ -45,11 +45,11 @@ Cats and bettongs have co-occurred in Tasmania since 1820 (Abbott 2008). Cats we
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between  cats and eastern bettong populations. A single observation is an anecdote. The two species co-occurred for up to a century on the mainland, and continue to co-occur in Tasmania after more than two centuries.
+There are no studies evidencing a negative association between  cats and eastern bettong populations. A single observation is an anecdote. The two species continue to co-occur in Tasmania after more than two centuries.
 <br>
 <br>
 
-![**Evidence linking *Bettongia gaimardi* to cats.** **A.** Systematic review of evidence for an association between *Bettongia gaimardi* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia gaimardi*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia gaimardi.png)
+![**Evidence linking *Bettongia gaimardi* to cats.** **A.** Systematic review of evidence for an association between *Bettongia gaimardi* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia gaimardi*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia gaimardi.png)
 
 ### References
 

@@ -37,7 +37,7 @@ IUCN claim: *"Eastern Barred Bandicoots probably disappeared from the mainland d
 
 ### Studies in support
 
-Bandicoot abundance was positively correlated with a measure of predator control activities but not with fox abundance (Cook et al. 2010). Foxes were among predators of predator-inexperienced reintroduced bandicoots (Lenghaus et al. 1990; Winnard & Coulson 2008). Bandicoots were last confirmed in Hamilton, Victoria, 109-119.5 years after foxes arrived (Current submission).
+Bandicoot abundance was positively correlated with a measure of predator control activities but not with fox abundance (Cook et al. 2010). Foxes were among predators of predator-inexperienced reintroduced bandicoots (Lenghaus et al. 1990; Winnard & Coulson 2008). Bandicoots were last confirmed in Hamilton, Victoria, 112-117 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
@@ -49,7 +49,7 @@ There are no studies evidencing a negative association between foxes and eastern
 <br>
 <br>
 
-![**Evidence linking *Perameles gunnii* to foxes.** **A.** Systematic review of evidence for an association between *Perameles gunnii* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Perameles gunnii*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Perameles gunnii.png)
+![**Evidence linking *Perameles gunnii* to foxes.** **A.** Systematic review of evidence for an association between *Perameles gunnii* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Perameles gunnii*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Perameles gunnii.png)
 
 ### References
 

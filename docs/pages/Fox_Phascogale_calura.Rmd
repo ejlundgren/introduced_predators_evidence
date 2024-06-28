@@ -37,19 +37,19 @@ IUCN claim: *"Predation by feral cats is considered to be a severe threat over t
 
 ### Studies in support
 
-Friend et al. (1996) reported a positive correlation between poison-baiting and phascogale abundance.
+Friend et al. (1996) reported a positive correlation between poison-baiting and phascogale abundance. Phascogales were last confirmed in the in the Canning Stock Route 0-6 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
-Phascogales were last confirmed in the Western Division of NSW 55.5-25.5 years before foxes arrived, and in the Canning Stock Route 2.5 years before, to 8.5 years after, foxes arrived (Current submission).
+Phascogales were last confirmed in the Western Division of NSW 53-28 years before foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between foxes and red-tailed phascogale populations. Poison-baiting is not a reliable proxy for fox abundance. In one region the extirpation record pre-dates the fox arrival record, and in the other it cannot be verified that extirpation occurred after fox arrival.
+There are no studies evidencing a negative association between foxes and red-tailed phascogale populations. Poison-baiting is not a reliable proxy for fox abundance. In one region the extirpation record pre-dates the fox arrival record.
 <br>
 <br>
 
-![**Evidence linking *Phascogale calura* to foxes.** **A.** Systematic review of evidence for an association between *Phascogale calura* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Phascogale calura*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Phascogale calura.png)
+![**Evidence linking *Phascogale calura* to foxes.** **A.** Systematic review of evidence for an association between *Phascogale calura* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Phascogale calura*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Phascogale calura.png)
 
 ### References
 

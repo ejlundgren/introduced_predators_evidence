@@ -37,19 +37,19 @@ IUCN claim: *"On the mainland, predation by introduced feral Cat and Red Foxes w
 
 ### Studies in support
 
-The tracks of a fox were detected for the first time around the time signs of a local wallaby population disappeared (Lundie-Jenkins et al. 1993). Hare-wallaby was found in a fox scat (Lundie-Jenkins et al. 1993). Hare-wallabies were last confirmed in the Tanami Desert 58.5-73.5 years after foxes arrived (Current submission).
+The tracks of a fox were detected for the first time around the time signs of a local wallaby population disappeared (Lundie-Jenkins et al. 1993). Hare-wallaby was found in a fox scat (Lundie-Jenkins et al. 1993). Hare-wallabies were last confirmed in the Tanami Desert and Canning Stock Route 61-71 and 0-6 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
-Foxes were not among predators of reintroduced hare-wallabies (Gibson et al. 1994). Hare-wallabies were last confirmed in southwest Australia 41.5-11.5 years before foxes arrived, and in the Canning Stock Route 2.5 years before, to 8.5 years after, foxes arrived (Current submission).
+Foxes were not among predators of reintroduced hare-wallabies (Gibson et al. 1994). Hare-wallabies were last confirmed in southwest Australia 39-14 years before foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between foxes and rufous hare-wallaby population that has been tested statistically. In one region wallaby extirpation records pre-date fox arrival records, and in another it cannot be verified that extirpation occurred after fox arrival.
+There are no studies evidencing a negative association between foxes and rufous hare-wallaby population that has been tested statistically. In one region wallaby extirpation records pre-date fox arrival records.
 <br>
 <br>
 
-![**Evidence linking *Lagorchestes hirsutus* to foxes.** **A.** Systematic review of evidence for an association between *Lagorchestes hirsutus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Lagorchestes hirsutus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Lagorchestes hirsutus.png)
+![**Evidence linking *Lagorchestes hirsutus* to foxes.** **A.** Systematic review of evidence for an association between *Lagorchestes hirsutus* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Lagorchestes hirsutus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Lagorchestes hirsutus.png)
 
 ### References
 

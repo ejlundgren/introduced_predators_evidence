@@ -37,11 +37,11 @@ IUCN claim: *"The introduction of the predatory Red Fox and feral cats has had a
 
 ### Studies in support
 
-Cats were among predators of reintroduced numbats (Friend & Thomas 1994). Numbats were last confirmed in western NSW, northwest SA, the Goldfields and central deserts 15-65, 35-84, 35-55 and 55-94 years after cats arrived, respectively; and they were last confirmed in the Wheatbelt (two records) 75-144 years after cats arrived (Current submission).
+Cats were among predators of reintroduced numbats (Friend & Thomas 1994). Numbats were last confirmed in western NSW, northwest SA, the Goldfields and central deserts 20-60, 30-79, 40-50 and 60-89 years after cats arrived, respectively; and they were last confirmed in the Wheatbelt (two records) 80-139 years after cats arrived (Current submission).
 
 ### Studies not in support
 
-Numbats were last confirmed in Adelaide 9 years before, to 11 years after, cats arrived (Current submission).
+Numbats were last confirmed in Adelaide 4 years before, to 6 years after, cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ There are no studies linking cats to numbat population trends. In one region it 
 <br>
 <br>
 
-![**Evidence linking *Myrmecobius fasciatus* to cats.** **A.** Systematic review of evidence for an association between *Myrmecobius fasciatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Myrmecobius fasciatus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Myrmecobius fasciatus.png)
+![**Evidence linking *Myrmecobius fasciatus* to cats.** **A.** Systematic review of evidence for an association between *Myrmecobius fasciatus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Myrmecobius fasciatus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Myrmecobius fasciatus.png)
 
 ### References
 

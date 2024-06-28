@@ -37,7 +37,7 @@ IUCN claim: *"Threats are poorly understood but include predation by and competi
 
 ### Studies in support
 
-Mulgara were found in cat’s diet (Mahon 1999; Paltridge 2002; Vernes et al. 2021b). Mulgara were last confirmed in the Western Division of NSW and the Nullarbor 14-74 and 33-63 after cats arrived, respectively  (Current submission).
+Mulgara were found in cat’s diet (Mahon 1999; Paltridge 2002; Vernes et al. 2021b). Mulgara were last confirmed in the Western Division of NSW and the Nullarbor 19-69 and 38-58 after cats arrived, respectively  (Current submission).
 
 ### Studies not in support
 
@@ -49,7 +49,7 @@ There are no studies linking cats to mulgara population trends.
 <br>
 <br>
 
-![**Evidence linking *Dasycercus cristicauda* to cats.** **A.** Systematic review of evidence for an association between *Dasycercus cristicauda* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Dasycercus cristicauda*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Dasycercus cristicauda.png)
+![**Evidence linking *Dasycercus cristicauda* to cats.** **A.** Systematic review of evidence for an association between *Dasycercus cristicauda* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Dasycercus cristicauda*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Dasycercus cristicauda.png)
 
 ### References
 

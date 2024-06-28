@@ -37,11 +37,11 @@ IUCN claim: *"The current major threats to the natural subpopulations of the spe
 
 ### Studies in support
 
-Bandicoots were reintroduced successfully into a fenced reserve which excluded foxes (Richards & Short 2003). Richards (2012) argued that the incursion of foxes into a fenced reserve led to population declines, but no data was provided. Bandicoots were last confirmed in the Nullarbor, Rawlinna and northwest SA 15.5-35.5, 11.5-21.5 and 8.5-23.5 years after foxes arrived, respectively (Current submission).
+Bandicoots were reintroduced successfully into a fenced reserve which excluded foxes (Richards & Short 2003). Richards (2012) argued that the incursion of foxes into a fenced reserve led to population declines, but no data was provided. Bandicoots were last confirmed in the Nullarbor, Rawlinna, and northwest SA 18-33, 14-19, and 11-21 years after foxes arrived, respectively (Current submission).
 
 ### Studies not in support
 
-Bandicoots were last confirmed in the Western Division of NSW and southwest Australia 55.5-25.5 and 31.5-1.5 years before foxes arrived, respectively (Current submission).
+Bandicoots were last confirmed in the Western Division of NSW and southwest Australia 53-28 and 29-4 years before foxes arrived, respectively (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ There are no studies evidencing a negative association between foxes and western
 <br>
 <br>
 
-![**Evidence linking *Perameles bougainville* to foxes.** **A.** Systematic review of evidence for an association between *Perameles bougainville* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Perameles bougainville*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Perameles bougainville.png)
+![**Evidence linking *Perameles bougainville* to foxes.** **A.** Systematic review of evidence for an association between *Perameles bougainville* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Perameles bougainville*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Perameles bougainville.png)
 
 ### References
 

@@ -37,11 +37,11 @@ IUCN claim: *"Predation by feral cats is considered to be a severe threat over t
 
 ### Studies in support
 
-Cats hunt phascogales (Short & Hide 2011). Phascogales were last confirmed at the Canning Stock Route 35-56 years after cats arrived (Current submission).
+Cats hunt phascogales (Short & Hide 2011). Phascogales were last confirmed at the Canning Stock Route 40-51 years after cats arrived (Current submission).
 
 ### Studies not in support
 
-Phascogales were last confirmed in the Western Division of NSW 28 years before, to 32 years after, cats arrived (Current submission).
+Phascogales were last confirmed in the Western Division of NSW 23 years before, to 27 years after, cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ There are no studies linking cats to red-tailed phascogale population trends. In
 <br>
 <br>
 
-![**Evidence linking *Phascogale calura* to cats.** **A.** Systematic review of evidence for an association between *Phascogale calura* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Phascogale calura*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Phascogale calura.png)
+![**Evidence linking *Phascogale calura* to cats.** **A.** Systematic review of evidence for an association between *Phascogale calura* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Phascogale calura*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Phascogale calura.png)
 
 ### References
 

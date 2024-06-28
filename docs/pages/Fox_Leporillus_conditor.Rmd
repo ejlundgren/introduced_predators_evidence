@@ -37,11 +37,11 @@ IUCN claim: *"The major threat for L. conditor is predation by feral cats and 
 
 ### Studies in support
 
-Foxes were among predators of reintroduced captive-bred stick-nest rats (Copley 1999). Stick-nest rats were last confirmed in the Nullarbor (two records) 7.5-46.5 years after foxes arrived (Current submission).
+Foxes were among predators of reintroduced captive-bred stick-nest rats (Copley 1999). Stick-nest rats were last confirmed in the Nullarbor (two records) 10-44 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
-Stick-nest rats were last confirmed in the Murray-Darling, Flinders Ranges and the Western Division of NSW 51.5-20.5, 52.5-28.5 and 55.5-25.5 years before foxes arrived, respectively (Current submission).
+Stick-nest rats were last confirmed in the Murray-Darling, Flinders Ranges, and the Western Division of NSW 49-23, 50-31, and 53-28 years before foxes arrived, respectively (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ There are no studies linking foxes to stick-nest rat population trends. Most ext
 <br>
 <br>
 
-![**Evidence linking *Leporillus conditor* to foxes.** **A.** Systematic review of evidence for an association between *Leporillus conditor* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Leporillus conditor*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Leporillus conditor.png)
+![**Evidence linking *Leporillus conditor* to foxes.** **A.** Systematic review of evidence for an association between *Leporillus conditor* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Leporillus conditor*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Leporillus conditor.png)
 
 ### References
 

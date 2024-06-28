@@ -37,11 +37,11 @@ IUCN claim: *"On the mainland, predation by introduced feral Cat and Red Foxes w
 
 ### Studies in support
 
-Cats were predators, or the main predators, of reintroduced, predator-inexperienced, hare-wallabies in two locations (Gibson et al. 1994; Hardman & Moro 2006; Hardman et al. 2016). Cats can hunt locally-born wallabies (Paltridge et al. 1997). Hare-wallabies were last confirmed in southwest Australia, the Canning Stock Route and the Tanami Desert 1-71, 35-56 and 96-126 years after cats arrived, respectively (Current submission).
+Cats were predators, or the main predators, of reintroduced, predator-inexperienced, hare-wallabies in two locations (Gibson et al. 1994; Hardman & Moro 2006; Hardman et al. 2016). Cats can hunt locally-born wallabies (Paltridge et al. 1997). Hare-wallabies were last confirmed in southwest Australia, the Canning Stock Route and the Tanami Desert 6-66, 40-51 and 101-121 years after cats arrived, respectively (Current submission).
 
 ### Studies not in support
 
-Lundie-Jenkins et al. (1993) found no spatial correlation one year, and a positive correlation another year, between cats and hare-wallabies. Cats breached the enclosures of two semi-captive hare-wallaby colonies, none were hunted in 5-8 weeks (from Moseby et al. 2015). Hare-wallabies were last confirmed in one WA record 35 years before, to 35 years after, cats arrived (Current submission).
+Lundie-Jenkins et al. (1993) found no spatial correlation one year, and a positive correlation another year, between cats and hare-wallabies. Cats breached the enclosures of two semi-captive hare-wallaby colonies, none were hunted in 5-8 weeks (from Moseby et al. 2015). Hare-wallabies were last confirmed in one WA record 30 years before, to 30 years after, cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ There are no studies evidencing a negative association between cats and rufous h
 <br>
 <br>
 
-![**Evidence linking *Lagorchestes hirsutus* to cats.** **A.** Systematic review of evidence for an association between *Lagorchestes hirsutus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Lagorchestes hirsutus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Lagorchestes hirsutus.png)
+![**Evidence linking *Lagorchestes hirsutus* to cats.** **A.** Systematic review of evidence for an association between *Lagorchestes hirsutus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Lagorchestes hirsutus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Lagorchestes hirsutus.png)
 
 ### References
 

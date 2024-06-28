@@ -41,7 +41,7 @@ Foxes hunted 3 of 30 reintroduced, predator-inexperienced wallabies (Hayward et 
 
 ### Studies not in support
 
-Wallabies were last confirmed in the Western Division of NSW 12.5 years before, to 17.5 years after, foxes arrived (Current submission).
+Wallabies were last confirmed in the Western Division of NSW 10 years before, to 15 years after, foxes arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ There are no studies evidencing a link between foxes and bridled nail-tail walla
 <br>
 <br>
 
-![**Evidence linking *Onychogalea fraenata* to foxes.** **A.** Systematic review of evidence for an association between *Onychogalea fraenata* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Onychogalea fraenata*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Onychogalea fraenata.png)
+![**Evidence linking *Onychogalea fraenata* to foxes.** **A.** Systematic review of evidence for an association between *Onychogalea fraenata* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Onychogalea fraenata*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Onychogalea fraenata.png)
 
 ### References
 

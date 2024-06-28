@@ -37,11 +37,11 @@ IUCN claim: *"The current major threats to the natural subpopulations of the spe
 
 ### Studies in support
 
-Short (2016) described that the incursion of cats into a fenced reserve led to the loss of the entire group of semi-captive, predator-inexperienced bandicoots, but no data was provided. Richards (2012) described that the incursion of cats into a fenced reserve led to population decline, which recovered once cats were killed, but no data was provided. Bandicoots were last confirmed in the Nullarbor, southwest Australia, Rawlinna and northwest SA 43-73, 11-81, 34-54 and 36-66 years after cats arrived, respectively (Current submission).
+Short (2016) described that the incursion of cats into a fenced reserve led to the loss of the entire group of semi-captive, predator-inexperienced bandicoots, but no data was provided. Richards (2012) described that the incursion of cats into a fenced reserve led to population decline, which recovered once cats were killed, but no data was provided. Bandicoots were last confirmed in the Nullarbor, southwest Australia, Rawlinna and northwest SA 48-68, 16-76, 39-49 and 41-61 years after cats arrived, respectively (Current submission).
 
 ### Studies not in support
 
-Bandicoots were reintroduced successfully into a fenced reserve with cats (defined as low density) and no evidence of predation was recorded (Richards & Short 2003). Bandicoots were last confirmed in the Western Division of NSW 28 years before, to 32 years after, cats arrived (Current submission).
+Bandicoots were reintroduced successfully into a fenced reserve with cats (defined as low density) and no evidence of predation was recorded (Richards & Short 2003). Bandicoots were last confirmed in the Western Division of NSW 23 years before, to 27 years after, cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ There are no studies evidencing a negative association between cats and western 
 <br>
 <br>
 
-![**Evidence linking *Perameles bougainville* to cats.** **A.** Systematic review of evidence for an association between *Perameles bougainville* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Perameles bougainville*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Perameles bougainville.png)
+![**Evidence linking *Perameles bougainville* to cats.** **A.** Systematic review of evidence for an association between *Perameles bougainville* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Perameles bougainville*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Perameles bougainville.png)
 
 ### References
 

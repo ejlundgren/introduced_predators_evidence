@@ -37,11 +37,11 @@ IUCN claim: *"The current major threats to the natural populations of the specie
 
 ### Studies in support
 
-The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). A group of 66 predator-inexperienced bettongs were eliminated from a section of a fenced reserve shortly after a fox breached the fence (Moseby et al. 2019). Foxes were the main predators of predator-inexperienced reintroduced bettongs (Short & Turner 2000). Bettongs were last confirmed in southwest WA and the Nullarbor 4.5-19.5 and 5.5-25.5 years after foxes arrived (Current submission).
+The number of bounties paid for Bettongia spp. declined around the same time that fox bounties increased in New South Wales, but it is not known whether bounties reflect abundance and which species were hunted (Short 1998). A group of 66 predator-inexperienced bettongs were eliminated from a section of a fenced reserve shortly after a fox breached the fence (Moseby et al. 2019). Foxes were the main predators of predator-inexperienced reintroduced bettongs (Short & Turner 2000). Bettongs were last confirmed in southwest WA and the Nullarbor 7-17 and 8-23 years after foxes arrived (Current submission).
 
 ### Studies not in support
 
-Foxes were not listed among predators of reintroduced bettongs (Christensen & Burrows 1995). Bettongs were last confirmed in Victoria, Charleville and the Murray-Darling 44.5-4.5, 27.5-17.5 and 51.5-20.5 years before foxes arrived, respectively; and in NSW (two records) and southwest WA 45.5 and 7.5 years before, to 9.5 and 16.5 years after, foxes arrived, respectively (Current submission).
+Foxes were not listed among predators of reintroduced bettongs (Christensen & Burrows 1995). Bettongs were last confirmed in Victoria, Charleville and the Murray-Darling 42-7, 25-20 and 49-23 years before foxes arrived, respectively; and in NSW (two records) and southwest WA 43 and 5 years before, to 7 and 14 years after, foxes arrived, respectively (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ There are no studies evidencing a negative association between foxes and burrowi
 <br>
 <br>
 
-![**Evidence linking *Bettongia lesueur* to foxes.** **A.** Systematic review of evidence for an association between *Bettongia lesueur* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Bettongia lesueur*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show record uncertainty range. Predator arrival records were digitized from Fairfax 2019. Small points show unconfirmed records (excluded from analyses). See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Bettongia lesueur.png)
+![**Evidence linking *Bettongia lesueur* to foxes.** **A.** Systematic review of evidence for an association between *Bettongia lesueur* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Bettongia lesueur*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. Small points show unconfirmed records (excluded from analyses). See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Bettongia lesueur.png)
 
 ### References
 

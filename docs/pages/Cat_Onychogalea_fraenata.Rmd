@@ -37,7 +37,7 @@ IUCN claim: *"The species is threatened by introduced predators, the Red Fox and
 
 ### Studies in support
 
-Cats hunt wallabies (Horsup & Evans 1993; Fisher 1999; Fisher et al. 2001; Augusteyn et al. 2022). Wallabies were last confirmed in the Western Division of NSW 15-75 years after cats arrived (Current submission).
+Cats hunt wallabies (Horsup & Evans 1993; Fisher 1999; Fisher et al. 2001; Augusteyn et al. 2022). Wallabies were last confirmed in the Western Division of NSW 20-70 years after cats arrived (Current submission).
 
 ### Studies not in support
 
@@ -49,7 +49,7 @@ There are no studies linking cats to nail-tail wallaby population trends.
 <br>
 <br>
 
-![**Evidence linking *Onychogalea fraenata* to cats.** **A.** Systematic review of evidence for an association between *Onychogalea fraenata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Onychogalea fraenata*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Onychogalea fraenata.png)
+![**Evidence linking *Onychogalea fraenata* to cats.** **A.** Systematic review of evidence for an association between *Onychogalea fraenata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Onychogalea fraenata*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Onychogalea fraenata.png)
 
 ### References
 

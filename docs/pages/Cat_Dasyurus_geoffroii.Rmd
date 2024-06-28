@@ -37,11 +37,11 @@ IUCN claim: *"Predation by introduced Red Fox and feral Cat are the major threat
 
 ### Studies in support
 
-Cats hunted quolls translocated to the Flinders Ranges, SA (Moseby et al. 2015; Moseby et al. 2021a; Moseby et al. 2021b). Cats also hunt locally-born quolls (Glen et al. 2010). Detection rate of quolls was higher after poison-baiting targeting cats, in four monitoring periods, but measures of cat abundance differed by method and association between cat and quoll abundance was unclear (Comer et al. 2020). Quoll abundance increased while cat abundance declined, but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017). Quolls were last confirmed at Port Lincoln, Flinders Ranges, Nullarbor and the Canning Stock Route 55-75, 5-65, 43-73 and 35-56 years after cats arrived, respectively; and in Vaucluse and Barrington Tops, NSW, 138-158 and 154-174 years after cats arrived, respectively (Current submission).
+Cats hunted quolls translocated to the Flinders Ranges, SA (Moseby et al. 2015; Moseby et al. 2021a; Moseby et al. 2021b). Cats also hunt locally-born quolls (Glen et al. 2010). Detection rate of quolls was higher after poison-baiting targeting cats, in four monitoring periods, but measures of cat abundance differed by method and association between cat and quoll abundance was unclear (Comer et al. 2020). Quoll abundance increased while cat abundance declined, but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017). Quolls were last confirmed at Port Lincoln, Flinders Ranges, Nullarbor and the Canning Stock Route 60-70, 10-60, 48-68 and 40-51 years after cats arrived, respectively; and in Vaucluse and Barrington Tops, NSW, 138-158 and 154-174 years after cats arrived, respectively (Current submission).
 
 ### Studies not in support
 
-Intensive poison-baiting was associated with reduced cat abundance and reduced quoll abundance over time (Moseby et al. 2021a). Quolls were last confirmed in western NSW (two records) 28 years before, to 35 years after, cats arrived (Current submission).
+Intensive poison-baiting was associated with reduced cat abundance and reduced quoll abundance over time (Moseby et al. 2021a). Quolls were last confirmed in western NSW (two records) 23 years before, to 30 years after, cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ There are no studies evidencing a negative association between cats and western 
 <br>
 <br>
 
-![**Evidence linking *Dasyurus geoffroii* to cats.** **A.** Systematic review of evidence for an association between *Dasyurus geoffroii* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Dasyurus geoffroii*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show record uncertainty range. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Dasyurus geoffroii.png)
+![**Evidence linking *Dasyurus geoffroii* to cats.** **A.** Systematic review of evidence for an association between *Dasyurus geoffroii* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Dasyurus geoffroii*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Dasyurus geoffroii.png)
 
 ### References
 
