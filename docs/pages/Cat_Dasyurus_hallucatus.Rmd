@@ -37,15 +37,15 @@ IUCN claim: *"Predation by feral cats may also be a threat."*
 
 ### Studies in support
 
-Stobo-Wilson et al. (2020a) reported lower quoll occupancy correlated with higher cat occupancy across Melville Island and north of Northern Territory mainland. Palmer et al. (2021) reported a positive association between poison-baiting targeting cats and quoll abundance, but no effect of poison-baiting on cats was found, nor direct association between cats and quolls tested. Cats hunt quolls (Pollock 1999; Oakwood 2000; Peacock & Abbott 2014; Stokeld et al. 2018; Cowan et al. 2020).
+Stobo-Wilson et al. (2020) reported lower quoll occupancy correlated with higher cat occupancy across Melville Island and north of Northern Territory mainland. Palmer et al. (2021) reported a positive association between poison-baiting targeting cats and quoll abundance, but no effect of poison-baiting on cats was found, nor direct association between cats and quolls tested. Cats hunt quolls (Pollock 1999; Oakwood 2000; Peacock & Abbott 2014; Stokeld et al. 2018; Cowan et al. 2020).
 
 ### Studies not in support
 
-No studies
+Palmer et al. (2021) reported a positive temporal correlation between northern quoll detections and poison baiting, but no correlation with cats. Analysing relationships between cats, quolls and vegetation in the tropical savanna, Trewella et al. (2023) concluded that the two species can co-occurr in structurally complex habitat. Woinarski et al. (2011) documented the presence and absence of quolls and cats across the Sir Edward Pellew island group: the quolls were present on one of the islands on which cats occurred.
 
 ### Is the threat claim evidence-based?
 
-Cats are among a range of ecological variables negatively correlated with quoll abundance, but causality cannot be inferred due to confounding variables.
+Some studies suggest that cats are among a range of ecological variables negatively correlated with quoll abundance, while other studies suggest that the two species can co-occur.
 <br>
 <br>
 
@@ -72,4 +72,8 @@ Pollock, A.B., 1999. Notes on status, distribution and diet of northern quoll Da
 Stobo-Wilson, A.M., Stokeld, D., Einoder, L.D., Davies, H.F., Fisher, A., Hill, B.M., Mahney, T., Murphy, B.P., Scroggie, M.P., Stevens, A. and Woinarski, J.C.Z., 2020. Bottom-up and top-down processes influence contemporary patterns of mammal species richness in Australia's monsoonal tropics. Biological Conservation, 247, p.108638.
 
 Stokeld D, Fisher A, Gentles T, Hill B, Triggs B, Woinarski JCZ, Gillespie GR. 2018. What do predator diets tell us about mammal declines in Kakadu National Park? Wildlife Research 45:92-101.
+
+Trewella, G.J., Cremona, T., Nevard, H. and Murphy, B.P., 2023. Habitat structure facilitates coexistence of native and invasive mesopredators in an Australian tropical savanna. Wildlife Research, 50(12), pp.1058-1070.
+
+Woinarski, J.C.Z., Ward, S., Mahney, T., Bradley, J., Brennan, K., Ziembicki, M. and Fisher, A., 2011. The mammal fauna of the Sir Edward Pellew island group, Northern Territory, Australia: refuge and death-trap. Wildlife Research, 38(4), pp.307-322.
 

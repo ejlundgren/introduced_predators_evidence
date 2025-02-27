@@ -37,7 +37,7 @@ IUCN claim: *"Predation by introduced feral cats and red foxes are the most like
 
 ### Studies in support
 
-There is evidence of cat predation of eastern quolls (Peacock & Abbott 2014). Quolls were last confirmed in NSW (two records) 143-169 years after cats arrived (Current submission).
+Hollings et al. (2014) shared data suggesting that eastern quolls declined during the same period that cats increased. There is evidence of cat predation of eastern quolls (Peacock & Abbott 2014). Quolls were last confirmed in NSW (two records) 143-169 years after cats arrived (Current submission).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ Fancourt et al. (2015) found no evidence of a negative correlation between quoll
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to tiger quoll population trends. The two species co-occurred on the mainland for over a century and continue to co-occur in Tasmania after more than two centuries.
+A negative correlation between cats and eastern quolls was suggested from one study, but causality cannot be inferred since the association might be confounded. The two species co-occurred on the mainland for over a century and continue to co-occur in Tasmania after more than two centuries.
 <br>
 <br>
 
@@ -60,6 +60,8 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 Fancourt, B.A., Hawkins, C.E., Cameron, E.Z., Jones, M.E. and Nicol, S.C., 2015. Devil declines and catastrophic cascades: is mesopredator release of feral cats inhibiting recovery of the eastern quoll?. PLoS One, 10(3), p.e0119303.
+
+Hollings, T., Jones, M., Mooney, N. and Mccallum, H., 2014. Trophic cascades following the disease‐induced decline of an apex predator, the Tasmanian devil. Conservation Biology, 28(1), pp.63-75.
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

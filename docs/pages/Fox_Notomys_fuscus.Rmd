@@ -37,7 +37,7 @@ IUCN claim: *"Predation by feral Domestic Cats (Felis catus; moderate to severe,
 
 ### Studies in support
 
-Gordon et al. (2015) found a negative correlation betwen fox abundance and hopping mouse abundance. Similarly Letnic et al. (2009) found that negative correlation with fox abundance was the third most important predictor variable in a model (after positive correlation with dingoes and rain). Letnic & Koch (2010) reported higher fox abundance and lower hopping mouse abundance outside compared to inside the dingo barrier fence, but direct association not shown. Hopping mice have also been identified in the foxes' diet (Feit et al. 2019), and more often than in the dingo's diet (Letnic & Dworjanyn 2011).
+Gordon et al. (2015) and Pedler et al. (2016) found negative correlations betwen fox abundance and hopping mouse abundance. Similarly, Letnic et al. (2009) found that negative correlation with fox abundance was the third most important predictor variable in a model (after positive correlation with dingoes and rain). Letnic & Koch (2010) reported higher fox abundance and lower hopping mouse abundance outside compared to inside the dingo barrier fence, but direct association not shown. Hopping mice have also been identified in the foxes' diet (Feit et al. 2019), and more often than in the dingo's diet (Letnic & Dworjanyn 2011).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ Hopping mice were last confirmed at Charlotte Waters, NT, 20-15 years before fox
 
 ### Is the threat claim evidence-based?
 
-Foxes have been documented among a range of ecological variables negatively correlated with dusky hopping mouse abundance in three studies. Causality for decline cannot be inferred due to confounding variables. In one region extirpation records pre-date the fox arrival record, and for the other it cannot be verified that extirpation occured after foxes arrived.
+Foxes have been documented among a range of ecological variables negatively correlated with dusky hopping mouse abundance in four studies. Causality for decline is uncertain due to potential confounding variables. In one region extirpation records pre-date the fox arrival record, and for the other it cannot be verified that extirpation occured after foxes arrived.
 <br>
 <br>
 
@@ -70,4 +70,6 @@ Letnic, M. and Dworjanyn, S.A., 2011. Does a top predator reduce the predatory i
 Letnic, M. and Koch, F., 2010. Are dingoes a trophic regulator in arid Australia? A comparison of mammal communities on either side of the dingo fence. Austral Ecology, 35(2), pp.167-175.
 
 Letnic, M., Crowther, M.S. and Koch, F., 2009. Does a top‐predator provide an endangered rodent with refuge from an invasive mesopredator?. Animal Conservation, 12(4), pp.302-312.
+
+Pedler, R.D., Brandle, R., Read, J.L., Southgate, R., Bird, P. and Moseby, K.E., 2016. Rabbit biocontrol and landscape‐scale recovery of threatened desert mammals. Conservation Biology, 30(4), pp.774-782.
 

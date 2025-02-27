@@ -37,7 +37,7 @@ IUCN claim: *"Recent research has demonstrated marked detrimental impact of intr
 
 ### Studies in support
 
-Cats hunt rats (Pavey et al. 2008; Pavey et al. 2014). Read & Cunningham (2010) described an occasion where more plains rats were captured inside than outside a fenced reserve where carnivores were excluded (no data or analysis was provided). Rats were last confirmed at Koonchera Dune, SA, 51-61 years after cats arrived (Current submission).
+Plains rats were more common inside a predator-proof fenced area compared to the cattle station outside (Read & Cunningham 2010; Moseby et al. 2020). Cats hunt rats (Pavey et al. 2008; Pavey et al. 2014). Rats were last confirmed at Koonchera Dune, SA, 51-61 years after cats arrived (Current submission).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ Rats were last confirmed in NSW 40-10 years before cats arrived (Current submiss
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between cats and plains rats that report data. In one region the extirpation record pre-dates the cat arrival record.
+The higher plains rat abundance outside a predator-proof fence is striking. However, certainty is low because data comes from a single study and the area outside is a cattle station. In one region the extirpation record pre-dates the cat arrival record.
 <br>
 <br>
 
@@ -60,6 +60,8 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Moseby, K.E., McGregor, H., Hill, B.M. and Read, J.L., 2020. Exploring the internal and external wildlife gradients created by conservation fences. Conservation Biology, 34(1), pp.220-231.
 
 Pavey, C.R., Cole, J.R., McDonald, P.J. and Nano, C.E., 2014. Population dynamics and spatial ecology of a declining desert rodent, Pseudomys australis: the importance of refuges for persistence. Journal of Mammalogy, 95(3), pp.615-625.
 

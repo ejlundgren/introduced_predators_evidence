@@ -31,7 +31,7 @@ IUCN status: **Near Threatened**
 
 EPBC Predator Threat Rating: **Very high**
 
-IUCN claim: *"Predation by foxes and dogs"*
+IUCN claim: *"In Tasmania this taxon is naturally rare, possibly as a result of competition with D. viverrinus, Sarcophilus harrisii, and feral cats"*
 
 </center>
 
@@ -41,17 +41,19 @@ No studies
 
 ### Studies not in support
 
-Cat abundance increased in 2 of 4 sites or years while quoll abundance did not change, nor was there evidence of cat predation on quolls (Körtner et al. 2003).
+Dataset of tiger quoll and cat abundance across 13 sites does not show a negative correlation (Catling and Burt 1997). Cat abundance increased in 2 of 4 sites or years while quoll abundance did not change, nor was there evidence of cat predation on quolls (Körtner et al. 2003).
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to tiger quolls.
+No studies were found linking cats to tiger quolls.
 <br>
 <br>
 
 ![**Evidence linking *Dasyurus maculatus* to cats.** Systematic review of evidence for an association between *Dasyurus maculatus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Dasyurus maculatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Dasyurus maculatus.png)
 
 ### References
+
+Catling, P.C. and Burt, R.J., 1997. Studies of the ground-dwelling mammals of eucalypt forests in north-eastern New South Wales: the species, their abundance and distribution. Wildlife Research, 24(1), pp.1-19.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 

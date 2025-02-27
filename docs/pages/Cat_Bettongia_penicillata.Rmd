@@ -37,7 +37,7 @@ IUCN claim: *"The major reason for past decline has been predation by Red Foxes 
 
 ### Studies in support
 
-Cats commonly predate on reintroduced woylies (James et al. 2002; Priddel & Wheeler 2004; Martin et al. 2006; Wheeler & Priddel 2009; Marlow et al. 2015a). Woylies were last recorded in the Murray River, Goodooga, and the Nullarbor 7-17, 22-32, and 48-68 years after cats arrived, respectively (Current submission).
+Cats commonly predate on reintroduced woylies (James et al. 2002; Priddel & Wheeler 2004; Martin et al. 2006; Wheeler & Priddel 2009; Marlow et al. 2015). Woylies were last recorded in the Murray River, Goodooga, and the Nullarbor 7-17, 22-32, and 48-68 years after cats arrived, respectively (Current submission).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ No correlation was suggested nor tested between woylie and cat abundance (Wayne 
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between cats and woylie populations. The fate of reintroduced animals is not a reliable proxy for the fate of populations.
+No studies were found evidencing a negative association between cats and woylie populations. The fate of reintroduced animals is not a reliable proxy for the fate of populations.
 <br>
 <br>
 

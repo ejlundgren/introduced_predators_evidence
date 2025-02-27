@@ -37,7 +37,7 @@ IUCN claim: *"The current major threats to the natural subpopulations of the spe
 
 ### Studies in support
 
-Bandicoots were reintroduced successfully into a fenced reserve which excluded foxes (Richards & Short 2003). Richards (2012) argued that the incursion of foxes into a fenced reserve led to population declines, but no data was provided. Bandicoots were last confirmed in the Nullarbor, Rawlinna, and northwest SA 18-33, 14-19, and 11-21 years after foxes arrived, respectively (Current submission).
+Bandicoots were reintroduced successfully into a fenced reserve which excluded foxes (Richards & Short 2003). Richards (2012) argued that the incursion of foxes into a fenced reserve led to population declines, but no data was provided. Bandicoots were last confirmed in the Nullarbor, Rawlinna, and northwest SA 18-33, 14-19, and 11-21 years after foxes arrived, respectively (Wallach et al.202X).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ Bandicoots were last confirmed in the Western Division of NSW and southwest Aust
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between foxes and western barred bandicoot populations. The fate of reintroduced animals is not a reliable proxy for the fate of populations. In two regions extirpation records pre-date the fox arrival records.
+No studies were found evidencing a negative association between foxes and western barred bandicoot populations. The fate of reintroduced animals is not a reliable proxy for the fate of populations. In two regions extirpation records pre-date the fox arrival records.
 <br>
 <br>
 

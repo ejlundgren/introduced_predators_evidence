@@ -37,7 +37,7 @@ IUCN claim: *"The major threat is predation, especially by the invasive Red Fox 
 
 ### Studies in support
 
-Foxes eat and hunt potoroos (Lunney et al. 1990; Long 2001; Glen & Dickman 2008; Claridge et al. 2010; Glen et al. 2011; Davis et al. 2015; Norton et al. 2015). Dexter & Murray (2009) reported that potoroo abundance increased about two years after intensification of poison-baiting in both treatment and control sites, but more steeply in the high intensity poisoning sites, but there was no difference in bait uptake between the treatment and control sites. Robley et al. (2014) reported that three measures of potoroo abundance tended to be higher at sites where poison-baiting was intensified compared to controls, corresponding with differences in bait uptake.
+Rees et al. (2024) reported their analysis of over 1000 camera traps at two sites, which found a negative spatial association between potoroos and foxes, along with fire history, and vegetation type. Foxes hunt potoroos (Lunney et al. 1990; Long 2001; Glen & Dickman 2008; Claridge et al. 2010; Glen et al. 2011; Davis et al. 2015; Norton et al. 2015). Dexter & Murray (2009) reported that potoroo abundance increased about two years after intensification of poison-baiting in both treatment and control sites, but more steeply in the high intensity poisoning sites, but there was no difference in bait uptake between the treatment and control sites. Robley et al. (2014) reported that three measures of potoroo abundance tended to be higher at sites where poison-baiting was intensified compared to controls, corresponding with differences in bait uptake.
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ No association between fox and potoroo abundance was found between two adjacent 
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between foxes and long-nosed potoroo populations. Poison-baiting is not a reliable proxy for fox abundance.
+Foxes were among variables negatively correlated with long-nosed potoroo abundance in one study with a relatively large dataset.
 <br>
 <br>
 
@@ -74,6 +74,8 @@ Long, K.I., 2001. Spatio-temporal interactions among male and female Long-nosed 
 Lunney, D., Triggs, B., Eby, P. and Ashby, E., 1990. Analysis of scats of dogs Canis-familiaris and foxes Vulpes-Vulpes (Canidae, Carnivora) in coastal forests near Bega, New-South-Wales. Wildlife Research, 17(1), pp.61-68.
 
 Norton, M.A., Prentice, A., Dingle, J., French, K. and Claridge, A.W., 2015. Population characteristics and management of the long-nosed potoroo (Potorous tridactylus) in high-quality habitat in the Southern Highlands of New South Wales. Australian Mammalogy, 37(1), pp.67-74.
+
+Rees, M.W., Wintle, B.A., Robley, A., Pascoe, J.H., Pla, M.L., Birnbaum, E.K. and Hradsky, B.A., 2024. Fox control and fire influence the occurrence of invasive predators and threatened native prey. Biological Invasions, 26(3), pp.685-703.
 
 Robley, A., Gormley, A.M., Forsyth, D.M. and Triggs, B., 2014. Long-term and large-scale control of the introduced red fox increases native mammal occupancy in Australian forests. Biological Conservation, 180, pp.262-269.
 

@@ -37,7 +37,7 @@ IUCN claim: *"Translocation experiments in the past and other data demonstrate t
 
 ### Studies in support
 
-Foxes hunt locally-born possums (Jones et al. 1994; Grimm & De Tores 2009) and they hunted 9 of 68 reintroduced possums (Clarke 2011).
+Foxes hunt locally-born possums (Jones et al. 1994; Wayne et al. 2005; Grimm & De Tores 2009) and they hunted 9 of 68 reintroduced possums (Clarke 2011).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ Decades of poison-baiting aimed at foxes did not prevent population decline (Way
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking foxes to Western ringtail possum population trends.
+No studies were found linking foxes to Western ringtail possum population trends.
 <br>
 <br>
 
@@ -66,4 +66,6 @@ IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 Jones, B.A., How, R.A. and Kitchener, D.J., 1994. A field study of Pseudocheirus occidentalis (Marsupialia: Petauridae) II. Population studies. Wildlife Research, 21(2), pp.189-201.
 
 Wayne, A.F., Maxwell, M.A., Ward, C.G., Wayne, J.C., Vellios, C.V. and Wilson, I.J., 2017. Recoveries and cascading declines of native mammals associated with control of an introduced predator. Journal of Mammalogy, 98(2), pp.489-501.
+
+Wayne, A.F., Rooney, J.F., Ward, C.G., Vellios, C.V. and Lindenmayer, D.B., 2005. The life history of Pseudocheirus occidentalis (Pseudocheiridae) in the jarrah forest of south-western Australia. Australian Journal of Zoology, 53(5), pp.325-337.
 

@@ -41,11 +41,11 @@ No studies
 
 ### Studies not in support
 
-No studies
+Woinarski et al. (2011) documented the presence and absence of phascogales and cats across the Sir Edward Pellew island group: the phascogales were present on one of the islands on which cats occurred.
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to northern brush-tailed phascogale.
+No studies were found linking cats to northern brush-tailed phascogale.
 <br>
 <br>
 
@@ -55,9 +55,9 @@ There are no studies linking cats to northern brush-tailed phascogale.
 
 
 
-
-
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Woinarski, J.C.Z., Ward, S., Mahney, T., Bradley, J., Brennan, K., Ziembicki, M. and Fisher, A., 2011. The mammal fauna of the Sir Edward Pellew island group, Northern Territory, Australia: refuge and death-trap. Wildlife Research, 38(4), pp.307-322.
 

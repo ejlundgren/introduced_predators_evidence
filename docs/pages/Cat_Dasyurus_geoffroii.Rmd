@@ -37,15 +37,15 @@ IUCN claim: *"Predation by introduced Red Fox and feral Cat are the major threat
 
 ### Studies in support
 
-Cats hunted quolls translocated to the Flinders Ranges, SA (Moseby et al. 2015; Moseby et al. 2021a; Moseby et al. 2021b). Cats also hunt locally-born quolls (Glen et al. 2010). Detection rate of quolls was higher after poison-baiting targeting cats, in four monitoring periods, but measures of cat abundance differed by method and association between cat and quoll abundance was unclear (Comer et al. 2020). Quoll abundance increased while cat abundance declined, but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017). Quolls were last confirmed at Port Lincoln, Flinders Ranges, Nullarbor and the Canning Stock Route 60-70, 10-60, 48-68 and 40-51 years after cats arrived, respectively; and in Vaucluse and Barrington Tops, NSW, 138-158 and 154-174 years after cats arrived, respectively (Current submission).
+Cats hunted quolls translocated to the Flinders Ranges, SA (Moseby et al. 2015; Moseby et al. 2021a; Moseby et al. 2021). Cats also hunt locally-born quolls (Glen et al. 2010). Quoll abundance increased while cat abundance declined, but no statistical analysis, control, or other variables were tested for (Wayne et al. 2017). Quolls were last confirmed at Port Lincoln, Flinders Ranges, Nullarbor and the Canning Stock Route 60-70, 10-60, 48-68 and 40-51 years after cats arrived, respectively; and in Vaucluse and Barrington Tops, NSW, 138-158 and 154-174 years after cats arrived, respectively (Current submission).
 
 ### Studies not in support
 
-Intensive poison-baiting was associated with reduced cat abundance and reduced quoll abundance over time (Moseby et al. 2021a). Quolls were last confirmed in western NSW (two records) 23 years before, to 30 years after, cats arrived (Current submission).
+In one study, detection rate of quolls was higher after poison-baiting targeting cats, in four monitoring periods, but measures of cat abundance differed by method and association between cat and quoll abundance was unclear (Comer et al. 2020). In another study, intensive poison-baiting was associated with reduced cat abundance and reduced quoll abundance over time (Moseby et al. 2021). Quolls were last confirmed in western NSW (two records) 23 years before, to 30 years after, cats arrived (Current submission).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between cats and western quoll populations that has been tested statistically. Poison-baiting is not a reliable proxy of cat abundance. In one region it cannot be verified that extirpation occurred after cat arrival, and in two other regions the two species co-occurred for over a century before extirpation.
+No studies were found evidencing a negative association between cats and western quoll populations that has been tested statistically. Poison-baiting is not a reliable proxy of cat abundance. In one region it cannot be verified that extirpation occurred after cat arrival, and in two other regions the two species co-occurred for over a century before extirpation.
 <br>
 <br>
 

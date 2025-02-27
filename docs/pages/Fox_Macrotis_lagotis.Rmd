@@ -37,15 +37,15 @@ IUCN claim: *"The major threat to the Bilby is predation by introduced red foxes
 
 ### Studies in support
 
-About 70% of bilby extirpation records (36 populations) occurred 1-53 years after foxes arrived and the timing of fox establishment correlates with bilby extirpation across the country (Abbott 2001). Fox probability of occurrence was a negative predictor of bilby occurrence, but model uncertainty was high (Southgate et al. 2007). Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011).
+About 70% of bilby extirpation records (36 populations) occurred 1-53 years after foxes arrived and the timing of fox establishment correlates with bilby extirpation across the country (Abbott 2001). Fox probability of occurrence was a negative predictor of bilby occurrence, but model uncertainty was high (Southgate et al. 2007). Paltridge (2005) reported bilby and fox abundance temporal trend data that tended to be weakly negatively correlated, but no statistical analysis was provided. Paltridge (2005) reported that fox signs were found near a dead bilby in Western Australia. Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011).
 
 ### Studies not in support
 
-Sixteen bilby populations (~30% of records) were last recorded 0-13 years before foxes arrived (Abbott 2001). Bilbies were last recorded in the Murray-Darling about 20 years before fox arrival (Copley 1999). In one study foxes were not among the predators of reintroduced bilbies (Lohr et al. 2021).
+Fox and bilby populations were not negatively correlated in one study (Geyle et al 2024). Sixteen bilby populations (~30% of records) were last recorded 0-13 years before foxes arrived (Abbott 2001). Bilbies were last recorded in the Murray-Darling about 20 years before fox arrival (Copley 1999). Paltridge (2005) found no evidence of bilbies in the foxes' diet in the Northern Territory study sites. In one study foxes were not among the predators of reintroduced bilbies (Lohr et al. 2021).
 
 ### Is the threat claim evidence-based?
 
-The evidence for a negative association between foxes and bilby populations is inconclusive due to high model uncertainty. A temporal correlation between extirpation and arrival does not prove causation particularly since nearly a third pre-date fox arrival and confounding variables were not tested for.
+The evidence for a negative spatial association between foxes and bilby populations in one study is inconclusive due to high model uncertainty, and is not supported by the results of a temporal study. The temporal correlation between extirpation and arrival is striking, however nearly a third of extirpations in this record pre-date fox arrival and confounding variables were not tested for.
 <br>
 <br>
 
@@ -63,11 +63,15 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
+Geyle, H.M., Schlesinger, C., Banks, S., Dixon, K., Murphy, B.P., Paltridge, R., Doolan, L., Herbert, M. and Dickman, C.R., 2024. Corrigendum to: Unravelling predator–prey interactions in response to planned fire: a case study from the Tanami Desert. Wildlife Research, 51(9), pp.NULL-NULL.
+
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Lohr, C.A., Dziminski, M., Dunlop, J., Miller, E. and Morris, K., 2021. Reintroduction of bilbies (Macrotis lagotis) to Matuwa, an Indigenous Protected Area in Western Australia. Rangeland Ecology & Management, 78, pp.67-78.
 
 Moseby, K.E., Read, J.L., Paton, D.C., Copley, P., Hill, B.M. and Crisp, H.A., 2011. Predation determines the outcome of 10 reintroduction attempts in arid South Australia. Biological Conservation, 144(12), pp.2863-2872.
+
+Paltridge, R.M., 2005. Predator-prey interactions in the spinifex grasslands of central Australia. PhD Thesis, University of Wollongong
 
 Southgate, R., Paltridge, R., Masters, P. and Carthew, S., 2007. Bilby distribution and fire: a test of alternative models of habitat suitability in the Tanami Desert, Australia. Ecography, 30(6), pp.759-776.
 

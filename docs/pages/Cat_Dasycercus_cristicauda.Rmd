@@ -37,7 +37,7 @@ IUCN claim: *"Threats are poorly understood but include predation by and competi
 
 ### Studies in support
 
-Mulgara were found in cat’s diet (Mahon 1999; Paltridge 2002; Vernes et al. 2021b). Mulgara were last confirmed in the Western Division of NSW and the Nullarbor 19-69 and 38-58 after cats arrived, respectively  (Current submission).
+Pedler et al. (2016) documented cat decline and mulgara increase in occurance and occupancy when rabbits declined. Mulgara were found in cat’s diet (Mahon 1999; Paltridge 2002; Paltridge 2005; Vernes et al. 2021). Mulgara were last confirmed in the Western Division of NSW and the Nullarbor 19-69 and 38-58 after cats arrived, respectively  (Current submission).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to mulgara population trends.
+Negative correlation between cats and mulgara abundance was documented in one study. Causality for decline is uncertain due to confounding variables (e.g. rabbits).
 <br>
 <br>
 
@@ -57,6 +57,8 @@ Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the 
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
+Dickman, C.R., Haythornthwaite, A.S., McNaught, G.H., Mahon, P.S., Tamayo, B. and Letnic, M., 2001. Population dynamics of three species of dasyurid marsupials in arid central Australia: a 10-year study. Wildlife Research, 28(5), pp.493-506.
+
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
@@ -64,6 +66,10 @@ IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 Mahon, P.S., 1999. Predation by feral cats and red foxes and the dynamics of small mammal populations in arid Australia. PhD thesis, University of Sydney, Sydney, Australia.
 
 Paltridge, R., 2002. The diets of cats, foxes and dingoes in relation to prey availability in the Tanami Desert, Northern Territory. Wildlife Research, 29(4), pp.389-403.
+
+Paltridge, R.M., 2005. Predator-prey interactions in the spinifex grasslands of central Australia. PhD Thesis, University of Wollongong
+
+Pedler, R.D., Brandle, R., Read, J.L., Southgate, R., Bird, P. and Moseby, K.E., 2016. Rabbit biocontrol and landscape‐scale recovery of threatened desert mammals. Conservation Biology, 30(4), pp.774-782.
 
 Vernes, K., Jackson, S.M., Elliott, T.F., Tischler, M. and Harper, A., 2021. Diets of mammalian carnivores in the deserts of north-eastern South Australia. Journal of Arid Environments, 188, p.104377.
 

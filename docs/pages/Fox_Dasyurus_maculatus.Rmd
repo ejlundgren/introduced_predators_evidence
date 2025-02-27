@@ -41,17 +41,19 @@ A fox consumed part of a quoll, possibly scavenged, and remains of two additiona
 
 ### Studies not in support
 
-Körtner et al. (2003) found no effect of poison-baiting on quoll abundance and no effect on fox abundance at two sites, nor was a relationship reported between quoll and fox abundance.
+Dataset of tiger quoll and fox abundance across 8 sites does not show a negative correlation (Catling and Burt 1997). Körtner et al. (2003) found no effect of poison-baiting on quoll abundance and no effect on fox abundance at two sites, nor was a relationship reported between quoll and fox abundance.
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking foxes to tiger quoll population trends.
+No studies were found linking foxes to tiger quoll population trends.
 <br>
 <br>
 
 ![**Evidence linking *Dasyurus maculatus* to foxes.** Systematic review of evidence for an association between *Dasyurus maculatus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Dasyurus maculatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Dasyurus maculatus.png)
 
 ### References
+
+Catling, P.C. and Burt, R.J., 1997. Studies of the ground-dwelling mammals of eucalypt forests in north-eastern New South Wales: the species, their abundance and distribution. Wildlife Research, 24(1), pp.1-19.
 
 Current submission (2023) Scant evidence that introduced predators cause extinctions.
 

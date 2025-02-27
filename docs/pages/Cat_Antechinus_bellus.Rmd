@@ -37,7 +37,7 @@ IUCN claim: *"This species is likely to be disadvantaged by the current regime o
 
 ### Studies in support
 
-A single antechinus was among small mammals negatively correlated with cat occupancy (Stobo-Wilson et al. 2020a).
+A single antechinus was among small mammals negatively correlated with cat occupancy (Stobo-Wilson et al. 2020).
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between cats and antechinus population trends. A single animal is not population data.
+No studies were found evidencing a negative association between cats and antechinus population trends. A single animal is not population data.
 <br>
 <br>
 

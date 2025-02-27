@@ -45,7 +45,7 @@ No studies
 
 ### Is the threat claim evidence-based?
 
-There are no studies linking cats to Western ringtail possum population trends.
+No studies were found linking cats to Western ringtail possum population trends.
 <br>
 <br>
 
@@ -60,4 +60,6 @@ Current submission (2023) Scant evidence that introduced predators cause extinct
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Wayne, A.F., Rooney, J.F., Ward, C.G., Vellios, C.V. and Lindenmayer, D.B., 2005. The life history of Pseudocheirus occidentalis (Pseudocheiridae) in the jarrah forest of south-western Australia. Australian Journal of Zoology, 53(5), pp.325-337.
 

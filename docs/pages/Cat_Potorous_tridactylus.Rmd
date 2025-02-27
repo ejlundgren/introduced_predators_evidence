@@ -41,11 +41,11 @@ Remains of potoroo were found in the cat’s diet (Schwarz 1995; Lazenby 2012). 
 
 ### Studies not in support
 
-Norton et al. (2015) reported that potoroos were more common at a site with cats, compared to a neighbouring site where no cats were detected. Miritis et al. (2020) reported that potoroos and abundant cats were positively correlated in space and in daily activity patterns and that cat presence did not affect potoroo detection probability. Long-nosed potoroo and cat occupancy were not correlated (Robley et al. 2022).
+Rees et al. (2024) reported their analysis of over 1000 camera traps at two sites, which did not find a negative spatial association between potoroos and cats. Norton et al. (2015) reported that potoroos were more common at a site with cats, compared to a neighbouring site where no cats were detected. Miritis et al. (2020) reported that potoroos and abundant cats were positively correlated in space and in daily activity patterns and that cat presence did not affect potoroo detection probability. Long-nosed potoroo and cat occupancy were not correlated (Robley et al. 2022).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between cats and long-nosed potoroos. In contradiction with the claim, cats have been positively correlated with potoroos but causality cannot be determined due to confounding variables.
+No studies were found evidencing a negative association between cats and long-nosed potoroos. In contradiction with the claim, cats have been positively correlated with potoroos but causality cannot be determined due to confounding variables.
 <br>
 <br>
 
@@ -64,6 +64,8 @@ Lazenby, B.T., 2012. Do feral cats affect small mammals? A case study from the f
 Miritis, V., Rendall, A.R., Doherty, T.S., Coetsee, A.L. and Ritchie, E.G., 2020. Living with the enemy: a threatened prey species coexisting with feral cats on a fox-free island. Wildlife Research, 47(8), pp.633-642.
 
 Norton, M.A., Prentice, A., Dingle, J., French, K. and Claridge, A.W., 2015. Population characteristics and management of the long-nosed potoroo (Potorous tridactylus) in high-quality habitat in the Southern Highlands of New South Wales. Australian Mammalogy, 37(1), pp.67-74.
+
+Rees, M.W., Wintle, B.A., Robley, A., Pascoe, J.H., Pla, M.L., Birnbaum, E.K. and Hradsky, B.A., 2024. Fox control and fire influence the occurrence of invasive predators and threatened native prey. Biological Invasions, 26(3), pp.685-703.
 
 Robley, A.J., Cally, J.G., Murray, A., Bluff, L., Collyer, A., Borg, N. and Phillips, L., 2022. The response of native species to the 2019–20 bushfires and introduced predators in far East Gippsland. Arthur Rylah Institute for Environmental Research Technical Report Series No. 329. Department of Environment. Land, Water and Planning, Heidelberg.
 

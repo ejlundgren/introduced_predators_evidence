@@ -41,11 +41,11 @@ Bettongs declined on a Tasmanian cattle station after cats were detected (Fancou
 
 ### Studies not in support
 
-Cats and bettongs have co-occurred in Tasmania since 1820 (Abbott 2008). Cats were not among the predators of reintroduced bettongs (Evans et al. 2021).
+Gardiner et al. (2008) reported that eastern bettong occupancy was not predicted by cats. Cats and bettongs have co-occurred in Tasmania since 1820 (Abbott 2008). Cats were not among the predators of reintroduced bettongs (Evans et al. 2021).
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between  cats and eastern bettong populations. A single observation is an anecdote. The two species continue to co-occur in Tasmania after more than two centuries.
+No studies were found evidencing a negative association between  cats and eastern bettong populations. A single temporal observation in one study is an anecdote, and unsupported by a spatial analysis study. The two species continue to co-occur in Tasmania after more than two centuries.
 <br>
 <br>
 
@@ -62,6 +62,8 @@ EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Prot
 Evans, M.J., Batson, W.G., Gordon, I.J., Belton, E., Chaseling, T., Fletcher, D., Harrison, M., McElroy, T., Mungoven, A., Newport, J. and Pierson, J., 2021. The ‘Goldilocks Zone’of predation: the level of fox control needed to select predator resistance in a reintroduced mammal in Australia. Biodiversity and Conservation, 30, pp.1731-1752.
 
 Fancourt, B.A., 2014. Rapid decline in detections of the Tasmanian bettong (Bettongia gaimardi) following local incursion of feral cats (Felis catus). Australian Mammalogy, 36(2), pp.247-253.
+
+Gardiner, R., Bain, G., Hamer, R., Jones, M.E. and Johnson, C.N., 2018. Habitat amount and quality, not patch size, determine persistence of a woodland-dependent mammal in an agricultural landscape. Landscape Ecology, 33, pp.1837-1849.
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 

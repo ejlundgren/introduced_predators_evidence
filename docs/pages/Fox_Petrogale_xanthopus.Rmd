@@ -37,7 +37,7 @@ IUCN claim: *"Predation from introduced foxes is the greatest threat to Yellow-f
 
 ### Studies in support
 
-Stobo-Wilson et al. (2020b) reported that rock-wallabies were detected at 2 intensively poison-baited sites where foxes were not detected, and the wallabies were not detected at 2 control sites where foxes were detected, but no statistical analysis was provided. Lethbridge & Alexander (2008) reported that in South Australia, growth rates of rock-wallaby colonies increased where poison-baiting was intensified, and remained stable at control sites. Sharp et al. (2014) reported that at two sites in NSW and SA, intensification of poison-baiting for 3 years was associated with increased rock-wallaby abundance, while wallaby population remained stable at control sites, and that juveniles were more common at one high-intensity poisoning site. Rock-wallaby has been found in foxes’ diet (Hornsby 1997; Lapidge & Henshall 2001). Copley (1983) described that in the Gawler Ranges, rock-wallabies declined after the arrival and population growth of foxes but no data was provided.
+Stobo-Wilson et al. (2020) reported that rock-wallabies were detected at 2 intensively poison-baited sites where foxes were not detected, and the wallabies were not detected at 2 control sites where foxes were detected, but no statistical analysis was provided. Lethbridge & Alexander (2008) reported that in South Australia, growth rates of rock-wallaby colonies increased where poison-baiting was intensified, and remained stable at control sites. Sharp et al. (2014) reported that at two sites in NSW and SA, intensification of poison-baiting for 3 years was associated with increased rock-wallaby abundance, while wallaby population remained stable at control sites, and that juveniles were more common at one high-intensity poisoning site. Rock-wallaby has been found in foxes’ diet (Hornsby 1997; Lapidge & Henshall 2001). Copley (1983) described that in the Gawler Ranges, rock-wallabies declined after the arrival and population growth of foxes but no data was provided.
 
 ### Studies not in support
 
@@ -45,7 +45,7 @@ Copley (1983) described that in the Flinders Ranges, rock-wallabies declined bef
 
 ### Is the threat claim evidence-based?
 
-There are no studies evidencing a negative association between foxes and yellow-footed that randomised treatment and control sites, and accounted for confounding variables.
+No studies were found evidencing a negative association between foxes and yellow-footed that randomised treatment and control sites, and accounted for confounding variables.
 <br>
 <br>
 
