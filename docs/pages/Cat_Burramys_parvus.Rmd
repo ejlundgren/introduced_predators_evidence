@@ -49,15 +49,15 @@ No studies were found linking cats to pygmy possum population trends.
 <br>
 <br>
 
-![**Evidence linking *Burramys parvus* to cats.** Systematic review of evidence for an association between *Burramys parvus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Burramys parvus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Burramys parvus.png)
+![**Evidence linking *Burramys parvus* to cats.** Systematic review of evidence for an association between *Burramys parvus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Burramys parvus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Burramys parvus.png)
 
 ### References
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Doherty, T.S., Davis, R.A., van Etten, E.J., Algar, D., Collier, N., Dickman, C.R., Edwards, G., Masters, P., Palmer, R. and Robinson, S., 2015. A continental‐scale analysis of feral cat diet in Australia. Journal of Biogeography, 42(5), pp.964-975.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

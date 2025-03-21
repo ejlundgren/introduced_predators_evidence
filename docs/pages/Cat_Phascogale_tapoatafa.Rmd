@@ -49,17 +49,17 @@ No studies were found linking cats to brush-tailed phascogale population trends.
 <br>
 <br>
 
-![**Evidence linking *Phascogale tapoatafa* to cats.** Systematic review of evidence for an association between *Phascogale tapoatafa* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Phascogale tapoatafa, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Phascogale tapoatafa.png)
+![**Evidence linking *Phascogale tapoatafa* to cats.** Systematic review of evidence for an association between *Phascogale tapoatafa* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Phascogale tapoatafa, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Phascogale tapoatafa.png)
 
 ### References
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Soderquist, T.R. and Serena, M., 1994. An experimental reintroduction programme for brush-tailed phascogales (Phascogale tapoatafa): the interface between captivity and the wild. In Creative Conservation: Interactive Management of Wild and Captive Animals (pp. 431-438). Dordrecht: Springer Netherlands.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 
 Wayne, A.F., Maxwell, M.A., Ward, C.G., Wayne, J.C., Vellios, C.V. and Wilson, I.J., 2017. Recoveries and cascading declines of native mammals associated with control of an introduced predator. Journal of Mammalogy, 98(2), pp.489-501.
 

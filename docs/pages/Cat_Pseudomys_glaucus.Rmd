@@ -43,7 +43,7 @@ IUCN claim: *"Extinction is considered to have been due to habitat clearance and
 
 ### Studies in support
 
-Blue-gray mice were last confirmed in the region of southeast QLD and northeast NSW and in north NSW 41-126 and 106-126 years after cats arrived, respectively (Current submission).
+Blue-gray mice were last confirmed in the region of southeast QLD and northeast NSW and in north NSW 41-126 and 106-126 years after cats arrived, respectively (Wallach et al. 2025).
 
 ### Studies not in support
 
@@ -63,7 +63,7 @@ No studies were found evidencing a link between cats and the extinction of blue-
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

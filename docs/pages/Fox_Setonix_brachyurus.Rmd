@@ -49,11 +49,9 @@ No studies were found evidencing a negative association between  foxes and quokk
 <br>
 <br>
 
-![**Evidence linking *Setonix brachyurus* to foxes.** Systematic review of evidence for an association between *Setonix brachyurus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Setonix brachyurus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Setonix brachyurus.png)
+![**Evidence linking *Setonix brachyurus* to foxes.** Systematic review of evidence for an association between *Setonix brachyurus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Setonix brachyurus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Setonix brachyurus.png)
 
 ### References
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2013) Threat Abatement Plan for Predation by the European Red Fox (2008). Five yearly review. Environment Protection and Biodiversity Conservation Act 1999, Department of the Environment, Water, Heritage and the Arts, Government of Australia (Appendix E: EPBC Act listed threatened species).
 
@@ -66,4 +64,6 @@ Hayward, M.W., de Tores, P.J., Dillon, M.J. and Banks, P.B., 2007. Predicting th
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Sinclair, E.A. and Hyder, B.M., 2009. Surviving quokka (Setonix brachyurus) population on the Swan Coastal Plain, Western Australia. Australian Mammalogy, 31(1), pp.67-69.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

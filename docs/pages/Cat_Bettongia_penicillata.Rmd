@@ -37,7 +37,7 @@ IUCN claim: *"The major reason for past decline has been predation by Red Foxes 
 
 ### Studies in support
 
-Cats commonly predate on reintroduced woylies (James et al. 2002; Priddel & Wheeler 2004; Martin et al. 2006; Wheeler & Priddel 2009; Marlow et al. 2015). Woylies were last recorded in the Murray River, Goodooga, and the Nullarbor 7-17, 22-32, and 48-68 years after cats arrived, respectively (Current submission).
+Cats commonly predate on reintroduced woylies (James et al. 2002; Priddel & Wheeler 2004; Martin et al. 2006; Wheeler & Priddel 2009; Marlow et al. 2015). Woylies were last recorded in the Murray River, Goodooga, and the Nullarbor 7-17, 22-32, and 48-68 years after cats arrived, respectively (Wallach et al. 2025).
 
 ### Studies not in support
 
@@ -49,13 +49,11 @@ No studies were found evidencing a negative association between cats and woylie 
 <br>
 <br>
 
-![**Evidence linking *Bettongia penicillata* to cats.** **A.** Systematic review of evidence for an association between *Bettongia penicillata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia penicillata*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia penicillata.png)
+![**Evidence linking *Bettongia penicillata* to cats.** **A.** Systematic review of evidence for an association between *Bettongia penicillata* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia penicillata*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia penicillata.png)
 
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -68,6 +66,8 @@ Marlow, N.J., Thomas, N.D., Williams, A.A., Macmahon, B., Lawson, J., Hitchen, Y
 Martin, S., Ball, S. and Peeters, P., 2006. Reintroduction of the brush-tailed Bettong (Bettongia penicillata ogilbyi) into Lincoln National Park.Program review from September 1999 to July 2004. Department for Environment and Heritage, Government of South Australia.
 
 Priddel, D. and Wheeler, R., 2004. An experimental translocation of brush-tailed bettongs (Bettongia penicillata) to western New South Wales. Wildlife Research, 31(4), pp.421-432.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 
 Wayne, A.F., Maxwell, M.A., Ward, C.G., Wayne, J.C., Vellios, C.V. and Wilson, I.J., 2017. Recoveries and cascading declines of native mammals associated with control of an introduced predator. Journal of Mammalogy, 98(2), pp.489-501.
 

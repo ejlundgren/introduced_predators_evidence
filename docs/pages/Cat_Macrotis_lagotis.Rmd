@@ -37,11 +37,11 @@ IUCN claim: *"The major threat to the Bilby is predation by introduced red foxes
 
 ### Studies in support
 
-Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011). Cat predation was a regular cause of mortality for mostly predator-inexperienced reintroduced bilbies at two sites (Moseby et al. 2011; Lohr et al. 2021). Cats were documented hunting reintroduced bilbies in another study (Moseby et al. 2012) and hunting locally-born bilbies (Paltridge 2005; Paltridge et al. 1997; Wysong 2016; Murphy et al. 2019). Paltridge et al. (2020) found fewer cats where humans hunt them, and suggested that this could be why bilbies still occur in that region, but no data was providing linking cats and bilbies when cat hunting was monitored. Bilbies were last confirmed in the Western Division of NSW, Wagga Wagga, Koonchera Dune and the Nullarbor 13-73, 57-97, 46-66 and 43-73 years after cats arrived, respectively; and at 47 sites across Australia they were last recorded a minimum average of 40.3 years to a maximum average of 111 years after cats arrived (Current submission).
+Bilbies reintroduced inside fenced reserves (excluding foxes, cats and dingoes) have improved survival rates (Moseby et al. 2011). Cat predation was a regular cause of mortality for mostly predator-inexperienced reintroduced bilbies at two sites (Moseby et al. 2011; Lohr et al. 2021). Cats were documented hunting reintroduced bilbies in another study (Moseby et al. 2012) and hunting locally-born bilbies (Paltridge 2005; Paltridge et al. 1997; Wysong 2016; Murphy et al. 2019). Paltridge et al. (2020) found fewer cats where humans hunt them, and suggested that this could be why bilbies still occur in that region, but no data was providing linking cats and bilbies when cat hunting was monitored. Bilbies were last confirmed in the Western Division of NSW, Wagga Wagga, Koonchera Dune and the Nullarbor 13-73, 57-97, 46-66 and 43-73 years after cats arrived, respectively; and at 47 sites across Australia they were last recorded a minimum average of 40.3 years to a maximum average of 111 years after cats arrived (Wallach et al. 2025).
 
 ### Studies not in support
 
-Cat and bilby populations were not negatively correlated in four studies (Paltridge 2005; Southgate et al. 2007; Geyle et al 2024; Moore et al 2024). Bilbies were successfully reintroduced into a fenced reserve where cats occurred (Richards 2012). Moseby et al. (2019) reported a positive correlation between cat and bilby abundance within a fenced reserve and bilby recruitment was confirmed despite evidence of cat predation. Paltridge et al. (2020) did not identify bilby remains in the stomachs of 47 cats and in 50 cat scats. A cat breached the fence of a semi-captive bilby enclosure, none of which were hunted during one month (from Moseby et al. 2015). Bilbies were last confirmed in the Murray-Darling 24 years before, to 17 years after, cats arrived (Current submission).
+Cat and bilby populations were not negatively correlated in four studies (Paltridge 2005; Southgate et al. 2007; Geyle et al 2024; Moore et al 2024). Bilbies were successfully reintroduced into a fenced reserve where cats occurred (Richards 2012). Moseby et al. (2019) reported a positive correlation between cat and bilby abundance within a fenced reserve and bilby recruitment was confirmed despite evidence of cat predation. Paltridge et al. (2020) did not identify bilby remains in the stomachs of 47 cats and in 50 cat scats. A cat breached the fence of a semi-captive bilby enclosure, none of which were hunted during one month (from Moseby et al. 2015). Bilbies were last confirmed in the Murray-Darling 24 years before, to 17 years after, cats arrived (Wallach et al. 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -49,13 +49,11 @@ No studies were found evidencing a negative association between  cats and bilby 
 <br>
 <br>
 
-![**Evidence linking *Macrotis lagotis* to cats.** **A.** Systematic review of evidence for an association between *Macrotis lagotis* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Macrotis lagotis*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Macrotis lagotis.png)
+![**Evidence linking *Macrotis lagotis* to cats.** **A.** Systematic review of evidence for an association between *Macrotis lagotis* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Macrotis lagotis*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Macrotis lagotis.png)
 
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -86,6 +84,8 @@ Paltridge, R.M., 2005. Predator-prey interactions in the spinifex grasslands of 
 Richards, J.D., 2012. Western Barred Bandicoot, Burrowing Bettong and Banded Hare-wallaby Recovery Team, Department of Environment and Conservation (Western Australia), and the Australian Government Department of Sustainability, Environment, Water, Population and Communities.
 
 Southgate, R., Paltridge, R., Masters, P. and Carthew, S., 2007. Bilby distribution and fire: a test of alternative models of habitat suitability in the Tanami Desert, Australia. Ecography, 30(6), pp.759-776.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 
 Wysong, M.L., 2016. Predator ecology in the arid rangelands of Western Australia: spatial interactions and resource competition between an apex predator, the dingo Canis dingo, and an introduced mesopredator, the feral cat Felis catus. PhD thesis, University of Western Australia, Perth.
 

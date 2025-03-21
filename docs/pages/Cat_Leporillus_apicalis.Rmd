@@ -43,11 +43,11 @@ IUCN claim: *"Predation by feral cats is considered the main cause of extinction
 
 ### Studies in support
 
-Lesser stick-nest rats were last confirmed in Norman Tindale, the Western Division of NSW, southern NT (three records) and Euston 43-53, 3-53, 5-27, and 7-17 years after cats arrived, respectively (Current submission).
+Lesser stick-nest rats were last confirmed in Norman Tindale, the Western Division of NSW, southern NT (three records) and Euston 43-53, 3-53, 5-27, and 7-17 years after cats arrived, respectively (Wallach et al. 2025).
 
 ### Studies not in support
 
-Lesser stick-nest rats were last confirmed in northwest Victoria 4 years before, to 17 years after, cats arrived (Current submission).
+Lesser stick-nest rats were last confirmed in northwest Victoria 4 years before, to 17 years after, cats arrived (Wallach et al. 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -63,7 +63,7 @@ No studies were found evidencing a link between cats and the extinction of lesse
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

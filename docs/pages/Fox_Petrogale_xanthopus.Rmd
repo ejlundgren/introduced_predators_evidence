@@ -49,11 +49,9 @@ No studies were found evidencing a negative association between foxes and yellow
 <br>
 <br>
 
-![**Evidence linking *Petrogale xanthopus* to foxes.** Systematic review of evidence for an association between *Petrogale xanthopus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Petrogale xanthopus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Petrogale xanthopus.png)
+![**Evidence linking *Petrogale xanthopus* to foxes.** Systematic review of evidence for an association between *Petrogale xanthopus* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Petrogale xanthopus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Petrogale xanthopus.png)
 
 ### References
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -68,4 +66,6 @@ Lethbridge, M.R. and Alexander, P.J., 2008. Comparing population growth rates us
 Sharp, A., Norton, M., Havelberg, C., Cliff, W. and Marks, A., 2015. Population recovery of the yellow-footed rock-wallaby following fox control in New South Wales and South Australia. Wildlife Research, 41(7), pp.560-570.
 
 Stobo-Wilson, A.M., Brandle, R., Johnson, C.N. and Jones, M.E., 2020. Management of invasive mesopredators in the Flinders Ranges, South Australia: effectiveness and implications. Wildlife Research, 47(8), pp.720-730.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

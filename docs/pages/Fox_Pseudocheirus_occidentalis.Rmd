@@ -49,13 +49,11 @@ No studies were found linking foxes to Western ringtail possum population trends
 <br>
 <br>
 
-![**Evidence linking *Pseudocheirus occidentalis* to foxes.** Systematic review of evidence for an association between *Pseudocheirus occidentalis* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Pseudocheirus occidentalis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Pseudocheirus occidentalis.png)
+![**Evidence linking *Pseudocheirus occidentalis* to foxes.** Systematic review of evidence for an association between *Pseudocheirus occidentalis* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Pseudocheirus occidentalis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Pseudocheirus occidentalis.png)
 
 ### References
 
 Clarke, J.R., 2011. Translocation outcomes for the western ringtail possum (Pseudocheirus occidentalis) in the presence of the common brushtail possum (Trichosurus vulpecula): health, survivorship and habitat use. Doctoral dissertation, Murdoch University.
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -64,6 +62,8 @@ Grimm, H.L. and De Tores, P.J., 2009. Some aspects of the biology of the common 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Jones, B.A., How, R.A. and Kitchener, D.J., 1994. A field study of Pseudocheirus occidentalis (Marsupialia: Petauridae) II. Population studies. Wildlife Research, 21(2), pp.189-201.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 
 Wayne, A.F., Maxwell, M.A., Ward, C.G., Wayne, J.C., Vellios, C.V. and Wilson, I.J., 2017. Recoveries and cascading declines of native mammals associated with control of an introduced predator. Journal of Mammalogy, 98(2), pp.489-501.
 

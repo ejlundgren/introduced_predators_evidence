@@ -49,13 +49,11 @@ Some studies suggest that cats are among a range of ecological variables negativ
 <br>
 <br>
 
-![**Evidence linking *Dasyurus hallucatus* to cats.** Systematic review of evidence for an association between *Dasyurus hallucatus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Dasyurus hallucatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Dasyurus hallucatus.png)
+![**Evidence linking *Dasyurus hallucatus* to cats.** Systematic review of evidence for an association between *Dasyurus hallucatus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Dasyurus hallucatus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Dasyurus hallucatus.png)
 
 ### References
 
 Cowan, M., Moro, D., Anderson, H., Angus, J., Garretson, S. and Morris, K., 2020. Aerial baiting for feral cats is unlikely to affect survivorship of northern quolls in the Pilbara region of Western Australia. Wildlife Research, 47(8), pp.589-598.
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -74,6 +72,8 @@ Stobo-Wilson, A.M., Stokeld, D., Einoder, L.D., Davies, H.F., Fisher, A., Hill, 
 Stokeld D, Fisher A, Gentles T, Hill B, Triggs B, Woinarski JCZ, Gillespie GR. 2018. What do predator diets tell us about mammal declines in Kakadu National Park? Wildlife Research 45:92-101.
 
 Trewella, G.J., Cremona, T., Nevard, H. and Murphy, B.P., 2023. Habitat structure facilitates coexistence of native and invasive mesopredators in an Australian tropical savanna. Wildlife Research, 50(12), pp.1058-1070.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 
 Woinarski, J.C.Z., Ward, S., Mahney, T., Bradley, J., Brennan, K., Ziembicki, M. and Fisher, A., 2011. The mammal fauna of the Sir Edward Pellew island group, Northern Territory, Australia: refuge and death-trap. Wildlife Research, 38(4), pp.307-322.
 

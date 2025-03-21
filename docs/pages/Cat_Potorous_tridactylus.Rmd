@@ -49,11 +49,9 @@ No studies were found evidencing a negative association between cats and long-no
 <br>
 <br>
 
-![**Evidence linking *Potorous tridactylus* to cats.** Systematic review of evidence for an association between *Potorous tridactylus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Potorous tridactylus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Potorous tridactylus.png)
+![**Evidence linking *Potorous tridactylus* to cats.** Systematic review of evidence for an association between *Potorous tridactylus* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Potorous tridactylus, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Potorous tridactylus.png)
 
 ### References
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -70,4 +68,6 @@ Rees, M.W., Wintle, B.A., Robley, A., Pascoe, J.H., Pla, M.L., Birnbaum, E.K. an
 Robley, A.J., Cally, J.G., Murray, A., Bluff, L., Collyer, A., Borg, N. and Phillips, L., 2022. The response of native species to the 2019–20 bushfires and introduced predators in far East Gippsland. Arthur Rylah Institute for Environmental Research Technical Report Series No. 329. Department of Environment. Land, Water and Planning, Heidelberg.
 
 Schwarz, E., 1995. Habitat use in a population of mainland Tasmanian feral cats, Felis catus. Graduate Diploma Honours Thesis. University of Tasmania, Hobart.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

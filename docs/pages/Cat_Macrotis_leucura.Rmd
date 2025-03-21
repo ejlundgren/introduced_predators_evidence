@@ -43,7 +43,7 @@ IUCN claim: *"Predation from introduced feral cats and red foxes is considered t
 
 ### Studies in support
 
-Lesser bilbies were last confirmed at Koonchera Dune and Alice Springs 51-61 and 87-97 years after cats arrived, respectively (Current submission).
+Lesser bilbies were last confirmed at Koonchera Dune and Alice Springs 51-61 and 87-97 years after cats arrived, respectively (Wallach et al. 2025).
 
 ### Studies not in support
 
@@ -63,7 +63,7 @@ No studies were found evidencing a link between cats and the extinction of lesse
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

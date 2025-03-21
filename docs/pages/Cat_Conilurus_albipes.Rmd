@@ -43,11 +43,11 @@ IUCN claim: *"The primary cause of decline was probably predation by feral cats"
 
 ### Studies in support
 
-White-footed rabbit rats were last confirmed in Victoria 0-32 years after cats arrived (Current submission).
+White-footed rabbit rats were last confirmed in Victoria 0-32 years after cats arrived (Wallach et al. 2025).
 
 ### Studies not in support
 
-White-footed rabbit rats were last confirmed in the Western Division of NSW 34 years before, to 16 years after, cats arrived (Current submission).
+White-footed rabbit rats were last confirmed in the Western Division of NSW 34 years before, to 16 years after, cats arrived (Wallach et al. 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -63,7 +63,7 @@ No studies were found evidencing a link between cats and the extinction of white
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

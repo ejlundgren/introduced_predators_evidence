@@ -41,7 +41,7 @@ The number of bounties paid for Bettongia spp. declined around the same time tha
 
 ### Studies not in support
 
-In a reintroduction study no association was found between fox abundance and reintroduced bettong survival, as bait take and camera detections were not correlated (Evans et al. 2021). Bettongs were last confirmed in Victoria and NSW 35 and 20 years before, to 9 and 25 years after, foxes arrived, respectively (Current submission).
+In a reintroduction study no association was found between fox abundance and reintroduced bettong survival, as bait take and camera detections were not correlated (Evans et al. 2021). Bettongs were last confirmed in Victoria and NSW 35 and 20 years before, to 9 and 25 years after, foxes arrived, respectively (Wallach et al. 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -49,13 +49,11 @@ No studies were found evidencing a negative association between foxes and easter
 <br>
 <br>
 
-![**Evidence linking *Bettongia gaimardi* to foxes.** **A.** Systematic review of evidence for an association between *Bettongia gaimardi* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Bettongia gaimardi*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Bettongia gaimardi.png)
+![**Evidence linking *Bettongia gaimardi* to foxes.** **A.** Systematic review of evidence for an association between *Bettongia gaimardi* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Bettongia gaimardi*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Bettongia gaimardi.png)
 
 ### References
 
 
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 Evans, M.J., Batson, W.G., Gordon, I.J., Belton, E., Chaseling, T., Fletcher, D., Harrison, M., McElroy, T., Mungoven, A., Newport, J. and Pierson, J., 2021. The ‘Goldilocks Zone’of predation: the level of fox control needed to select predator resistance in a reintroduced mammal in Australia. Biodiversity and Conservation, 30, pp.1731-1752.
 
@@ -64,4 +62,6 @@ Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. B
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Short, J. 1998. The extinction of rat-kangaroos (Marsupialia: Potoroidae) in New South Wales, Australia. Biological Conservation 86: 365-377.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

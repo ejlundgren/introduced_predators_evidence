@@ -49,11 +49,9 @@ No studies were found linking cats to Julia Creek dunnart population trends.
 <br>
 <br>
 
-![**Evidence linking *Sminthopsis douglasi* to cats.** Systematic review of evidence for an association between *Sminthopsis douglasi* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Sminthopsis douglasi, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Sminthopsis douglasi.png)
+![**Evidence linking *Sminthopsis douglasi* to cats.** Systematic review of evidence for an association between *Sminthopsis douglasi* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Sminthopsis douglasi, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Sminthopsis douglasi.png)
 
 ### References
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -66,4 +64,6 @@ Kutt, A.S., 2011. The diet of the feral cat (Felis catus) in north-eastern Austr
 Kutt, A.S., 2012. Feral cat (Felis catus) prey size and selectivity in north‐eastern A ustralia: implications for mammal conservation. Journal of Zoology, 287(4), pp.292-300.
 
 Mifsud, G. and Woolley, P.A., 2012. Predation of the Julia Creek dunnart (Sminthopsis douglasi) and other native fauna by cats and foxes on Mitchell grass downs in Queensland. Australian Mammalogy, 34(2), pp.188-195.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

@@ -37,7 +37,7 @@ IUCN claim: *"Predation by introduced feral cats and red foxes are the most like
 
 ### Studies in support
 
-Hollings et al. (2014) shared data suggesting that eastern quolls declined during the same period that cats increased. There is evidence of cat predation of eastern quolls (Peacock & Abbott 2014). Quolls were last confirmed in NSW (two records) 143-169 years after cats arrived (Current submission).
+Hollings et al. (2014) shared data suggesting that eastern quolls declined during the same period that cats increased. There is evidence of cat predation of eastern quolls (Peacock & Abbott 2014). Quolls were last confirmed in NSW (two records) 143-169 years after cats arrived (Wallach et al. 2025).
 
 ### Studies not in support
 
@@ -49,13 +49,11 @@ A negative correlation between cats and eastern quolls was suggested from one st
 <br>
 <br>
 
-![**Evidence linking *Dasyurus viverrinus* to cats.** **A.** Systematic review of evidence for an association between *Dasyurus viverrinus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Dasyurus viverrinus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Dasyurus viverrinus.png)
+![**Evidence linking *Dasyurus viverrinus* to cats.** **A.** Systematic review of evidence for an association between *Dasyurus viverrinus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Dasyurus viverrinus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Dasyurus viverrinus.png)
 
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -70,4 +68,6 @@ Peacock D, Abbott I. 2014. When the ‘native cat’would ‘plague’: historic
 Robinson NM, Blanchard W, MacGregor C, Brewster R, Dexter N, Lindenmayer DB. 2021. Can evolutionary theories of dispersal and senescence predict postrelease survival, dispersal, and body condition of a reintroduced threatened mammal? Ecol Evol;11:1002– 1012
 
 Robinson, N.M., Dexter, N., Brewster, R., Maple, D., MacGregor, C., Rose, K., Hall, J. and Lindenmayer, D.B., 2020. Be nimble with threat mitigation: lessons learned from the reintroduction of an endangered species. Restoration Ecology, 28(1), pp.29-38.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

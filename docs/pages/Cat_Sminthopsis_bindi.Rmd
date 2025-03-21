@@ -49,15 +49,15 @@ No studies were found linking cats to Kakadu dunnarts.
 <br>
 <br>
 
-![**Evidence linking *Sminthopsis bindi* to cats.** Systematic review of evidence for an association between *Sminthopsis bindi* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Sminthopsis bindi, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Sminthopsis bindi.png)
+![**Evidence linking *Sminthopsis bindi* to cats.** Systematic review of evidence for an association between *Sminthopsis bindi* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Sminthopsis bindi, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Sminthopsis bindi.png)
 
 ### References
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Stokeld, D., Gentles, T., Young, S., Hill, B., Fisher, A., Woinarski, J. and Gillespie, G., 2016. Experimental evaluation of the role of feral cat predation in the decline of small mammals in Kakadu National Park. NT Department of Land Resource Management, Berrimah.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

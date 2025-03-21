@@ -43,7 +43,7 @@ IUCN claim: *"Major factors contributing to extinction are considered to be pred
 
 ### Studies in support
 
-Lake Mackay hare-wallabies were last confirmed 7-12 years after foxes arrived (Current submission).
+Lake Mackay hare-wallabies were last confirmed 7-12 years after foxes arrived (Wallach et al. 2025).
 
 ### Studies not in support
 
@@ -61,9 +61,9 @@ No studies were found evidencing a link between foxes and the extinction of Lake
 
 
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
 Fairfax, Dispersal of the introduced red fox (Vulpes vulpes) across Australia. Biol. Invasions 21, 1259-1268 (2019).
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

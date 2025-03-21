@@ -43,11 +43,11 @@ IUCN claim: *"This species was probably extirpated by predation from introduced 
 
 ### Studies in support
 
-Crescent nail-tail wallabies were last confirmed in the Wheatbelt (two records), Nullarbor and southwest Australia 50-119, 37-58 and 18-78 years after cats arrived, respectively (Current submission).
+Crescent nail-tail wallabies were last confirmed in the Wheatbelt (two records), Nullarbor and southwest Australia 50-119, 37-58 and 18-78 years after cats arrived, respectively (Wallach et al. 2025).
 
 ### Studies not in support
 
-Crescent nail-tail wallabies were last confirmed in western NSW (two records) 23 years before to 30 years after cats arrived (Current submission).
+Crescent nail-tail wallabies were last confirmed in western NSW (two records) 23 years before to 30 years after cats arrived (Wallach et al. 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -63,7 +63,7 @@ No studies were found evidencing a link between cats and the extinction of cresc
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
 
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
-
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

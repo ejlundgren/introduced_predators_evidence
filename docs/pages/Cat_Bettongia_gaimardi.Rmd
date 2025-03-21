@@ -37,7 +37,7 @@ IUCN claim: *"The Eastern Bettong is potentially threatened by predation from th
 
 ### Studies in support
 
-Bettongs declined on a Tasmanian cattle station after cats were detected (Fancourt 2014). Bettongs were last confirmed in Victoria and NSW 10-49 years and 25-95 years after cats arrived, respectively (Current submission).
+Bettongs declined on a Tasmanian cattle station after cats were detected (Fancourt 2014). Bettongs were last confirmed in Victoria and NSW 10-49 years and 25-95 years after cats arrived, respectively (Wallach et al. 2025).
 
 ### Studies not in support
 
@@ -49,13 +49,11 @@ No studies were found evidencing a negative association between  cats and easter
 <br>
 <br>
 
-![**Evidence linking *Bettongia gaimardi* to cats.** **A.** Systematic review of evidence for an association between *Bettongia gaimardi* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia gaimardi*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia gaimardi.png)
+![**Evidence linking *Bettongia gaimardi* to cats.** **A.** Systematic review of evidence for an association between *Bettongia gaimardi* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia gaimardi*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia gaimardi.png)
 
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -66,4 +64,6 @@ Fancourt, B.A., 2014. Rapid decline in detections of the Tasmanian bettong (Bett
 Gardiner, R., Bain, G., Hamer, R., Jones, M.E. and Johnson, C.N., 2018. Habitat amount and quality, not patch size, determine persistence of a woodland-dependent mammal in an agricultural landscape. Landscape Ecology, 33, pp.1837-1849.
 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

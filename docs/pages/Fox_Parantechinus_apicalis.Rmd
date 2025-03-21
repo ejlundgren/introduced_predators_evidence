@@ -49,11 +49,9 @@ No studies were found evidencing a negative association between foxes and dibble
 <br>
 <br>
 
-![**Evidence linking *Parantechinus apicalis* to foxes.** Systematic review of evidence for an association between *Parantechinus apicalis* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Parantechinus apicalis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Parantechinus apicalis.png)
+![**Evidence linking *Parantechinus apicalis* to foxes.** Systematic review of evidence for an association between *Parantechinus apicalis* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Parantechinus apicalis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Parantechinus apicalis.png)
 
 ### References
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -62,4 +60,6 @@ Friend T. 2003. Dibbler (Parantechinus apicalis) Recovery Plan July 2003–June 
 IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 
 Kinnear, J.E., Sumner, N.R. and Onus, M.L., 2002. The red fox in Australia—an exotic predator turned biocontrol agent. Biological Conservation, 108(3), pp.335-359.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

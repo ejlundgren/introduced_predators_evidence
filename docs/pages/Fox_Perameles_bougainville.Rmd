@@ -41,7 +41,7 @@ Bandicoots were reintroduced successfully into a fenced reserve which excluded f
 
 ### Studies not in support
 
-Bandicoots were last confirmed in the Western Division of NSW and southwest Australia 53-28 and 29-4 years before foxes arrived, respectively (Current submission).
+Bandicoots were last confirmed in the Western Division of NSW and southwest Australia 53-28 and 29-4 years before foxes arrived, respectively (Wallach et al. 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -49,11 +49,9 @@ No studies were found evidencing a negative association between foxes and wester
 <br>
 <br>
 
-![**Evidence linking *Perameles bougainville* to foxes.** **A.** Systematic review of evidence for an association between *Perameles bougainville* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Perameles bougainville*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Fox_Perameles bougainville.png)
+![**Evidence linking *Perameles bougainville* to foxes.** **A.** Systematic review of evidence for an association between *Perameles bougainville* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Perameles bougainville*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Perameles bougainville.png)
 
 ### References
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -64,4 +62,6 @@ IUCN Red List. https://www.iucnredlist.org/ Accessed June 2023
 Richards, J., 2012. Western barred bandicoot Perameles bougainville, burrowing bettong Bettongia lesueur and banded hare-wallaby Lagostrophus fasciatus National Recovery Plan. Wildlife Management Program, (49).
 
 Richards, J.D. and Short, J., 2003. Reintroduction and establishment of the western barred bandicoot Perameles bougainville (Marsupialia: Peramelidae) at Shark Bay, Western Australia. Biological Conservation, 109(2), pp.181-195.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 

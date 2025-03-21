@@ -37,7 +37,7 @@ IUCN claim: *"Predation by feral Domestic Cats (Felis catus; moderate to severe,
 
 ### Studies in support
 
-Cat abundance was negatively correlated with hopping mouse abundance in two studies (Gordon et al. 2015; Pedler et al. 2016). Cats hunt hopping mice (Feit et al. 2019; Vernes et al. 2021a; Vernes et al. 2021). Hopping mice were last confirmed in the Western Division of NSW and Charlotte Waters 19-69 and 15-25 years after cats arrived, respectively (Current submission).
+Cat abundance was negatively correlated with hopping mouse abundance in two studies (Gordon et al. 2015; Pedler et al. 2016). Cats hunt hopping mice (Feit et al. 2019; Vernes et al. 2021a; Vernes et al. 2021). Hopping mice were last confirmed in the Western Division of NSW and Charlotte Waters 19-69 and 15-25 years after cats arrived, respectively (Wallach et al. 2025).
 
 ### Studies not in support
 
@@ -49,13 +49,11 @@ Cats have been documeted among a range of ecological variables both negatively a
 <br>
 <br>
 
-![**Evidence linking *Notomys fuscus* to cats.** **A.** Systematic review of evidence for an association between *Notomys fuscus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Notomys fuscus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in [current submission] for details on evidence categories.](assets/figures/Main_Evidence_Cat_Notomys fuscus.png)
+![**Evidence linking *Notomys fuscus* to cats.** **A.** Systematic review of evidence for an association between *Notomys fuscus* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Notomys fuscus*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Notomys fuscus.png)
 
 ### References
 
 Abbott, The spread of the cat, Felis catus, in Australia: re-examination of the current conceptual model with additional information. Conservation Science Western Australia 7 (2008).
-
-Current submission (2023) Scant evidence that introduced predators cause extinctions.
 
 EPBC. (2015) Threat Abatement Plan for Predation by Feral Cats. Environment Protection and Biodiversity Conservation Act 1999, Department of Environment, Government of Australia. (Table A1).
 
@@ -74,4 +72,6 @@ Pedler, R.D., Brandle, R., Read, J.L., Southgate, R., Bird, P. and Moseby, K.E.,
 Vernes, K., Elliott, T.F. and Jackson, S.M., 2021. 150 years of mammal extinction and invasion at Koonchera Dune in the Lake Eyre Basin of South Australia. Biological Invasions, 23(2), pp.593-610.
 
 Vernes, K., Jackson, S.M., Elliott, T.F., Tischler, M. and Harper, A., 2021. Diets of mammalian carnivores in the deserts of north-eastern South Australia. Journal of Arid Environments, 188, p.104377.
+
+Wallach A.D., Lundgren E.J. (2025) Review of evidence that foxes and cats cause extinctions of Australia’s endemic mammals. BioScience. DOI: 10.1093/biosci/biaf046
 
