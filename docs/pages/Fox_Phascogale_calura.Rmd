@@ -37,11 +37,11 @@ IUCN claim: *"Predation by feral cats is considered to be a severe threat over t
 
 ### Studies in support
 
-Friend et al. (1996) reported a positive correlation between poison-baiting and phascogale abundance. Phascogales were last confirmed in the in the Canning Stock Route 0-6 years after foxes arrived (Wallach et al. 2025).
+Friend et al. (1996) reported a positive correlation between poison-baiting and phascogale abundance. Phascogales were last confirmed in the in the Canning Stock Route 0-6 years after foxes arrived (Wallach and Lundgren 2025).
 
 ### Studies not in support
 
-Phascogales were last confirmed in the Western Division of NSW 53-28 years before foxes arrived (Wallach et al. 2025).
+Phascogales were last confirmed in the Western Division of NSW 53-28 years before foxes arrived (Wallach and Lundgren 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ No studies were found evidencing a negative association between foxes and red-ta
 <br>
 <br>
 
-![**Evidence linking *Phascogale calura* to foxes.** **A.** Systematic review of evidence for an association between *Phascogale calura* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Phascogale calura*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Phascogale calura.png)
+![**Evidence linking *Phascogale calura* to foxes.** **A.** Systematic review of evidence for an association between *Phascogale calura* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Phascogale calura*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in Wallach and Lundgren 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Phascogale calura.png)
 
 ### References
 

@@ -49,7 +49,7 @@ No studies were found linking foxes to western mice.
 <br>
 <br>
 
-![**Evidence linking *Pseudomys occidentalis* to foxes.** Systematic review of evidence for an association between *Pseudomys occidentalis* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Pseudomys occidentalis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Pseudomys occidentalis.png)
+![**Evidence linking *Pseudomys occidentalis* to foxes.** Systematic review of evidence for an association between *Pseudomys occidentalis* and foxes. Positive studies are in support of the hypothesis that *foxes* contribute to the decline of Pseudomys occidentalis, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach and Lundgren 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Pseudomys occidentalis.png)
 
 ### References
 

@@ -37,11 +37,11 @@ IUCN claim: *"Predation by feral Domestic Cats (Felis catus), Red Foxes (Vulpes 
 
 ### Studies in support
 
-Gould's mice were last confirmed in Alice Springs 15-25 years after cats arrived (Wallach et al. 2025).
+Gould's mice were last confirmed in Alice Springs 15-25 years after cats arrived (Wallach and Lundgren 2025).
 
 ### Studies not in support
 
-Gould's mice were last confirmed in the Western Division of NSW and in southwest Australia 23 and 50 years before, to 27 and 19 years after, cats arrived, respectively (Wallach et al. 2025).
+Gould's mice were last confirmed in the Western Division of NSW and in southwest Australia 23 and 50 years before, to 27 and 19 years after, cats arrived, respectively (Wallach and Lundgren 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ No studies were found linking cats to Gould's mice. In two regions it cannot be 
 <br>
 <br>
 
-![**Evidence linking *Pseudomys fieldi* to cats.** Systematic review of evidence for an association between *Pseudomys fieldi* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Pseudomys fieldi, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Pseudomys fieldi.png)
+![**Evidence linking *Pseudomys fieldi* to cats.** Systematic review of evidence for an association between *Pseudomys fieldi* and cats. Positive studies are in support of the hypothesis that *cats* contribute to the decline of Pseudomys fieldi, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. See methods section in Wallach and Lundgren 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Pseudomys fieldi.png)
 
 ### References
 

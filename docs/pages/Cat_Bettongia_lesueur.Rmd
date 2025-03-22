@@ -37,11 +37,11 @@ IUCN claim: *"Feral cats are a proven threat to this species"*
 
 ### Studies in support
 
-Cats were the main predator, or a predator, of predator-inexperienced (where known) reintroduced bettongs (Christensen & Burrows 1995; Short & Turner 2000; Moseby et al. 2011; Moseby et al. 2018; Moyses et al. 2020). Cats hunted bettongs in fenced reserve (Moseby et al. 2019). Bettongs were last confirmed in Victoria, NSW (2 records), southwest WA (2 records), Nullarbor, and Charleville 3-33, 2-72, 80-112, 38-58, and 35-45 years after cats arrived, respectively (Wallach et al. 2025).
+Cats were the main predator, or a predator, of predator-inexperienced (where known) reintroduced bettongs (Christensen & Burrows 1995; Short & Turner 2000; Moseby et al. 2011; Moseby et al. 2018; Moyses et al. 2020). Cats hunted bettongs in fenced reserve (Moseby et al. 2019). Bettongs were last confirmed in Victoria, NSW (2 records), southwest WA (2 records), Nullarbor, and Charleville 3-33, 2-72, 80-112, 38-58, and 35-45 years after cats arrived, respectively (Wallach and Lundgren 2025).
 
 ### Studies not in support
 
-A positive correlation was found between cat and bettong abundance within a fenced reserve, despite evidence of hunting, and bettong recruitment was confirmed (Moseby et al. 2019). A cat breached the fence of a semi-captive bettong enclosure, yet none were hunted in 1 month (from Moseby et al. 2015). Bettongs were last confirmed in the Murray-Darling 24 years before, to 17 years after, cats arrived (Wallach et al. 2025).
+A positive correlation was found between cat and bettong abundance within a fenced reserve, despite evidence of hunting, and bettong recruitment was confirmed (Moseby et al. 2019). A cat breached the fence of a semi-captive bettong enclosure, yet none were hunted in 1 month (from Moseby et al. 2015). Bettongs were last confirmed in the Murray-Darling 24 years before, to 17 years after, cats arrived (Wallach and Lundgren 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ No studies were found evidencing a negative association between cats and burrowi
 <br>
 <br>
 
-![**Evidence linking *Bettongia lesueur* to cats.** **A.** Systematic review of evidence for an association between *Bettongia lesueur* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia lesueur*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia lesueur.png)
+![**Evidence linking *Bettongia lesueur* to cats.** **A.** Systematic review of evidence for an association between *Bettongia lesueur* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia lesueur*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in Wallach and Lundgren 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia lesueur.png)
 
 ### References
 

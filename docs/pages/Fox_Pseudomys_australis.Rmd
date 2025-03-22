@@ -37,11 +37,11 @@ IUCN claim: *"Recent research has demonstrated marked detrimental impact of intr
 
 ### Studies in support
 
-Plains rats were more common inside a predator-proof fenced area compared to outside (Moseby et al. 2020), as was also observed by Read & Cunningham (2010). Plains rats remains were found in the foxes' diet (Pavey et al. 2008; Pavey et al. 2014). Rats were last confirmed in Koonchera Dune, SA, 21-26 years after foxes arrived (Wallach et al. 2025).
+Plains rats were more common inside a predator-proof fenced area compared to outside (Moseby et al. 2020), as was also observed by Read & Cunningham (2010). Plains rats remains were found in the foxes' diet (Pavey et al. 2008; Pavey et al. 2014). Rats were last confirmed in Koonchera Dune, SA, 21-26 years after foxes arrived (Wallach and Lundgren 2025).
 
 ### Studies not in support
 
-Rats were last confirmed in Mootwingee National Park, NSW, 70-40 years before foxes arrived (Wallach et al. 2025).
+Rats were last confirmed in Mootwingee National Park, NSW, 70-40 years before foxes arrived (Wallach and Lundgren 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ Absence of predators was associated with higher plains rat abundance is supporti
 <br>
 <br>
 
-![**Evidence linking *Pseudomys australis* to foxes.** **A.** Systematic review of evidence for an association between *Pseudomys australis* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Pseudomys australis*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Pseudomys australis.png)
+![**Evidence linking *Pseudomys australis* to foxes.** **A.** Systematic review of evidence for an association between *Pseudomys australis* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Pseudomys australis*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in Wallach and Lundgren 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Pseudomys australis.png)
 
 ### References
 

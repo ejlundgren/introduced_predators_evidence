@@ -37,7 +37,7 @@ IUCN claim: *"The Eastern Bettong is potentially threatened by predation from th
 
 ### Studies in support
 
-Bettongs declined on a Tasmanian cattle station after cats were detected (Fancourt 2014). Bettongs were last confirmed in Victoria and NSW 10-49 years and 25-95 years after cats arrived, respectively (Wallach et al. 2025).
+Bettongs declined on a Tasmanian cattle station after cats were detected (Fancourt 2014). Bettongs were last confirmed in Victoria and NSW 10-49 years and 25-95 years after cats arrived, respectively (Wallach and Lundgren 2025).
 
 ### Studies not in support
 
@@ -49,7 +49,7 @@ No studies were found evidencing a negative association between  cats and easter
 <br>
 <br>
 
-![**Evidence linking *Bettongia gaimardi* to cats.** **A.** Systematic review of evidence for an association between *Bettongia gaimardi* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia gaimardi*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia gaimardi.png)
+![**Evidence linking *Bettongia gaimardi* to cats.** **A.** Systematic review of evidence for an association between *Bettongia gaimardi* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Bettongia gaimardi*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in Wallach and Lundgren 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Bettongia gaimardi.png)
 
 ### References
 

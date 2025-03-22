@@ -41,7 +41,7 @@ The number of bounties paid for Bettongia spp. declined around the same time tha
 
 ### Studies not in support
 
-In a reintroduction study no association was found between fox abundance and reintroduced bettong survival, as bait take and camera detections were not correlated (Evans et al. 2021). Bettongs were last confirmed in Victoria and NSW 35 and 20 years before, to 9 and 25 years after, foxes arrived, respectively (Wallach et al. 2025).
+In a reintroduction study no association was found between fox abundance and reintroduced bettong survival, as bait take and camera detections were not correlated (Evans et al. 2021). Bettongs were last confirmed in Victoria and NSW 35 and 20 years before, to 9 and 25 years after, foxes arrived, respectively (Wallach and Lundgren 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ No studies were found evidencing a negative association between foxes and easter
 <br>
 <br>
 
-![**Evidence linking *Bettongia gaimardi* to foxes.** **A.** Systematic review of evidence for an association between *Bettongia gaimardi* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Bettongia gaimardi*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Bettongia gaimardi.png)
+![**Evidence linking *Bettongia gaimardi* to foxes.** **A.** Systematic review of evidence for an association between *Bettongia gaimardi* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Bettongia gaimardi*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in Wallach and Lundgren 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Bettongia gaimardi.png)
 
 ### References
 

@@ -37,7 +37,7 @@ IUCN claim: *"Threats are poorly understood but include predation by and competi
 
 ### Studies in support
 
-Pedler et al. (2016) documented cat decline and mulgara increase in occurance and occupancy when rabbits declined. Mulgara were found in cat’s diet (Mahon 1999; Paltridge 2002; Paltridge 2005; Vernes et al. 2021). Mulgara were last confirmed in the Western Division of NSW and the Nullarbor 19-69 and 38-58 after cats arrived, respectively  (Wallach et al. 2025).
+Pedler et al. (2016) documented cat decline and mulgara increase in occurance and occupancy when rabbits declined. Mulgara were found in cat’s diet (Mahon 1999; Paltridge 2002; Paltridge 2005; Vernes et al. 2021). Mulgara were last confirmed in the Western Division of NSW and the Nullarbor 19-69 and 38-58 after cats arrived, respectively  (Wallach and Lundgren 2025).
 
 ### Studies not in support
 
@@ -49,7 +49,7 @@ Negative correlation between cats and mulgara abundance was documented in one st
 <br>
 <br>
 
-![**Evidence linking *Dasycercus cristicauda* to cats.** **A.** Systematic review of evidence for an association between *Dasycercus cristicauda* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Dasycercus cristicauda*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Dasycercus cristicauda.png)
+![**Evidence linking *Dasycercus cristicauda* to cats.** **A.** Systematic review of evidence for an association between *Dasycercus cristicauda* and cats. Positive studies are in support of the hypothesis that cats contribute to the decline of *Dasycercus cristicauda*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of cats. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Abbott 2008. See methods section in Wallach and Lundgren 2025 for details on evidence categories.](assets/figures/Main_Evidence_Cat_Dasycercus cristicauda.png)
 
 ### References
 

@@ -37,11 +37,11 @@ IUCN claim: *"Threats are poorly understood but include predation by and competi
 
 ### Studies in support
 
-Pedler et al. (2016) documented fox decline and mulgara increase in occurance and occupancy when rabbits declined. Mulgara were found in foxes’ diet (Mahon 1999; Paltridge 2002; Paltridge 2005; Cupples et al. 2011). Mulgara were last confirmed in the Nullarbor 8-23 years after foxes arrived (Wallach et al. 2025).
+Pedler et al. (2016) documented fox decline and mulgara increase in occurance and occupancy when rabbits declined. Mulgara were found in foxes’ diet (Mahon 1999; Paltridge 2002; Paltridge 2005; Cupples et al. 2011). Mulgara were last confirmed in the Nullarbor 8-23 years after foxes arrived (Wallach and Lundgren 2025).
 
 ### Studies not in support
 
-Dickman et al. (2001) found that rainfall, rather than foxes, was the main predictor of mulgara abundance. Mulgara were last confirmed in the Western Division of NSW 11 years before, to 14 years after, foxes arrived (Wallach et al. 2025).
+Dickman et al. (2001) found that rainfall, rather than foxes, was the main predictor of mulgara abundance. Mulgara were last confirmed in the Western Division of NSW 11 years before, to 14 years after, foxes arrived (Wallach and Lundgren 2025).
 
 ### Is the threat claim evidence-based?
 
@@ -49,7 +49,7 @@ Negative correlation between cats and mulgara abundance was documented in one st
 <br>
 <br>
 
-![**Evidence linking *Dasycercus cristicauda* to foxes.** **A.** Systematic review of evidence for an association between *Dasycercus cristicauda* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Dasycercus cristicauda*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in Wallach et al. 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Dasycercus cristicauda.png)
+![**Evidence linking *Dasycercus cristicauda* to foxes.** **A.** Systematic review of evidence for an association between *Dasycercus cristicauda* and foxes. Positive studies are in support of the hypothesis that foxes contribute to the decline of *Dasycercus cristicauda*, negative studies are not in support. Predation studies include studies documenting hunting or scavenging; baiting studies are associations between poison baiting and threatened mammal abundance where information on predator abundance is not provided; population studies are associations between threatened mammal and predator abundance. Gold borders indicate studies that meet qualities of scientific rigour. **B.** Last records of extirpated populations relative to earliest local records of foxes. Error bars show minimum and maximum extinction intervals. Predator arrival records were digitized from Fairfax 2019. See methods section in Wallach and Lundgren 2025 for details on evidence categories.](assets/figures/Main_Evidence_Fox_Dasycercus cristicauda.png)
 
 ### References
 
