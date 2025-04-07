@@ -1,13 +1,13 @@
 ---
-title: 'Species Accounts'
+title: 'Summary of studies found linking Australian endemic mammals to attributed introduced predators'
 output: html_document
 ---
 
-#### Supplementary data for 'Scant evidence that introduced predators cause extinctions'
+#### Supplementary data for Wallach & Lundgren 2025 BioScience
 
 ::::{style="display: flex;"}
 :::{}
-### Accused on Foxes
+### Attributed to Foxes
 [Desert bettong (_Bettongia anhydra_)](pages/Fox_Bettongia_anhydra.html)
  
 [Eastern bettong (_Bettongia gaimardi_)](pages/Fox_Bettongia_gaimardi.html)
@@ -126,7 +126,7 @@ output: html_document
         
 :::
 :::{}
-### Accused on Cats
+### Attributed to Cats
 [Fawn antechinus (_Antechinus bellus_)](pages/Cat_Antechinus_bellus.html)
  
 [Desert bettong (_Bettongia anhydra_)](pages/Cat_Bettongia_anhydra.html)
